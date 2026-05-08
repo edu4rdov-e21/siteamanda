@@ -1,0 +1,216 @@
+{
+  "aulaId": 17,
+  "titulo": "Nutrição em Cirurgia",
+  "questoes": [
+    {
+      "id": "Q-17-001",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["ASG", "avaliação subjetiva global", "triagem nutricional"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a Avaliação Subjetiva Global (ASG) no pré-operatório, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Exige cálculo objetivo de calorias e dosagem de albumina sérica para classificação." },
+        { "id": "B", "texto": "Classifica o paciente em A (bem nutrido), B (desnutrição moderada) e C (desnutrição grave)." },
+        { "id": "C", "texto": "Só pode ser realizada por nutricionista, em entrevista de no mínimo 30 minutos." },
+        { "id": "D", "texto": "Avalia apenas o índice de massa corporal e a circunferência braquial." },
+        { "id": "E", "texto": "É aplicável apenas em pacientes oncológicos." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **ASG** é um método **subjetivo, rápido (cerca de 8 minutos) e sem pontuação**, que pode ser aplicado por qualquer profissional de saúde. Classifica o paciente em **A (bem nutrido), B (desnutrição moderada) e C (desnutrição grave)**, com base em perda de peso, ingestão alimentar, sintomas gastrointestinais, capacidade funcional e exame físico de reservas proteicas e gordurosas.",
+      "referenciaAula": "Com a avaliação subjetiva global você vai classificar se o paciente é nível A, bem nutrido, nível B se tem desnutrição moderada e nível C se tem desnutrição grave.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-002",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["jejum pré-operatório", "abreviação de jejum", "maltodextrina"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Dentro das recomendações do projeto ACERTO, qual é a conduta atual em relação ao jejum pré-operatório em cirurgia eletiva?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter jejum absoluto por 12 horas, sem qualquer ingestão de líquidos." },
+        { "id": "B", "texto": "Liberar dieta sólida até 2 horas antes da indução anestésica." },
+        { "id": "C", "texto": "Realizar abreviação do jejum com solução de maltodextrina (12,5%), 400 mL na noite anterior e 200 mL até 2 horas antes da cirurgia." },
+        { "id": "D", "texto": "Suspender qualquer ingestão por mais de 24 horas para reduzir risco de fístula." },
+        { "id": "E", "texto": "Iniciar nutrição parenteral total profilática 48 horas antes." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **abreviação do jejum** é um dos pilares nutricionais do projeto ACERTO: utiliza-se solução de **maltodextrina a 12,5%** — 400 mL na noite anterior e **200 mL até 2 horas antes** da cirurgia. Isso reduz catabolismo, resistência insulínica e desconforto, sem aumentar o risco de aspiração descrito classicamente por Mendelson.",
+      "referenciaAula": "Faz uma solução com maltodextrina a 12,5%, 400 ml na noite anterior à cirurgia e 200 ml em 2 horas antes da cirurgia. Isso chama abreviação de jejum.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-003",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["resposta inflamatória", "hormônios contrarreguladores", "catabolismo"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Na resposta metabólica à grande cirurgia, quais são os principais hormônios contrarreguladores liberados que levam ao estado catabólico?",
+      "alternativas": [
+        { "id": "A", "texto": "Insulina, GH e hormônios sexuais." },
+        { "id": "B", "texto": "Adrenalina, cortisol e glucagon." },
+        { "id": "C", "texto": "TSH, ADH e prolactina." },
+        { "id": "D", "texto": "Aldosterona, renina e angiotensina." },
+        { "id": "E", "texto": "Calcitonina, PTH e vitamina D." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A agressão cirúrgica libera citocinas pró-inflamatórias (IL-1, IL-6, PCR) que estimulam a liberação de **adrenalina, noradrenalina, cortisol e glucagon** — hormônios **contrarreguladores (catabólicos)**. Eles bloqueiam a ação periférica da insulina, levando a hiperglicemia, proteólise e gliconeogênese a partir de aminoácidos musculares.",
+      "referenciaAula": "Esses hormônios são a adrenalina, o cortisol e o glucagon. Isso leva a uma resposta hiperglicêmica e bloqueio da ação periférica da insulina.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-004",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["enteral vs parenteral", "via preferencial", "nutrição pré-operatória"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a ordem de preferência das vias de terapia nutricional no paciente cirúrgico, qual é a sequência CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "Parenteral > sonda enteral > oral com suplemento." },
+        { "id": "B", "texto": "Sonda enteral > oral > parenteral." },
+        { "id": "C", "texto": "Oral com suplemento > sonda enteral > parenteral." },
+        { "id": "D", "texto": "Parenteral > oral > sonda enteral." },
+        { "id": "E", "texto": "Oral > parenteral > sonda enteral." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Sempre se busca a via **mais fisiológica**: primeiro **oral com suplemento hiperproteico**; quando não é possível ingestão adequada, **sonda enteral** (preferencialmente gástrica); apenas quando há contraindicação ao uso da via enteral (vômitos incoercíveis, obstrução total, etc.) indica-se **nutrição parenteral**.",
+      "referenciaAula": "Sempre nessa ordem de preferência, sempre procurar a nutrição mais fisiológica. Nutrição oral com suplemento, depois sonda, e quando contraindicado, parenteral.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-005",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["imunonutrientes", "ômega-3", "arginina"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em um paciente desnutrido aguardando cirurgia oncológica eletiva, está sendo prescrito suplemento hiperproteico com imunonutrientes. Qual a justificativa fisiológica para o uso de ômega-3 e arginina?",
+      "alternativas": [
+        { "id": "A", "texto": "Ômega-3 é um anti-inflamatório clássico que bloqueia totalmente a via da ciclooxigenase; arginina inibe a síntese proteica." },
+        { "id": "B", "texto": "Ômega-3 atenua a resposta inflamatória ao competir com a via do ômega-6; arginina favorece a síntese de óxido nítrico, a perfusão tecidual e a cicatrização." },
+        { "id": "C", "texto": "Ambos atuam apenas como fonte energética, sem efeito sobre cicatrização." },
+        { "id": "D", "texto": "Ômega-3 aumenta os níveis de IL-6 e PCR; arginina é contraindicada em pré-operatório." },
+        { "id": "E", "texto": "São utilizados apenas para reduzir colesterol e melhorar o perfil lipídico antes da cirurgia." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **ômega-3** compete com o ômega-6 nas vias das dessaturases/elongases, **atenuando** a formação de mediadores pró-inflamatórios (não é um anti-inflamatório clássico). A **arginina** participa da síntese de **óxido nítrico** via óxido nítrico sintase, melhorando perfusão tecidual e favorecendo a cicatrização. Por isso compõem fórmulas de imunonutrição no pré-operatório.",
+      "referenciaAula": "O ômega-3 é um lipídio de característica menos inflamatória, e a arginina ajuda na perfusão tecidual via óxido nítrico sintase, ajudando na cicatrização.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-006",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["nutrição parenteral", "indicação pós-operatória", "incapacidade de via enteral"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 65 anos submetido a gastroduodenopancreatectomia (Whipple) está no 5º dia pós-operatório. O cirurgião ainda não liberou o uso do trato gastrointestinal. Qual a conduta nutricional mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter jejum absoluto até o 14º dia, com hidratação venosa apenas." },
+        { "id": "B", "texto": "Iniciar dieta oral livre imediatamente, independente da liberação do cirurgião." },
+        { "id": "C", "texto": "Iniciar nutrição parenteral, pois o paciente já completa 5 a 7 dias sem aporte enteral/oral adequado." },
+        { "id": "D", "texto": "Iniciar dieta polimérica gástrica em alta vazão, sem aval da equipe cirúrgica." },
+        { "id": "E", "texto": "Apenas hidratação isotônica até a alta hospitalar." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em adultos previamente nutridos, indica-se **nutrição parenteral** quando o paciente **não consegue receber nutrição oral/enteral entre o 5º e 7º dia pós-operatório**. No Whipple, a liberação do TGI costuma ocorrer apenas a partir do 5º-6º dia, justificando o início da parenteral nesse contexto. A liberação do trato gastrointestinal depende sempre da avaliação do cirurgião.",
+      "referenciaAula": "Quando até o quinto, do quinto ao sétimo dia eu não consegui dar nutrição oral nem enteral, eu começo a nutrição parenteral.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-007",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["sonda enteral", "gastroparesia", "posicionamento"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao posicionamento da sonda enteral no paciente cirúrgico, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A posição preferencial é sempre o jejuno, mesmo em pacientes sem gastroparesia." },
+        { "id": "B", "texto": "A posição gástrica é a preferencial; em casos de gastroparesia ou intolerância, pode-se avançar para o duodeno ou jejuno." },
+        { "id": "C", "texto": "A radiografia para confirmar a posição da sonda é dispensável." },
+        { "id": "D", "texto": "Em vômitos incoercíveis, a sonda nasogástrica é a melhor escolha para nutrir o paciente." },
+        { "id": "E", "texto": "A dieta deve ser iniciada sempre em volume pleno (100 mL/h)." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A sonda é colocada **preferencialmente no estômago** (mais fisiológico). Em **gastroparesia** (frequente em doença grave) ou intolerância gástrica, avança-se para **duodeno ou jejuno**. A dieta polimérica deve iniciar com volume baixo (~20 mL/h) e progredir gradualmente. Em vômitos incoercíveis ou obstrução gástrica total, a via enteral é contraindicada — indica-se parenteral.",
+      "referenciaAula": "A gente coloca a sonda preferencialmente no estômago. No entanto, quando há gastroparesia, a gente coloca a sonda no duodeno ou no jejuno.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-008",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["pós-operatório", "íleo paralítico", "ruídos hidroaéreos"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o início da nutrição no pós-operatório de cirurgia abdominal, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A presença de ruídos hidroaéreos é critério obrigatório para iniciar a alimentação." },
+        { "id": "B", "texto": "O delgado retoma motilidade em 6 a 12 horas, e a nutrição deve ser iniciada o mais precocemente possível, em até 72 horas, no paciente hemodinamicamente estável." },
+        { "id": "C", "texto": "A alimentação deve ser postergada por pelo menos 7 dias em todos os casos." },
+        { "id": "D", "texto": "Sobrecarga de volume favorece a recuperação da motilidade intestinal." },
+        { "id": "E", "texto": "Opioides em doses altas aceleram o retorno da função gastrointestinal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **delgado recupera motilidade em 6 a 12 horas** após a cirurgia, e o estômago em 1 a 2 dias. Recomenda-se **nutrir precocemente**, idealmente em até 72 horas, no paciente estável hemodinamicamente. **Ruídos hidroaéreos não são critério obrigatório**. Sobrecarga de volume e uso excessivo de opioides/sedativos pioram o íleo pós-operatório.",
+      "referenciaAula": "O intestino delgado depois de uma cirurgia após 6 a 12 horas você já tem motilidade. A gente deve fazer nutrição até 3 dias após a cirurgia, até 72 horas. O ruído hidroaéreo não é tão importante.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-009",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["paciente desnutrido", "pré-operatório", "ASG", "imunonutrição"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, com adenocarcinoma gástrico obstrutivo, refere perda de 12 kg em 4 meses, dieta apenas líquida há 3 semanas, fadiga importante e edema sacral. Exame: perda de massa temporal, deltóide e quadríceps. A cirurgia de gastrectomia está agendada para daqui a 14 dias. Qual a conduta nutricional pré-operatória mais adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter dieta usual e operar na data prevista, sem qualquer intervenção nutricional." },
+        { "id": "B", "texto": "Classificar como ASG-C (desnutrição grave) e instituir terapia nutricional pré-operatória por 10 a 14 dias, preferencialmente enteral (sonda) com fórmula hiperproteica e imunonutrientes (ômega-3, arginina)." },
+        { "id": "C", "texto": "Iniciar nutrição parenteral total imediatamente como primeira escolha, mesmo com TGI parcialmente funcionante." },
+        { "id": "D", "texto": "Antecipar a cirurgia para amanhã, antes que ele perca mais peso." },
+        { "id": "E", "texto": "Apenas suplemento oral hipocalórico para evitar sobrecarga digestiva." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Trata-se de paciente com **desnutrição grave (ASG-C)** — perda > 10% do peso, dieta líquida, fadiga, edema (hipoalbuminemia) e perda de massa magra evidente. A intervenção nutricional pré-operatória deve durar **no mínimo 5 dias, idealmente 10 a 14 dias**. Como há obstrução parcial e dieta sólida não é tolerada, a **sonda enteral** com fórmula hiperproteica e imunonutrientes (ômega-3, arginina) é a escolha mais apropriada — a parenteral só seria indicada se a via enteral fosse inviável.",
+      "referenciaAula": "Essa estratégia nutricional para ser eficaz tem que ser de no mínimo 5 dias, mas a literatura hoje fala em 10 dias até 14 dias.",
+      "transversal": false
+    },
+    {
+      "id": "Q-17-010",
+      "aulaOrigem": 17,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["proteólise", "balanço nitrogenado", "cicatrização", "fisiopatologia"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente desnutrido em pós-operatório de grande cirurgia evolui com cicatrização deficiente e deiscência de anastomose. Considerando a fisiopatologia da resposta inflamatória sistêmica, qual o mecanismo que MELHOR explica a perda de massa muscular e a falha de cicatrização nesse paciente?",
+      "alternativas": [
+        { "id": "A", "texto": "Aumento da insulina circulante leva a hipoglicemia persistente, com lesão tecidual." },
+        { "id": "B", "texto": "Bloqueio periférico da insulina pelos hormônios contrarreguladores e não aproveitamento de lipídios (inibição da carnitina aciltransferase) levam ao uso de proteína como fonte energética, com proteólise muscular e desvio de aminoácidos da síntese tecidual para a resposta inflamatória." },
+        { "id": "C", "texto": "Excesso de ômega-3 endógeno bloqueia a fase inflamatória da cicatrização." },
+        { "id": "D", "texto": "A queda de cortisol e glucagon impede a mobilização de substratos energéticos." },
+        { "id": "E", "texto": "Hiperalbuminemia provoca retenção de líquidos e edema da anastomose." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Apesar da hiperinsulinemia, os **hormônios contrarreguladores (cortisol, adrenalina, glucagon) bloqueiam a ação periférica da insulina** — não há aproveitamento de glicose. A inibição da **carnitina aciltransferase** (consumo de lisina/metionina para mediadores inflamatórios) impede o aproveitamento de lipídios. Sobra a **proteína como fonte energética**: proteólise muscular intensa, balanço nitrogenado negativo e desvio de aminoácidos da **cicatrização** (síntese de colágeno, tecido conectivo) para a resposta inflamatória — favorecendo deiscência e fístulas.",
+      "referenciaAula": "Eu não consigo aproveitar glicose nem lipídio, sobra aproveitar proteína como fonte energética. Essa proteólise retira proteína do músculo e do tecido conectivo que ajudaria na cicatrização.",
+      "transversal": false
+    }
+  ]
+}

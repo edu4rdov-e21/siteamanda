@@ -1,0 +1,216 @@
+{
+  "aulaId": 3,
+  "titulo": "Antibioticoterapia e Infecção em Cirurgia",
+  "questoes": [
+    {
+      "id": "Q-03-001",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["classificação ISC", "topografia", "profundidade"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a classificação topográfica das infecções de sítio cirúrgico (ISC), assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Incisional superficial acomete fáscia e camada muscular." },
+        { "id": "B", "texto": "Incisional profunda acomete apenas pele e subcutâneo." },
+        { "id": "C", "texto": "Infecção de órgão/espaço acomete cavidade ou órgão manipulado durante o ato operatório." },
+        { "id": "D", "texto": "Quanto mais superficial a infecção, maior a sua gravidade." },
+        { "id": "E", "texto": "Todas as infecções incisionais são consideradas de órgão/espaço." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "As ISCs são classificadas por **topografia/profundidade**: incisionais superficiais (pele e subcutâneo), incisionais profundas (fáscia e músculo) e de **órgão/espaço** (cavidade ou órgão manipulado). Quanto **maior a profundidade, maior a gravidade** — o oposto do que sugere a alternativa D.",
+      "referenciaAula": "Categorizadas como infecções de órgão ou espaço quando acometem alguma cavidade ou órgão manipulado durante o ato operatório. Quanto maior a profundidade, maior a gravidade.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-002",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["tripé de prevenção", "história", "Semmelweis"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o conjunto de pilares que compõe o tripé clássico de prevenção de infecção de sítio cirúrgico?",
+      "alternativas": [
+        { "id": "A", "texto": "Tricotomia ampla, antibiótico prolongado e drenos abertos." },
+        { "id": "B", "texto": "Antissepsia/técnica asséptica, antibioticoprofilaxia e manejo clínico perioperatório." },
+        { "id": "C", "texto": "Higiene das mãos, antibiótico oral pós-operatório e curativo oclusivo." },
+        { "id": "D", "texto": "Antibiótico de amplo espectro, banho com sabão comum e propé estéril." },
+        { "id": "E", "texto": "Imunossupressão controlada, dieta zero prolongada e isolamento de contato." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A prevenção da ISC apoia-se em três pilares: **antissepsia/técnica asséptica** (higiene das mãos de Semmelweis e Lister), **antibioticoprofilaxia** e **manejo clínico perioperatório** (controle glicêmico, normotermia, etc.). Antibiótico prolongado e drenos abertos AUMENTAM o risco, não previnem.",
+      "referenciaAula": "Um pilar de assepsia, higiene das mãos, um pilar de antibiótico profilaxia e um pilar de manejo clínico dos pacientes no período perioperatório.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-003",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["estafilococo aureus", "flora residente", "patógeno principal"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o principal patógeno envolvido nas infecções de sítio cirúrgico, e por que ele se mantém como agente predominante mesmo com técnica asséptica adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Escherichia coli, por translocação intestinal universal." },
+        { "id": "B", "texto": "Pseudomonas aeruginosa, por contaminação ambiental do centro cirúrgico." },
+        { "id": "C", "texto": "Staphylococcus aureus, por integrar a flora residente da pele e ter receptores que aderem a colágeno e fibronectina." },
+        { "id": "D", "texto": "Candida albicans, por colonização de mucosas." },
+        { "id": "E", "texto": "Streptococcus pyogenes, por transmissão exclusivamente da equipe cirúrgica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**S. aureus** é o principal patógeno das ISCs porque cerca de **20% da flora cutânea (residente) não é removida pela antissepsia** e ele possui **receptores de adesão ao colágeno e à fibronectina** expostos na ferida. É o motivo pelo qual a antibioticoprofilaxia atua sobre essa flora residente irreduzível.",
+      "referenciaAula": "20% das bactérias que colonizam a pele não são removidas pela antissepsia. O estafilococos aureus tem receptores que se ligam no colágeno e na fibronectina.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-004",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["timing", "antibiótico profilático", "incisão"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o momento ideal de infusão do antibiótico profilático em relação à incisão cirúrgica, é CORRETO afirmar:",
+      "alternativas": [
+        { "id": "A", "texto": "Deve ser iniciado apenas no pós-operatório imediato, após o fechamento da pele." },
+        { "id": "B", "texto": "A infusão deve ocorrer próximo à incisão, garantindo concentração sérica adequada no momento da contaminação." },
+        { "id": "C", "texto": "Quanto maior o intervalo entre a dose e a incisão, menor o risco de infecção." },
+        { "id": "D", "texto": "O momento da infusão é irrelevante, desde que a dose total seja correta." },
+        { "id": "E", "texto": "Deve ser administrado 12 horas antes do procedimento para garantir saturação tecidual." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os estudos de Burke replicados em humanos mostram que a incidência de ISC é **mínima quando o antibiótico é infundido próximo à incisão**, garantindo concentração sérica adequada no momento da contaminação. Doses muito antecipadas (concentração já baixou) ou após a incisão aumentam o risco — a janela é estreita e perioperatória.",
+      "referenciaAula": "Se a gente infunde o antibiótico próximo da incisão, a incidência de infecção cirúrgica é a menor possível.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-005",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["potencial de contaminação", "classificação cirurgias", "potencialmente contaminada"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Uma colectomia eletiva, sem rotura de alça e sem extravasamento de conteúdo entérico, é classificada como:",
+      "alternativas": [
+        { "id": "A", "texto": "Cirurgia limpa." },
+        { "id": "B", "texto": "Cirurgia potencialmente contaminada." },
+        { "id": "C", "texto": "Cirurgia contaminada." },
+        { "id": "D", "texto": "Cirurgia infectada." },
+        { "id": "E", "texto": "Cirurgia estéril." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Cirurgias que **invadem o trato gastrointestinal, geniturinário ou respiratório SEM contaminação significativa** do leito cirúrgico são **potencialmente contaminadas**. Tornam-se **contaminadas** apenas se houver rotura inadvertida com extravasamento entérico, e **infectadas** quando já há processo infeccioso prévio (apendicite, abscesso, perfuração tardia).",
+      "referenciaAula": "Cirurgias potencialmente contaminadas são cirurgias que invadem o trato gastrintestinal ou trato genitourinário ou trato respiratório sem contaminação significativa do leito cirúrgico.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-006",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["cefalosporina primeira geração", "escolha da droga", "cefazolina"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Por que as cefalosporinas de primeira geração (ex.: cefazolina) são a escolha preferencial para a antibioticoprofilaxia cirúrgica na maioria dos procedimentos?",
+      "alternativas": [
+        { "id": "A", "texto": "Por terem amplíssimo espectro contra anaeróbios e Pseudomonas." },
+        { "id": "B", "texto": "Porque são bactericidas, ativas contra a flora da pele, com baixo potencial de efeitos adversos e baixa indução de resistência, preservando classes de resgate." },
+        { "id": "C", "texto": "Porque têm meia-vida curta, exigindo múltiplas doses e cobertura ampliada." },
+        { "id": "D", "texto": "Porque são bacteriostáticas e bem toleradas." },
+        { "id": "E", "texto": "Por terem cobertura preferencial contra fungos e MRSA." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A droga ideal de profilaxia deve ser **bactericida, eficaz contra a flora cutânea, com poucos efeitos adversos e baixa indução de resistência**, preservando-se classes de resgate para infecções pós-operatórias graves. As **cefalosporinas de primeira geração** preenchem todos esses critérios. A alternativa A descreve drogas de amplo espectro, justamente as que se quer poupar.",
+      "referenciaAula": "Quem preenche melhor esses critérios todos são cefalosporinas de primeira geração. Na enorme maioria dos procedimentos cirúrgicos, uma cefalosporina de primeira geração preenche todos esses critérios.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-007",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["tricotomia", "lâmina vs tonsurador", "timing"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente é admitido na véspera de cirurgia eletiva. A enfermagem pergunta sobre como proceder com a tricotomia. Qual a recomendação MAIS adequada para reduzir o risco de ISC?",
+      "alternativas": [
+        { "id": "A", "texto": "Realizar tricotomia ampla com lâmina na noite anterior à cirurgia." },
+        { "id": "B", "texto": "Realizar tricotomia com lâmina 24 horas antes para permitir cicatrização de microtraumas." },
+        { "id": "C", "texto": "Evitar tricotomia sempre que possível; se indispensável, usar tonsurador elétrico imediatamente antes do procedimento, em sala de preparo." },
+        { "id": "D", "texto": "Usar creme depilatório 48 horas antes do ato cirúrgico." },
+        { "id": "E", "texto": "Tricotomizar com lâmina logo após a indução anestésica, sob campos estéreis." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A tricotomia deve ser **a mais restrita possível** (apenas se o pelo atrapalha a técnica), realizada **o mais próximo do procedimento** e com **tonsurador elétrico**, evitando microtraumas da lâmina. Quanto mais antecipada (especialmente >24h) e mais traumática, maior o risco de ISC, pois a contaminação começa antes mesmo da incisão.",
+      "referenciaAula": "A tricotomia tem sido indicada que seja o mais restrita possível, exclusivamente quando pelo atrapalha a técnica cirúrgica, e o mais tardia, próximo do procedimento.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-008",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["controle glicêmico", "normotermia", "fatores do paciente"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente diabético será submetido a cirurgia cardíaca com esternotomia. Quais medidas perioperatórias têm evidência consistente de redução de infecção profunda do sítio cirúrgico?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter glicemia entre 250-300 mg/dL e permitir hipotermia leve (34 °C) para reduzir consumo metabólico." },
+        { "id": "B", "texto": "Controle glicêmico restrito com insulina endovenosa contínua e manutenção ativa de normotermia intraoperatória." },
+        { "id": "C", "texto": "Suspender insulina no perioperatório e aquecer apenas no pós-operatório imediato." },
+        { "id": "D", "texto": "Transfusão sanguínea profilática para otimizar perfusão tecidual." },
+        { "id": "E", "texto": "Tricotomia ampla na véspera e antibiótico por 7 dias após a cirurgia." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Hiperglicemia, hipotermia, hipoperfusão e transfusão** comprometem a resposta imune inata e aumentam o risco de ISC. Os estudos clássicos em cirurgia cardíaca mostraram que **insulina EV contínua com alvo glicêmico restrito** e **manutenção ativa de normotermia** reduzem ISC profunda, mortalidade e tempo de internação. A transfusão profilática é fator pró-inflamatório e aumenta o risco.",
+      "referenciaAula": "O controle da glicemia diminuiu significativamente o risco de infecção de sítio cirúrgico profundo. A manutenção de normotermia no período intraoperatório reduz o risco de infecção.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-009",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["duração da profilaxia", "doses de reforço", "perda volêmica"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Durante uma cirurgia abdominal extensa que se estende por 5 horas, com perda volêmica estimada superior a 40% da volemia e reposição com cristaloide e hemocomponentes, foi feita cefazolina 30 minutos antes da incisão. Qual a conduta MAIS apropriada quanto à profilaxia antimicrobiana?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter dose única e prolongar cobertura por 7 dias no pós-operatório para compensar a contaminação." },
+        { "id": "B", "texto": "Não repetir a dose; a profilaxia em dose única é sempre suficiente, independentemente do tempo cirúrgico ou perda volêmica." },
+        { "id": "C", "texto": "Realizar dose de reforço intraoperatória de cefazolina (a cada 4 horas) e repique adicional pela perda volêmica >40%, sem prolongar profilaxia no pós-operatório." },
+        { "id": "D", "texto": "Trocar para vancomicina mais piperacilina-tazobactam para cobertura ampliada." },
+        { "id": "E", "texto": "Suspender o antibiótico, pois sua concentração já caiu e perdeu o efeito preventivo." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A profilaxia deve ser **concentrada no intraoperatório**: prolongá-la não reduz ISC e aumenta em ~60% a colonização por multirresistentes. Devem-se fazer **doses de reforço** quando a cirurgia ultrapassa a meia-vida da droga (cefazolina: a cada 4 horas) e **repicar a dose se houver perda >40% da volemia**, pois reposição volêmica dilui o antibiótico. Trocar de classe ou prolongar não tem suporte.",
+      "referenciaAula": "Se o paciente trocou mais de 40% da volemia, eu tenho que fazer um repique da dose. Se a cirurgia dura mais do que a meia-vida da droga, devo fazer doses de reforço, de quatro em 4 horas para cefazolina.",
+      "transversal": false
+    },
+    {
+      "id": "Q-03-010",
+      "aulaOrigem": 3,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["MRSA", "descolonização", "mupirocina nasal", "implantes"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente programado para artroplastia total de quadril com colocação de prótese tem swab nasal pré-operatório positivo para Staphylococcus aureus resistente à oxacilina (MRSA). Qual conduta é MAIS apropriada para reduzir o risco de ISC profunda relacionada ao implante?",
+      "alternativas": [
+        { "id": "A", "texto": "Cancelar definitivamente a cirurgia, pois MRSA contraindica a colocação de prótese." },
+        { "id": "B", "texto": "Manter apenas cefazolina como profilaxia, pois cobre adequadamente MRSA." },
+        { "id": "C", "texto": "Realizar descolonização pré-operatória com banhos de clorexidina degermante e mupirocina nasal por 5-7 dias, e ajustar a profilaxia para um antibiótico com cobertura para MRSA." },
+        { "id": "D", "texto": "Iniciar vancomicina endovenosa por 14 dias antes da cirurgia." },
+        { "id": "E", "texto": "Substituir a cirurgia por tratamento conservador com fisioterapia indefinidamente." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em cirurgias com **implantes (ortopédicas, cardíacas)**, a colonização por MRSA aumenta o risco de ISC profunda. A conduta padronizada é **descolonização pré-operatória** com banhos de clorexidina degermante e **mupirocina nasal por 5-7 dias** (a narina é o principal reservatório do estafilococo), associada a **profilaxia dirigida** com antibiótico que cubra MRSA. Cefazolina isoladamente NÃO cobre MRSA.",
+      "referenciaAula": "A gente promove descolonização pré-operatória com banho com clorexidina degermante por 5 a 7 dias e descolonização nasal com uso de mupirocina nasal. A narina é o principal reservatório do estafilococo.",
+      "transversal": false
+    }
+  ]
+}

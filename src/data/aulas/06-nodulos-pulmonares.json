@@ -1,0 +1,216 @@
+{
+  "aulaId": 6,
+  "titulo": "Diagnóstico e Investigação de Nódulos Pulmonares",
+  "questoes": [
+    {
+      "id": "Q-06-001",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["definição", "nódulo pulmonar", "massa"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a definição anatomopatológica de nódulo pulmonar?",
+      "alternativas": [
+        { "id": "A", "texto": "Opacidade focal circunscrita, arredondada, de até 1 cm de diâmetro." },
+        { "id": "B", "texto": "Opacidade focal circunscrita, arredondada, de até 3 cm de diâmetro." },
+        { "id": "C", "texto": "Opacidade difusa de qualquer tamanho com cavitação." },
+        { "id": "D", "texto": "Opacidade focal arredondada acima de 5 cm de diâmetro." },
+        { "id": "E", "texto": "Lesão sólida exclusivamente justapleural sem limites definidos." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Nódulo pulmonar** é uma opacidade focal circunscrita, mais ou menos arredondada, com diâmetro **de até 3 cm**. Acima de 3 cm, a lesão passa a ser denominada **massa**, com maior chance de malignidade.",
+      "referenciaAula": "Nódulo pulmonar é uma opacidade focal circunscrita, mais ou menos arredondada num diâmetro de até 3 cm. Acima de 3 cm, recebe a definição de massa.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-002",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["tomografia", "método de imagem", "caracterização"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o melhor método de imagem para a caracterização morfológica de um nódulo pulmonar identificado em radiografia de tórax?",
+      "alternativas": [
+        { "id": "A", "texto": "Ressonância magnética de tórax." },
+        { "id": "B", "texto": "Ultrassonografia torácica." },
+        { "id": "C", "texto": "Tomografia computadorizada de tórax." },
+        { "id": "D", "texto": "Cintilografia óssea." },
+        { "id": "E", "texto": "Radiografia em decúbito lateral." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **tomografia computadorizada** é o melhor exame para avaliação morfológica do nódulo pulmonar. Permite analisar tamanho, margens, densidade, presença de gordura ou calcificação, impregnação por contraste e crescimento — variáveis essenciais para estratificar risco de malignidade.",
+      "referenciaAula": "Se identificamos esse nódulo através do raio X, a tomografia computadorizada é o melhor exame para fazer a avaliação morfológica dessa lesão.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-003",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["amartoma", "tumor benigno", "calcificação em pipoca"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A chamada \"calcificação em pipoca\" em um nódulo pulmonar é altamente sugestiva de qual diagnóstico?",
+      "alternativas": [
+        { "id": "A", "texto": "Adenocarcinoma pulmonar." },
+        { "id": "B", "texto": "Tumor carcinoide." },
+        { "id": "C", "texto": "Metástase de osteossarcoma." },
+        { "id": "D", "texto": "Hamartoma pulmonar." },
+        { "id": "E", "texto": "Tuberculoma ativo." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "A **calcificação em pipoca** é a característica clássica do **hamartoma**, o principal tumor benigno do pulmão. Outras calcificações benignas incluem padrões centrais, laminares ou difusos. Calcificações excêntricas exigem cuidado, pois podem ocorrer em metástases (especialmente de osteossarcoma) e neoplasias.",
+      "referenciaAula": "Calcificação em pipoca é a característica do principal tumor benigno do pulmão, que é o amartoma.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-004",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["estabilidade", "seguimento", "benignidade"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação a um nódulo pulmonar com aspecto morfológico indeterminado, qual achado é considerado forte indício de benignidade e pode permitir interrupção da investigação invasiva?",
+      "alternativas": [
+        { "id": "A", "texto": "Estabilidade radiológica documentada por período igual ou superior a 2 anos." },
+        { "id": "B", "texto": "Aumento volumétrico de duas vezes em 6 meses." },
+        { "id": "C", "texto": "Captação alta de FDG no PET-CT (SUV > 4)." },
+        { "id": "D", "texto": "Margens espiculadas sem calcificação." },
+        { "id": "E", "texto": "Cavitação com paredes espessas (> 10 mm)." }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **estabilidade do nódulo por 2 anos ou mais** em exames seriados é um forte indicador de benignidade, sugerindo lesão sem comportamento neoplásico clínico significativo. Esse critério, junto com calcificações benignas, gordura intralesional e padrão perifissural, pode autorizar suspensão da investigação invasiva.",
+      "referenciaAula": "Se essa lesão tiver estabilidade por um período de 2 anos ou mais, ela tem um forte indício de ser uma doença benigna.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-005",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["espiculação", "reação desmoplástica", "malignidade"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A presença de margens espiculadas em um nódulo pulmonar à tomografia traduz fisiopatologicamente:",
+      "alternativas": [
+        { "id": "A", "texto": "Componente gorduroso central da lesão." },
+        { "id": "B", "texto": "Reação desmoplástica e proliferação linfática peritumoral, com chance de malignidade em torno de 80%." },
+        { "id": "C", "texto": "Calcificação concêntrica do parênquima." },
+        { "id": "D", "texto": "Hiperinsuflação alveolar focal sem repercussão clínica." },
+        { "id": "E", "texto": "Cisto broncogênico em fase de remodelação." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As **espículas** correspondem à **reação desmoplástica** com proliferação linfática peritumoral causada pela infiltração tumoral. Lesões espiculadas têm risco de malignidade em torno de **80%**, enquanto lesões arredondadas e bem definidas apresentam risco próximo de 20%.",
+      "referenciaAula": "Lesões espiculadas, que é o crescimento desmoplástico, que é a proliferação linfática peritumoral, têm chance em torno de 80% de ser uma lesão francamente maligna.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-006",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["vidro fosco", "adenocarcinoma in situ", "nódulo subsólido"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 62 anos, ex-tabagista, em rastreamento. TC de tórax evidencia opacidade puramente em vidro fosco, não sólida, de 14 mm no lobo superior direito, persistente em controle após 3 meses. Qual é a interpretação mais provável?",
+      "alternativas": [
+        { "id": "A", "texto": "Lesão inflamatória aguda com alta probabilidade de regressão espontânea." },
+        { "id": "B", "texto": "Hamartoma com componente gorduroso predominante." },
+        { "id": "C", "texto": "Adenocarcinoma in situ com preenchimento alveolar por células neoplásicas e curso indolente." },
+        { "id": "D", "texto": "Tuberculose pulmonar em fase exsudativa." },
+        { "id": "E", "texto": "Embolia pulmonar segmentar antiga." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Lesões puramente em **vidro fosco persistentes** após seguimento curto correspondem tipicamente a **adenocarcinoma in situ**, com preenchimento alveolar por células neoplásicas e comportamento **indolente**. Diferente do vidro fosco inflamatório (visto na COVID), o neoplásico não regride. Já as lesões parcialmente sólidas indicam maior agressividade.",
+      "referenciaAula": "Essas lesões em vidro fosco, neoplasias in situ com preenchimento alveolar por células neoplásicas, têm caráter muito indolente.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-007",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["PET-CT", "SUV", "atividade metabólica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em PET-CT com 18-FDG para avaliação de nódulo pulmonar, valores de SUV abaixo de 2,5 tipicamente indicam:",
+      "alternativas": [
+        { "id": "A", "texto": "Alta probabilidade de carcinoma escamoso agressivo." },
+        { "id": "B", "texto": "Baixa captação metabólica, podendo corresponder a processo inflamatório ou tumor carcinoide de baixa agressividade." },
+        { "id": "C", "texto": "Necessidade absoluta de ressecção cirúrgica imediata." },
+        { "id": "D", "texto": "Confirmação diagnóstica de metástase à distância." },
+        { "id": "E", "texto": "Indicação obrigatória de quimioterapia neoadjuvante." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "No PET-CT com 18-FDG, **SUV < 2,5** caracteriza **baixa captação**, compatível com processos inflamatórios ou tumores carcinoides de baixa atividade metabólica. SUV entre 2,5 e 3,5 é intermediário; **acima de 3,5** sugere atividade metabólica intensa, com maior risco de malignidade. O exame orienta investigação, mas não substitui o anatomopatológico.",
+      "referenciaAula": "SUV menor que 2,5 é considerado baixa captação, pode ser atividade inflamatória ou tumor carcinoide de baixa agressividade. Lesões acima de 3,5 são de atividade metabólica mais intensa.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-008",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["punção transtorácica", "broncoscopia", "biópsia"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 65 anos, tabagista, com nódulo de 2,5 cm espiculado no segmento basal posterior do lobo inferior direito (lesão periférica), com indicação formal de biópsia. Qual é a abordagem inicial mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Broncoscopia flexível convencional, pois a abordagem central é sempre superior." },
+        { "id": "B", "texto": "Punção transtorácica guiada por tomografia computadorizada." },
+        { "id": "C", "texto": "Punção guiada por ultrassom transtorácico, sem necessidade de TC." },
+        { "id": "D", "texto": "Apenas seguimento tomográfico em 12 meses, sem biópsia." },
+        { "id": "E", "texto": "Mediastinoscopia cervical de Carlens." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Para **lesões periféricas**, a **punção transtorácica guiada por TC** é o método de escolha, pois permite navegação independentemente da interposição aérea. A broncoscopia tem maior rendimento em lesões centrais; o ultrassom só é viável quando não há ar interposto. A principal complicação é o pneumotórax (≈50%), com drenagem necessária em < 5%.",
+      "referenciaAula": "Para lesões periféricas, a grande maioria das vezes os procedimentos são guiados por tomografia computadorizada, o que se denomina punção transtorácica guiada por tomografia.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-009",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["rastreamento", "câncer de pulmão", "TC baixa dose"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 58 anos, assintomático, tabagista ativo (carga tabágica de 35 maços-ano), sem antecedente oncológico, comparece para consulta. Considerando as recomendações brasileiras de rastreamento para câncer de pulmão (publicação 2024), qual conduta é mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Solicitar radiografia de tórax anual, pois é mais sensível que a TC para nódulos pequenos." },
+        { "id": "B", "texto": "Indicar tomografia computadorizada de tórax de baixa dosagem para rastreamento." },
+        { "id": "C", "texto": "Orientar apenas cessação do tabagismo, sem rastreamento por imagem." },
+        { "id": "D", "texto": "Solicitar PET-CT como exame inicial de rastreamento." },
+        { "id": "E", "texto": "Realizar broncoscopia com fluorescência diretamente." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As recomendações brasileiras (2024) para rastreamento de câncer de pulmão preconizam **TC de tórax de baixa dosagem** em pacientes **assintomáticos**, idade > 50 anos e carga tabágica ≥ 20 maços-ano. A radiografia é insensível para nódulos pequenos (< 10 mm). PET-CT e broncoscopia não são exames de rastreamento — são empregados após detecção e estratificação de risco do nódulo.",
+      "referenciaAula": "Pacientes fumantes com mais de 50 anos, carga tabágica acima de 20 anos-maço, como critérios de elegibilidade para tomografias computadorizadas de baixa dosagem.",
+      "transversal": false
+    },
+    {
+      "id": "Q-06-010",
+      "aulaOrigem": 6,
+      "blocos": ["E", "G"],
+      "eixos": ["T6", "T7"],
+      "tags": ["cavitação", "parede espessa", "necrose tumoral"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 68 anos, ex-tabagista pesada, com perda ponderal recente. TC de tórax mostra nódulo de 2,8 cm no lobo superior esquerdo, espiculado, com cavitação central e parede medindo 12 mm de espessura. Qual a interpretação e conduta mais adequadas?",
+      "alternativas": [
+        { "id": "A", "texto": "Cavitação com parede espessa (> 8-10 mm) é altamente sugestiva de neoplasia maligna agressiva, devendo prosseguir com biópsia para diagnóstico anatomopatológico." },
+        { "id": "B", "texto": "Cavitação indica obrigatoriamente tuberculose ativa; iniciar esquema RIPE empiricamente." },
+        { "id": "C", "texto": "Parede espessa sugere cisto broncogênico benigno; manter seguimento anual." },
+        { "id": "D", "texto": "Trata-se provavelmente de bolha enfisematosa; orientar apenas cessação tabágica." },
+        { "id": "E", "texto": "Lesão tipicamente benigna por apresentar cavitação; reduzir periodicidade do seguimento." }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Lesões cavitadas com **paredes espessas (> 8-10 mm)** indicam alto risco de **neoplasia maligna**, frequentemente com **necrose central** por insuficiência do suprimento sanguíneo ao centro da lesão. Em contraste, paredes finas (< 7 mm) sugerem lesões benignas. Associada a espiculação, tamanho > 2 cm e tabagismo pesado, a indicação é biópsia para confirmação histológica.",
+      "referenciaAula": "Lesões com cavitações, com paredes espessas, geralmente acima de 8 a 10 mm, têm risco maior de malignidade e maior agressividade. O suprimento sanguíneo não viabiliza a parte central, ocorrendo necrose.",
+      "transversal": false
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "eixoId": "T2",
+  "titulo": "Hemorragia digestiva: alta × baixa",
+  "questoes": [
+    {
+      "id": "Q-T2-001",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["melena", "hematoquezia", "diferencial topografico"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a apresentação clínica diferencial entre hemorragia digestiva alta (HDA) e baixa (HDB), assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A melena é exclusiva da HDA, jamais ocorrendo em sangramentos do cólon direito." },
+        { "id": "B", "texto": "A hematoquezia é sempre indicativa de HDB, descartando-se sangramento proximal." },
+        { "id": "C", "texto": "Cerca de 10% das HDAs podem se manifestar como hematoquezia, geralmente em sangramentos volumosos com trânsito acelerado." },
+        { "id": "D", "texto": "A hematêmese pode ocorrer tanto na HDA quanto na HDB de cólon direito." },
+        { "id": "E", "texto": "O sangue oculto nas fezes é específico de HDA não varicosa." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Cerca de **10% das HDAs** se apresentam com **hematoquezia**, especialmente quando o sangramento é volumoso e o trânsito intestinal é acelerado (ex.: variz esofágica rota com perda maciça). Esse cenário é uma armadilha clássica: paciente com hematoquezia e instabilidade pode ter HDA, não HDB. Inversamente, sangramentos lentos do cólon direito podem se apresentar como melena, pois o sangue tem tempo de ser parcialmente digerido.",
+      "referenciaAula": "Apenas 10% das hemorragias digestivas altas apresentam hematoquesia. Sangramento proximal pode se manifestar como hematoquezia se for de grande volume.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-002",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["relacao ureia creatinina", "diferencial bioquimico", "topografia"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em paciente com sangramento digestivo agudo de localização indefinida, qual achado laboratorial favorece a hipótese de HDA em detrimento de HDB?",
+      "alternativas": [
+        { "id": "A", "texto": "Relação ureia/creatinina maior que 30." },
+        { "id": "B", "texto": "Hemoglobina menor que 7 g/dL." },
+        { "id": "C", "texto": "Leucocitose maior que 15.000/mm³." },
+        { "id": "D", "texto": "Plaquetopenia inferior a 100.000/mm³." },
+        { "id": "E", "texto": "Aumento isolado da bilirrubina direta." }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **relação ureia/creatinina maior que 30** sugere sangramento **proximal** (HDA), pois o sangue degradado no trato digestivo alto é absorvido como proteína, elevando a ureia plasmática desproporcionalmente à creatinina. Hemoglobina baixa indica perda volêmica, mas não localiza topograficamente. Esse marcador é especialmente útil em hematoquezia para distinguir HDA volumosa de HDB.",
+      "referenciaAula": "A relação ureia/creatinina maior que 30 fala a favor de sangramento mais proximal, porque o sangue no tubo digestivo proximal aumenta a quantidade de ureia.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-003",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["abordagem diagnostica", "endoscopia", "colonoscopia"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Na investigação de hemorragia digestiva aguda, qual a sequência mais apropriada de exames endoscópicos?",
+      "alternativas": [
+        { "id": "A", "texto": "Colonoscopia de urgência sempre antes da endoscopia digestiva alta, independentemente da apresentação." },
+        { "id": "B", "texto": "Endoscopia digestiva alta como primeiro exame em paciente instável; colonoscopia eletiva (após preparo) se EDA negativa." },
+        { "id": "C", "texto": "Cintilografia com hemácias marcadas como exame inicial em todos os casos de hemorragia aguda." },
+        { "id": "D", "texto": "Cápsula endoscópica como primeiro exame em paciente com hematoquezia maciça." },
+        { "id": "E", "texto": "Arteriografia mesentérica obrigatória antes de qualquer abordagem endoscópica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em paciente instável ou com hematoquezia volumosa, a **EDA é prioritária** porque pode descartar HDA (causa mais frequente de sangramento maciço, mesmo se manifestando como hematoquezia). A **colonoscopia de urgência** é cada vez menos recomendada — exige preparo, é demorada e o cólon sujo dificulta o exame. Cápsula endoscópica e enteroscopia ficam reservadas para sangramento obscuro, após EDA e colonoscopia negativas.",
+      "referenciaAula": "Na instabilidade hemodinâmica, deve fazer a endoscopia. A colonoscopia na urgência tem sido cada vez menos utilizada porque tem que fazer um preparo.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-004",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["cessacao espontanea", "doenca diverticular", "ulcera peptica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a evolução natural das hemorragias digestivas, comparando HDA não varicosa por úlcera péptica e HDB por doença diverticular, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Ambas raramente cessam espontaneamente, exigindo intervenção em mais de 90% dos casos." },
+        { "id": "B", "texto": "A maioria das HDAs por úlcera cessa espontaneamente, e cerca de 90% das HDBs por divertículo também param sem intervenção." },
+        { "id": "C", "texto": "Apenas a HDA por úlcera cessa espontaneamente; a HDB por divertículo sempre exige cirurgia." },
+        { "id": "D", "texto": "Apenas a HDB por divertículo cessa espontaneamente; a HDA por úlcera sempre exige tratamento endoscópico." },
+        { "id": "E", "texto": "Ambas só cessam após embolização arterial direta." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **maioria das HDAs por úlcera péptica cessa espontaneamente**, e cerca de **90% das HDBs por doença diverticular também param sem intervenção**. Essa característica comum justifica a abordagem inicial conservadora com estabilização hemodinâmica em ambos os cenários. Quando o sangramento persiste ou recidiva, indica-se tratamento endoscópico (HDA), embolização ou cirurgia (HDB refratária).",
+      "referenciaAula": "A maioria das HDs cessam espontaneamente. Felizmente, esse sangramento da doença diverticular cessa espontaneamente em 90% dos casos.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-005",
+      "aulaOrigem": null,
+      "blocos": ["B", "F"],
+      "eixos": ["T2", "T5"],
+      "tags": ["hematoquezia macica", "instabilidade", "HDA mascarada", "choque"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 58 anos, etilista crônico, chega ao PS com hematoquezia volumosa há 30 minutos, PA 80x50 mmHg, FC 130 bpm, palidez intensa, sudorese fria e nível de consciência rebaixado. Sem dor abdominal. Qual a hipótese e conduta INICIAL mais adequadas?",
+      "alternativas": [
+        { "id": "A", "texto": "HDB por doença hemorroidária; toque retal e proctoscopia ambulatorial." },
+        { "id": "B", "texto": "HDB por colite isquêmica; iniciar antibioticoterapia e observação." },
+        { "id": "C", "texto": "Provável HDA varicosa com hematoquezia por sangramento maciço — ressuscitação volêmica, IBP, octreotide e EDA de urgência." },
+        { "id": "D", "texto": "HDB por angiodisplasia de cólon direito; aguardar colonoscopia eletiva." },
+        { "id": "E", "texto": "Quadro funcional; observação clínica sem investigação." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Hematoquezia volumosa com **choque hipovolêmico** em paciente etilista deve levantar suspeita de **HDA varicosa** (variz esofagogástrica rota com trânsito acelerado), e não de HDB benigna. A conduta inicial é **ressuscitação volêmica**, IBP, octreotide e antibioticoterapia profilática, com **EDA de urgência** assim que estabilizado. A doença hemorroidária e a hemorroidária raramente causam choque.",
+      "referenciaAula": "Apenas 10% das HDAs apresentam hematoquesia, geralmente quando o volume é muito grande num período curto, como na variz de esôfago. O choque hipovolêmico é situação crítica.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-006",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["sangramento obscuro", "anemia ferropriva", "neoplasia"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 67 anos, com fadiga progressiva há 3 meses, sem queixas digestivas. Hb 6,8 g/dL, VCM 72 fL (anemia ferropriva), pesquisa de sangue oculto nas fezes positiva. EDA evidenciou apenas gastrite leve, sem lesões sangrantes. Qual a próxima conduta?",
+      "alternativas": [
+        { "id": "A", "texto": "Apenas reposição oral de ferro e seguimento ambulatorial em 6 meses." },
+        { "id": "B", "texto": "Colonoscopia para investigação de lesão neoplásica colônica e, se negativa, investigação do delgado (cápsula endoscópica)." },
+        { "id": "C", "texto": "Tratamento empírico para doença hemorroidária com pomadas." },
+        { "id": "D", "texto": "Repetir EDA em 30 dias sem outras investigações." },
+        { "id": "E", "texto": "Indicação de colectomia total profilática." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Adulto com anemia ferropriva** está perdendo sangue em algum local e a **neoplasia deve ser afastada como prioridade**. Após EDA negativa, indica-se **colonoscopia** (tumor de cólon direito é causa clássica de anemia silenciosa) e, se negativa, investigação do delgado por **cápsula endoscópica** seguida de enteroscopia se houver lesão tratável. Sangramento obscuro pode ser HDA (tumor de fundo gástrico), HDB (cólon direito) ou de delgado (lesões vasculares).",
+      "referenciaAula": "Adulto com anemia ferropriva está perdendo sangue em algum local e a gente tem que afastar a neoplasia. Tumor de fundo gásico também dá anemia, assim como tumor de cólon direito.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-007",
+      "aulaOrigem": null,
+      "blocos": ["B", "F"],
+      "eixos": ["T2", "T5"],
+      "tags": ["transfusao", "hemoglobina", "limiar restritivo"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a estratégia transfusional comum às hemorragias digestivas alta e baixa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Toda hemorragia digestiva com Hb < 10 g/dL exige transfusão imediata." },
+        { "id": "B", "texto": "A estratégia restritiva (transfundir geralmente com Hb < 7 g/dL) é a recomendada, pois transfusões liberais estão associadas a maior morbidade e podem aumentar o sangramento." },
+        { "id": "C", "texto": "Apenas pacientes com HDA varicosa têm indicação de transfusão — nas HDBs nunca se transfunde." },
+        { "id": "D", "texto": "Transfusão precoce com Hb < 12 g/dL reduz mortalidade em todos os cenários." },
+        { "id": "E", "texto": "A reposição de plasma fresco congelado deve sempre preceder a transfusão de concentrado de hemácias." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A estratégia **transfusional restritiva** (alvo Hb ~7 g/dL) é o padrão atual em hemorragia digestiva tanto alta quanto baixa. Transfusões liberais aumentam morbidade, podem **aumentar sangramento por discrasia secundária** e elevam pressão portal (risco em HDA varicosa). Exceções incluem cardiopatia grave ou instabilidade refratária, em que se tolera limiar mais elevado.",
+      "referenciaAula": "Hemoglobina menor que 7 muitas vezes não transfunde. A transfusão é associada à morbidade, ela pode aumentar a quantidade de sangramento.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-008",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["embolizacao arterial", "tratamento endovascular", "HDA HDB"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o papel da terapia endovascular (embolização arterial) no manejo da hemorragia digestiva, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "É indicada apenas em HDA varicosa, sem aplicação em HDB." },
+        { "id": "B", "texto": "Pode ser empregada tanto em HDA não varicosa refratária à endoscopia (embolização do vaso da úlcera) quanto em HDB ativa identificada por angiotomografia, com taxa de sucesso entre 80-90% e risco de isquemia segmentar." },
+        { "id": "C", "texto": "É contraindicada em pacientes idosos por risco proibitivo." },
+        { "id": "D", "texto": "Substitui completamente a endoscopia digestiva alta no tratamento da úlcera sangrante." },
+        { "id": "E", "texto": "Tem indicação primária em todos os casos de melena, mesmo sem instabilidade." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **embolização arterial** é uma alternativa endovascular em ambos os cenários: na **HDA não varicosa refratária** à endoscopia (embolização do vaso que alimenta a úlcera) e na **HDB ativa** identificada por angiotomografia ou arteriografia. Sucesso de 80-90% com ressangramento de 15-40% e risco de **isquemia/perfuração segmentar**. Exige equipamento e radiologista intervencionista disponíveis.",
+      "referenciaAula": "Existem técnicas endovasculares baseadas na embolização do vaso sangrante. Sucesso entre 80 e 90%, risco de ressangramento 15 a 40%, pode haver complicação como perfuração ou isquemia.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-009",
+      "aulaOrigem": null,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["AINEs", "antiagregantes", "fatores de risco compartilhados"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 72 anos, em uso crônico de AAS e clopidogrel para prevenção pós-IAM, e AINE para artrose, chega com sangramento digestivo. Sobre os fatores de risco compartilhados entre HDA e HDB neste cenário, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "AINEs causam apenas HDA por úlcera péptica, sem qualquer impacto no cólon." },
+        { "id": "B", "texto": "Antiagregantes plaquetários afetam apenas o trato digestivo alto, sem influência sobre divertículos ou hemorroidas." },
+        { "id": "C", "texto": "AINEs estão associados tanto à úlcera péptica (HDA não varicosa) quanto à colite/colopatia inflamatória do cólon (HDB), e antiagregantes potencializam sangramento de divertículos, angiodisplasias e hemorroidas." },
+        { "id": "D", "texto": "Anticoagulantes só causam sangramento se houver úlcera prévia." },
+        { "id": "E", "texto": "Idade avançada protege contra HDB por reduzir incidência de divertículos." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**AINEs** são causa frequente tanto de **HDA por úlcera péptica** quanto de **colite/colopatia por AINE** que sangra (HDB). **Antiagregantes plaquetários e anticoagulantes** potencializam sangramento de qualquer fonte: úlcera, divertículo, angiodisplasia, hemorroida. A combinação de idade avançada + AAS + clopidogrel + AINE é altamente arriscada e deve ser revista. Esses fatores de risco são compartilhados entre HDA e HDB.",
+      "referenciaAula": "Antiinflamatório não hormonal está associado com processo inflamatório, não só gástrico, mas também intestinal. Antiagregantes plaquetários potencializam o sangramento de hemorroidas e angiodisplasias.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T2-010",
+      "aulaOrigem": null,
+      "blocos": ["B", "F"],
+      "eixos": ["T2", "T5"],
+      "tags": ["cirurgia urgencia", "falha terapeutica", "HDA HDB"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Sobre a indicação de cirurgia de urgência na hemorragia digestiva, comparando HDA não varicosa e HDB, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A cirurgia é a primeira escolha em ambos os cenários, antes de qualquer tentativa endoscópica." },
+        { "id": "B", "texto": "Em ambas, a cirurgia de urgência é indicada após falha das medidas clínicas e endoscópicas/endovasculares, em sangramento persistente com instabilidade refratária ou perda > 50% da volemia; na HDA, prefere-se rafia da úlcera ou sutura do vaso, e na HDB, colectomia segmentar (ou total se não localizada)." },
+        { "id": "C", "texto": "Cirurgia só está indicada em HDA varicosa, nunca em HDB." },
+        { "id": "D", "texto": "A cirurgia de urgência tem o mesmo procedimento padronizado em ambas: gastrectomia subtotal." },
+        { "id": "E", "texto": "Em HDB sem fonte identificada, indica-se laparotomia exploradora como primeiro passo, sem investigação prévia." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em ambos os cenários, a **cirurgia de urgência é exceção**, indicada após **falha das medidas clínicas e endoscópicas/endovasculares**, sangramento persistente, instabilidade refratária ou perda > 50% da volemia. Na **HDA não varicosa** prefere-se hoje técnicas menos invasivas (rafia da úlcera, sutura do vaso). Na **HDB sem fonte localizada**, a cirurgia às cegas tem alta morbidade — preferir investigação prévia; quando inevitável, colectomia segmentar é melhor que total. A cirurgia exploradora sem localização é a pior estratégia.",
+      "referenciaAula": "Cirurgia de urgência na HD acontece quando houve falha terapêutica clínica ou endoscópica. Hoje preferem-se técnicas menos invasivas como rafia da úlcera. Na HDB, a cirurgia como fator de investigação é muito ruim.",
+      "transversal": true
+    }
+  ]
+}

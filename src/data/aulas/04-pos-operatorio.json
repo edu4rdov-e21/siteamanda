@@ -1,0 +1,216 @@
+{
+  "aulaId": 4,
+  "titulo": "Avaliação Pós-Operatória",
+  "questoes": [
+    {
+      "id": "Q-04-001",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["passagem de plantão", "admissão UTI", "equipe cirúrgica"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Ao receber um paciente do centro cirúrgico na UTI, qual é o PRIMEIRO passo na avaliação pós-operatória?",
+      "alternativas": [
+        { "id": "A", "texto": "Calcular imediatamente o SAPS 3 do paciente." },
+        { "id": "B", "texto": "Solicitar tomografia de tórax e abdome de rotina." },
+        { "id": "C", "texto": "Pegar o caso na passagem de plantão com as equipes cirúrgica e anestésica." },
+        { "id": "D", "texto": "Iniciar antibioticoterapia empírica de amplo espectro." },
+        { "id": "E", "texto": "Realizar extubação imediata para avaliar o nível de consciência." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O primeiro passo é a **passagem de plantão**, em que se obtêm informações com a equipe cirúrgica (indicação, achados intra-op, drenos, intercorrências, particularidades) e com a equipe anestésica (drogas, via aérea, ventilação, vasopressores, transfusão, antibiótico profilático, balanço hídrico). Sem esse contexto, a avaliação subsequente fica empobrecida.",
+      "referenciaAula": "Quando a gente recebe um paciente na UTI vindo do centro cirúrgico, o primeiro passo é pegar o caso, é a passagem de plantão.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-002",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["janelas de perfusão", "monitorização hemodinâmica", "lactato"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual destes parâmetros é considerado um MARCADOR LABORATORIAL de hipoperfusão tecidual na avaliação hemodinâmica do paciente crítico?",
+      "alternativas": [
+        { "id": "A", "texto": "Tempo de enchimento capilar." },
+        { "id": "B", "texto": "Diurese horária." },
+        { "id": "C", "texto": "Temperatura das extremidades." },
+        { "id": "D", "texto": "Lactato arterial." },
+        { "id": "E", "texto": "Frequência cardíaca." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "O **lactato arterial** é um marcador laboratorial clássico de hipoperfusão tecidual: a hiperlactatemia sugere metabolismo anaeróbico por DO2 insuficiente. Tempo de enchimento capilar, temperatura das extremidades e diurese são janelas **clínicas** de perfusão; frequência cardíaca é um sinal vital, não um marcador laboratorial específico de hipoperfusão.",
+      "referenciaAula": "Do ponto de vista laboratorial, a gente usa muito a medida do lactato arterial. O lactato ele é um marcador de hipoperfusão tecidual.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-003",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["tromboprofilaxia", "enoxaparina", "função renal"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em paciente cirúrgico SEM disfunção renal e sem contraindicações, qual é a quimioprofilaxia de TEV de escolha?",
+      "alternativas": [
+        { "id": "A", "texto": "Heparina não fracionada 5.000 UI SC de 12/12h." },
+        { "id": "B", "texto": "Enoxaparina 40 mg subcutâneo uma vez ao dia." },
+        { "id": "C", "texto": "Varfarina 5 mg via oral." },
+        { "id": "D", "texto": "Ácido acetilsalicílico 100 mg/dia." },
+        { "id": "E", "texto": "Rivaroxabana 20 mg ao dia." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A medicação de escolha para tromboprofilaxia em paciente cirúrgico sem disfunção renal e sem contraindicação é a **enoxaparina 40 mg SC uma vez ao dia**. Em vigência de disfunção renal, opta-se por enoxaparina em dose reduzida (20 mg/dia) ou heparina não fracionada 5.000 UI SC 12/12h. Em pacientes com contraindicação à quimioprofilaxia, indica-se compressor pneumático intermitente.",
+      "referenciaAula": "Se o paciente não tem disfunção renal e nenhuma contraindicação, a medicação de escolha é enoxaparina, 40 mg subcutâneo uma vez ao dia.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-004",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["SOFA", "SAPS 3", "scores prognósticos"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os escores prognósticos utilizados na UTI, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "O SOFA prediz mortalidade hospitalar a partir de variáveis basais e fisiológicas da admissão." },
+        { "id": "B", "texto": "O SAPS 3 avalia disfunções orgânicas de forma seriada e diária." },
+        { "id": "C", "texto": "O SOFA avalia seis sistemas orgânicos com pontuação de 0 a 4 em cada e pode ser aferido sequencialmente para acompanhar evolução." },
+        { "id": "D", "texto": "O SAPS 3 considera apenas comorbidades, ignorando o tipo de admissão." },
+        { "id": "E", "texto": "O SOFA varia de 0 a 100 pontos e considera apenas o sistema cardiovascular." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **SOFA** avalia seis sistemas orgânicos (respiratório, cardiovascular, hepático, neurológico, renal e hematológico), cada um com pontuação de 0 a 4, totalizando de 0 a 24. Pode ser aferido **sequencialmente** para acompanhar evolução. Já o **SAPS 3** prediz mortalidade hospitalar e leva em conta características basais, motivo da admissão (clínica/cirúrgica, urgência/eletiva) e variáveis fisiológicas da admissão.",
+      "referenciaAula": "O SOFA leva em consideração seis sistemas orgânicos. Cada sistema o paciente vai ganhar uma pontuação que vai de zero até quatro. O SOFA pode ser avaliado sequencialmente.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-005",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["choque circulatório", "DO2", "VO2"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A definição fisiopatológica de choque circulatório baseia-se em qual conceito central?",
+      "alternativas": [
+        { "id": "A", "texto": "Aumento isolado da pressão arterial sistólica acima de 180 mmHg." },
+        { "id": "B", "texto": "Desequilíbrio entre oferta (DO2) e consumo (VO2) tecidual de oxigênio, mais frequentemente por redução da DO2." },
+        { "id": "C", "texto": "Queda da pressão arterial diastólica abaixo de 60 mmHg, independentemente da perfusão." },
+        { "id": "D", "texto": "Alteração isolada do ritmo cardíaco com débito cardíaco preservado." },
+        { "id": "E", "texto": "Aumento isolado do consumo tecidual de oxigênio com oferta normal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Choque circulatório é definido como o **desequilíbrio entre oferta (DO2) e consumo (VO2) de oxigênio**, na maioria das vezes por **redução da DO2**. O sistema cardiovascular do paciente chocado não consegue ofertar oxigênio em taxas suficientes para suprir a demanda metabólica, gerando hipóxia tecidual e hiperlactatemia.",
+      "referenciaAula": "Choque é exatamente quando a gente vai ter um desequilíbrio entre oferta e consumo de oxigênio. Na maior parte das vezes o paciente vai ter uma redução da oferta tecidual de oxigênio.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-006",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["úlcera de estresse", "fatores de risco", "IBP"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação à profilaxia de úlcera gastroduodenal por estresse na UTI, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Está indicada apenas em pacientes com história prévia de úlcera péptica." },
+        { "id": "B", "texto": "É contraindicada em pacientes em ventilação mecânica." },
+        { "id": "C", "texto": "Os antagonistas H2 são considerados primeira linha em todos os pacientes." },
+        { "id": "D", "texto": "Pacientes em choque, coagulopáticos, em ventilação mecânica, em diálise, em uso de corticoide em doses altas ou jejum prolongado têm risco aumentado e devem receber inibidor da bomba de prótons." },
+        { "id": "E", "texto": "Pacientes plaquetopênicos não são considerados de risco para úlcera de estresse." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Os principais fatores de risco para úlcera de estresse são **paciente chocado, coagulopata (incluindo plaquetopênico), em ventilação mecânica, em terapia de substituição renal, uso prolongado de corticoide em doses altas e jejum prolongado**. A profilaxia é feita com **inibidores da bomba de prótons** (omeprazol VO ou EV; esomeprazol em sonda enteral) na maioria dos pacientes críticos.",
+      "referenciaAula": "Os fatores de risco são o paciente chocado, coagulopata, plaquetopênico, paciente em ventilação mecânica, em diálise, uso prolongado de corticoide em doses altas e jejum prolongado.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-007",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["volume sistólico", "pré-carga", "expansão volêmica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "No paciente chocado com débito cardíaco baixo por volume sistólico reduzido, quais são as TRÊS variáveis que podem ser otimizadas para aumentar o volume sistólico?",
+      "alternativas": [
+        { "id": "A", "texto": "Frequência cardíaca, hemoglobina e saturação arterial." },
+        { "id": "B", "texto": "PaO2, PaCO2 e bicarbonato." },
+        { "id": "C", "texto": "Pré-carga, contratilidade e pós-carga." },
+        { "id": "D", "texto": "Diurese, lactato e temperatura." },
+        { "id": "E", "texto": "Pressão arterial, sódio e cloreto." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O volume sistólico depende de três variáveis: **pré-carga** (otimizada por expansão volêmica), **contratilidade** (otimizada por inotrópicos) e **pós-carga** (reduzida por vasodilatação arterial). Essas intervenções são pilares do manejo hemodinâmico do paciente chocado, junto com a otimização de hemoglobina e saturação para o componente conteúdo arterial de oxigênio da DO2.",
+      "referenciaAula": "Para aumentar o volume sistólico, tem três variáveis: contratilidade, pós-carga e pré-carga.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-008",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["avaliação sistematizada", "exame por sistemas", "raciocínio clínico"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Por que a avaliação do paciente recém-admitido na UTI é realizada de forma SISTEMATIZADA por sistemas orgânicos?",
+      "alternativas": [
+        { "id": "A", "texto": "Porque é exigência legal do Conselho Federal de Medicina para todo plantão de UTI." },
+        { "id": "B", "texto": "Porque organiza o raciocínio clínico e minimiza a chance de deixar passar alguma alteração relevante." },
+        { "id": "C", "texto": "Porque substitui a necessidade de exames complementares na admissão." },
+        { "id": "D", "texto": "Porque é mais rápida do que a avaliação focada e dispensa monitorização contínua." },
+        { "id": "E", "texto": "Porque permite dispensar a passagem de plantão com a equipe cirúrgica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A avaliação por sistemas (neurológico, hemodinâmico, respiratório, abdome/TGI, renal/metabólico, infeccioso, hematológico) **organiza o raciocínio** e **reduz o risco de omissão** de achados relevantes. Não substitui passagem de plantão nem exames complementares — é parte de um processo integrado.",
+      "referenciaAula": "A gente segue uma avaliação sistematizada, vai avaliando o paciente por diferentes sistemas orgânicos. Isso ajuda a organizar o raciocínio e minimiza a chance da gente deixar passar alguma coisa importante.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-009",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["choque séptico", "complicação pós-operatória", "pneumonia nosocomial"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 72 anos, 3º pós-operatório de revascularização miocárdica, evolui na UTI com confusão e agitação, necessidade de aumento da noradrenalina, taquicardia, taquidispneia com hipoxemia nova e tosse produtiva, febre, oligúria, leucocitose 19.000 com 10% de bastões, plaquetopenia, PCR elevado, lactato alto com acidose metabólica e consolidação em lobo médio direito no RX. Qual a interpretação clínica e conduta MAIS apropriadas?",
+      "alternativas": [
+        { "id": "A", "texto": "Edema agudo de pulmão cardiogênico; iniciar furosemida e nitrato endovenoso." },
+        { "id": "B", "texto": "Tromboembolismo pulmonar maciço; iniciar trombólise sistêmica imediata." },
+        { "id": "C", "texto": "Choque séptico de foco pulmonar (pneumonia nosocomial) com síndrome de disfunção de múltiplos órgãos; iniciar antibiótico de amplo espectro (ex.: piperacilina-tazobactam), expansão volêmica e titulação de droga vasoativa." },
+        { "id": "D", "texto": "Delirium hiperativo isolado; iniciar haloperidol e suspender sedação." },
+        { "id": "E", "texto": "Reação transfusional tardia; suspender hemocomponentes e iniciar corticoide." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A combinação de febre, leucocitose com desvio, PCR elevado, hiperlactatemia/acidose, hipoxemia nova com consolidação no RX e necessidade crescente de vasopressor caracteriza **choque séptico de foco pulmonar (pneumonia nosocomial)** com **síndrome de disfunção de múltiplos órgãos** (neurológica, circulatória, respiratória, renal e hematológica). A conduta envolve antibiótico de amplo espectro precoce (ex.: piperacilina-tazobactam, que cobre Gram-negativos, Gram-positivos e anaeróbios), expansão volêmica e titulação de droga vasoativa.",
+      "referenciaAula": "O paciente no terceiro pós-operatório de uma cirurgia de revascularização complicou com uma pneumonia nosocomial que evoluiu por um choque séptico de foco pulmonar.",
+      "transversal": false
+    },
+    {
+      "id": "Q-04-010",
+      "aulaOrigem": 4,
+      "blocos": ["C"],
+      "eixos": ["T3", "T5"],
+      "tags": ["DO2", "anemia", "hipoxemia", "intervenção hemodinâmica"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente em pós-operatório de cirurgia de grande porte apresenta sinais clínicos e laboratoriais de hipoperfusão tecidual (lactato 5 mmol/L, extremidades frias). À investigação: hemoglobina de 6,5 g/dL com sintomas atribuíveis à anemia, SpO2 88% em ar ambiente e ecografia point-of-care mostrando débito cardíaco no limite inferior. Considerando a fórmula DO2 = DC × CaO2, qual conjunto de intervenções otimiza de forma MAIS coerente os componentes da DO2?",
+      "alternativas": [
+        { "id": "A", "texto": "Apenas suspender a profilaxia de TEV e aguardar correção espontânea." },
+        { "id": "B", "texto": "Transfundir concentrado de hemácias para corrigir a anemia sintomática, suplementar oxigênio para melhorar a saturação e otimizar débito cardíaco (ex.: expansão volêmica e/ou inotrópico conforme avaliação)." },
+        { "id": "C", "texto": "Indicar diálise de urgência exclusivamente para correção do lactato." },
+        { "id": "D", "texto": "Reduzir a FiO2 a 21% e iniciar betabloqueador para reduzir consumo de oxigênio." },
+        { "id": "E", "texto": "Iniciar vasodilatador potente como única intervenção, independentemente da pré-carga." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Como **DO2 = DC × CaO2** e **CaO2** depende principalmente de hemoglobina e saturação de O2, otimizar simultaneamente esses três componentes é o mais coerente: **transfundir** (aumenta CaO2 via Hb), **suplementar O2** (aumenta CaO2 via SaO2) e **otimizar débito cardíaco** intervindo em pré-carga (expansão), contratilidade (inotrópico) e/ou pós-carga conforme o caso. As demais alternativas pioram a oferta tecidual ou ignoram a fisiopatologia do choque.",
+      "referenciaAula": "Quando o paciente tá com choque circulatório, muito do que a gente faz é otimizar essas variáveis que compõem a DO2. Paciente com anemia sintomática, transfundir concentrado de hemácia. Se hipoxêmico, suplementar oxigênio.",
+      "transversal": false
+    }
+  ]
+}

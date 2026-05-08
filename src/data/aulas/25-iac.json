@@ -1,0 +1,216 @@
+{
+  "aulaId": 25,
+  "titulo": "Insuficiência Arterial Crônica",
+  "questoes": [
+    {
+      "id": "Q-25-001",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["aterosclerose", "etiologia", "DAOP"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a principal causa da insuficiência arterial crônica (doença arterial obstrutiva periférica)?",
+      "alternativas": [
+        { "id": "A", "texto": "Tromboangeíte obliterante (doença de Buerger)." },
+        { "id": "B", "texto": "Arterite de Takayasu." },
+        { "id": "C", "texto": "Aterosclerose com deposição de placas de ateroma na parede arterial." },
+        { "id": "D", "texto": "Embolia de origem cardíaca." },
+        { "id": "E", "texto": "Compressão extrínseca por linfonodomegalia." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **aterosclerose** é a principal causa da doença arterial obstrutiva periférica, com deposição de placas de ateroma que levam a endurecimento, perda de elasticidade e oclusão progressiva da artéria. Tromboangeíte e arterites são causas menos comuns; embolia caracteriza oclusão arterial **aguda**, não crônica.",
+      "referenciaAula": "A doença arterial periférica é principalmente causada pela doença aterosclerótica. As placas de ateroma se depositam na parede da artéria.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-002",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["claudicação", "quadro clínico", "fisiopatologia"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a claudicação intermitente na insuficiência arterial crônica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "É uma dor que ocorre tipicamente em repouso e melhora com a deambulação." },
+        { "id": "B", "texto": "Surge ao caminhar porque a demanda muscular aumenta e o fluxo arterial é insuficiente; melhora com o repouso." },
+        { "id": "C", "texto": "É sempre acompanhada de gangrena e lesões tróficas extensas." },
+        { "id": "D", "texto": "Indica isquemia crítica e cirurgia imediata em todos os casos." },
+        { "id": "E", "texto": "É uma manifestação típica da insuficiência venosa crônica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **claudicação intermitente** ocorre porque, ao caminhar, a musculatura precisa de mais sangue, e a artéria estenosada não consegue suprir a demanda — o paciente sente dor, para, melhora com o repouso e volta a andar. Cerca de 70% dos pacientes com DAOP apresentam claudicação. Isquemia crítica corresponde a estágios mais avançados (dor de repouso e gangrena).",
+      "referenciaAula": "Claudicação significa o paciente que quando começa a andar exige mais sangue na perna e não chega; ele para, melhora a situação e volta a andar.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-003",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["fatores de risco", "tabagismo", "diabetes"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação aos fatores de risco para doença arterial obstrutiva periférica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "É mais frequente em mulheres jovens e independe da idade." },
+        { "id": "B", "texto": "O tabagismo NÃO interfere na evolução da doença." },
+        { "id": "C", "texto": "Diabéticos têm 2 a 6 vezes mais doença aterosclerótica, com acometimento típico das artérias distais (infrapatelares)." },
+        { "id": "D", "texto": "O HDL alto é o principal fator que acelera a aterosclerose." },
+        { "id": "E", "texto": "Hipertensão arterial não é fator de risco para a doença." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **diabetes** aumenta de 2 a 6 vezes o risco de doença aterosclerótica e tem como característica o acometimento das **artérias distais** (de perna/infrapatelares), com oclusões multissegmentares. O tabagismo piora a doença por reduzir óxido nítrico e gerar radicais livres. O **LDL alto** é o aterogênico; o HDL é protetor.",
+      "referenciaAula": "Diabetes tem prevalência duas a seis vezes maior de doença aterosclerótica em diabéticos. O diabético tem doença nas artérias distais, nas artérias de perna.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-004",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["Rutherford", "classificação", "estágios"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a classificação de Rutherford para doença arterial obstrutiva periférica, qual associação está CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "Estágio 0 — claudicação grave." },
+        { "id": "B", "texto": "Estágio 1 — paciente assintomático." },
+        { "id": "C", "texto": "Estágio 3 — dor de repouso." },
+        { "id": "D", "texto": "Estágio 4 — gangrena extensa de todo o membro." },
+        { "id": "E", "texto": "Estágio 0 — dor neuropática isquêmica grave." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Na classificação de **Rutherford**, o estágio **0 é assintomático**, **1 claudicação leve**, **2 claudicação moderada**, **3 dor de repouso** e os estágios seguintes correspondem a **lesão trófica pequena** e depois extensa. A dor de repouso já indica isquemia mais grave, com necessidade de avaliação especializada.",
+      "referenciaAula": "Estágio zero o paciente é assintomático; no um, claudicação; no dois, claudicação moderada; no três, dor de repouso; no seguinte, lesão trófica pequena.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-005",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["isquemia crítica", "dor de repouso", "lesão trófica"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, tabagista de longa data, refere dor no antepé direito que piora ao deitar e melhora ao manter o pé pendurado para fora da cama. Apresenta úlcera dolorosa no hálux que não cicatriza há 3 semanas. Qual é a interpretação clínica mais provável?",
+      "alternativas": [
+        { "id": "A", "texto": "Insuficiência venosa crônica com úlcera venosa." },
+        { "id": "B", "texto": "Isquemia crítica de membro (dor de repouso + lesão trófica que não cicatriza)." },
+        { "id": "C", "texto": "Claudicação intermitente leve, estágio inicial da DAOP." },
+        { "id": "D", "texto": "Neuropatia diabética isolada, sem componente isquêmico." },
+        { "id": "E", "texto": "Oclusão arterial aguda com menos de 6 horas de evolução." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A combinação de **dor de repouso** (que melhora com o pé pendurado, pois o sangue \"desce\" pela gravidade) com **lesão trófica que não cicatriza** caracteriza **isquemia crítica de membro**. A insuficiência venosa cursa com edema e melhora com elevação do membro — o oposto do que se descreve. Oclusão aguda é súbita, com palidez, frialdade e dor intensa instalada em horas.",
+      "referenciaAula": "Dor de repouso significa lesão isquêmica tecidual mais grave. O paciente quando deita tem dor, então deixa o pé pendurado, água não sobe montanha, mas desce.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-006",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["diagnóstico diferencial", "insuficiência venosa", "claudicação"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 55 anos, com varizes exuberantes e safena insuficiente, refere dificuldade para caminhar e edema vespertino do membro. Pulsos pediosos e tibiais posteriores presentes e simétricos. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        { "id": "A", "texto": "Insuficiência arterial crônica em estágio de claudicação." },
+        { "id": "B", "texto": "Insuficiência venosa crônica — a dificuldade para andar decorre do prejuízo do retorno venoso e do edema, não de hipofluxo arterial." },
+        { "id": "C", "texto": "Tromboangeíte obliterante." },
+        { "id": "D", "texto": "Síndrome de Leriche." },
+        { "id": "E", "texto": "Embolia arterial periférica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Pulsos distais **presentes e simétricos** afastam doença arterial significativa. A dificuldade para andar com **varizes, safena insuficiente e edema** caracteriza **insuficiência venosa crônica** — o problema é o retorno venoso, não a chegada de sangue arterial. Síndrome de Leriche é oclusão da aorta terminal e cursaria com pulsos femorais ausentes.",
+      "referenciaAula": "Quando o paciente tem varizes grandes, exuberantes, com insuficiência de safena, esses pacientes têm dificuldade para andar; não é porque não chega sangue, é porque tem dificuldade pro retorno venoso, e por isso têm edema.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-007",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["tratamento clínico", "exercício programado", "antiagregante"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento clínico da insuficiência arterial crônica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Indica-se cirurgia de revascularização para todos os pacientes, independentemente do estágio." },
+        { "id": "B", "texto": "O exercício programado (caminha-para, caminha-para) deve ser desencorajado para evitar dor." },
+        { "id": "C", "texto": "Aproximadamente metade dos pacientes não necessita de cirurgia; o tratamento clínico inclui cessação do tabagismo, controle de dislipidemia/diabetes/HAS, exercício programado e antiagregantes (AAS, clopidogrel)." },
+        { "id": "D", "texto": "O tabagismo passivo não interfere na evolução da doença." },
+        { "id": "E", "texto": "Prostaglandinas são a droga de primeira linha em pacientes com claudicação leve." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Cerca de **50% dos pacientes** não precisam de cirurgia. O tratamento clínico inclui **cessação do tabagismo** (inclusive o passivo), controle de hiperlipidemia, diabetes e hipertensão, **exercício programado** (estimula formação de circulação colateral) e **antiagregantes plaquetários** (AAS, clopidogrel). Prostaglandinas são pouco usadas, principalmente em quadros agudos e com cuidado pelo efeito cardíaco.",
+      "referenciaAula": "Sabemos que 50% dos pacientes não vão ser submetidos a cirurgia. O exercício programado, com liberação de radicais, vai facilitar a formação de circulação colateral. Usamos drogas como AAS e clopidogrel.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-008",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["substituto arterial", "veia safena", "revascularização"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o material de escolha para revascularização arterial aberta nos membros inferiores (ex.: ponte fêmoro-poplítea), assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A prótese de Dacron é o material de escolha por durar mais que veia." },
+        { "id": "B", "texto": "A veia safena interna é o melhor substituto arterial; próteses são reservadas para quando a safena não está disponível." },
+        { "id": "C", "texto": "Próteses de Dacron são preferidas mesmo em pontes que cruzam o joelho." },
+        { "id": "D", "texto": "Em vigência de infecção, a prótese sintética é o material de primeira escolha." },
+        { "id": "E", "texto": "A artéria femoral profunda é o substituto arterial padrão." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **veia safena interna** é o melhor substituto arterial — pode ser usada invertida, in situ ou ex vivo. Próteses sintéticas são alternativa quando não há safena disponível (ex.: já usada em revascularização cardíaca), mas duram menos que a veia. **Dacron não cruza articulação** (dobra e oclui); usa-se PTFE quando necessário. Em infecção, evita-se prótese — prefere-se material biológico autólogo.",
+      "referenciaAula": "O melhor substituto arterial é a veia safena interna. Prótese sempre vai durar menos que veia. A prótese de Dacron, quando o joelho dobrar, vai dobrar e ocluir o vaso.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-009",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["síndrome de Leriche", "aorta terminal", "kissing stent"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 64 anos, tabagista, hipertenso, com doença arterial coronariana e diabetes mellitus. Refere claudicação glútea bilateral progressiva, fadiga em coxas após andar 100 metros e disfunção erétil. Ao exame, pulsos femorais bilaterais ausentes. AngioTC mostra oclusão da aorta terminal e ilíacas comuns. Qual é o diagnóstico e a opção endovascular mais característica?",
+      "alternativas": [
+        { "id": "A", "texto": "Tromboangeíte obliterante; angioplastia de artérias infrapatelares." },
+        { "id": "B", "texto": "Síndrome de Leriche (oclusão aortoilíaca); tratamento endovascular com kissing stents bilaterais nas ilíacas comuns." },
+        { "id": "C", "texto": "Embolia aguda de aorta; trombólise sistêmica isolada." },
+        { "id": "D", "texto": "Insuficiência venosa crônica grave; escleroterapia de safena." },
+        { "id": "E", "texto": "Aneurisma de aorta abdominal roto; laparotomia de urgência." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A tríade **claudicação glútea/coxa + disfunção erétil + pulsos femorais ausentes** caracteriza a **síndrome de Leriche** (oclusão da aorta terminal e ilíacas). O tratamento endovascular típico é a colocação de **kissing stents** — um stent em cada ilíaca comum, que se \"beijam\" na aorta — restaurando o fluxo sem cirurgia aberta. Especialmente útil em pacientes de alto risco cirúrgico (cardiopatas, pneumopatas).",
+      "referenciaAula": "A síndrome de Leriche é uma oclusão da aorta terminal. Fizemos angioplastia, colocamos um estente de cada lado, esses estentes se encontram na aorta e se beijam, por isso chama kissing stent.",
+      "transversal": false
+    },
+    {
+      "id": "Q-25-010",
+      "aulaOrigem": 25,
+      "blocos": ["F"],
+      "eixos": ["T4", "T8"],
+      "tags": ["isquemia crítica", "amputação", "revascularização", "vazão distal"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 72 anos, diabético de longa data, tabagista ativo, com doença arterial coronariana e disfunção erétil, apresenta claudicação intermitente que progrediu para dor de repouso e gangrena no antepé direito. AngioTC mostra leito distal extremamente comprometido, sem artérias-alvo viáveis para anastomose distal. Qual é a conduta mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Tentar ponte fêmoro-distal com prótese de Dacron, mesmo sem vazão distal." },
+        { "id": "B", "texto": "Apenas tratamento clínico com AAS e exercício programado, sem outra intervenção." },
+        { "id": "C", "texto": "Sem leito distal viável (ausência de vazão), não há condição de revascularização; a conduta é amputação para controle da dor, da gangrena e melhora da qualidade de vida, com analgesia adequada." },
+        { "id": "D", "texto": "Trombólise sistêmica com fibrinolítico independentemente do tempo de evolução." },
+        { "id": "E", "texto": "Aguardar cicatrização espontânea da gangrena com curativos seriados." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Para realizar uma revascularização (ponte ou angioplastia) é imprescindível haver **vazão (run-off) distal** — uma artéria-alvo que receba o fluxo. Sem leito distal viável, qualquer ponte trombosará rapidamente. Em paciente com **isquemia crítica** (gangrena estabelecida) sem possibilidade de revascularização, a conduta é **amputação** para controle da dor e qualidade de vida, com analgesia adequada. Tratamento clínico isolado não resolve gangrena estabelecida; fibrinolítico só tem papel em oclusões agudas (<14 dias) sobre placa.",
+      "referenciaAula": "Se eu vou fazer uma ponte, eu tenho que ter vazão do sangue que estou colocando. Se o paciente não tem vazão distal, não tenho condição de restauração arterial; nesses casos fazemos a amputação para tirar a dor e dar qualidade de vida.",
+      "transversal": false
+    }
+  ]
+}

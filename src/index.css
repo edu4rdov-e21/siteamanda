@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 font-sans transition-colors;
+}
+
+html.dark body {
+  @apply bg-slate-950 text-slate-100;
+}
+
+.markdown p { @apply mb-2; }
+.markdown ul { @apply list-disc list-inside mb-2; }
+.markdown strong { @apply font-semibold; }
+.markdown em { @apply italic; }
+.markdown code { @apply bg-slate-100 dark:bg-slate-800 px-1 rounded; }

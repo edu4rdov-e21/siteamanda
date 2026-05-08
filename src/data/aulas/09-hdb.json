@@ -1,0 +1,216 @@
+{
+  "aulaId": 9,
+  "titulo": "Hemorragia Digestiva Baixa",
+  "questoes": [
+    {
+      "id": "Q-09-001",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["definicao", "anatomia", "angulo de Treitz"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Por definicao anatomica, a hemorragia digestiva baixa (distal) corresponde ao sangramento que se origina:",
+      "alternativas": [
+        { "id": "A", "texto": "Do esofago, estomago ou duodeno." },
+        { "id": "B", "texto": "Em qualquer ponto distal ao angulo de Treitz, abrangendo intestino delgado, colon, reto e canal anal." },
+        { "id": "C", "texto": "Apenas no colon e reto." },
+        { "id": "D", "texto": "Apenas no canal anal e reto distal." },
+        { "id": "E", "texto": "No estomago e no duodeno proximal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **hemorragia digestiva baixa** e definida como o sangramento que ocorre **distal ao angulo de Treitz**, abrangendo todo o intestino delgado (cerca de 5 m), o colon, o reto e o canal anal. O sangramento proximal (alto) inclui esofago, estomago e duodeno.",
+      "referenciaAula": "Proximal envolve todo sangramento que vem do angulo de Treitz e nos segmentos proximais. O sangramento distal pega todo o intestino delgado, o colon, reto e canal anal.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-002",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["terminologia", "hematoquezia", "melena"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a terminologia dos sangramentos digestivos, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Melena e o sangramento vermelho vivo, tipico de hemorragia distal." },
+        { "id": "B", "texto": "Hematoquezia e sempre indicativa de sangramento proximal." },
+        { "id": "C", "texto": "Melena e o sangue escuro, digerido, mais frequente em sangramentos proximais; hematoquezia e o sangue vermelho que permaneceu pouco tempo no tubo digestivo, mais frequente em sangramentos distais." },
+        { "id": "D", "texto": "Enterorragia significa sangramento exclusivamente gastrico." },
+        { "id": "E", "texto": "Sangramento obscuro e aquele com volume macico que leva o paciente ao pronto-socorro." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Melena** e o sangue escuro, digerido, tipico de sangramento proximal. **Hematoquezia** e o sangue vermelho que permaneceu pouco tempo no tubo digestivo, mais frequentemente associado a sangramentos distais (porem pode ocorrer em sangramentos proximais de grande volume, como variz esofagica). **Sangramento obscuro** e aquele que o paciente nao percebe e que se manifesta por anemia.",
+      "referenciaAula": "Melena e aquele sangue escuro digerido que normalmente e proximal. Hematoquezia e aquele sangramento que correu ou ficou menos tempo no tubo digestivo.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-003",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["doenca diverticular", "etiologia", "sangramento agudo"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual e a causa mais frequente de hemorragia digestiva baixa AGUDA, com sangramento de grande volume em paciente assintomatico?",
+      "alternativas": [
+        { "id": "A", "texto": "Doenca hemorroidaria." },
+        { "id": "B", "texto": "Doenca diverticular dos colons." },
+        { "id": "C", "texto": "Neoplasia colorretal." },
+        { "id": "D", "texto": "Colite isquemica." },
+        { "id": "E", "texto": "Doenca inflamatoria intestinal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **doenca diverticular** e a causa mais frequente de hemorragia digestiva baixa **aguda** de grande volume. O paciente tipicamente esta assintomatico, sem dor, e apresenta subitamente um sangramento volumoso. Felizmente, em cerca de **90% dos casos o sangramento cessa espontaneamente**. Hemorroidas e tumores costumam dar sangramento intermitente, nao agudo de grande volume.",
+      "referenciaAula": "A causa mais frequente e a doenca diverticular. Sangramento em grande volume, sem dor, e em 90% dos casos cessa espontaneamente.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-004",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["doenca hemorroidaria", "vinheta", "diagnostico diferencial"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 35 anos, refere ha 6 meses sangramento vermelho vivo intermitente apos evacuacao, percebido na higiene, sem dor, sem alteracao do habito intestinal e sem emagrecimento. Qual a hipotese diagnostica MAIS provavel?",
+      "alternativas": [
+        { "id": "A", "texto": "Neoplasia de colon direito." },
+        { "id": "B", "texto": "Doenca hemorroidaria." },
+        { "id": "C", "texto": "Colite isquemica." },
+        { "id": "D", "texto": "Angiodisplasia de delgado." },
+        { "id": "E", "texto": "Lesao actinica do reto." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro tipico de **doenca hemorroidaria** e o sangramento vermelho vivo, **intermitente, apos a evacuacao**, percebido na higiene ou como gotejamento, geralmente **sem dor** (a hemorroida nao dói, exceto se trombosada). A fissura, em contraste, da sangramento de menor volume porem **com dor**. Apesar de provavel, deve-se sempre afastar neoplasia em casos persistentes ou em pacientes mais idosos.",
+      "referenciaAula": "Aquele sangramento esporadico que nao e um volume muito grande, que o paciente percebe quando vai fazer higiene, ou um gotejamento apos evacuacao, normalmente e doenca hemorroidaria.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-005",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["neoplasia", "anemia ferropriva", "investigacao"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, procura assistencia por cansaco e indisposicao. Hemoglobina 7,2 g/dL, com anemia ferropriva e sem queixa abdominal ou sangramento perceptivel. Qual a conduta mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Iniciar reposicao de ferro oral e reavaliar em 6 meses, sem necessidade de exames." },
+        { "id": "B", "texto": "Investigar sangramento gastrointestinal com endoscopia digestiva alta e colonoscopia para afastar neoplasia." },
+        { "id": "C", "texto": "Solicitar apenas pesquisa de sangue oculto nas fezes." },
+        { "id": "D", "texto": "Indicar laparotomia exploradora." },
+        { "id": "E", "texto": "Tratar empiricamente como anemia carencial nutricional." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Adulto com anemia ferropriva esta perdendo sangue ate prova em contrario** e exige investigacao do tubo digestivo. As neoplasias de **colon direito** e de **fundo gastrico** classicamente cursam com **perda cronica imperceptivel** e anemia como unica manifestacao. A conduta correta e EDA + colonoscopia; tratar com ferro sem investigar e um erro.",
+      "referenciaAula": "Adulto com anemia ferropriva, ele esta perdendo sangue em algum local e a gente tem que afastar a neoplasia. E um erro tratar anemia com ferro e nao investigar em adulto.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-006",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["angiodisplasia", "ectasia vascular", "colon direito"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a angiodisplasia (ectasia vascular) como causa de hemorragia digestiva baixa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "E uma malformacao congenita presente desde o nascimento." },
+        { "id": "B", "texto": "E uma lesao adquirida, mais comum em idosos, localizada preferencialmente no colon direito, podendo ocorrer no delgado, e cursa com sangramento intermitente ou anemia." },
+        { "id": "C", "texto": "Acomete preferencialmente pacientes jovens e o sigmoide." },
+        { "id": "D", "texto": "Sempre cursa com dor abdominal intensa e febre." },
+        { "id": "E", "texto": "E a causa mais frequente de sangramento agudo de grande volume." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **angiodisplasia** e uma lesao **adquirida e degenerativa** (nao congenita) que se desenvolve ao longo da vida pela dificuldade de retorno venoso, formando uma **fistula arteriovenosa** entre arteriola e venula. E mais comum em **idosos** e localiza-se preferencialmente no **colon direito**, embora possa ocorrer no delgado. Cursa com sangramento intermitente ou apenas anemia, e o uso de antiagregantes/anticoagulantes aumenta a frequencia de sangramento.",
+      "referenciaAula": "Forma-se uma fistula arteriovenosa, ectasia vascular ou angiodisplasia, mais comum no colon direito e eventualmente no delgado. E mais comum em pessoas idosas, causa sangramento intermitente, alguns desenvolvem anemia.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-007",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["lesao actinica", "radioterapia", "retite"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 72 anos, com antecedente de radioterapia para cancer de prostata ha 10 meses, evolui com sangramento retal intermitente e anemia. Qual a hipotese diagnostica MAIS provavel?",
+      "alternativas": [
+        { "id": "A", "texto": "Recidiva de cancer de prostata invadindo o reto." },
+        { "id": "B", "texto": "Lesao actinica do reto (retite actinica)." },
+        { "id": "C", "texto": "Hemorroida trombosada." },
+        { "id": "D", "texto": "Angiodisplasia de colon direito." },
+        { "id": "E", "texto": "Doenca diverticular do sigmoide." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **lesao actinica** (retite actinica) e uma manifestacao **tardia** da radioterapia (geralmente 6-12 meses ou mais), causada por **endarterite obliterante** com isquemia progressiva da parede do reto. Cursa com sangramento intermitente que pode ser importante, levando a anemia. O contexto pos-radioterapia para cancer de prostata, colo uterino ou endometrio e classico.",
+      "referenciaAula": "Radioterapia para tratamento de cancer de prostata pode levar uma lesao no reto e isso pode causar sangramento as vezes tardiamente, 6 meses, 8 meses, um ano depois.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-008",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["colite isquemica", "vinheta", "idoso", "dor abdominal"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 75 anos, hipertensa e com fibrilacao atrial, apresenta dor abdominal subita em flanco esquerdo seguida de diarreia com sangue. Qual a hipotese MAIS provavel?",
+      "alternativas": [
+        { "id": "A", "texto": "Doenca diverticular hemorragica." },
+        { "id": "B", "texto": "Colite isquemica de colon esquerdo." },
+        { "id": "C", "texto": "Doenca hemorroidaria." },
+        { "id": "D", "texto": "Angiodisplasia de colon direito." },
+        { "id": "E", "texto": "Adenocarcinoma de reto." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **colite isquemica** acomete preferencialmente **idosos** com doenca cardiovascular e tipicamente envolve o **colon esquerdo** (areas de menor irrigacao colateral). O quadro caracteristico e **dor abdominal seguida de sangramento misturado as fezes**, frequentemente com diarreia. A diferenciacao com doenca diverticular hemorragica e fundamental: nesta ultima o sangramento e indolor e de grande volume.",
+      "referenciaAula": "A colite isquemica caracteriza-se por uma dor abdominal associada, mais frequente em idosos e no colon esquerdo. Da uma descamacao da mucosa com sangramento.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-009",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["instabilidade hemodinamica", "investigacao", "angiotomografia", "colonoscopia"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 78 anos, chega ao pronto-socorro com hematoquezia volumosa, FC 118 bpm, PAS 95 mmHg, enchimento capilar lentificado e Hb 6,8 g/dL. Apos estabilizacao inicial, qual a estrategia diagnostica/terapeutica MAIS adequada nesse cenario de instabilidade?",
+      "alternativas": [
+        { "id": "A", "texto": "Realizar colonoscopia de urgencia, pois e o exame de primeira linha em qualquer hemorragia digestiva baixa." },
+        { "id": "B", "texto": "Indicar imediatamente cintilografia com hemacias marcadas como exame de escolha." },
+        { "id": "C", "texto": "Considerar endoscopia digestiva alta e angiotomografia, pois colonoscopia exige preparo e e demorada e a relacao ureia/creatinina e angio-TC podem orientar a localizacao e permitir embolizacao terapeutica." },
+        { "id": "D", "texto": "Indicar laparotomia exploradora imediata como melhor metodo diagnostico." },
+        { "id": "E", "texto": "Apenas observar, pois 90% dos sangramentos diverticulares cessam espontaneamente." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Na **instabilidade hemodinamica**, a colonoscopia **nao e recomendada** (preparo demorado, colon sujo, exame longo) e a cintilografia tambem e demorada. A conduta e: estabilizar com cristaloides, considerar transfusao por criterios, **EDA** (afasta sangramento proximal e tumores de fundo gastrico), avaliar **relacao ureia/creatinina** (>30 sugere proximal) e **angiotomografia**, que permite localizar o sangramento e eventualmente realizar **embolizacao** (sucesso 80-90%). A laparotomia as cegas e ruim como ferramenta diagnostica.",
+      "referenciaAula": "Na instabilidade hemodinamica, a colonoscopia nao ajuda muito, nao deve ser feito. Deve fazer a endoscopia, a relacao ureia creatinina ajuda e a angiotomografia, podendo fazer embolizacao com sucesso de 80-90%.",
+      "transversal": false
+    },
+    {
+      "id": "Q-09-010",
+      "aulaOrigem": 9,
+      "blocos": ["B"],
+      "eixos": ["T2"],
+      "tags": ["sangramento obscuro", "delgado", "capsula endoscopica", "enteroscopia"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 65 anos, com anemia ferropriva persistente e fezes sem sangue visivel. EDA e colonoscopia normais. Qual a sequencia diagnostica e terapeutica MAIS adequada para investigar o intestino delgado?",
+      "alternativas": [
+        { "id": "A", "texto": "Repetir EDA e colonoscopia em 6 meses sem investigacao adicional." },
+        { "id": "B", "texto": "Indicar laparotomia exploradora com enterectomia segmentar empirica." },
+        { "id": "C", "texto": "Realizar capsula endoscopica para identificar a possivel lesao do delgado e, se positiva, encaminhar para enteroscopia, que permite tratamento (cauterizacao, polipectomia)." },
+        { "id": "D", "texto": "Solicitar apenas pesquisa de sangue oculto seriado." },
+        { "id": "E", "texto": "Indicar cintilografia com hemacias marcadas como exame inicial e definitivo." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Diante de **sangramento obscuro** (anemia ferropriva sem sangramento percebido) com EDA e colonoscopia normais, a investigacao avanca para o **intestino delgado**. A **capsula endoscopica** e o exame inicial: o paciente ingere a capsula que faz imagens de todo o delgado. Se identificada uma lesao (ex.: angiodisplasia, polipos), a **enteroscopia** (oral ou anal) e o passo seguinte, com a vantagem de permitir terapeutica (cauterizacao, polipectomia). Laparotomia empirica e inadequada como ferramenta de investigacao.",
+      "referenciaAula": "Sangramento obscuro a causa mais comum e anemia ferropriva. Faz-se capsula endoscopica e depois enteroscopia, que permite tratamento como cauterizacao e retirada de polipo.",
+      "transversal": false
+    }
+  ]
+}

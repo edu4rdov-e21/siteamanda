@@ -1,0 +1,216 @@
+{
+  "eixoId": "T8",
+  "titulo": "Homem >60 multissintomático",
+  "questoes": [
+    {
+      "id": "Q-T8-001",
+      "aulaOrigem": null,
+      "blocos": ["H", "F"],
+      "eixos": ["T8", "T4"],
+      "tags": ["disfunção erétil", "aterosclerose", "marcador coronariano", "claudicação"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Homem de 62 anos, tabagista, dislipidêmico, refere disfunção erétil progressiva há 18 meses e claudicação intermitente em panturrilha direita após 200 m. Qual a interpretação fisiopatológica MAIS adequada para a coexistência dos sintomas?",
+      "alternativas": [
+        { "id": "A", "texto": "Quadro psicogênico isolado, sem relação entre os sintomas." },
+        { "id": "B", "texto": "Disfunção endotelial sistêmica por aterosclerose; a artéria cavernosa (1-2 mm) costuma ocluir antes da coronária e dos grandes vasos periféricos, e a DE precede em 2-5 anos eventos cardiovasculares." },
+        { "id": "C", "texto": "Hipogonadismo primário como única explicação para ambos os sintomas." },
+        { "id": "D", "texto": "Neuropatia diabética isolada, sem componente vascular." },
+        { "id": "E", "texto": "Efeito colateral de medicação anti-hipertensiva, sem relevância prognóstica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **disfunção erétil é marcador precoce de doença coronariana e aterosclerose sistêmica**. A artéria cavernosa tem 1-2 mm — calibre menor que a coronária (3-4 mm) — e oclui primeiro. A DE pode anteceder o infarto e a doença arterial periférica sintomática em **2 a 5 anos**. Coexistência com claudicação reforça aterosclerose difusa: o paciente exige avaliação cardiovascular completa.",
+      "referenciaAula": "A artéria cavernosa tem 1 a 2 mm e a coronária 3 a 4 mm. Provavelmente o que vai obstruir primeiro é a artéria cavernosa. A disfunção erétil acontece de 2 a 5 anos antes do paciente obstruir a coronária.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-002",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["STUI", "hipogonadismo", "diagnóstico clínico-laboratorial", "homem idoso"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 68 anos refere noctúria (3x/noite), jato fraco, fadiga, queda de libido e diminuição da força muscular há 1 ano. PSA 2,1 ng/mL, próstata 45 g ao US, IPSS 14. Testosterona total 240 ng/dL (segunda dosagem 260 ng/dL). Qual a conduta mais adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Iniciar apenas reposição de testosterona, pois normalizará todos os sintomas urinários e sexuais." },
+        { "id": "B", "texto": "Indicar RTU de próstata imediata como tratamento único." },
+        { "id": "C", "texto": "Iniciar alfabloqueador para STUI moderado e considerar reposição de testosterona, dado o hipogonadismo confirmado por duas dosagens <300 ng/dL associado a sintomas — avaliar riscos/benefícios individualmente." },
+        { "id": "D", "texto": "Solicitar biópsia de próstata por suspeita de câncer." },
+        { "id": "E", "texto": "Apenas observar, pois a testosterona <300 ng/dL é fisiológica nessa idade." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O diagnóstico de **hipogonadismo é clínico + laboratorial**: duas dosagens <300 ng/dL associadas a sintomas (libido baixa, fadiga, queda de força). O paciente também tem **STUI moderado (IPSS 8-19)** — alfabloqueador (doxazosina/tansulosina) é o tratamento inicial. Reposição de testosterona é considerada após avaliar riscos. PSA 2,1 e próstata 45 g não indicam biópsia.",
+      "referenciaAula": "Hipogonadismo é diagnóstico clínico mais laboratorial: duas dosagens de testosterona total abaixo de 300 associadas a sintomas. Paciente com sintoma moderado para cima é candidato a usar alfabloqueador.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-003",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["cólica renal", "alfabloqueador", "STUI", "tratamento integrado"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 65 anos com HPB em uso de doxazosina há 2 anos chega ao PS com dor lombar à direita irradiando para fossa ilíaca, náuseas e disúria. TC: cálculo de 5 mm em ureter distal direito, hidronefrose leve, sem febre, função renal normal. Qual a conduta MAIS adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Indicação imediata de ureterolitotripsia rígida, pois o cálculo é distal." },
+        { "id": "B", "texto": "Drenagem urgente com duplo J por risco de pielonefrite obstrutiva." },
+        { "id": "C", "texto": "Hidratação moderada, analgesia (AINE/opioide se necessário), antiemético; manter alfabloqueador (já em uso para HPB) que também favorece eliminação espontânea de cálculo distal; orientar acompanhamento ambulatorial." },
+        { "id": "D", "texto": "Hiperhidratação vigorosa para empurrar o cálculo." },
+        { "id": "E", "texto": "Suspender doxazosina, pois agrava a cólica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Cálculo ureteral distal de 5 mm sem infecção/disfunção renal: tratamento clínico com **hidratação moderada** (não vigorosa, pois piora a distensão da cápsula), analgesia e **alfabloqueador**. A doxazosina, já usada para HPB, relaxa receptores alfa do ureter distal e favorece eliminação espontânea — vantagem terapêutica nesse paciente. Sem febre/leucocitose, não há pielonefrite obstrutiva.",
+      "referenciaAula": "A hidratação é sempre moderada e não acentuada. Tansulosina e doxazosina são os dois mais conhecidos que vocês vão usar em próstata também, mas que a ideia aqui é relaxar o ureter distal e ver se tem uma eliminação espontânea.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-004",
+      "aulaOrigem": null,
+      "blocos": ["H", "F"],
+      "eixos": ["T8", "T4"],
+      "tags": ["claudicação", "DE", "tabagismo", "fatores de risco compartilhados"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os fatores de risco compartilhados entre disfunção erétil e doença arterial periférica em homens >60 anos, qual associação está CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "Tabagismo afeta apenas a circulação periférica, sem repercussão na função erétil." },
+        { "id": "B", "texto": "Diabetes melito causa apenas neuropatia; não há componente vascular relevante na DE nem na DAOP." },
+        { "id": "C", "texto": "Tabagismo, dislipidemia, diabetes e hipertensão são fatores de risco comuns; ambos compartilham disfunção endotelial com queda de óxido nítrico, e o tabagismo eleva o risco de DAOP em até 9 vezes." },
+        { "id": "D", "texto": "HDL elevado é fator de risco para ambas as doenças." },
+        { "id": "E", "texto": "A reposição de testosterona elimina completamente o risco aterosclerótico." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Aterosclerose é doença sistêmica** com fatores de risco compartilhados: tabagismo, dislipidemia, diabetes, HAS, sedentarismo. O **tabagismo reduz óxido nítrico**, gera radicais livres e eleva risco de DAOP em ~9x. A disfunção endotelial é o elo comum: queda de NO compromete relaxamento da musculatura lisa cavernosa (DE) e parede vascular (DAOP). HDL alto é PROTETOR, não fator de risco.",
+      "referenciaAula": "Os mesmos fatores de risco para a doença coronariana: tabagismo, estresse, obesidade, dieta, diabetes, sedentarismo. 9 a 10% dos doentes com a doença arterial são tabagistas e o risco é nove vezes maior.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-005",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["pielonefrite obstrutiva", "homem idoso", "infecção urinária", "HPB"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 70 anos, com HPB conhecida, chega ao PS com febre 39 °C, calafrios, dor lombar esquerda, disúria, hipotensão (PA 90x60). TC: cálculo de 8 mm em JUP esquerda com hidronefrose moderada e nefrograma estriado; resíduo pós-miccional 180 mL. Hemograma: leucócitos 19.000 com desvio. Qual a conduta IMEDIATA mais adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Apenas alfabloqueador e antibiótico oral domiciliar." },
+        { "id": "B", "texto": "Ureterolitotripsia flexível imediata com tratamento definitivo do cálculo." },
+        { "id": "C", "texto": "Estabilização hemodinâmica, antibiótico EV de amplo espectro e DRENAGEM urgente do trato urinário (duplo J ou nefrostomia) — pielonefrite obstrutiva é EMERGÊNCIA urológica; tratamento definitivo do cálculo em segundo tempo. Investigar HPB descompensada após resolução." },
+        { "id": "D", "texto": "Litotripsia extracorpórea de urgência." },
+        { "id": "E", "texto": "Apenas SVD para descomprimir bexiga e antibiótico EV." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Pielonefrite obstrutiva** é emergência urológica de alta mortalidade — o rim recebe 25% do débito cardíaco, e o quadro evolui rapidamente para sepse. O raciocínio é de **abscesso contido que precisa ser drenado**: duplo J retrógrado ou nefrostomia percutânea, junto com ATB EV. O cálculo é tratado em segundo tempo. Em homem idoso com HPB e infecção, lembrar: ITU em homem nunca é trivial — sempre investigar próstata.",
+      "referenciaAula": "Pielonefrite obstrutiva é uma emergência. O objetivo é drenagem apenas; tratar o cálculo num segundo momento. Homem com infecção urinária não é uma coisa esperada — lembrar da próstata.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-006",
+      "aulaOrigem": null,
+      "blocos": ["H", "F"],
+      "eixos": ["T8", "T4"],
+      "tags": ["dor lombar", "diagnóstico diferencial", "aneurisma", "cólica renal"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 72 anos, tabagista, hipertenso, com claudicação prévia, chega ao PS com dor lombar súbita à esquerda irradiando para flanco e fossa ilíaca, hipotensão (PA 80x50), palidez. Refere DE de longa data. Qual o raciocínio diagnóstico CORRETO?",
+      "alternativas": [
+        { "id": "A", "texto": "Cólica renal típica — solicitar TC sem contraste e iniciar analgesia simples." },
+        { "id": "B", "texto": "ITU baixa — solicitar urocultura e iniciar ciprofloxacino." },
+        { "id": "C", "texto": "Em homem >60 anos tabagista, hipertenso, com aterosclerose sistêmica (claudicação + DE), dor lombar súbita com instabilidade hemodinâmica obriga a SUSPEITA DE ANEURISMA DE AORTA ABDOMINAL ROTO — solicitar angio-TC de urgência; cólica renal é diagnóstico de exclusão nesse contexto." },
+        { "id": "D", "texto": "Crise hipertensiva — administrar nitroprussiato." },
+        { "id": "E", "texto": "Pielonefrite obstrutiva — passar duplo J de urgência." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em homem >60 com perfil aterosclerótico (DE, claudicação, tabagismo), **dor lombar súbita com hipotensão** deve levantar suspeita de **aneurisma de aorta abdominal roto** — diagnóstico diferencial obrigatório com cólica renal. A DE nesse paciente já era marcador de doença vascular sistêmica. Angio-TC define rapidamente. Tratar como cólica simples pode ser fatal. Reconhecer o padrão multissintomático é central.",
+      "referenciaAula": "A angiotomografia é o que a gente usa muito em doenças arteriais intra-abdominais. Os pacientes com mais de 70 anos têm doença aterosclerótica em 20%. A DE é marcador de doença coronariana e aterosclerose sistêmica.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-007",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["RTU", "hiponatremia dilucional", "complicação cirúrgica", "homem idoso"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 74 anos submetido a RTU monopolar de próstata (75 g) há 70 minutos evolui no intraoperatório com sonolência, bradicardia e convulsão. Sódio sérico cai de 138 para 118 mEq/L. Em paralelo, paciente tinha história de DE e claudicação. Qual a interpretação?",
+      "alternativas": [
+        { "id": "A", "texto": "Choque séptico — iniciar noradrenalina e ATB." },
+        { "id": "B", "texto": "Síndrome pós-RTU (intoxicação hídrica/hiponatremia dilucional) por absorção de solução não-iônica (água destilada/glicina/manitol) através do leito prostático cruento — interromper a cirurgia, restringir hídrico e corrigir cuidadosamente o sódio. Tempo cirúrgico >60 min e próstata >60-80 g aumentam o risco." },
+        { "id": "C", "texto": "AVC isquêmico por placa aterosclerótica intraoperatória." },
+        { "id": "D", "texto": "Crise hipoglicêmica — administrar glicose hipertônica." },
+        { "id": "E", "texto": "Reação alérgica ao látex." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Síndrome pós-RTU**: durante RTU monopolar usa-se solução não-iônica (água destilada, glicina, manitol) — o açúcar é metabolizado e sobra **água livre**, causando **hipervolemia + hiponatremia dilucional** com sintomas neurológicos. Por isso o tempo cirúrgico é limitado a ~60 min e próstatas >80 g devem ser tratadas com bipolar (soro fisiológico) ou cirurgia aberta. O contexto vascular do paciente é distrator.",
+      "referenciaAula": "O paciente após uma RTU pode ter uma hipervolemia com hiponatremia dilucional e essa hiponatremia pode causar alterações neurológicas. Restringir o tempo da cirurgia para meia hora, 40 minutos, não mais de 1 hora.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-008",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["testosterona", "iPDE-5", "DE refratária", "investigação integrada"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 66 anos com DE há 3 anos, sem resposta ao sildenafil 100 mg em 6 tentativas. Refere fadiga, queda de libido, perda de massa muscular e noctúria. Testosterona total 220 ng/dL (confirmada). FSH/LH normais. PSA 1,8. Glicemia 102. Qual a melhor justificativa para a refratariedade ao iPDE-5 e a conduta?",
+      "alternativas": [
+        { "id": "A", "texto": "Aumentar dose de sildenafil para 200 mg, sem outras medidas." },
+        { "id": "B", "texto": "Indivíduos com testosterona baixa respondem POBREMENTE aos inibidores de fosfodiesterase, pois a testosterona regula positivamente a expressão de óxido nítrico e da PDE-5; corrigir o hipogonadismo (após avaliação de riscos/benefícios) tende a melhorar a resposta ao iPDE-5; investigar também causa secundária do hipogonadismo." },
+        { "id": "C", "texto": "Trocar imediatamente para prótese peniana." },
+        { "id": "D", "texto": "Iniciar finasterida, pois corrige a DE." },
+        { "id": "E", "texto": "Indicar revascularização cavernosa de urgência." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **testosterona regula positivamente a expressão de óxido nítrico** e a expressão de PDE-5 no corpo cavernoso. Pacientes hipogonádicos têm **resposta pobre aos iPDE-5** (sildenafil/tadalafil/vardenafil). Corrigir o hipogonadismo melhora a resposta. FSH/LH normais com testosterona baixa sugerem hipogonadismo secundário — investigar (TSH, prolactina, RM de hipófise se indicado).",
+      "referenciaAula": "Indivíduos que têm uma queda da testosterona respondem de maneira pobre aos inibidores de fosfodiesterase. A testosterona regula positivamente as respostas funcionais e a expressão de óxido nítrico no corpo cavernoso humano.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-009",
+      "aulaOrigem": null,
+      "blocos": ["H", "F"],
+      "eixos": ["T8", "T4"],
+      "tags": ["aterosclerose sistêmica", "rastreio cardiovascular", "DE como sentinela"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 64 anos, assintomático cardiovascular, vem ao consultório referindo apenas DE há 14 meses, com piora progressiva. Hipertenso controlado, ex-tabagista (parou há 1 ano, 30 maços-ano), LDL 165, glicemia jejum 118. Sem queixas urinárias. Conduta MAIS apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Prescrever sildenafil sob demanda e dispensar — DE isolada não exige investigação adicional." },
+        { "id": "B", "texto": "Considerar a DE como MARCADOR DE DOENÇA CARDIOVASCULAR — solicitar avaliação cardiovascular (perfil lipídico completo, ECG, considerar teste ergométrico/escore de cálcio), otimizar fatores de risco (LDL, glicemia, pressão), avaliar índice tornozelo-braquial pela história de tabagismo, antes ou em paralelo ao tratamento da DE." },
+        { "id": "C", "texto": "Indicar revascularização cavernosa eletiva." },
+        { "id": "D", "texto": "Solicitar apenas testosterona total — se normal, encerrar investigação." },
+        { "id": "E", "texto": "Iniciar AAS empírico e dispensar." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**DE em homem >60 com fatores de risco cardiovasculares é sinal sentinela**: pode preceder em 2-5 anos eventos coronarianos. Conduta racional integra **otimização agressiva dos fatores de risco** (LDL alto, pré-diabetes, ex-tabagismo) e investigação cardiovascular. ITB rastreia DAOP subclínica em ex-tabagista. Tratar a DE sem investigar é perder a janela preventiva.",
+      "referenciaAula": "Hoje a disfunção erétil é um marcador de doença coronariana. Daí a importância de nós estudarmos a disfunção erétil, não somente pela qualidade de vida, mas porque ele acaba sendo um marcador de doença coronariana.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T8-010",
+      "aulaOrigem": null,
+      "blocos": ["H"],
+      "eixos": ["T8"],
+      "tags": ["multissintomático", "priorização", "abordagem integrada", "homem idoso"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 71 anos, diabético, tabagista, vem à UBS com QUATRO queixas: (1) claudicação após 100 m, (2) DE há 2 anos, (3) noctúria 4x/noite com jato fraco e gotejamento, (4) episódio recente de cólica lombar com eliminação de cálculo de oxalato de cálcio. Exame: pulsos pediosos diminuídos, IPSS 22, próstata 60 g endurecida ao toque, PSA 8,5 ng/mL. Qual a sequência de PRIORIZAÇÃO mais adequada?",
+      "alternativas": [
+        { "id": "A", "texto": "Tratar primeiro a DE com sildenafil; demais queixas em segundo plano." },
+        { "id": "B", "texto": "Priorizar (a) investigação de câncer de próstata (toque alterado + PSA >4 — indicar RM multiparamétrica e biópsia), (b) avaliação vascular pela claudicação + perfil aterosclerótico (DE como marcador) com ITB e otimização de fatores de risco, (c) iniciar alfabloqueador para STUI moderado-grave, (d) orientar profilaxia metabólica de litíase (hidratação, dieta, encaminhamento à nefrologia). DE entra após investigação oncológica/cardiovascular." },
+        { "id": "C", "texto": "Indicar RTU de próstata imediata sem biópsia." },
+        { "id": "D", "texto": "Solicitar apenas finasterida para todas as queixas." },
+        { "id": "E", "texto": "Encaminhar exclusivamente à urologia, deixando claudicação para acompanhamento futuro." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Paciente multissintomático exige **priorização baseada em risco**: (1) **toque alterado + PSA 8,5 = biópsia obrigatória** (com RM antes), pois prognóstico depende de diagnóstico precoce; (2) DE como marcador + claudicação manifesta = **risco cardiovascular alto** — ITB, otimização de LDL/glicemia/cessação tabágica; (3) **STUI moderado-grave (IPSS ≥20)** com próstata 60 g — alfabloqueador + finasterida (próstata >40 g); (4) **profilaxia metabólica de litíase** com nefrologia. DE deve ser tratada após investigação oncológica e cardiovascular.",
+      "referenciaAula": "Toque retal alterado é igual a biópsia. PSA acima de quatro indica biópsia. Sintoma moderado para grave com próstata acima de 40 g é candidato à finasterida. A DE é marcador de doença coronariana. Paciente com cálculo deve ter acompanhamento nefrológico conjunto para investigação metabólica.",
+      "transversal": true
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "aulaId": 10,
+  "titulo": "Neoplasia de Pele",
+  "questoes": [
+    {
+      "id": "Q-10-001",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["carcinoma basocelular", "epidemiologia", "neoplasia de pele"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o tipo histológico mais comum de neoplasia de pele em caucasianos, correspondendo a aproximadamente 75% dos diagnósticos?",
+      "alternativas": [
+        { "id": "A", "texto": "Carcinoma espinocelular (epidermoide)." },
+        { "id": "B", "texto": "Melanoma extensivo superficial." },
+        { "id": "C", "texto": "Carcinoma basocelular." },
+        { "id": "D", "texto": "Melanoma nodular." },
+        { "id": "E", "texto": "Lentigo maligno." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **carcinoma basocelular** é o tumor de pele mais comum em caucasianos, tanto no Brasil quanto no mundo, correspondendo a cerca de **75% dos diagnósticos**. Origina-se das células basais da epiderme e tem caráter localmente invasor, mas raramente gera metástases. O carcinoma espinocelular é o segundo mais comum, e o melanoma é o mais agressivo, porém menos frequente.",
+      "referenciaAula": "Carcinoma base celular se assemelha às células basais da epiderme. É o mais comum em caucasianos, correspondendo a 75% dos diagnósticos.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-002",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["ABCDE", "lesões suspeitas", "melanoma"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Na inspeção de lesões pigmentadas suspeitas de melanoma, a regra do ABCDE avalia características clínicas. O que representa a letra \"E\"?",
+      "alternativas": [
+        { "id": "A", "texto": "Espessura da lesão em milímetros." },
+        { "id": "B", "texto": "Eritema perilesional." },
+        { "id": "C", "texto": "Evolução (história evolutiva da lesão)." },
+        { "id": "D", "texto": "Extensão lateral medida em centímetros." },
+        { "id": "E", "texto": "Exposição solar acumulada do paciente." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A regra do **ABCDE** avalia: **A**ssimetria, **B**ordos (irregulares), **C**or (heterogênea), **D**iâmetro (>6 mm) e **E**volução — ou seja, a história evolutiva da lesão (mudanças em tamanho, cor, forma ou sintomas ao longo do tempo). É um instrumento de triagem clínica para suspeição de melanoma. A espessura medida em mm corresponde ao Breslow histopatológico.",
+      "referenciaAula": "Para todos os tumores, vale a regra do ABCDE. Identificar simetria, bordos, cor, diâmetro e a história evolutiva da lesão.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-003",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["diagnóstico", "biópsia", "padrão-ouro"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o método padrão-ouro para o diagnóstico definitivo das neoplasias de pele (carcinoma basocelular e espinocelular)?",
+      "alternativas": [
+        { "id": "A", "texto": "Dermatoscopia digital." },
+        { "id": "B", "texto": "Tomografia computadorizada com contraste." },
+        { "id": "C", "texto": "Avaliação histopatológica de amostra de tecido (biópsia excisional ou incisional)." },
+        { "id": "D", "texto": "Ressonância magnética da lesão." },
+        { "id": "E", "texto": "Dosagem sérica de lactato desidrogenase." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **diagnóstico padrão-ouro** das neoplasias de pele é estabelecido **histologicamente**, por meio de amostra de tecido obtida por **biópsia excisional ou incisional**. A dermatoscopia auxilia na suspeição clínica, mas não substitui o exame histopatológico. Imagens (TC, RM) são úteis no estadiamento de lesões avançadas, e a LDH é marcador prognóstico no melanoma metastático.",
+      "referenciaAula": "O diagnóstico de ambas as lesões é como padrão ouro estabelecido histologicamente, ou seja, amostras de tecido por biópsia excisional ou incisional.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-004",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["carcinoma espinocelular", "linfonodo", "PAAF"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, lavrador, apresenta lesão crostosa ulcerada em lábio inferior compatível com carcinoma espinocelular e linfonodo cervical submandibular endurecido de 2 cm, clinicamente palpável. Qual é a abordagem mais apropriada para investigação inicial do linfonodo?",
+      "alternativas": [
+        { "id": "A", "texto": "Biópsia excisional do linfonodo cervical." },
+        { "id": "B", "texto": "Punção aspirativa por agulha fina (PAAF) do linfonodo." },
+        { "id": "C", "texto": "Esvaziamento cervical radical imediato." },
+        { "id": "D", "texto": "Apenas observação clínica e reavaliação em 30 dias." },
+        { "id": "E", "texto": "Biópsia incisional com bisturi do linfonodo." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Diante de **linfonodo clinicamente palpável** em paciente com carcinoma espinocelular, a investigação de escolha é a **PAAF (punção aspirativa por agulha fina)**. A biópsia excisional ou incisional é evitada pelo risco de **contaminação do trajeto** entre a lesão e a pele, gerando implantes tumorais que comprometem a ressecção curativa posterior.",
+      "referenciaAula": "Havendo linfonodos clinicamente palpáveis, a opção é por punção aspirativa por agulha fina, pois biópsia excisional pode contaminar o trajeto e gerar implantes.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-005",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["cirurgia de Mohs", "alto risco", "preservação funcional"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a cirurgia micrográfica de Mohs no tratamento dos carcinomas de pele não melanoma, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "É indicada apenas para lesões superficiais de baixo risco em tronco." },
+        { "id": "B", "texto": "Consiste na ressecção em bloco com margens fixas de 2 cm, sem análise intraoperatória." },
+        { "id": "C", "texto": "É preferencialmente indicada em lesões de alto risco, áreas nobres (cabeça e pescoço) ou recidivadas, retirando fragmentos sucessivos com análise patológica intraoperatória até obtenção de margens negativas." },
+        { "id": "D", "texto": "Substitui a necessidade de avaliação histopatológica das margens." },
+        { "id": "E", "texto": "Exige sempre anestesia geral por sua complexidade técnica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **cirurgia de Mohs** é uma técnica não destrutiva indicada para **lesões de alto risco**, áreas com importância funcional/estética (cabeça e pescoço) e lesões recidivadas ou infiltrativas. Consiste em retirar fragmentos sucessivos com análise patológica em sala (\"descasco de cebola\", da periferia para o centro) até confirmação de **margens negativas**. Pode ser realizada com anestesia local.",
+      "referenciaAula": "A cirurgia de Mohs é realizada em áreas de alto risco para manter a funcionalidade, retirando fragmentos aos poucos, como o descasco de uma cebola, até a margem ser negativa.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-006",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["melanoma acral", "lentiginoso", "epidemiologia"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher afrodescendente, 55 anos, apresenta mancha enegrecida heterogênea de bordos irregulares na sola do pé, com crescimento progressivo nos últimos 8 meses. Qual o subtipo de melanoma mais provável?",
+      "alternativas": [
+        { "id": "A", "texto": "Melanoma extensivo superficial." },
+        { "id": "B", "texto": "Lentigo maligno." },
+        { "id": "C", "texto": "Melanoma lentiginoso acral." },
+        { "id": "D", "texto": "Melanoma nodular amelanótico." },
+        { "id": "E", "texto": "Carcinoma basocelular pigmentado." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **melanoma lentiginoso acral** acomete extremidades (palmas, plantas, leitos ungueais) e tem maior incidência em **afrodescendentes e asiáticos**, sendo mais raro em pele branca. Apresenta agressividade aumentada, podendo progredir rapidamente. O extensivo superficial é o mais comum em pele branca, e o lentigo maligno acomete tipicamente face de idosos.",
+      "referenciaAula": "Lesão na sola do pé, melanoma acral, de extremidades, tem agressividade maior. É mais frequente em afrodescendentes e asiáticos.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-007",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["carcinoma basocelular", "margem cirúrgica", "tratamento"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao tratamento cirúrgico convencional do carcinoma basocelular de baixo risco, qual conduta é a mais apropriada quanto às margens?",
+      "alternativas": [
+        { "id": "A", "texto": "Margens periféricas de 3-4 mm e margem profunda atingindo a gordura subcutânea." },
+        { "id": "B", "texto": "Margens periféricas de 2 cm e margem profunda em fáscia muscular." },
+        { "id": "C", "texto": "Apenas curetagem, sem necessidade de margem." },
+        { "id": "D", "texto": "Margens periféricas de 1 cm e margem profunda superficial." },
+        { "id": "E", "texto": "Margens livres não são necessárias por não haver risco de recidiva." }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "No tratamento do **carcinoma basocelular**, as margens periféricas são tipicamente de **3 a 4 mm**, podendo ser ampliadas conforme características agressivas locais. A **margem profunda deve sempre atingir a gordura subcutânea**, garantindo a ressecção completa da camada basaloide da epiderme. Margens de 1 cm são reservadas ao carcinoma espinocelular conforme o risco estimado.",
+      "referenciaAula": "A margem profunda da incisão deve sempre alcançar a gordura subcutânea. As margens periféricas podem ser de 3 a 4 mm, ou ampliadas conforme características agressivas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-008",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["linfonodo sentinela", "melanoma", "estadiamento"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a pesquisa de linfonodo sentinela no melanoma, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "É indicada apenas após a confirmação clínica de metástases linfonodais palpáveis." },
+        { "id": "B", "texto": "Consiste em marcar a região com radiofármaco (ou azul de metileno), aguardar a migração até a primeira estação de drenagem e ressecá-la para avaliação histológica, antecipando a detecção de metástase regional." },
+        { "id": "C", "texto": "Substitui a necessidade de ressecção da lesão primária." },
+        { "id": "D", "texto": "É realizada apenas no carcinoma basocelular metastático." },
+        { "id": "E", "texto": "Sempre exige esvaziamento linfonodal completo no mesmo tempo cirúrgico, independentemente do resultado." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **linfonodo sentinela** é a primeira estação de drenagem da lesão primária. Marca-se a região com **radiofármaco** (preferencial atualmente) ou azul de metileno, aguarda-se a migração e ressecam-se o sentinela junto com a ampliação do primário. Permite **detectar metástase regional precocemente**, antes da expressão clínica. Sentinela positivo (>1 mm) pode indicar terapêutica avançada local.",
+      "referenciaAula": "Marca-se a região com radiofármaco ou azul de metileno, aguarda-se a migração até a primeira estação de drenagem, que será ressecada para avaliação histológica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-009",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["melanoma", "metástase", "LDH", "estadiamento M"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com melanoma cutâneo previamente ressecado evolui em estadiamento com identificação de lesões metastáticas em **sistema nervoso central** e LDH sérica elevada. Como classificar adequadamente o componente M deste melanoma?",
+      "alternativas": [
+        { "id": "A", "texto": "M1a — metástase em pele e músculos." },
+        { "id": "B", "texto": "M1b — metástase pulmonar isolada." },
+        { "id": "C", "texto": "M1c — metástases viscerais (fígado e ossos)." },
+        { "id": "D", "texto": "M1d — metástase em sistema nervoso central, agravada pela LDH elevada como marcador prognóstico." },
+        { "id": "E", "texto": "M0 — ausência de metástase à distância." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "No melanoma, o componente **M1** é subclassificado conforme o sítio: **M1a** (pele e músculos), **M1b** (pulmão), **M1c** (vísceras como fígado e ossos) e **M1d** (sistema nervoso central). A **LDH elevada** é marcador bioquímico sistêmico de doença à distância, refletindo processo inflamatório e agravando o prognóstico em qualquer subgrupo M1.",
+      "referenciaAula": "Acometimento de pele e músculos é M1a, pulmão M1b, vísceras (fígado e ossos) M1c, e sistema nervoso central M1d. LDH elevada é parâmetro prognóstico.",
+      "transversal": false
+    },
+    {
+      "id": "Q-10-010",
+      "aulaOrigem": 10,
+      "blocos": ["G"],
+      "eixos": ["T6"],
+      "tags": ["melanoma nodular", "amelanótico", "agressividade"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 60 anos, refere lesão nodular cor da pele, de crescimento rápido em 3 meses, na região plantar, sem pigmentação evidente. A biópsia confirma melanoma. Qual subtipo é mais consistente com o quadro e qual a implicação clínica mais relevante?",
+      "alternativas": [
+        { "id": "A", "texto": "Melanoma extensivo superficial — comportamento indolente, baixa agressividade." },
+        { "id": "B", "texto": "Lentigo maligno — típico de áreas fotoexpostas em idosos, evolução lenta." },
+        { "id": "C", "texto": "Melanoma nodular amelanótico — alta agressividade e risco diagnóstico tardio pela ausência de pigmentação típica, exigindo alta suspeição clínica." },
+        { "id": "D", "texto": "Carcinoma basocelular nodular — sem necessidade de pesquisa de linfonodo sentinela." },
+        { "id": "E", "texto": "Carcinoma espinocelular bem diferenciado — evolução localmente restrita." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **melanoma nodular amelanótico** é o segundo tipo mais frequente (até 15% dos casos) e configura uma das formas mais **agressivas**, com crescimento acelerado e padrão de acometimento de extremidades. A **ausência de melanina** dificulta o reconhecimento clínico e atrasa o diagnóstico — daí a necessidade de alta suspeição diante de nódulos de crescimento rápido, mesmo sem pigmentação típica. Sua etiologia tem forte componente genético.",
+      "referenciaAula": "O melanoma nodular é o segundo tipo mais frequente, lesão agressiva de crescimento acelerado, e o amelanótico não contém melanina, com padrão de acometimento de extremidades.",
+      "transversal": false
+    }
+  ]
+}

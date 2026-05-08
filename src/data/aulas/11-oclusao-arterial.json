@@ -1,0 +1,216 @@
+{
+  "aulaId": 11,
+  "titulo": "Oclusão Arterial Aguda",
+  "questoes": [
+    {
+      "id": "Q-11-001",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["6 Ps", "quadro clínico", "isquemia"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Os clássicos \"6 Ps\" da oclusão arterial aguda incluem todos os achados a seguir, EXCETO:",
+      "alternativas": [
+        { "id": "A", "texto": "Dor (pain)." },
+        { "id": "B", "texto": "Ausência de pulso (pulselessness)." },
+        { "id": "C", "texto": "Palidez (pallor)." },
+        { "id": "D", "texto": "Parestesia / paresia (paresthesia / paralysis)." },
+        { "id": "E", "texto": "Petéquias (petechiae)." }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Os **6 Ps** da oclusão arterial aguda são: **dor**, **ausência de pulso**, **palidez**, **parestesia**, **paresia/paralisia** e **frialdade** (poiquilotermia/\"perishing cold\"). **Petéquias** não fazem parte dessa síndrome — são achados de distúrbios hematológicos/vasculites cutâneas. A dor é o sintoma mais precoce e proeminente.",
+      "referenciaAula": "O quadro clínico da oclusão arterial aguda vai ser basicamente os seis ps: dor, ausência de pulso, palidez, parestesia, paresia e a frialdade.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-002",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["definição", "tempo de evolução", "emergência"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a definição de oclusão arterial aguda de membro, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Quadro insidioso, com mais de 30 dias de evolução, sem ameaça à viabilidade do membro." },
+        { "id": "B", "texto": "Diminuição súbita ou piora da perfusão tecidual com sintomas novos, com duração inferior a 14 dias e ameaça potencial à viabilidade do membro." },
+        { "id": "C", "texto": "Doença degenerativa exclusivamente venosa, sem comprometimento arterial." },
+        { "id": "D", "texto": "Quadro crônico que dispensa anticoagulação e não constitui emergência." },
+        { "id": "E", "texto": "Síndrome restrita à dor em repouso, sem alteração de pulso ou cor do membro." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A oclusão arterial aguda é definida como **diminuição súbita ou piora da perfusão tecidual** com sinais e sintomas novos (ou piora dos pré-existentes) que ameaçam a viabilidade do membro, com **duração inferior a 14 dias**. Trata-se de **emergência médica** com elevada morbimortalidade.",
+      "referenciaAula": "Diminuição súbita ou piora da perfusão tecidual com sinais e sintomas novos que levam ameaça potencial à viabilidade do membro, com duração menor de 14 dias.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-003",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["embolia", "fibrilação atrial", "etiologia"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Atualmente, qual é a principal fonte emboligênica relacionada à oclusão arterial aguda de etiologia embólica?",
+      "alternativas": [
+        { "id": "A", "texto": "Doença reumática valvar." },
+        { "id": "B", "texto": "Aneurisma de artéria poplítea." },
+        { "id": "C", "texto": "Fibrilação atrial e doença cardíaca isquêmica." },
+        { "id": "D", "texto": "Trombofilia hereditária (deficiência de proteína C)." },
+        { "id": "E", "texto": "Vasculites de grandes vasos." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **coração** é a principal fonte de êmbolos (≈60% dos casos). Até a década de 60 a doença reumática valvar dominava, mas hoje a **fibrilação atrial** e a **doença cardíaca isquêmica** são as principais etiologias. Cerca de 70% dos êmbolos cardíacos migram para os membros inferiores, sobretudo para bifurcações arteriais.",
+      "referenciaAula": "A principal fonte é o coração. Hoje em dia é a doença cardíaca isquêmica e a fibrilação atrial, que vão corresponder a 60% dos casos.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-004",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["embolia vs trombose", "circulação colateral", "arteriografia"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as diferenças entre oclusão arterial aguda de etiologia embólica e trombótica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Na embólica há claudicação prévia e ampla circulação colateral; na trombótica o quadro é súbito e sem colaterais." },
+        { "id": "B", "texto": "Na embólica o quadro é súbito e intenso, com pouca circulação colateral e sinal da \"taça invertida\" na arteriografia; na trombótica o quadro é mais gradual, há colaterais desenvolvidas e sinal em \"ponta de lápis\"." },
+        { "id": "C", "texto": "Ambas apresentam idênticos achados arteriográficos, sendo impossível diferenciá-las." },
+        { "id": "D", "texto": "A trombótica tem fonte cardíaca em 90% dos casos." },
+        { "id": "E", "texto": "Na embólica a doença contralateral é frequente; na trombótica é rara." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **embólica** ocorre em paciente sem doença arterial prévia: dor súbita e intensa, **pouca circulação colateral** e arteriografia com **sinal da taça invertida** (parada abrupta do contraste). A **trombótica** ocorre sobre placa aterosclerótica: piora gradual de claudicação, **colaterais bem desenvolvidas** e **stop em ponta de lápis** com aterosclerose difusa, frequentemente com doença contralateral.",
+      "referenciaAula": "Na embólica a circulação colateral é pouco desenvolvida e há sinal da taça invertida. Na trombótica há circulação colateral bastante desenvolvida e stop em ponta de lápis.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-005",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["Rutherford", "classificação", "conduta"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, com fibrilação atrial, chega ao pronto-socorro com dor súbita em membro inferior direito há 4 horas, palidez, ausência de pulsos, **parestesia leve** e **déficit motor moderado**, ainda com sinais doppler arterial audíveis ao manejo. Qual é a classificação de Rutherford e a conduta indicada?",
+      "alternativas": [
+        { "id": "A", "texto": "Rutherford I (membro viável) — manejo ambulatorial e anticoagulação oral." },
+        { "id": "B", "texto": "Rutherford IIA (urgência) — revascularização programada nas próximas 24h." },
+        { "id": "C", "texto": "Rutherford IIB (emergência) — encaminhar imediatamente ao centro cirúrgico para revascularização." },
+        { "id": "D", "texto": "Rutherford III (membro inviável) — amputação primária." },
+        { "id": "E", "texto": "Quadro de flegmasia alba dolens — anticoagulação isolada." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Déficit motor mais que mínimo associado à parestesia caracteriza **Rutherford IIB**, ou seja, **ameaça imediata** ao membro — é **emergência médica** com indicação de revascularização **imediata**, independente do horário. IIA é apenas urgência (sem déficit motor); III já apresenta paralisia, anestesia profunda e cianose fixa, indicando amputação primária.",
+      "referenciaAula": "Classe 2A é uma urgência médica e 2B é uma emergência médica — independente do horário, é levado ao centro cirúrgico para revascularização precoce por risco de perda de membro.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-006",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["embolia", "topografia", "bifurcação femoral"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em pacientes com oclusão arterial aguda de etiologia embólica em membros inferiores, qual é o local anatômico mais frequentemente acometido pelos êmbolos cardíacos?",
+      "alternativas": [
+        { "id": "A", "texto": "Artérias infrageniculares (tibiais e fibular)." },
+        { "id": "B", "texto": "Bifurcação da artéria poplítea." },
+        { "id": "C", "texto": "Bifurcação das artérias femorais." },
+        { "id": "D", "texto": "Topografia de aorta e ilíacas." },
+        { "id": "E", "texto": "Artéria femoral superficial no canal dos adutores." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Os êmbolos param onde o calibre arterial reduz, especialmente em **bifurcações**. Em membros inferiores, a distribuição é: **bifurcação femoral ≈36%** (mais frequente), aorta/ilíacas ≈24%, bifurcação poplítea ≈15% e infrageniculares apenas ≈3%. O canal dos adutores é o local típico da etiologia **trombótica** sobre placa.",
+      "referenciaAula": "70% dos êmbolos migram pros membros inferiores: 24% na topografia de aorta e ilíacas, 36% na bifurcação das artérias femorais, 15% na bifurcação poplítea e 3% nas infrageniculares.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-007",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["tratamento clínico", "anticoagulação", "rabdomiólise"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Após confirmar o diagnóstico de oclusão arterial aguda, qual conjunto de medidas clínicas iniciais deve ser instituído IMEDIATAMENTE, antes ou durante o encaminhamento ao centro cirúrgico?",
+      "alternativas": [
+        { "id": "A", "texto": "Aquecimento ativo do membro com bolsa térmica direta sobre a pele e dieta livre." },
+        { "id": "B", "texto": "Anticoagulação plena, aquecimento passivo do membro, hidratação endovenosa com sondagem vesical (alvo de diurese ≈100 mL/h), CPK e ECG." },
+        { "id": "C", "texto": "Apenas analgesia oral e observação clínica até o início do horário comercial." },
+        { "id": "D", "texto": "Trombolítico sistêmico em bolus, sem anticoagulação." },
+        { "id": "E", "texto": "Antibiótico de amplo espectro como medida principal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O tratamento clínico inicial inclui **anticoagulação plena**, **aquecimento passivo** (jamais ativo direto, pelo risco de queimadura sobre pele isquêmica), **hidratação EV com diurese-alvo ≈100 mL/h** para prevenir IRA por **rabdomiólise**, dosagem de **CPK** e **ECG** (frequentemente identifica FA ou isquemia), além de acionar a cirurgia vascular.",
+      "referenciaAula": "Anticoagulação plena, aquecimento passivo do membro, exames laboratoriais com CPK e eletrocardiograma, sondagem vesical com hidratação e diurese alvo de 100 mL/h para evitar insuficiência renal aguda por rabdomiólise.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-008",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["embolectomia", "cateter de Fogarty", "tratamento cirúrgico"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento cirúrgico padrão-ouro da oclusão arterial aguda de etiologia embólica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Bypass femoropoplíteo com enxerto de safena é a primeira escolha em todos os casos." },
+        { "id": "B", "texto": "Tromboembolectomia com cateter de Fogarty (balão insuflável que retira o trombo após arteriotomia) é o procedimento padrão." },
+        { "id": "C", "texto": "Trombólise farmacomecânica intra-arterial é mandatória, vetando a abordagem aberta." },
+        { "id": "D", "texto": "Amputação primária é indicada para todos os pacientes com Rutherford IIB." },
+        { "id": "E", "texto": "Stent metálico autoexpansível é o tratamento inicial padrão." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O padrão-ouro da oclusão **embólica** é a **embolectomia com cateter de Fogarty**: através de uma arteriotomia, introduz-se a sonda balonada, insufla-se o balão distalmente ao trombo e arrasta-se o material trombótico, restabelecendo o fluxo. Bypass com enxerto é mais usado em causa **trombótica** com segmento extenso de placa; amputação primária é reservada à classe III de Rutherford.",
+      "referenciaAula": "O padrão ouro é a embolectomia arterial com cateter de Fogarty, que serve para remover esses trombos. É uma sonda insuflável na ponta com a qual se faz tromboembolectomia.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-009",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["isquemia-reperfusão", "fasciotomia", "síndrome compartimental"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido a embolectomia femoropoplítea bem-sucedida após 5 horas de isquemia evolui, 3 horas depois, com **dor intensa e desproporcional** na panturrilha, **edema tenso**, parestesia e novo desaparecimento dos pulsos distais. Doppler mostra fluxo perviável no segmento revascularizado. Qual a interpretação e a conduta?",
+      "alternativas": [
+        { "id": "A", "texto": "Reembolização — repetir embolectomia imediatamente, sem outras medidas." },
+        { "id": "B", "texto": "Síndrome compartimental por edema muscular pós-reperfusão; indicação de **fasciotomia** descompressiva." },
+        { "id": "C", "texto": "Trombose venosa profunda concomitante — apenas anticoagular e elevar o membro." },
+        { "id": "D", "texto": "Hematoma de sítio cirúrgico — apenas compressão local e analgesia." },
+        { "id": "E", "texto": "Quadro esperado, sem indicação cirúrgica nas primeiras 24 horas." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Após reperfusão, o **edema muscular** dentro de compartimentos osteofasciais inelásticos eleva a pressão intracompartimental, comprimindo a árvore arterial e gerando **espasmo arterial** com novo quadro de isquemia. O diagnóstico é **clínico** (dor desproporcional, edema tenso, parestesia, paresia, perda de pulso) e o tratamento é a **fasciotomia** — pode inclusive ser realizada profilaticamente após revascularizações prolongadas.",
+      "referenciaAula": "Quando revasculariza o membro, gera edema muscular que pode comprimir a árvore arterial fazendo um espasmo arterial e novo quadro de oclusão. A indicação são as fasciotomias para alívio. Em alguns pacientes faz-se fasciotomia profilática no centro cirúrgico após a revascularização.",
+      "transversal": false
+    },
+    {
+      "id": "Q-11-010",
+      "aulaOrigem": 11,
+      "blocos": ["F", "A"],
+      "eixos": ["T1", "T4", "T5"],
+      "tags": ["isquemia-reperfusão", "amputação primária", "Rutherford III", "hipercalemia"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 75 anos, diabética, com FA, chega 30 horas após início dos sintomas com membro **frio, com cianose fixa, anestesia profunda e rigidez articular**, sem motricidade. Apresenta CPK 18.000 U/L, K+ 6,4 mEq/L e acidose metabólica. Qual é a melhor conduta?",
+      "alternativas": [
+        { "id": "A", "texto": "Embolectomia imediata com cateter de Fogarty — risco baixo nesta apresentação." },
+        { "id": "B", "texto": "Trombólise intra-arterial prolongada por 48h, mantendo o membro." },
+        { "id": "C", "texto": "Bypass femoropoplíteo com enxerto de safena, seguido de fasciotomia profilática." },
+        { "id": "D", "texto": "Membro inviável (Rutherford III) com rabdomiólise grave e alto risco de síndrome de isquemia-reperfusão fatal — indicar **amputação primária**, priorizando a vida sobre o membro." },
+        { "id": "E", "texto": "Apenas anticoagulação plena ambulatorial e reavaliação em 7 dias." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Cianose **fixa**, anestesia profunda, paralisia e rigidez articular configuram **Rutherford III** (membro **inviável**). Revascularizar nesse cenário lança maciçamente mioglobina, K+, cálcio e radicais livres na circulação sistêmica, podendo causar **hipercalemia grave, acidose, arritmia e parada cardiorrespiratória**. Indica-se **amputação primária** — \"perna versus vida\" — como conduta que preserva a sobrevida.",
+      "referenciaAula": "Pacientes que não têm mais benefício da revascularização, da classe três de Rutherford, a gente pode oferecer a amputação primária. Dosa-se perna versus vida do paciente — o que é melhor, salvar a vida ou perder a perna.",
+      "transversal": false
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "aulaId": 24,
+  "titulo": "Derrames Pleurais e Drenagem de Tórax",
+  "questoes": [
+    {
+      "id": "Q-24-001",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["pressão pleural", "fisiopatologia", "selo d'água"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fisiopatologia da cavidade pleural relevante para a drenagem torácica, qual é a faixa habitual da pressão intrapleural em relação à pressão atmosférica?",
+      "alternativas": [
+        { "id": "A", "texto": "+5 a +10 cmH2O (positiva)." },
+        { "id": "B", "texto": "0 cmH2O (igual à atmosférica)." },
+        { "id": "C", "texto": "-2 a -1 cmH2O (negativa)." },
+        { "id": "D", "texto": "-20 a -15 cmH2O (acentuadamente negativa)." },
+        { "id": "E", "texto": "Varia de +2 a -2 cmH2O conforme a fase respiratória, sem média definida." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **pressão intrapleural é negativa**, em torno de **-2 a -1 cmH2O** em relação à atmosférica. Esse gradiente mantém o pulmão expandido contra a parede torácica e justifica o uso do **selo d'água** durante a drenagem: a coluna de ~2 cm de água atua como válvula unidirecional, impedindo a entrada de ar na cavidade quando a pressão intrapleural se torna ainda mais negativa na inspiração.",
+      "referenciaAula": "Talvez o fato mais importante dentro dessa fisiopatologia seja a pressão intrapleural negativa, que pode variar de -2 a -1 cm de água em relação à pressão atmosférica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-002",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["indicações", "pneumotórax", "hemotórax", "drenagem"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual das seguintes situações NÃO constitui uma indicação clássica de drenagem pleural?",
+      "alternativas": [
+        { "id": "A", "texto": "Pneumotórax hipertensivo." },
+        { "id": "B", "texto": "Hemotórax." },
+        { "id": "C", "texto": "Derrame pleural volumoso sintomático." },
+        { "id": "D", "texto": "Procedimento torácico que expõe a cavidade pleural à pressão atmosférica." },
+        { "id": "E", "texto": "Derrame parapneumônico não complicado, com pH normal e sem piócitos." }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "O **derrame parapneumônico não complicado** (neutrófilos sem piócitos, pH normal, glicose preservada, LDH < 1000, bacterioscopia negativa) **não exige drenagem** — resolve-se com tratamento da pneumonia. As demais opções (pneumotórax em qualquer modalidade, hemotórax, derrame pleural significativo e procedimentos que abrem a pleura à atmosfera) são indicações clássicas de drenagem torácica.",
+      "referenciaAula": "Derrame parapneumônico não complicado: presença de neutrófilos, mas sem piócitos, pH normal, glicose não consumida, LDH abaixo de 1000 e bacterioscopia negativa. Ele não necessita de tratamento.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-003",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["Light", "exsudato vs transudato", "critérios"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Os critérios de Light, utilizados para diferenciar exsudato de transudato no derrame pleural, baseiam-se na dosagem combinada de:",
+      "alternativas": [
+        { "id": "A", "texto": "Glicose pleural e amilase sérica." },
+        { "id": "B", "texto": "Proteínas e LDH no líquido pleural e no soro." },
+        { "id": "C", "texto": "pH pleural e contagem de neutrófilos." },
+        { "id": "D", "texto": "Hematócrito pleural e triglicérides séricos." },
+        { "id": "E", "texto": "ADA pleural e contagem de linfócitos." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **critérios de Light** comparam **proteínas e LDH** entre líquido pleural e sangue, com sensibilidade próxima a 98%. O exsudato apresenta proteína > 3 g/dL e LDH elevada (geralmente > 300). Glicose, pH, ADA e celularidade são úteis em contextos específicos (parapneumônico complicado, tuberculose), mas não compõem os critérios de Light.",
+      "referenciaAula": "A gente usa os critérios de Light, que usa o critério de proteína e o critério de LDH sanguíneo e pleural. Esses critérios têm uma sensibilidade extremamente alta, 98%.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-004",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["transudato", "etiologia", "insuficiência cardíaca"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 70 anos, com insuficiência cardíaca classe funcional III, evolui com derrame pleural bilateral e dispneia. Toracocentese revela proteína pleural 2,1 g/dL, LDH pleural baixa, sem células neoplásicas. Qual é a conduta mais apropriada para a cavidade pleural?",
+      "alternativas": [
+        { "id": "A", "texto": "Drenagem torácica fechada com selo d'água por 7 dias." },
+        { "id": "B", "texto": "Pleurodese química imediata." },
+        { "id": "C", "texto": "Otimização do tratamento da doença de base, eventual toracocentese de alívio." },
+        { "id": "D", "texto": "Pleuroscopia diagnóstica com biópsia da pleura parietal." },
+        { "id": "E", "texto": "Toracotomia para decorticação." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Trata-se de **transudato** (proteína baixa, LDH baixa) por **insuficiência cardíaca**. No transudato, a regra é **otimizar a doença de base** (diurético, controle da IC, cirrose, doença renal) — a cavidade pleural geralmente não é tratada. **Toracocentese de alívio** é admissível quando há grande volume e desconforto, mas drenagem prolongada, pleurodese e cirurgia não estão indicadas.",
+      "referenciaAula": "No transudato, o tratamento é otimizar a doença de base. Normalmente a gente não trata a cavidade pleural. No máximo a gente faz uma toracocentese de alívio.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-005",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["técnica", "posição do dreno", "kelly"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a técnica correta de drenagem torácica tubular, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A toracocentese diagnóstica deve ser evitada antes da drenagem para não contaminar a cavidade." },
+        { "id": "B", "texto": "A dissecção dos planos musculares e intercostais é feita com bisturi frio, sem palpação digital." },
+        { "id": "C", "texto": "Realiza-se toracocentese prévia, dissecção dos planos com pinça de Kelly, palpação do espaço intercostal e introdução do dreno multiperfurado em direção posterior e superior." },
+        { "id": "D", "texto": "O dreno deve ser posicionado em direção anterior e inferior, próximo ao diafragma, em todos os casos." },
+        { "id": "E", "texto": "Drenos opacos são preferidos por permitirem melhor visualização do conteúdo." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A técnica padrão envolve **toracocentese prévia** (confirma cavidade e auxilia o diagnóstico), **dissecção romba com pinça de Kelly**, **palpação digital** do espaço para verificar aderências, e introdução de **dreno multiperfurado transparente** em direção **posterior e superior**, posição que drena melhor tanto ar quanto líquido em decúbito dorsal.",
+      "referenciaAula": "Realização da toracocentese prévia ao dreno torácico, dissecção dos planos musculares e intercostais com uma pinça de Kelly, palpação do espaço intercostal, colocação do dreno multiperfurado transparente, sempre no sentido posterior e superior.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-006",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["complicações", "enfisema subcutâneo", "orifício fora da pleura"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente drenado por pneumotórax evolui em poucas horas com **enfisema subcutâneo progressivo** em hemitórax e cervical, mantendo borbulhamento contínuo no selo d'água. Qual é a causa mais provável e a conduta inicial?",
+      "alternativas": [
+        { "id": "A", "texto": "Reexpansão pulmonar adequada; manter o dreno e observar." },
+        { "id": "B", "texto": "Orifício do dreno posicionado fora do espaço pleural, permitindo passagem de ar para o subcutâneo; reposicionar/trocar o dreno." },
+        { "id": "C", "texto": "Pneumonia associada; iniciar antibioticoterapia." },
+        { "id": "D", "texto": "Embolia pulmonar; iniciar anticoagulação." },
+        { "id": "E", "texto": "Lesão do nervo frênico; conduta expectante." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A complicação **mais comum** da drenagem torácica é o **orifício do dreno fora do espaço pleural**: o ar da cavidade escapa pelo furo extrapleural e disseca o subcutâneo (enfisema) ou se comunica com o ambiente, perpetuando o pneumotórax. A conduta é **reposicionar ou trocar o dreno** garantindo que todos os orifícios estejam intrapleurais.",
+      "referenciaAula": "Talvez a principal e a mais comum seja a presença de um orifício do dreno fora do espaço pleural. Isso vai fazer que ar que esteja na cavidade pleural entre pro subcutâneo dando enfisema ou se comunique com o meio ambiente perpetuando um pneumotórax.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-007",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["empiema", "fases", "fibrinopurulenta"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em qual fase evolutiva do empiema pleural a drenagem fechada em selo d'água, isolada, torna-se INSUFICIENTE devido a septações e início de encarceramento pulmonar?",
+      "alternativas": [
+        { "id": "A", "texto": "Fase exsudativa (líquido livre, baixa celularidade, sem espessamento)." },
+        { "id": "B", "texto": "Fase fibrinopurulenta (depósito de fibrina, septações e aderências entre pleuras)." },
+        { "id": "C", "texto": "Derrame parapneumônico não complicado." },
+        { "id": "D", "texto": "Transudato por insuficiência cardíaca." },
+        { "id": "E", "texto": "Quilotórax." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **fase fibrinopurulenta** há depósito de fibrina, aumento da celularidade, **septações e aderências** entre pleura visceral e parietal — a drenagem fechada simples não consegue evacuar coleções loculadas. Indica-se **pleuroscopia (videotoracoscopia)** para limpeza mecânica, lise de aderências e, eventualmente, drenagem aberta. A fase exsudativa ainda responde bem ao selo d'água; a fase de organização exige decorticação.",
+      "referenciaAula": "Na fase fibrinopurulenta começam a haver aderências entre a pleura visceral e parietal, fazendo septações e encarceramentos. Neste momento, só a drenagem fechada, ela é ineficaz.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-008",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["tuberculose vs neoplasia", "exsudato linfocítico", "diagnóstico diferencial"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Dois pacientes com derrame pleural exsudativo de predomínio linfocítico: paciente A apresenta dor pleurítica importante e pequeno volume de derrame; paciente B apresenta quadro insidioso, pouco doloroso e grande volume. Qual o diagnóstico diferencial mais provável, respectivamente?",
+      "alternativas": [
+        { "id": "A", "texto": "A: insuficiência cardíaca; B: cirrose hepática." },
+        { "id": "B", "texto": "A: tuberculose pleural; B: derrame neoplásico." },
+        { "id": "C", "texto": "A: derrame neoplásico; B: tuberculose pleural." },
+        { "id": "D", "texto": "A: empiema; B: quilotórax." },
+        { "id": "E", "texto": "A: hemotórax traumático; B: embolia pulmonar." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambos são exsudatos linfocíticos, mas o padrão clínico difere: **tuberculose pleural** costuma cursar com **mais dor e pequeno volume**, enquanto o **derrame neoplásico** tem **início insidioso, pouco doloroso e grande volume**. O reconhecimento desse padrão orienta a investigação (ADA, biópsia pleural com agulha de Cope, citologia oncótica, videopleuroscopia).",
+      "referenciaAula": "A tuberculose dá mais dor, mas ela costuma cursar com pequenos volumes. A neoplasia dá um início menos doloroso, mais insidioso e ela cursa com grande volume.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-009",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["empiema crônico", "encarceramento pulmonar", "decorticação"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 57 anos, com antecedente de ferimento por arma de fogo torácica tratado conservadoramente. Procura serviço com dispneia progressiva, emagrecimento e febre. RX mostra opacidade total do hemitórax direito; após drenagem e lavagem com soro, persiste cavidade vazia com pulmão preso. Tomografia confirma encarceramento pulmonar por espessamento pleural extremamente importante. Qual é a conduta mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Manter apenas drenagem fechada em selo d'água por mais 30 dias." },
+        { "id": "B", "texto": "Pleurodese química com talco pelo dreno." },
+        { "id": "C", "texto": "Toracotomia com decorticação (ressecção da pleura visceral e parietal espessadas) para liberar o pulmão encarcerado." },
+        { "id": "D", "texto": "Pleuroscopia simples para lavagem da cavidade." },
+        { "id": "E", "texto": "Apenas antibioticoterapia prolongada, sem nova abordagem cirúrgica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Trata-se de **empiema em fase de organização/fibrose** com **encarceramento pulmonar** — a pleura está tão espessada que a pressão atmosférica não colaba mais a cavidade e o pulmão não expande. A conduta é **toracotomia com decorticação**, ressecando a pleura visceral e parietal espessadas para liberar o parênquima. Drenagem isolada, pleurodese ou pleuroscopia não vencem o espessamento crônico já estabelecido. Em casos extremos, podem ser necessárias toracoplastia ou mioplastia.",
+      "referenciaAula": "Nessa fase já tem espessamento pleural muito importante, o pulmão não consegue mais vencer esse espessamento. A gente necessita fazer às vezes uma cirurgia maior, que seria a retirada de toda a pleura visceral e parietal.",
+      "transversal": false
+    },
+    {
+      "id": "Q-24-010",
+      "aulaOrigem": 24,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["derrame parapneumônico complicado", "empiema", "indicação de drenagem"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 48 anos, internada por pneumonia comunitária extensa há 5 dias, evolui com piora do padrão respiratório. Toracocentese revela líquido turvo com piócitos, pH 7,0, glicose consumida, LDH 2200 e bacterioscopia positiva. Considerando os critérios de Light e a fase evolutiva do processo, qual é a conduta mais apropriada para a cavidade pleural?",
+      "alternativas": [
+        { "id": "A", "texto": "Apenas otimizar o antibiótico — trata-se de derrame parapneumônico não complicado." },
+        { "id": "B", "texto": "Toracocentese de alívio única, sem drenagem." },
+        { "id": "C", "texto": "Drenagem pleural tubular fechada associada à antibioticoterapia, com avaliação para pleuroscopia se houver septações ou má evolução." },
+        { "id": "D", "texto": "Pleurodese química imediata com talco." },
+        { "id": "E", "texto": "Toracotomia com decorticação imediata." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O líquido configura **exsudato** pelos critérios de Light (LDH muito elevada) e caracteriza **derrame parapneumônico complicado / empiema** (piócitos, pH < 7,2, glicose consumida, bacterioscopia positiva). Diferente do não complicado, **exige drenagem pleural** associada ao antibiótico. Se houver evolução para fase fibrinopurulenta com septações ou má resposta, indica-se **pleuroscopia (videotoracoscopia)** para limpeza. Decorticação fica reservada à fase de organização com encarceramento.",
+      "referenciaAula": "No exsudato, além do tratamento da doença de base, podemos ajudar com drenagem pleural, em alguns casos pleurodese, até toracotomia. Empiema na fase fibrinopurulenta a drenagem fechada é ineficaz e pode necessitar pleuroscopia.",
+      "transversal": false
+    }
+  ]
+}

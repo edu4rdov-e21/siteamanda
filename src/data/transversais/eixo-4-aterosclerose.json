@@ -1,0 +1,216 @@
+{
+  "eixoId": "T4",
+  "titulo": "Aterosclerose como doença sistêmica",
+  "questoes": [
+    {
+      "id": "Q-T4-001",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["disfunção erétil", "marcador de DAC", "aterosclerose sistêmica", "calibre arterial"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Homem de 58 anos, hipertenso e tabagista, queixa-se de disfunção erétil há 18 meses. Por que a disfunção erétil é considerada um MARCADOR PRECOCE de doença arterial coronariana e por que tipicamente precede o infarto em alguns anos?",
+      "alternativas": [
+        { "id": "A", "texto": "Porque a disfunção erétil só ocorre por neuropatia diabética avançada, que indica doença coronariana terminal." },
+        { "id": "B", "texto": "Porque a artéria cavernosa (1-2 mm) tem calibre menor que a coronária (3-4 mm), de modo que a aterosclerose sistêmica obstrui clinicamente o leito peniano antes do leito coronariano, com janela média de 2 a 5 anos entre disfunção erétil e infarto." },
+        { "id": "C", "texto": "Porque a disfunção erétil reduz a produção de testosterona, que protegeria a coronária de aterosclerose." },
+        { "id": "D", "texto": "Porque o uso crônico de inibidores da fosfodiesterase-5 lesa o endotélio coronariano." },
+        { "id": "E", "texto": "Porque a disfunção erétil eleva os níveis de LDL séricos antes do infarto." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **aterosclerose é doença sistêmica** que afeta múltiplos leitos vasculares simultaneamente. Como a artéria cavernosa tem calibre **muito menor** que a coronária, uma placa de mesmo tamanho obstrui antes a circulação peniana — gerando disfunção erétil — para só depois manifestar-se como angina/infarto. Por isso a DE precede o evento coronariano em **2 a 5 anos** e tornou-se marcador clínico de DAC silenciosa.",
+      "referenciaAula": "A artéria cavernosa tem em torno de 1 a 2 mm e a coronária 3 a 4 mm. Como a aterosclerose é doença sistêmica, obstrui primeiro a cavernosa. A disfunção erétil acontece de 2 a 5 anos antes da obstrução coronariana.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-002",
+      "aulaOrigem": null,
+      "blocos": ["F"],
+      "eixos": ["T4"],
+      "tags": ["claudicação intermitente", "DAOP", "fatores de risco", "doença sistêmica"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 67 anos, tabagista (60 maços-ano), HAS, DM2 e dislipidemia, refere claudicação intermitente em panturrilha direita após 100 metros de marcha. Pulso poplíteo ausente à direita. Considerando que a aterosclerose é doença sistêmica, qual investigação adicional é MAIS importante neste paciente, mesmo que assintomático para o sistema avaliado?",
+      "alternativas": [
+        { "id": "A", "texto": "Apenas tratar a claudicação com cilostazol e exercício programado, sem investigação adicional." },
+        { "id": "B", "texto": "Investigar doença arterial coronariana e cerebrovascular (carótidas), pois pacientes com DAOP têm alta prevalência de aterosclerose multissítio mesmo quando oligossintomáticos." },
+        { "id": "C", "texto": "Solicitar dosagem de homocisteína isoladamente, pois é o único fator independente." },
+        { "id": "D", "texto": "Realizar arteriografia diagnóstica de membros inferiores como exame inicial." },
+        { "id": "E", "texto": "Encaminhar diretamente para angioplastia femoropoplítea." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "DAOP é um **marcador potente** de aterosclerose sistêmica. Pacientes com claudicação têm elevada prevalência de DAC e doença carotídea — frequentemente silenciosas. A investigação dirigida para esses leitos (avaliação cardiológica, eco-Doppler de carótidas) reduz mortalidade cardiovascular, que é a principal causa de óbito em portadores de DAOP. O tratamento clínico (parar de fumar, controle de fatores de risco, antiagregação) é fundamental, mas isolado é insuficiente.",
+      "referenciaAula": "10% da população mundial tem aterosclerose. A doença é sistêmica e os fatores de risco (tabagismo, HAS, DM, dislipidemia) acometem múltiplos leitos.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-003",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["disfunção endotelial", "óxido nítrico", "ereção", "aterosclerose"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "A relação fisiopatológica entre aterosclerose, disfunção endotelial e disfunção erétil envolve um mecanismo molecular comum. Qual alternativa descreve CORRETAMENTE este elo?",
+      "alternativas": [
+        { "id": "A", "texto": "A aterosclerose aumenta a produção endotelial de óxido nítrico, hiperpolarizando a musculatura lisa e impedindo a contração coronariana." },
+        { "id": "B", "texto": "A disfunção endotelial reduz a biodisponibilidade do óxido nítrico, prejudicando o relaxamento da musculatura lisa cavernosa (impedindo ereção) e da musculatura lisa arterial (favorecendo vasoconstrição e progressão da placa em coronárias e periféricas)." },
+        { "id": "C", "texto": "O endotélio aterosclerótico produz mais GMPc, levando a relaxamento patológico das artérias periféricas." },
+        { "id": "D", "texto": "A aterosclerose preserva a função endotelial, mas reduz mecanicamente o lúmen sem efeitos bioquímicos sistêmicos." },
+        { "id": "E", "texto": "O óxido nítrico endotelial é responsável apenas pela contração da musculatura lisa, e sua queda gera vasodilatação patológica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **endotélio íntegro** é fonte essencial de **óxido nítrico (NO)**, que ativa a guanilato ciclase, eleva GMPc e relaxa a musculatura lisa. Na **disfunção endotelial** (estágio inicial da aterosclerose), há menos NO disponível: na artéria cavernosa, isso impede o relaxamento sinusoidal e causa DE; no leito coronariano e periférico, favorece vasoconstrição, agregação plaquetária e progressão da placa. Tabagismo, DM e dislipidemia agridem o endotélio simultaneamente em todos os leitos.",
+      "referenciaAula": "O endotélio produz óxido nítrico, e quando há disfunção endotelial diminui o NO. O final da disfunção endotelial é a aterosclerose. O tabagismo reduz a síntese de óxido nítrico.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-004",
+      "aulaOrigem": null,
+      "blocos": ["F"],
+      "eixos": ["T4"],
+      "tags": ["oclusão arterial aguda", "trombótica", "claudicação prévia", "aterosclerose"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 72 anos, com claudicação intermitente conhecida há 5 anos (50 metros), evolui em 12 horas com dor súbita intensa, palidez e parestesia em membro inferior esquerdo. Pulso poplíteo contralateral DIMINUÍDO; ausculta-se sopro femoral à direita. Arteriografia: imagem em ponta de lápis com circulação colateral desenvolvida à esquerda. Qual a etiologia mais provável e o que a clínica contralateral sugere?",
+      "alternativas": [
+        { "id": "A", "texto": "Embolia cardíaca por FA — paciente sem aterosclerose prévia." },
+        { "id": "B", "texto": "Oclusão aguda de etiologia trombótica sobre placa aterosclerótica, com doença bilateral (pulso e sopro contralaterais), confirmando aterosclerose como doença sistêmica acometendo ambos os membros." },
+        { "id": "C", "texto": "Ateroembolismo a partir de aneurisma de aorta abdominal, sem relação com a perna direita." },
+        { "id": "D", "texto": "Flegmasia cerulea dolens secundária a TVP iliofemoral." },
+        { "id": "E", "texto": "Síndrome compartimental espontânea por trauma ocupacional." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A história de **claudicação prévia**, o achado arteriográfico em **ponta de lápis com colaterais** e a **doença contralateral** (pulso diminuído e sopro) caracterizam oclusão **trombótica sobre placa** — não embólica. Ao contrário da etiologia embólica (taça invertida, sem colateral, contralateral normal), a trombótica reflete aterosclerose sistêmica bilateral. Esse paciente tem doença em múltiplos leitos e provavelmente DAC silenciosa.",
+      "referenciaAula": "Na trombótica há circulação colateral desenvolvida e sinal da ponta de lápis. Se não tenho pulso de um lado, posso não ter pulso na outra perna também, porque já é um paciente com etiologia crônica.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-005",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["DAOP", "disfunção erétil", "tabagismo", "três leitos vasculares"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 64 anos, tabagista pesado, com diagnóstico recente de claudicação intermitente bilateral. À anamnese dirigida, refere também disfunção erétil progressiva há 3 anos e episódios de dor torácica aos esforços. Qual a interpretação MAIS coerente do quadro?",
+      "alternativas": [
+        { "id": "A", "texto": "Trata-se de três doenças independentes, sendo a DE de origem psicogênica e a dor torácica funcional." },
+        { "id": "B", "texto": "Aterosclerose sistêmica acometendo simultaneamente os leitos peniano (DE), periférico (claudicação) e coronariano (angina) — devendo ser investigado e tratado de forma integrada, com priorização da avaliação cardiovascular." },
+        { "id": "C", "texto": "Vasculite primária com acometimento multissistêmico — biópsia de artéria temporal indicada." },
+        { "id": "D", "texto": "Síndrome de Leriche isolada, justificando todos os sintomas." },
+        { "id": "E", "texto": "Tromboembolismo paradoxal recorrente por forame oval patente." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O paciente apresenta o **tripé clínico** clássico da aterosclerose sistêmica: **DE** (leito peniano), **claudicação** (leito periférico) e **angina** (leito coronariano). Os fatores de risco são compartilhados (tabagismo, idade, dislipidemia). Embora a síndrome de Leriche (oclusão aortoilíaca) possa cursar com claudicação e DE, ela não justifica isoladamente angina. A abordagem deve ser integrada — controle agressivo dos fatores de risco e avaliação cardiológica prioritária.",
+      "referenciaAula": "Aterosclerose é doença sistêmica. A síndrome de Leriche é oclusão da aorta terminal e os mesmos fatores de risco da DAC causam DAOP e DE.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-006",
+      "aulaOrigem": null,
+      "blocos": ["F"],
+      "eixos": ["T4"],
+      "tags": ["síndrome de Leriche", "oclusão aortoilíaca", "disfunção erétil", "claudicação glútea"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 60 anos, tabagista, com claudicação BILATERAL em região glútea e coxa, disfunção erétil e pulsos femorais ausentes bilateralmente. Qual diagnóstico anatômico/clínico melhor explica o conjunto dos achados, e qual o mecanismo da disfunção erétil neste contexto?",
+      "alternativas": [
+        { "id": "A", "texto": "Doença femoropoplítea bilateral; a DE é coincidente e psicogênica." },
+        { "id": "B", "texto": "Oclusão aortoilíaca terminal (síndrome de Leriche); a DE decorre da hipofluxo na vascularização hipogástrica/pudenda, comprometendo o aporte para artérias cavernosas." },
+        { "id": "C", "texto": "Tromboangeíte obliterante; acomete artérias distais infrapatelares preservando ilíacas." },
+        { "id": "D", "texto": "Aneurisma de aorta abdominal não complicado, sem repercussão hemodinâmica." },
+        { "id": "E", "texto": "Embolia cardíaca aguda bilateral com isquemia simétrica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A tríade **claudicação glútea/coxa bilateral + DE + ausência de pulsos femorais** caracteriza a **síndrome de Leriche** (oclusão da aorta terminal/ilíacas comuns). A DE ocorre porque o hipofluxo aortoilíaco compromete a artéria pudenda interna e o aporte para as cavernosas — exemplificando como a aterosclerose em um leito proximal repercute em múltiplos territórios distais (membros, glúteos, pênis).",
+      "referenciaAula": "A síndrome de Leriche é uma oclusão da aorta terminal, descrita por Leriche, e cursa com claudicação bilateral e impotência.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-007",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["sildenafil", "óxido nítrico", "endotélio", "fisiopatologia comum"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os inibidores da fosfodiesterase-5 (sildenafil, tadalafil) e a fisiopatologia compartilhada entre disfunção erétil e aterosclerose, qual afirmação está CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "Os inibidores da PDE-5 produzem óxido nítrico, sendo eficazes mesmo em pacientes com endotélio totalmente lesado." },
+        { "id": "B", "texto": "Os inibidores da PDE-5 prolongam a ação do GMPc, dependendo da produção endotelial de óxido nítrico; por isso pacientes com aterosclerose grave e disfunção endotelial respondem pior a essas drogas." },
+        { "id": "C", "texto": "São contraindicados em qualquer paciente com doença coronariana, independentemente do uso de nitratos." },
+        { "id": "D", "texto": "Atuam exclusivamente no sistema nervoso central, sem efeito vascular periférico." },
+        { "id": "E", "texto": "Aumentam a degradação do GMPc, intensificando a contração da musculatura lisa cavernosa." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os iPDE-5 **inibem a degradação do GMPc**, prolongando o relaxamento da musculatura lisa cavernosa — mas dependem da geração de NO pelo endotélio. Em pacientes com **disfunção endotelial avançada** (aterosclerose grave, DM mal controlado), há pouco NO produzido e a resposta ao sildenafil é pobre. Isso reforça a DE como expressão da mesma doença endotelial sistêmica que causa DAC. A contraindicação absoluta é o **uso concomitante de nitratos** (não a DAC em si).",
+      "referenciaAula": "O óxido nítrico transforma GTP em GMPc. A fosfodiesterase inativa o GMPc; sildenafil, tadalafil e vardenafil inibem essa enzima. Indivíduos com queda de testosterona ou disfunção endotelial respondem de maneira pobre.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-008",
+      "aulaOrigem": null,
+      "blocos": ["F"],
+      "eixos": ["T4"],
+      "tags": ["embolia", "FA", "trombótica", "diferenciação etiológica"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Dois homens dão entrada no PS com oclusão arterial aguda em membro inferior. Paciente A: 75 anos, FA não anticoagulada, sem claudicação prévia, dor súbita há 4 horas, membro contralateral normal, arteriografia com taça invertida e pouca colateral. Paciente B: 68 anos, tabagista com claudicação há 6 anos, dor progressiva há 36 horas, sopro femoral contralateral, arteriografia com ponta de lápis e ampla colateral. Qual a conduta diferencial sobre a etiologia e seu raciocínio?",
+      "alternativas": [
+        { "id": "A", "texto": "Ambos têm etiologia embólica; conduta idêntica com embolectomia simples." },
+        { "id": "B", "texto": "Paciente A: embolia cardíaca (FA, sem doença prévia, sem colateral); Paciente B: trombose sobre placa aterosclerótica (claudicação prévia, doença bilateral, colaterais) — a integração entre OAA e DAOP demonstra que a etiologia trombótica é manifestação da aterosclerose sistêmica." },
+        { "id": "C", "texto": "Paciente A: trombose; Paciente B: embolia paradoxal por TVP." },
+        { "id": "D", "texto": "Ambos: ateroembolismo com síndrome do dedo azul." },
+        { "id": "E", "texto": "Paciente A: dissecção aórtica; Paciente B: arterite de Takayasu." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **diferenciação embolia × trombose** é central no manejo da OAA. **Embolia** (paciente A): início súbito, fonte cardíaca (FA), ausência de doença prévia, contralateral normal, taça invertida, sem colaterais. **Trombose** (paciente B): claudicação prévia, doença bilateral, ponta de lápis com colaterais — manifestação aguda da **aterosclerose sistêmica crônica**. O reconhecimento orienta tratamento (embolectomia vs. revascularização com bypass/endovascular) e prognóstico.",
+      "referenciaAula": "Na embólica há dor aguda, ausência de claudicação prévia, taça invertida, pouca colateral. Na trombótica há piora de sintoma pré-existente, ponta de lápis e colateral desenvolvida.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-009",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["fatores de risco compartilhados", "tabagismo", "diabetes", "prevenção"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os fatores de risco da aterosclerose como doença sistêmica que afetam SIMULTANEAMENTE os leitos coronariano, periférico e peniano, qual afirmação é CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "O tabagismo afeta apenas o leito pulmonar, sem repercussão vascular sistêmica." },
+        { "id": "B", "texto": "Tabagismo, diabetes mellitus, hipertensão e dislipidemia compartilham mecanismos (disfunção endotelial, redução de óxido nítrico, oxidação de LDL, ativação plaquetária) que progridem em paralelo nos leitos coronariano, periférico e cavernoso, justificando a abordagem unificada de prevenção." },
+        { "id": "C", "texto": "O diabetes mellitus protege contra DAOP por aumentar a circulação colateral." },
+        { "id": "D", "texto": "A hipertensão arterial atua exclusivamente em pequenas artérias distais, poupando coronária e leito peniano." },
+        { "id": "E", "texto": "A hiper-homocisteinemia é fator dependente, sem relação com aterosclerose periférica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Tabagismo, DM, HAS e dislipidemia agridem o **endotélio em todos os leitos**: reduzem síntese de NO, geram radicais livres, oxidam LDL e ativam plaquetas — promovendo placa em coronária, periférica e cavernosa simultaneamente. O DM duplica a 6 vezes o risco de DAOP e acomete também artérias distais. A homocisteinemia é fator **independente**. A prevenção é unificada: cessar tabagismo, controle metabólico, antiagregação e estatina.",
+      "referenciaAula": "Os fatores de risco para aterosclerose são tabagismo, dislipidemia, HAS, DM, sedentarismo e história familiar — os mesmos para DAC, DAOP e disfunção erétil.",
+      "transversal": true
+    },
+    {
+      "id": "Q-T4-010",
+      "aulaOrigem": null,
+      "blocos": ["F", "H"],
+      "eixos": ["T4", "T8"],
+      "tags": ["consulta integrada", "rastreamento", "anamnese dirigida", "DE como sentinela"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 55 anos, hipertenso, dislipidêmico e tabagista (40 maços-ano), procura consulta clínica por disfunção erétil isolada — sem queixas cardiovasculares ou de membros. Pulsos pediosos palpáveis e simétricos. Ao exame físico, sem sopros. Qual a conduta MAIS apropriada que reconhece a aterosclerose como doença sistêmica e a DE como evento sentinela?",
+      "alternativas": [
+        { "id": "A", "texto": "Prescrever sildenafil e tranquilizar o paciente, pois a ausência de sintomas cardíacos descarta DAC." },
+        { "id": "B", "texto": "Encaminhar à terapia psicossexual exclusivamente." },
+        { "id": "C", "texto": "Tratar a DE com iPDE-5 e iniciar investigação cardiovascular dirigida (estratificação de risco, eletrocardiograma, considerar teste ergométrico/imagem) e otimizar controle dos fatores de risco — pois a DE é marcador precoce de DAC e antecede o infarto em 2 a 5 anos." },
+        { "id": "D", "texto": "Solicitar arteriografia coronariana invasiva imediatamente, sem outros exames." },
+        { "id": "E", "texto": "Iniciar anticoagulação plena empírica devido ao risco trombótico." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em homem com fatores de risco e DE, a queixa é **evento sentinela** — deve disparar **avaliação cardiovascular** (estratificação, ECG, considerar teste ergométrico ou imagem conforme risco) e **controle agressivo de fatores de risco**. Tratar apenas a DE perde a oportunidade de prevenir IAM. Pulsos preservados e ausência de sopro **não excluem** DAC ou DAOP precoces, dado que a artéria cavernosa obstrui antes da coronária e da femoral. Arteriografia invasiva inicial não é apropriada; conduta é estratificação progressiva.",
+      "referenciaAula": "Hoje a disfunção erétil é marcador de doença coronariana e acontece de 2 a 5 anos antes do infarto. Daí a importância de investigá-la não só pela qualidade de vida.",
+      "transversal": true
+    }
+  ]
+}

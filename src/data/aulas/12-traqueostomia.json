@@ -1,0 +1,216 @@
+{
+  "aulaId": 12,
+  "titulo": "Traqueostomia",
+  "questoes": [
+    {
+      "id": "Q-12-001",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["definição", "anatomia", "local da abertura"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em adultos, a traqueostomia (traqueotomia) cirúrgica eletiva é classicamente realizada em qual local da traqueia?",
+      "alternativas": [
+        { "id": "A", "texto": "Na membrana cricotireoidiana, acima da cartilagem cricoide." },
+        { "id": "B", "texto": "Entre o segundo e o terceiro anel traqueal." },
+        { "id": "C", "texto": "Acima da cartilagem tireoide, na altura do osso hioide." },
+        { "id": "D", "texto": "Na carina traqueal, próximo à bifurcação dos brônquios." },
+        { "id": "E", "texto": "Diretamente sobre o primeiro anel traqueal, junto à cricoide." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A abertura na parede traqueal em adultos é classicamente realizada **entre o 2º e o 3º anel traqueal**. A membrana cricotireoidiana é o sítio da **cricotireoidostomia de emergência**, e não da traqueostomia eletiva. Aberturas muito altas (sobre o 1º anel/cricoide) aumentam o risco de estenose subglótica.",
+      "referenciaAula": "Geralmente essa abertura, que na verdade será uma traqueotomia, é realizada entre o segundo e terceiro anel traqueal nos adultos.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-002",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["indicações", "via aérea", "obstrução"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual das situações abaixo NÃO é uma indicação clássica de traqueostomia?",
+      "alternativas": [
+        { "id": "A", "texto": "Obstrução de via aérea superior por tumor de laringe." },
+        { "id": "B", "texto": "Trauma grave de face que impede intubação orotraqueal." },
+        { "id": "C", "texto": "Necessidade de ventilação mecânica prolongada." },
+        { "id": "D", "texto": "Pneumonia comunitária leve em paciente jovem, sem hipoxemia." },
+        { "id": "E", "texto": "Auxílio na aspiração de secreções em idoso com pneumonia e tosse ineficaz." }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "As indicações clássicas envolvem **obstrução de via aérea superior** (tumor, edema, trauma de face, queimadura), **ventilação mecânica prolongada** e **auxílio na higiene brônquica** em pacientes com dificuldade para eliminar secreções. Pneumonia leve sem comprometimento ventilatório nem hipoxemia é tratada clinicamente — não justifica traqueostomia.",
+      "referenciaAula": "As principais indicações são obstrução das vias aéreas superiores, tumor na laringe, edema, trauma grande em face, queimaduras, infecções e ventilação mecânica prolongada.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-003",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["cricotireoidostomia", "emergência", "via aérea difícil"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em uma situação de via aérea difícil de emergência, com obstrução supraglótica e impossibilidade de intubação orotraqueal, qual estrutura anatômica é classicamente puncionada/incisada para acesso rápido?",
+      "alternativas": [
+        { "id": "A", "texto": "O segundo espaço intercostal direito." },
+        { "id": "B", "texto": "A membrana cricotireoidiana, entre as cartilagens tireoide e cricoide." },
+        { "id": "C", "texto": "O istmo da glândula tireoide." },
+        { "id": "D", "texto": "A carina traqueal." },
+        { "id": "E", "texto": "A epiglote, sob visão direta." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na obstrução de via aérea superior em **emergência**, o acesso rápido é feito pela **membrana cricotireoidiana**, situada entre a cartilagem tireoide e a cricoide. É um sítio superficial, relativamente avascular e de fácil palpação, permitindo a perfusão imediata de ar para a traqueia. A traqueostomia formal, entre 2º e 3º anel, é procedimento mais demorado e eletivo.",
+      "referenciaAula": "Numa emergência para acesso de via aérea, a membrana cricotireoidiana é muito importante; podemos acessar com bisturi perfurando a pele e a membrana.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-004",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["cânula com cuff", "balonete", "ventilação mecânica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o balonete (cuff) das cânulas de traqueostomia, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Sua função é fixar a cânula à pele, dispensando o cadarço cervical." },
+        { "id": "B", "texto": "Deve permanecer permanentemente desinsuflado para evitar lesão da mucosa." },
+        { "id": "C", "texto": "Sela a parede entre traqueia e cânula, evitando que o ar do ventilador escape, sendo essencial em pacientes sob ventilação mecânica." },
+        { "id": "D", "texto": "Está presente apenas em cânulas metálicas, ausente nas plásticas." },
+        { "id": "E", "texto": "Sua hiperinsuflação prolongada protege a mucosa e reduz o risco de estenose." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **cuff** sela a interface entre traqueia e cânula, impedindo que o ar do ventilador mecânico escape pela parede externa — é fundamental na **ventilação mecânica**. As cânulas **metálicas** geralmente NÃO possuem balonete; as plásticas/silicone com cuff são as usadas no paciente ventilado. A **hiperinsuflação prolongada** é justamente o mecanismo que isquemia a mucosa e leva à estenose traqueal — não a previne.",
+      "referenciaAula": "Esse balonete serve para o aparelho respirador jogar o ar dentro do pulmão e o mesmo não sair pela parede externa; ele sela a parede entre a traqueia e a cânula de traqueostomia.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-005",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["traqueostomia definitiva", "laringectomia total", "câncer de laringe"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 64 anos, tabagista, submetido a laringectomia total por carcinoma espinocelular avançado de laringe. No pós-operatório evolui com pneumonia e necessita de intubação. Qual a conduta correta para garantir a via aérea?",
+      "alternativas": [
+        { "id": "A", "texto": "Tentar intubação orotraqueal convencional, pois a laringe está apenas edemaciada." },
+        { "id": "B", "texto": "Realizar nova traqueostomia abaixo do estoma definitivo." },
+        { "id": "C", "texto": "Acessar a via aérea diretamente pelo traqueostoma definitivo, pois a laringe foi removida cirurgicamente e não há comunicação entre boca e traqueia." },
+        { "id": "D", "texto": "Realizar cricotireoidostomia de urgência." },
+        { "id": "E", "texto": "Optar por máscara de não-reinalação, contraindicando qualquer dispositivo invasivo." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Na **laringectomia total** toda a laringe é removida e o paciente passa a respirar exclusivamente pelo **traqueostoma definitivo** — não há mais comunicação entre boca/faringe e traqueia. A intubação orotraqueal é **anatomicamente impossível**, e a cricotireoidostomia também (cricoide e membrana cricotireoidiana já não existem). O acesso é feito diretamente pelo estoma cervical.",
+      "referenciaAula": "O traqueostoma definitivo é necessário em pacientes com câncer de laringe ou hipofaringe; não adianta tentar intubação oral, a laringe foi removida cirurgicamente.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-006",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["traqueostomia precoce", "intubação prolongada", "estenose de glote"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente em UTI, intubado há 14 dias por insuficiência respiratória grave, sem perspectiva de extubação a curto prazo. Qual o principal benefício de indicar traqueostomia neste momento?",
+      "alternativas": [
+        { "id": "A", "texto": "Eliminar definitivamente a necessidade de aspiração de secreções." },
+        { "id": "B", "texto": "Substituir a ventilação mecânica por ventilação espontânea, mesmo em paciente em insuficiência respiratória." },
+        { "id": "C", "texto": "Proteger a via aérea, facilitar a aspiração de secreções e reduzir o risco de estenose subglótica/de glote pelo balonete do tubo orotraqueal." },
+        { "id": "D", "texto": "Garantir alimentação por via oral imediatamente após a passagem da cânula." },
+        { "id": "E", "texto": "Evitar completamente o risco de pneumonia associada à ventilação mecânica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Na **intubação prolongada**, o balonete do tubo orotraqueal apoiado em região glótica/subglótica pode causar **estenose**. A traqueostomia desloca o ponto de selagem para abaixo da glote, **protege a via aérea**, facilita a **aspiração de secreções** e o desmame. Não elimina o risco de pneumonia nem dispensa o ventilador no paciente ainda em insuficiência respiratória.",
+      "referenciaAula": "Em ventilações mecânicas prolongadas, o tubo poderia causar uma obstrução de glote; realizávamos precocemente a traqueostomia, que protege a via aérea e permite aspirar secreções.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-007",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["fala", "traqueostomia temporária", "passagem de ar"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fonação em pacientes com traqueostomia temporária (sem laringectomia), assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "São incapazes de falar, pois a laringe foi removida cirurgicamente." },
+        { "id": "B", "texto": "Geralmente conseguem falar ao ocluir o orifício da cânula, permitindo que o ar passe ao redor da cânula e atinja as pregas vocais." },
+        { "id": "C", "texto": "A fala só é possível com cânula metálica permanente, contraindicada em adultos." },
+        { "id": "D", "texto": "A fala depende exclusivamente da insuflação contínua do balonete." },
+        { "id": "E", "texto": "Não necessitam de equipe multidisciplinar para reabilitação vocal." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na traqueostomia **temporária** a laringe está preservada. Ao **ocluir o orifício** da cânula (manualmente ou com válvula de fala), o ar é redirecionado **ao redor da cânula** pela laringe, permitindo a fonação. Pacientes laringectomizados, ao contrário, perdem a laringe e necessitam de outras técnicas (voz esofágica, prótese fonatória). A reabilitação envolve equipe multidisciplinar com fonoaudiologia e fisioterapia.",
+      "referenciaAula": "Os pacientes na maioria das vezes vão conseguir falar; eles vão tampar o buraquinho da traqueostomia, o ar vai passar ao lado da cânula e o indivíduo vai poder falar.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-008",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["percutânea", "cirúrgica", "técnica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as técnicas de traqueostomia, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A técnica percutânea foi descrita ainda no século XIX, antes da técnica cirúrgica aberta." },
+        { "id": "B", "texto": "A técnica percutânea, desenvolvida a partir da década de 1980, é menos invasiva que a cirúrgica e tornou-se uma alternativa em pacientes selecionados." },
+        { "id": "C", "texto": "A traqueostomia cirúrgica foi totalmente abandonada após o surgimento da técnica percutânea." },
+        { "id": "D", "texto": "A técnica percutânea é o método de escolha em laringectomias totais." },
+        { "id": "E", "texto": "A técnica cirúrgica não pode ser realizada com anestesia local." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As técnicas **percutâneas** começaram a se difundir a partir da **década de 1980** como alternativa **menos invasiva**, sendo úteis em pacientes selecionados (especialmente em UTI). A traqueostomia **cirúrgica aberta** continua sendo a técnica mais utilizada na maioria dos serviços, e **pode ser feita com anestesia local** quando há obstrução tumoral que impede intubação. A laringectomia total exige abordagem cirúrgica aberta, não percutânea.",
+      "referenciaAula": "A partir de 1980 tivemos o surgimento de técnicas percutâneas, que são menos invasivas para a realização das traqueotomias; na maioria das vezes utilizamos as cirúrgicas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-009",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["bócio mergulhante", "anatomia distorcida", "planejamento cirúrgico"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 70 anos, com volumoso bócio cervical que desloca laringe e esôfago. Internada na UTI há 3 semanas com pneumonia, intubada, e agora há indicação de traqueostomia para ventilação prolongada. Ao exame, a traqueia não é palpável na região cervical anterior por interposição da glândula tireoide aumentada. Qual a conduta cirúrgica mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Realizar traqueostomia percutânea às cegas, dada a urgência do caso." },
+        { "id": "B", "texto": "Optar por cricotireoidostomia definitiva, sem necessidade de manipular a tireoide." },
+        { "id": "C", "texto": "Indicar a remoção (parcial ou total) do bócio para obter acesso seguro à traqueia, e então realizar a traqueostomia cirúrgica sob anestesia geral." },
+        { "id": "D", "texto": "Manter o paciente intubado indefinidamente, contraindicando qualquer abordagem cervical." },
+        { "id": "E", "texto": "Realizar traqueostomia entre o 5º e o 6º anel, abaixo do bócio, sem ressecá-lo." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Quando o **bócio volumoso interpõe-se à traqueia** e impede o acesso seguro à parede traqueal, a abordagem padrão é **ressecar o bócio (tireoidectomia)** para expor a traqueia, e em seguida realizar a traqueostomia entre 2º e 3º anel. Punção percutânea às cegas tem alto risco de lesão vascular/tireoidiana. Cricotireoidostomia definitiva é tecnicamente desfavorável e a tentativa de abordagem traqueal muito baixa aproxima de estruturas mediastinais e do tronco braquiocefálico.",
+      "referenciaAula": "O bócio necessitou ser totalmente removido para termos acesso à traqueia, e depois realizamos a traqueostomia; era uma traqueostomia temporária e ela voltou a respirar normalmente.",
+      "transversal": false
+    },
+    {
+      "id": "Q-12-010",
+      "aulaOrigem": 12,
+      "blocos": ["E"],
+      "eixos": ["T7"],
+      "tags": ["complicação tardia", "estenose traqueal", "decanulação"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 55 anos, decanulado há 2 meses após traqueostomia mantida por 30 dias durante internação prolongada em UTI por SARS-CoV-2 (cuff frequentemente hiperinsuflado). Procura ambulatório com dispneia progressiva aos esforços, estridor inspiratório e tosse. Qual o diagnóstico mais provável e a conduta inicial?",
+      "alternativas": [
+        { "id": "A", "texto": "Asma de início tardio; iniciar corticoide inalatório e beta-2-agonista." },
+        { "id": "B", "texto": "Pneumonia em organização pós-COVID; iniciar corticoide sistêmico empírico." },
+        { "id": "C", "texto": "Estenose traqueal pós-intubação/traqueostomia, especialmente por isquemia da mucosa pelo cuff hiperinsuflado; investigar com nasofibrolaringoscopia/broncoscopia e TC de pescoço/tórax." },
+        { "id": "D", "texto": "Refluxo gastroesofágico com laringite; iniciar inibidor de bomba de prótons e reavaliar em 6 meses." },
+        { "id": "E", "texto": "Tumor primário de laringe; encaminhar diretamente para laringectomia total." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Dispneia progressiva, **estridor inspiratório** e tosse após intubação/traqueostomia prolongadas, especialmente com **cuff hiperinsuflado**, sugerem fortemente **estenose traqueal pós-intubação/traqueostomia** — complicação tardia clássica decorrente da isquemia da mucosa traqueal. A investigação se faz com **endoscopia de via aérea (broncoscopia/nasofibrolaringoscopia)** e imagem (TC). Asma e refluxo não causam estridor inspiratório fixo, e tumor primário não tem essa cronologia tão bem definida com a história ventilatória.",
+      "referenciaAula": "A colocação da traqueostomia abaixo do balonete ensuflado evita estenose de glote; o tubo com balonete ensuflado por longo tempo poderia causar obstrução.",
+      "transversal": false
+    }
+  ]
+}

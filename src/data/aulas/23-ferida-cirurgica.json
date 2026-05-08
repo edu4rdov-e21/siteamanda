@@ -1,0 +1,216 @@
+{
+  "aulaId": 23,
+  "titulo": "Cuidados com a Ferida Cirúrgica",
+  "questoes": [
+    {
+      "id": "Q-23-001",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["classificação CDC", "cirurgia limpa", "risco infeccioso"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Segundo a classificação do CDC quanto ao risco de contaminação, as cirurgias limpas (classe 1) e limpas-contaminadas (classe 2) caracterizam-se por:",
+      "alternativas": [
+        { "id": "A", "texto": "Apresentarem processo infeccioso já estabelecido no momento da cirurgia." },
+        { "id": "B", "texto": "Possuírem baixo risco de infecção e corresponderem à maioria dos procedimentos eletivos." },
+        { "id": "C", "texto": "Exigirem antibioticoterapia terapêutica prolongada por 7 dias." },
+        { "id": "D", "texto": "Serem contraindicadas em pacientes ambulatoriais." },
+        { "id": "E", "texto": "Dispensarem qualquer tipo de profilaxia antibiótica." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As cirurgias **limpas** e **limpas-contaminadas** (classes 1 e 2 do CDC) têm **baixo risco de infecção** e correspondem à maioria dos procedimentos eletivos. As cirurgias contaminadas e infectadas (classes 3 e 4) já apresentam contaminação ou infecção estabelecida, exigindo cuidados diferenciados, incluindo antibioticoterapia terapêutica.",
+      "referenciaAula": "Existe uma classificação do CDC que divide os procedimentos em graus de risco. Limpas e limpas-contaminadas são as classes 1 e 2, com baixo risco de infecção.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-002",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["curativo", "ambiente úmido", "objetivos"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os objetivos do curativo pós-operatório em uma ferida cirúrgica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Manter a ferida em ambiente totalmente seco para acelerar a cicatrização." },
+        { "id": "B", "texto": "Promover ambiente úmido controlado, atuar como barreira inicial contra infecção e auxiliar na hemostasia." },
+        { "id": "C", "texto": "Substituir a antibioticoprofilaxia em cirurgias limpas." },
+        { "id": "D", "texto": "Permanecer ocluído por no mínimo 7 dias para reduzir infecção." },
+        { "id": "E", "texto": "Eliminar a necessidade de retirada de pontos." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os objetivos do curativo incluem: **manter ambiente úmido controlado** (o conceito antigo de ambiente seco caiu), atuar como **barreira inicial contra infecção**, oferecer **compressão e hemostasia** controlando espaços mortos, imobilizar tecidos e proporcionar conforto. Não substitui antibioticoprofilaxia nem deve ser ocluído por tempo prolongado.",
+      "referenciaAula": "No passado existia o conceito de que a cicatrização deveria ocorrer em ambiente seco e isso caiu. Os curativos mantêm ambiente úmido controlado e funcionam como barreira inicial contra infecção.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-003",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["infecção de sítio cirúrgico", "ISC", "definição temporal"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Conceitualmente, define-se infecção de ferida cirúrgica como aquela que ocorre em até quanto tempo após o ato cirúrgico, em procedimento sem implante de biomaterial?",
+      "alternativas": [
+        { "id": "A", "texto": "7 dias." },
+        { "id": "B", "texto": "14 dias." },
+        { "id": "C", "texto": "30 dias." },
+        { "id": "D", "texto": "60 dias." },
+        { "id": "E", "texto": "1 ano." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **infecção de ferida cirúrgica** é definida como aquela que ocorre em até **30 dias** após o ato cirúrgico. Esse prazo se estende para até **90 dias** quando há implante de biomaterial (osteossíntese, próteses vasculares, prótese de quadril/joelho, bypass coronário com prótese, etc.).",
+      "referenciaAula": "A infecção de ferida cirúrgica conceitualmente é a infecção que ocorre até 30 dias após o ato cirúrgico, podendo se estender a 90 dias quando há biomaterial implantável.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-004",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["curativo", "tempo de oclusão", "remoção"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetida a mastectomia (cirurgia limpa) recebe curativo simples com gaze e fita adesiva ao final do procedimento. Qual o tempo recomendado para remoção desse curativo oclusivo?",
+      "alternativas": [
+        { "id": "A", "texto": "Imediatamente, ainda na sala de recuperação." },
+        { "id": "B", "texto": "Entre 24 e 48 horas, sendo 48 horas o tempo mais bem definido." },
+        { "id": "C", "texto": "Após 7 dias, com o paciente em ambulatório." },
+        { "id": "D", "texto": "Apenas no momento da retirada dos pontos." },
+        { "id": "E", "texto": "Manter ocluído até completa epitelização (14 dias)." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O tempo recomendado para manter o curativo oclusivo é de **24 a 48 horas**, sendo **48 horas o melhor definido** na literatura. Nesse período já ocorre uma primeira reepitelização e união das bordas. Manter o curativo ocluído por tempo prolongado pode até **aumentar o risco de infecção**, e em geral o paciente segue sem curativo após esse período.",
+      "referenciaAula": "De 24 a 48 horas, sendo 48 horas o mais bem definido, é o tempo de oclusão. Manter o curativo oclusivo por muito mais tempo pode até aumentar o risco de infecção.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-005",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["antibioticoprofilaxia", "dose única", "pré-operatório"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a antibioticoprofilaxia em cirurgias limpas e limpas-contaminadas, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A profilaxia deve ser sempre prolongada por 7 dias para reduzir infecção." },
+        { "id": "B", "texto": "Não há benefício comprovado da antibioticoprofilaxia em qualquer cirurgia eletiva." },
+        { "id": "C", "texto": "A dose única imediatamente antes do procedimento é a prática consagrada e com benefício comprovado; o prolongamento por 24 horas ou mais não traz benefício adicional." },
+        { "id": "D", "texto": "A profilaxia substitui a higienização tópica adequada da ferida." },
+        { "id": "E", "texto": "Deve ser iniciada apenas após o término do procedimento cirúrgico." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A profilaxia consagrada é a **dose única imediatamente antes do início do procedimento**, com benefício comprovado em todas as cirurgias limpas e limpas-contaminadas. O **prolongamento** (24 horas ou mais) **não demonstrou benefício** adicional na prevenção de infecção e ainda aumenta efeitos adversos e a resistência antimicrobiana.",
+      "referenciaAula": "A profilaxia em dose única, imediatamente antes do início do procedimento, é consagrada. O prolongamento por 24 horas ou mais não tem benefício comprovado.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-006",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["retirada de pontos", "tempo", "região anatômica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o momento ideal para retirada de pontos cutâneos não absorvíveis, qual associação está CORRETA?",
+      "alternativas": [
+        { "id": "A", "texto": "Face — 14 a 21 dias." },
+        { "id": "B", "texto": "Membros inferiores e regiões plantares — 3 a 5 dias." },
+        { "id": "C", "texto": "Face — em torno de 5 dias; membros inferiores e regiões plantares/palmares — 2 a 3 semanas." },
+        { "id": "D", "texto": "Todas as regiões devem ter pontos retirados em 7 dias." },
+        { "id": "E", "texto": "A retirada de pontos depende apenas do tipo de fio, não da região anatômica." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A face, por ser **bem perfundida**, permite retirada precoce, em torno de **5 dias**. Já áreas com pele espessa, maior mobilidade e perfusão reduzida, como **membros inferiores, regiões palmares e plantares**, exigem **2 a 3 semanas** para remoção segura. A avaliação final é sempre clínica, baseada na coaptação das bordas.",
+      "referenciaAula": "Áreas bem perfundidas como a face permitem retirada em até 5 dias; áreas como membros inferiores, regiões palmares e plantares requerem de 2 a 3 semanas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-007",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["antissepsia", "água e sabão", "higienização"],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido a herniorrafia inguinal eletiva retorna em consulta 48h após o procedimento para retirada do curativo. Qual a recomendação padrão para higienização da ferida operatória neste momento?",
+      "alternativas": [
+        { "id": "A", "texto": "Higienização com água e sabão, sem necessidade rotineira de antissépticos específicos." },
+        { "id": "B", "texto": "Aplicação obrigatória de clorexidina alcoólica diariamente." },
+        { "id": "C", "texto": "PVPI tópico contínuo até a retirada dos pontos." },
+        { "id": "D", "texto": "Solução de hipoclorito diluído em todas as trocas." },
+        { "id": "E", "texto": "Manter a ferida ocluída sem higienização até a retirada dos pontos." }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A recomendação padrão, mais simples e amplamente disponível, é a **higienização com água e sabão**. Embora existam antissépticos como clorexidina, PVPI, PHMB e hipoclorito diluído, **não há evidência clara de superioridade** desses produtos em feridas operatórias limpas e limpas-contaminadas. A higienização rotineira com água e sabonete é suficiente.",
+      "referenciaAula": "A recomendação padrão é a higienização com água e sabão. Não há evidência clara da superioridade de antissépticos específicos nesse tipo de ferida operatória.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-008",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["cicatriz", "silicone", "fotoproteção", "remodelação"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os cuidados preventivos com a cicatriz após reepitelização da ferida operatória (em torno de 7 a 14 dias), assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "A exposição solar não interfere na qualidade da cicatriz." },
+        { "id": "B", "texto": "A principal medida profilática é evitar exposição à radiação ultravioleta; produtos à base de silicone (gel ou fitas) têm benefício comprovado e a humectação é útil." },
+        { "id": "C", "texto": "Antibióticos tópicos prolongados são a base do tratamento preventivo da cicatriz." },
+        { "id": "D", "texto": "Compressão é contraindicada em qualquer fase do processo cicatricial." },
+        { "id": "E", "texto": "As medidas preventivas devem ser mantidas por no mínimo 2 anos no pós-operatório." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **principal medida preventiva** é **evitar exposição solar** (a radiação UV gera espécies reativas de oxigênio, dano ao DNA, hiperpigmentação e prejuízo à migração de queratinócitos). Os **produtos à base de silicone** (gel ou fitas autoadesivas) têm evidência positiva. Humectação com cremes/óleos auxilia, e a compressão pode ser associada em casos selecionados. As medidas se estendem em geral por cerca de 3 meses.",
+      "referenciaAula": "A principal medida é a prevenção da exposição à radiação ultravioleta. Produtos à base de silicone têm evidência positiva, e essas medidas se estendem por cerca de 3 meses.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-009",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["deiscência", "fatores de risco", "infecção", "comorbidades"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 68 anos, diabético descompensado, tabagista, com hipoalbuminemia, submetido a laparotomia mediana há 8 dias, retorna com saída de secreção serosanguinolenta pela ferida e separação parcial das bordas, sem secreção purulenta franca. Qual a interpretação e a conduta INICIAL mais apropriada?",
+      "alternativas": [
+        { "id": "A", "texto": "Quadro de cicatrização normal; manter cuidados habituais e nova reavaliação em 30 dias." },
+        { "id": "B", "texto": "Deiscência de ferida operatória, fortemente associada a fatores de risco do paciente (diabetes, tabagismo, hipoalbuminemia) e possível processo infeccioso; reavaliar a ferida, otimizar fatores clínicos, considerar curativos específicos e investigar infecção associada." },
+        { "id": "C", "texto": "Indicação imediata de retirada de toda a sutura e fechamento por segunda intenção sem investigação adicional." },
+        { "id": "D", "texto": "Apenas hipertrofia cicatricial fisiológica; orientar silicone tópico e fotoproteção." },
+        { "id": "E", "texto": "Quadro de queloide; encaminhar para infiltração de corticoide imediatamente." }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **deiscência** é a abertura da síntese da ferida operatória, podendo ser parcial ou total. Está fortemente associada à **infecção de ferida** (que impede adesão adequada das bordas) e a fatores de risco como **idade, diabetes, tabagismo, anemia, hipoalbuminemia** e desnutrição. Em laparotomias, traz risco de hérnia incisional. A conduta envolve reavaliação cuidadosa, otimização clínica, curativos adequados e investigação/tratamento de infecção associada.",
+      "referenciaAula": "A deiscência pode ser parcial ou total e tem fatores de risco como idade, infecção de ferida, diabetes, anemia e hipoalbuminemia. Em cirurgia de parede abdominal pode evoluir com hérnia incisional.",
+      "transversal": false
+    },
+    {
+      "id": "Q-23-010",
+      "aulaOrigem": 23,
+      "blocos": ["C"],
+      "eixos": ["T3"],
+      "tags": ["ISC profunda", "biomaterial", "90 dias", "classificação"],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido a artroplastia total de quadril com prótese, 75 dias após a cirurgia, apresenta dor crescente, eritema e drenagem de secreção purulenta pela cicatriz, com sinais de comprometimento profundo. Sobre o caso, assinale a alternativa CORRETA:",
+      "alternativas": [
+        { "id": "A", "texto": "Não pode ser classificado como infecção de ferida cirúrgica, pois ultrapassou os 30 dias do procedimento." },
+        { "id": "B", "texto": "Trata-se de quadro de cicatrização patológica do tipo queloide, sem relação com a prótese." },
+        { "id": "C", "texto": "Pode ser classificado como infecção de ferida cirúrgica, pois em procedimentos com biomaterial implantável o prazo se estende a 90 dias; o quadro clínico (dor, eritema, drenagem purulenta) caracteriza infecção, possivelmente profunda envolvendo planos faciais/musculares." },
+        { "id": "D", "texto": "A conduta é apenas observação clínica, pois infecções tardias têm resolução espontânea." },
+        { "id": "E", "texto": "Antibioticoprofilaxia pré-operatória adequada exclui completamente a possibilidade de infecção tardia." }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em procedimentos com **biomaterial implantável** (osteossíntese, próteses vasculares, prótese de quadril/joelho, bypass coronário), o período de definição de **infecção de ferida cirúrgica se estende a 90 dias**. Os sinais clássicos — aumento de dor, eritema, edema e **drenagem purulenta** — confirmam infecção, podendo ser superficial (pele/subcutâneo), profunda (planos faciais/musculares) ou cavitária/órgão profundo. O quadro exige abordagem ativa, não simples observação.",
+      "referenciaAula": "Em procedimentos com biomaterial implantável, como prótese de quadril e de joelho, o risco de infecção de ferida cirúrgica se estende a 90 dias. As infecções podem ser superficiais, profundas ou cavitárias.",
+      "transversal": false
+    }
+  ]
+}

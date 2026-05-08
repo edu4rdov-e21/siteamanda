@@ -3,7 +3,6 @@ import type { BlocoId, EixoId, ModeConfig, ModeKey } from './types';
 const baseDefaults = {
   difficulty: 'mixed' as const,
   shuffleQuestions: true,
-  shuffleAlternatives: true,
 };
 
 export const MODE_PRESETS: Record<ModeKey, (sourceId?: number | BlocoId | EixoId) => ModeConfig> = {

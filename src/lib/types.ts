@@ -61,7 +61,6 @@ export interface ModeConfig {
   count: number;
   difficulty?: Difficulty | 'mixed';
   shuffleQuestions: boolean;
-  shuffleAlternatives: boolean;
   immediateFeedback: boolean;
   showExplanation: boolean;
   timeLimit?: number;

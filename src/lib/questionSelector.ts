@@ -9,11 +9,6 @@ function shuffle<T>(arr: T[]): T[] {
   return out;
 }
 
-function shuffleAlternatives(q: Question): Question {
-  const alternativas = shuffle(q.alternativas);
-  return { ...q, alternativas };
-}
-
 export function selectQuestions(
   allQuestions: Question[],
   config: ModeConfig,
@@ -54,8 +49,6 @@ export function selectQuestions(
   if (config.shuffleQuestions) pool = shuffle(pool);
 
   pool = pool.slice(0, config.count);
-
-  if (config.shuffleAlternatives) pool = pool.map(shuffleAlternatives);
 
   return pool;
 }

@@ -48,7 +48,6 @@ export function QuizSetupPage() {
   const [eixoId, setEixoId] = useState<EixoId>(eixosDisponiveis[0] ?? 'T1');
   const [difficulty, setDifficulty] = useState<Difficulty | 'mixed'>('mixed');
   const [count, setCount] = useState<number>(MODE_PRESETS[mode]().count);
-  const [shuffleAlts, setShuffleAlts] = useState(true);
 
   const sourceId: number | BlocoId | EixoId | undefined =
     mode === 'aulaUnica' ? (aulaId ?? undefined)
@@ -63,7 +62,6 @@ export function QuizSetupPage() {
       count: 9999,
       difficulty,
       shuffleQuestions: false,
-      shuffleAlternatives: false,
     };
     return selectQuestions(all, probe, useProgressStore.getState()).length;
   }, [mode, sourceId, difficulty, errorPoolCount, favoritesCount]);
@@ -83,7 +81,6 @@ export function QuizSetupPage() {
       ...MODE_PRESETS[mode](sourceId),
       count: effectiveCount,
       difficulty,
-      shuffleAlternatives: shuffleAlts,
     };
 
     const all = loadAllQuestions();
@@ -212,15 +209,6 @@ export function QuizSetupPage() {
               </p>
             </div>
           </div>
-          <label className="mt-4 flex items-center gap-2 text-sm text-slate-700 dark:text-slate-300">
-            <input
-              type="checkbox"
-              checked={shuffleAlts}
-              onChange={(e) => setShuffleAlts(e.target.checked)}
-              className="h-4 w-4 rounded border-slate-300 text-accent-600 focus:ring-accent-500 dark:border-slate-600 dark:bg-slate-800"
-            />
-            Embaralhar alternativas
-          </label>
         </Card>
 
         {mode === 'simulado' && (

@@ -5,102 +5,239 @@
     {
       "id": "Q-T5-001",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5", "T1"],
-      "tags": ["lactato", "hipoperfusão tecidual", "DO2/VO2", "monitorização"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5",
+        "T1"
+      ],
+      "tags": [
+        "lactato",
+        "hipoperfusão tecidual",
+        "DO2/VO2",
+        "monitorização"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em um paciente cirúrgico com suspeita de choque, o lactato arterial elevado é interpretado como marcador de hipoperfusão tecidual. Essa interpretação se baseia em qual mecanismo fisiopatológico fundamental?",
       "alternativas": [
-        { "id": "A", "texto": "Aumento isolado da pré-carga ventricular com redistribuição preferencial do fluxo para territórios esplâncnicos." },
-        { "id": "B", "texto": "Desequilíbrio entre oferta (DO2) e consumo (VO2) tecidual de oxigênio, com glicólise anaeróbia e produção de lactato pela disfunção da cadeia respiratória mitocondrial." },
-        { "id": "C", "texto": "Liberação de lactato exclusivamente pela musculatura esquelética em resposta ao estresse cirúrgico, sem relação com perfusão visceral." },
-        { "id": "D", "texto": "Acúmulo de lactato apenas por insuficiência hepática aguda, independentemente da perfusão sistêmica." },
-        { "id": "E", "texto": "Aumento da pós-carga isoladamente, com elevação compensatória de lactato pelos rins." }
+        {
+          "id": "A",
+          "texto": "Aumento isolado da pré-carga ventricular com redistribuição preferencial do fluxo para territórios esplâncnicos."
+        },
+        {
+          "id": "B",
+          "texto": "Desequilíbrio entre oferta (DO2) e consumo (VO2) tecidual de oxigênio, com glicólise anaeróbia e produção de lactato pela disfunção da cadeia respiratória mitocondrial."
+        },
+        {
+          "id": "C",
+          "texto": "Liberação de lactato exclusivamente pela musculatura esquelética em resposta ao estresse cirúrgico, sem relação com perfusão visceral."
+        },
+        {
+          "id": "D",
+          "texto": "Acúmulo de lactato apenas por insuficiência hepática aguda, independentemente da perfusão sistêmica."
+        },
+        {
+          "id": "E",
+          "texto": "Aumento da pós-carga isoladamente, com elevação compensatória de lactato pelos rins."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Em situação de choque, ocorre **redução da DO2** abaixo das demandas metabólicas (VO2), comprometendo a respiração celular aeróbia. Sem oxigênio adequado como aceptor final na cadeia respiratória, há mudança para **glicólise anaeróbia** com produção de lactato. Por isso o lactato funciona como marcador laboratorial de hipoperfusão tecidual — útil tanto no pós-operatório (aula 04) quanto no abdome agudo perfurativo séptico (aula 14) e na isquemia por oclusão arterial (aula 11).",
       "referenciaAula": "O lactato é um marcador de hipoperfusão tecidual. Choque é exatamente quando há um desequilíbrio entre oferta e consumo de oxigênio.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 4,
+      "videoStartSec": 1324
     },
     {
       "id": "Q-T5-002",
       "aulaOrigem": null,
-      "blocos": ["B", "F"],
-      "eixos": ["T5", "T2"],
-      "tags": ["HDA varicosa", "choque hipovolêmico", "ressuscitação", "cirrótico"],
+      "blocos": [
+        "B",
+        "F"
+      ],
+      "eixos": [
+        "T5",
+        "T2"
+      ],
+      "tags": [
+        "HDA varicosa",
+        "choque hipovolêmico",
+        "ressuscitação",
+        "cirrótico"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 58 anos, cirrótico Child B, dá entrada com hematêmese volumosa, PA 80/50 mmHg, FC 122 bpm, extremidades frias, lactato 4,8 mmol/L. Qual conduta INICIAL é mais apropriada antes da endoscopia?",
       "alternativas": [
-        { "id": "A", "texto": "Encaminhar imediatamente para endoscopia sem qualquer ressuscitação prévia, pois a hemostasia endoscópica é prioridade absoluta." },
-        { "id": "B", "texto": "Estabilização hemodinâmica com cristaloides, transfusão criteriosa, IBP endovenoso, octreotide e antibioticoterapia profilática, seguida de endoscopia precoce." },
-        { "id": "C", "texto": "Apenas observação clínica em enfermaria por 24h até melhora espontânea." },
-        { "id": "D", "texto": "Iniciar dieta líquida fria e antieméticos, reavaliando em 6h." },
-        { "id": "E", "texto": "Realizar TIPS de urgência sem qualquer tentativa de hemostasia endoscópica prévia." }
+        {
+          "id": "A",
+          "texto": "Encaminhar imediatamente para endoscopia sem qualquer ressuscitação prévia, pois a hemostasia endoscópica é prioridade absoluta."
+        },
+        {
+          "id": "B",
+          "texto": "Estabilização hemodinâmica com cristaloides, transfusão criteriosa, IBP endovenoso, octreotide e antibioticoterapia profilática, seguida de endoscopia precoce."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas observação clínica em enfermaria por 24h até melhora espontânea."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar dieta líquida fria e antieméticos, reavaliando em 6h."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar TIPS de urgência sem qualquer tentativa de hemostasia endoscópica prévia."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O paciente está em **choque hipovolêmico** por HDA varicosa. A conduta inicial envolve **ressuscitação volêmica** (cristaloides), transfusão criteriosa para corrigir o conteúdo arterial de O2 (componente da DO2), **IBP, octreotide e antibioticoterapia profilática** (reduz mortalidade no cirrótico). A endoscopia é precoce, mas não substitui a estabilização. O conceito de DO2 da aula 04 (Hb e volume sistólico) ancora a estratégia terapêutica.",
       "referenciaAula": "Tratamento da HD varicosa começa com farmacológico — IBP, octreotide, antibioticoterapia. Quando o paciente tá com anemia sintomática, transfundo concentrado de hemácia para aumentar a DO2.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 8,
+      "videoStartSec": 392
     },
     {
       "id": "Q-T5-003",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5", "T1"],
-      "tags": ["choque séptico", "perfurativo", "ressuscitação", "antibiótico"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5",
+        "T1"
+      ],
+      "tags": [
+        "choque séptico",
+        "perfurativo",
+        "ressuscitação",
+        "antibiótico"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 67 anos, com diverticulite perfurada e pneumoperitônio extenso. Apresenta-se taquicárdica (FC 130), hipotensa (PA 85/50), oligúrica, lactato 5,2 mmol/L, leucócitos 22.000 com desvio. Sobre o manejo pré-operatório, é CORRETO afirmar que:",
       "alternativas": [
-        { "id": "A", "texto": "A cirurgia deve ser realizada em caráter de emergência absoluta, sem qualquer preparo pré-operatório, pois o pneumoperitônio é indicação imediata." },
-        { "id": "B", "texto": "O preparo pré-operatório com ressuscitação volêmica com cristaloides, antibioticoterapia de amplo espectro, correção de distúrbios hidroeletrolíticos e, se necessário, drogas vasoativas é parte do tratamento, sem retardar excessivamente a cirurgia." },
-        { "id": "C", "texto": "A antibioticoterapia só deve ser iniciada após a abertura da cavidade no centro cirúrgico." },
-        { "id": "D", "texto": "Drogas vasoativas estão contraindicadas em qualquer paciente com peritonite bacteriana." },
-        { "id": "E", "texto": "Como há choque, a prioridade é apenas otimizar a hemodinâmica clinicamente, postergando a cirurgia por 48-72h." }
+        {
+          "id": "A",
+          "texto": "A cirurgia deve ser realizada em caráter de emergência absoluta, sem qualquer preparo pré-operatório, pois o pneumoperitônio é indicação imediata."
+        },
+        {
+          "id": "B",
+          "texto": "O preparo pré-operatório com ressuscitação volêmica com cristaloides, antibioticoterapia de amplo espectro, correção de distúrbios hidroeletrolíticos e, se necessário, drogas vasoativas é parte do tratamento, sem retardar excessivamente a cirurgia."
+        },
+        {
+          "id": "C",
+          "texto": "A antibioticoterapia só deve ser iniciada após a abertura da cavidade no centro cirúrgico."
+        },
+        {
+          "id": "D",
+          "texto": "Drogas vasoativas estão contraindicadas em qualquer paciente com peritonite bacteriana."
+        },
+        {
+          "id": "E",
+          "texto": "Como há choque, a prioridade é apenas otimizar a hemodinâmica clinicamente, postergando a cirurgia por 48-72h."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Diferente de cenários de **trauma com sangramento ativo** (\"levar correndo\"), na peritonite bacteriana há tempo para **preparo pré-operatório**: ressuscitação volêmica, antibioticoterapia precoce, correção eletrolítica e, se persistir hipotensão pós-volume, drogas vasoativas. O preparo não deve, porém, retardar excessivamente a cirurgia — o controle da fonte é insubstituível. Conceito integra aula 14 (perfurativo) com aula 04 (hemodinâmica/DO2).",
       "referenciaAula": "Não é uma cirurgia de emergência, não é um baleado no tórax. Você tem que preparar o paciente. Reposição volêmica inicial, antibioticoterapia, drogas vasoativas se necessário.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 14,
+      "videoStartSec": 754
     },
     {
       "id": "Q-T5-004",
       "aulaOrigem": null,
-      "blocos": ["B", "F"],
-      "eixos": ["T5"],
-      "tags": ["isquemia-reperfusão", "hipercalemia", "acidose metabólica", "rabdomiólise"],
+      "blocos": [
+        "B",
+        "F"
+      ],
+      "eixos": [
+        "T5"
+      ],
+      "tags": [
+        "isquemia-reperfusão",
+        "hipercalemia",
+        "acidose metabólica",
+        "rabdomiólise"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Paciente com oclusão arterial aguda em membro inferior por embolia, submetido a embolectomia com cateter de Fogarty após 5 horas de isquemia. Qual conjunto de complicações é caracteristicamente esperado pela síndrome de isquemia-reperfusão?",
       "alternativas": [
-        { "id": "A", "texto": "Alcalose respiratória, hipocalemia e hipertensão sustentada." },
-        { "id": "B", "texto": "Acidose metabólica, hipercalemia, mioglobinúria com risco de injúria renal aguda, hipotensão e arritmias por liberação de mediadores e produtos do tecido isquêmico." },
-        { "id": "C", "texto": "Hiponatremia isolada com edema cerebral." },
-        { "id": "D", "texto": "Coagulopatia exclusivamente por consumo de plaquetas, sem distúrbios eletrolíticos." },
-        { "id": "E", "texto": "Hipertermia maligna por uso obrigatório de halotano." }
+        {
+          "id": "A",
+          "texto": "Alcalose respiratória, hipocalemia e hipertensão sustentada."
+        },
+        {
+          "id": "B",
+          "texto": "Acidose metabólica, hipercalemia, mioglobinúria com risco de injúria renal aguda, hipotensão e arritmias por liberação de mediadores e produtos do tecido isquêmico."
+        },
+        {
+          "id": "C",
+          "texto": "Hiponatremia isolada com edema cerebral."
+        },
+        {
+          "id": "D",
+          "texto": "Coagulopatia exclusivamente por consumo de plaquetas, sem distúrbios eletrolíticos."
+        },
+        {
+          "id": "E",
+          "texto": "Hipertermia maligna por uso obrigatório de halotano."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A reperfusão de tecido isquêmico libera **potássio, mioglobina, lactato, radicais livres e mediadores cardiopressores**, levando a **acidose metabólica, hipercalemia, rabdomiólise com risco de necrose tubular aguda, hipotensão e arritmias** (até PCR). A hidratação vigorosa, monitorização eletrolítica e vigilância da função renal são pilares — convergindo com os princípios de monitorização hemodinâmica do paciente crítico (aula 04).",
       "referenciaAula": "A síndrome de isquemia e reperfusão libera radicais livres, mioglobina, cálcio, potássio e cardiopressores, levando a acidose metabólica, hipercalemia. Podem apresentar hipotensão, arritmia, inclusive parada cardiorrespiratória.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 11,
+      "videoStartSec": 936
     },
     {
       "id": "Q-T5-005",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5", "T1"],
-      "tags": ["sofrimento de alça", "choque séptico", "lactato", "abdome agudo"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5",
+        "T1"
+      ],
+      "tags": [
+        "sofrimento de alça",
+        "choque séptico",
+        "lactato",
+        "abdome agudo"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 70 anos, em manejo conservador de obstrução intestinal por bridas há 24h. Evolui com piora da dor (de cólica para contínua), febre 38,7 °C, FC 130, PA 90/55, lactato que sobe de 2,1 para 6,3 mmol/L em 4 horas, leucócitos 24.000 com desvio. Qual a interpretação fisiopatológica MAIS adequada e a conduta?",
       "alternativas": [
-        { "id": "A", "texto": "Choque hipovolêmico isolado por sequestro de líquido em terceiro espaço; manter conservador com mais cristaloide." },
-        { "id": "B", "texto": "Sepse pulmonar intercorrente; iniciar antibiótico e manter SNG para descompressão." },
-        { "id": "C", "texto": "Sofrimento de alça com isquemia/perfuração e translocação bacteriana levando a choque séptico-distributivo (e componente hipovolêmico); indicação de laparotomia de urgência após ressuscitação inicial." },
-        { "id": "D", "texto": "Resposta esperada à descompressão por SNG; aguardar mais 24h." },
-        { "id": "E", "texto": "Provável íleo paralítico funcional; suspender SNG e reintroduzir dieta." }
+        {
+          "id": "A",
+          "texto": "Choque hipovolêmico isolado por sequestro de líquido em terceiro espaço; manter conservador com mais cristaloide."
+        },
+        {
+          "id": "B",
+          "texto": "Sepse pulmonar intercorrente; iniciar antibiótico e manter SNG para descompressão."
+        },
+        {
+          "id": "C",
+          "texto": "Sofrimento de alça com isquemia/perfuração e translocação bacteriana levando a choque séptico-distributivo (e componente hipovolêmico); indicação de laparotomia de urgência após ressuscitação inicial."
+        },
+        {
+          "id": "D",
+          "texto": "Resposta esperada à descompressão por SNG; aguardar mais 24h."
+        },
+        {
+          "id": "E",
+          "texto": "Provável íleo paralítico funcional; suspender SNG e reintroduzir dieta."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A mudança do padrão de dor associada a **febre, taquicardia, hipotensão e lactato em ascensão** indica **sofrimento de alça com isquemia e/ou perfuração**, gerando peritonite e choque séptico (componente distributivo) somado ao hipovolêmico. A conduta é **ressuscitação volêmica + antibiótico + laparotomia de urgência** — o controle da fonte (aula 14) é tão essencial quanto a otimização da DO2 (aula 04).",
@@ -110,60 +247,140 @@
     {
       "id": "Q-T5-006",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5"],
-      "tags": ["choque séptico", "DO2", "expansão volêmica", "vasopressor"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5"
+      ],
+      "tags": [
+        "choque séptico",
+        "DO2",
+        "expansão volêmica",
+        "vasopressor"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em pós-operatório de revascularização miocárdica, no 3º dia, evolui com pneumonia nosocomial e choque séptico. Apresenta hipotensão refratária a expansão volêmica (3 L de cristaloide), lactato 5,5 mmol/L, débito urinário 0,2 mL/kg/h, Hb 7,2 g/dL, SatO2 88% em FiO2 50%. Qual a estratégia terapêutica MAIS coerente com o conceito de DO2?",
       "alternativas": [
-        { "id": "A", "texto": "Apenas continuar expansão volêmica agressiva indefinidamente, sem outras medidas." },
-        { "id": "B", "texto": "Restringir volume e iniciar diuréticos para evitar congestão pulmonar." },
-        { "id": "C", "texto": "Iniciar noradrenalina para corrigir a hipotensão, considerar transfusão para corrigir o conteúdo arterial de O2 (Hb baixa), otimizar oxigenação e reavaliar perfusão e lactato — atuando simultaneamente sobre débito cardíaco e conteúdo arterial de O2." },
-        { "id": "D", "texto": "Iniciar apenas dobutamina sem corrigir a hipotensão, pois a contratilidade é a única variável relevante." },
-        { "id": "E", "texto": "Suspender antibiótico até resultado de hemoculturas." }
+        {
+          "id": "A",
+          "texto": "Apenas continuar expansão volêmica agressiva indefinidamente, sem outras medidas."
+        },
+        {
+          "id": "B",
+          "texto": "Restringir volume e iniciar diuréticos para evitar congestão pulmonar."
+        },
+        {
+          "id": "C",
+          "texto": "Iniciar noradrenalina para corrigir a hipotensão, considerar transfusão para corrigir o conteúdo arterial de O2 (Hb baixa), otimizar oxigenação e reavaliar perfusão e lactato — atuando simultaneamente sobre débito cardíaco e conteúdo arterial de O2."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar apenas dobutamina sem corrigir a hipotensão, pois a contratilidade é a única variável relevante."
+        },
+        {
+          "id": "E",
+          "texto": "Suspender antibiótico até resultado de hemoculturas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **DO2 = DC × CaO2**, onde CaO2 depende de Hb e SatO2. No choque séptico refratário a volume, é racional **iniciar vasopressor (noradrenalina)** para restabelecer PAM e perfusão, **transfundir** para corrigir CaO2 (Hb baixa e sintomática), otimizar oxigenação (SatO2) e considerar inotrópico se houver disfunção miocárdica. Atuar sobre múltiplas variáveis da DO2 é o princípio central da ressuscitação no paciente crítico (aula 04).",
       "referenciaAula": "Muito do que a gente faz para tratar esse paciente é otimizar essas variáveis que compõem a DO2. Quando um paciente tá com anemia sintomática, transfundo concentrado de hemácia para aumentar o conteúdo arterial de oxigênio.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 4,
+      "videoStartSec": 1416
     },
     {
       "id": "Q-T5-007",
       "aulaOrigem": null,
-      "blocos": ["B", "F"],
-      "eixos": ["T5", "T2"],
-      "tags": ["HDA não varicosa", "ressuscitação", "Forrest", "falência terapêutica"],
+      "blocos": [
+        "B",
+        "F"
+      ],
+      "eixos": [
+        "T5",
+        "T2"
+      ],
+      "tags": [
+        "HDA não varicosa",
+        "ressuscitação",
+        "Forrest",
+        "falência terapêutica"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente, 65 anos, idoso, etilista, com HDA por úlcera duodenal Forrest IA na parede posterior. Submetido a duas tentativas de hemostasia endoscópica sem sucesso. Mantém PA 80/50, FC 130, perdeu cerca de 60% da volemia estimada. Qual a conduta correta?",
       "alternativas": [
-        { "id": "A", "texto": "Realizar uma terceira tentativa endoscópica antes de qualquer outra intervenção." },
-        { "id": "B", "texto": "Indicar tratamento cirúrgico de urgência (rafia da úlcera ou sutura do vaso) com manejo concomitante do choque hipovolêmico (cristaloide, hemoderivados, correção da coagulopatia)." },
-        { "id": "C", "texto": "Apenas observação clínica em UTI com IBP em altas doses, aguardando hemostasia espontânea." },
-        { "id": "D", "texto": "Iniciar tratamento clínico com octreotide e ligadura elástica." },
-        { "id": "E", "texto": "Realizar TIPS, pois é o padrão-ouro para HDA não varicosa refratária." }
+        {
+          "id": "A",
+          "texto": "Realizar uma terceira tentativa endoscópica antes de qualquer outra intervenção."
+        },
+        {
+          "id": "B",
+          "texto": "Indicar tratamento cirúrgico de urgência (rafia da úlcera ou sutura do vaso) com manejo concomitante do choque hipovolêmico (cristaloide, hemoderivados, correção da coagulopatia)."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas observação clínica em UTI com IBP em altas doses, aguardando hemostasia espontânea."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar tratamento clínico com octreotide e ligadura elástica."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar TIPS, pois é o padrão-ouro para HDA não varicosa refratária."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Critérios para cirurgia em HDA não varicosa: **falha endoscópica em duas tentativas, perda > 50% da volemia, sangramento persistente, úlcera Forrest IA/IB em parede posterior duodenal, paciente idoso/etilista**. A cirurgia (rafia ou sutura do vaso) ocorre em paralelo com a ressuscitação do choque hipovolêmico — não se posterga. TIPS é técnica para HDA varicosa, não úlcera. Octreotide e ligadura também são para varizes.",
       "referenciaAula": "Cirurgia de urgência na HD não varicosa: falha em segunda tentativa endoscópica, perda > 50% da volemia, úlceras Forrest I e II na parede posterior do duodeno, idosos e etilistas. Técnica: rafia da úlcera ou sutura do vaso sangrante.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 8,
+      "videoStartSec": 699
     },
     {
       "id": "Q-T5-008",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5"],
-      "tags": ["janelas de perfusão", "diurese", "perfusão periférica", "monitorização clínica"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5"
+      ],
+      "tags": [
+        "janelas de perfusão",
+        "diurese",
+        "perfusão periférica",
+        "monitorização clínica"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre as \"janelas de perfusão\" usadas para monitorização clínica do paciente em choque, sejam ele cirúrgico no pós-operatório, hipovolêmico por HDA ou séptico por peritonite, qual associação está MAIS adequada?",
       "alternativas": [
-        { "id": "A", "texto": "Diurese > 0,5 mL/kg/h indica hipoperfusão renal estabelecida." },
-        { "id": "B", "texto": "Tempo de enchimento capilar e temperatura das extremidades, nível e conteúdo de consciência, diurese e sinais vitais — todos refletem perfusão tecidual e podem ser usados em conjunto à beira-leito; o lactato complementa essa avaliação como marcador laboratorial." },
-        { "id": "C", "texto": "A pressão arterial isolada é suficiente para descartar hipoperfusão." },
-        { "id": "D", "texto": "Apenas medidas invasivas (cateter de artéria pulmonar) permitem avaliar perfusão tecidual." },
-        { "id": "E", "texto": "Livedo, perfusão lentificada e oligúria são sinais tardios irrelevantes para a tomada de decisão." }
+        {
+          "id": "A",
+          "texto": "Diurese > 0,5 mL/kg/h indica hipoperfusão renal estabelecida."
+        },
+        {
+          "id": "B",
+          "texto": "Tempo de enchimento capilar e temperatura das extremidades, nível e conteúdo de consciência, diurese e sinais vitais — todos refletem perfusão tecidual e podem ser usados em conjunto à beira-leito; o lactato complementa essa avaliação como marcador laboratorial."
+        },
+        {
+          "id": "C",
+          "texto": "A pressão arterial isolada é suficiente para descartar hipoperfusão."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas medidas invasivas (cateter de artéria pulmonar) permitem avaliar perfusão tecidual."
+        },
+        {
+          "id": "E",
+          "texto": "Livedo, perfusão lentificada e oligúria são sinais tardios irrelevantes para a tomada de decisão."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "As **janelas clínicas de perfusão** integram avaliação neurológica (nível/conteúdo), perfusão periférica (temperatura, enchimento capilar, livedo), **diurese (corte ≈ 0,5 mL/kg/h)** e sinais vitais. O **lactato** é o marcador laboratorial complementar. Pressão arterial isolada é insuficiente — pacientes em choque podem ter PA \"normal\" com hipoperfusão visceral. Esses parâmetros aplicam-se a qualquer etiologia de choque (séptico/hipovolêmico/distributivo).",
@@ -173,44 +390,99 @@
     {
       "id": "Q-T5-009",
       "aulaOrigem": null,
-      "blocos": ["B", "F"],
-      "eixos": ["T5"],
-      "tags": ["oclusão arterial", "amputação primária", "isquemia-reperfusão", "Rutherford"],
+      "blocos": [
+        "B",
+        "F"
+      ],
+      "eixos": [
+        "T5"
+      ],
+      "tags": [
+        "oclusão arterial",
+        "amputação primária",
+        "isquemia-reperfusão",
+        "Rutherford"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente, 78 anos, diabético, com oclusão arterial aguda em membro inferior há 18h. Apresenta-se com paralisia, anestesia, cianose fixa e rigidez articular do membro (Rutherford III), além de PA 90/60, lactato 7 mmol/L, K 6,2 mEq/L, creatinina 2,8 mg/dL. Qual conduta é MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Embolectomia com cateter de Fogarty imediata, seguida de fasciotomia de rotina, mesmo com membro inviável." },
-        { "id": "B", "texto": "Tentar trombólise sistêmica com altas doses, apesar do tempo de isquemia." },
-        { "id": "C", "texto": "Amputação primária do membro inviável (Rutherford III), pois a revascularização traria síndrome de isquemia-reperfusão grave com risco de morte; manejo concomitante do choque, da hipercalemia e da injúria renal." },
-        { "id": "D", "texto": "Apenas anticoagulação plena e observação clínica por mais 24h." },
-        { "id": "E", "texto": "Aquecimento ativo do membro com bolsas térmicas para tentar restabelecer fluxo." }
+        {
+          "id": "A",
+          "texto": "Embolectomia com cateter de Fogarty imediata, seguida de fasciotomia de rotina, mesmo com membro inviável."
+        },
+        {
+          "id": "B",
+          "texto": "Tentar trombólise sistêmica com altas doses, apesar do tempo de isquemia."
+        },
+        {
+          "id": "C",
+          "texto": "Amputação primária do membro inviável (Rutherford III), pois a revascularização traria síndrome de isquemia-reperfusão grave com risco de morte; manejo concomitante do choque, da hipercalemia e da injúria renal."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas anticoagulação plena e observação clínica por mais 24h."
+        },
+        {
+          "id": "E",
+          "texto": "Aquecimento ativo do membro com bolsas térmicas para tentar restabelecer fluxo."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Rutherford III** = membro inviável (anestesia, paralisia, rigidez, cianose fixa). Revascularizar nesse contexto desencadeia **síndrome de isquemia-reperfusão potencialmente fatal** (já há sinais: hipercalemia, lactato alto, IRA). A conduta é **amputação primária**, salvando a vida — \"perna versus vida do paciente\". Em paralelo, manejar o choque com volume, vasopressor, correção da hipercalemia e suporte renal. O conceito de DO2 e janelas de perfusão (aula 04) guia a ressuscitação.",
       "referenciaAula": "Classe três de Rutherford é membro inviável, conduta seria amputação primária. A gente sabe que o paciente tem altas chances de evoluir com isquemia e reperfusão e não tolerar.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 11,
+      "videoStartSec": 1066
     },
     {
       "id": "Q-T5-010",
       "aulaOrigem": null,
-      "blocos": ["A", "B"],
-      "eixos": ["T5", "T1"],
-      "tags": ["choque misto", "peritonite", "hipovolêmico", "séptico"],
+      "blocos": [
+        "A",
+        "B"
+      ],
+      "eixos": [
+        "T5",
+        "T1"
+      ],
+      "tags": [
+        "choque misto",
+        "peritonite",
+        "hipovolêmico",
+        "séptico"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre a fisiopatologia do choque na peritonite bacteriana difusa por perfuração intestinal, é CORRETO afirmar que:",
       "alternativas": [
-        { "id": "A", "texto": "É um choque puramente cardiogênico, por depressão miocárdica isolada." },
-        { "id": "B", "texto": "Trata-se de choque misto: o componente hipovolêmico decorre do íleo adinâmico, sequestro de líquido para terceiro espaço (alça e cavidade) e perdas insensíveis; o componente séptico-distributivo ocorre por translocação bacteriana e liberação de mediadores inflamatórios, ambos contribuindo para hipoperfusão tecidual e acidose metabólica." },
-        { "id": "C", "texto": "É exclusivamente hipovolêmico, sem qualquer componente séptico." },
-        { "id": "D", "texto": "É sempre obstrutivo, por compressão extrínseca da veia cava inferior." },
-        { "id": "E", "texto": "Não há repercussão respiratória; a ventilação está sempre preservada." }
+        {
+          "id": "A",
+          "texto": "É um choque puramente cardiogênico, por depressão miocárdica isolada."
+        },
+        {
+          "id": "B",
+          "texto": "Trata-se de choque misto: o componente hipovolêmico decorre do íleo adinâmico, sequestro de líquido para terceiro espaço (alça e cavidade) e perdas insensíveis; o componente séptico-distributivo ocorre por translocação bacteriana e liberação de mediadores inflamatórios, ambos contribuindo para hipoperfusão tecidual e acidose metabólica."
+        },
+        {
+          "id": "C",
+          "texto": "É exclusivamente hipovolêmico, sem qualquer componente séptico."
+        },
+        {
+          "id": "D",
+          "texto": "É sempre obstrutivo, por compressão extrínseca da veia cava inferior."
+        },
+        {
+          "id": "E",
+          "texto": "Não há repercussão respiratória; a ventilação está sempre preservada."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na peritonite bacteriana difusa coexistem mecanismos: o **íleo adinâmico** e a inflamação peritoneal levam a **acúmulo de líquido em terceiro espaço** (hipovolemia relativa); a **translocação bacteriana** e a liberação de mediadores causam **vasodilatação distributiva e disfunção endotelial** (componente séptico). Há também repercussão respiratória pela distensão (atelectasias, V/Q alterado). Esse \"choque misto\" combina conceitos de DO2 (aula 04) com o controle de fonte (aula 14).",
       "referenciaAula": "Aqui acaba sendo um choque misto. Tem tanto componente hipovolêmico quando o séptico, levando a morte se não for tratada. Diminuição do volume do líquido extracelular, vasoconstrição periférica, contribuindo pro choque hipovolêmico.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 14,
+      "videoStartSec": 542
     }
   ]
 }

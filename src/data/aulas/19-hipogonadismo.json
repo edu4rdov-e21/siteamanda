@@ -5,212 +5,463 @@
     {
       "id": "Q-19-001",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["definição", "diagnóstico clínico-laboratorial", "testosterona"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "definição",
+        "diagnóstico clínico-laboratorial",
+        "testosterona"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a definição de hipogonadismo masculino, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É um diagnóstico exclusivamente laboratorial, baseado apenas em uma dosagem isolada de testosterona total." },
-        { "id": "B", "texto": "É uma síndrome clínica e laboratorial: associa sinais/sintomas de deficiência androgênica a níveis baixos de testosterona." },
-        { "id": "C", "texto": "É definido apenas por sintomas clínicos, sem necessidade de dosagem hormonal." },
-        { "id": "D", "texto": "Refere-se exclusivamente à infertilidade masculina, independentemente da testosterona." },
-        { "id": "E", "texto": "É sinônimo de andropausa fisiológica e não requer tratamento em nenhum caso." }
+        {
+          "id": "A",
+          "texto": "É um diagnóstico exclusivamente laboratorial, baseado apenas em uma dosagem isolada de testosterona total."
+        },
+        {
+          "id": "B",
+          "texto": "É uma síndrome clínica e laboratorial: associa sinais/sintomas de deficiência androgênica a níveis baixos de testosterona."
+        },
+        {
+          "id": "C",
+          "texto": "É definido apenas por sintomas clínicos, sem necessidade de dosagem hormonal."
+        },
+        {
+          "id": "D",
+          "texto": "Refere-se exclusivamente à infertilidade masculina, independentemente da testosterona."
+        },
+        {
+          "id": "E",
+          "texto": "É sinônimo de andropausa fisiológica e não requer tratamento em nenhum caso."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O hipogonadismo é definido como um **conjunto de sinais e sintomas** relacionados à deficiência de testosterona que interferem em sistemas orgânicos e na qualidade de vida. O diagnóstico é **clínico E laboratorial** — exige tanto sintomatologia compatível quanto níveis baixos de testosterona, não bastando apenas um deles isoladamente.",
       "referenciaAula": "Esse diagnóstico é importantíssimo a gente ressaltar que ele é clínico baseado tanto nas dosagens de testosterona, mas também associado à sintomatologia desse paciente.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 38
     },
     {
       "id": "Q-19-002",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["eixo HHG", "LH/FSH", "fisiologia"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "eixo HHG",
+        "LH/FSH",
+        "fisiologia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre o eixo hipotálamo-hipófise-gonadal masculino, qual associação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "O FSH atua diretamente nas células de Leydig estimulando a produção de testosterona." },
-        { "id": "B", "texto": "O LH estimula as células de Leydig à produção de testosterona; o FSH atua nas células de Sertoli." },
-        { "id": "C", "texto": "O GnRH é produzido na hipófise anterior e age sobre o testículo." },
-        { "id": "D", "texto": "O estradiol estimula positivamente a produção de GnRH no hipotálamo." },
-        { "id": "E", "texto": "O LH é produzido pelo testículo e regula o hipotálamo." }
+        {
+          "id": "A",
+          "texto": "O FSH atua diretamente nas células de Leydig estimulando a produção de testosterona."
+        },
+        {
+          "id": "B",
+          "texto": "O LH estimula as células de Leydig à produção de testosterona; o FSH atua nas células de Sertoli."
+        },
+        {
+          "id": "C",
+          "texto": "O GnRH é produzido na hipófise anterior e age sobre o testículo."
+        },
+        {
+          "id": "D",
+          "texto": "O estradiol estimula positivamente a produção de GnRH no hipotálamo."
+        },
+        {
+          "id": "E",
+          "texto": "O LH é produzido pelo testículo e regula o hipotálamo."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **GnRH** hipotalâmico estimula a hipófise anterior a liberar **LH e FSH**. O **LH** age nas **células de Leydig**, responsáveis pela produção de **testosterona**, enquanto o **FSH** estimula as **células de Sertoli**, importantes na regulação dos túbulos seminíferos. A testosterona é convertida em estradiol pela aromatase, que faz feedback negativo central.",
       "referenciaAula": "O FSH é responsável pelo estímulo das células de Sertoli; as células de Leydig serão responsáveis pela produção de testosterona. Essa testosterona vai se transformar através da aromatase em estradiol, que fará o feedback negativo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 163
     },
     {
       "id": "Q-19-003",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["sintomas", "deficiência androgênica", "libido"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "sintomas",
+        "deficiência androgênica",
+        "libido"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual dos sintomas abaixo NÃO é classicamente atribuído ao hipogonadismo masculino?",
       "alternativas": [
-        { "id": "A", "texto": "Diminuição da libido e alterações da função erétil." },
-        { "id": "B", "texto": "Diminuição da massa e força muscular." },
-        { "id": "C", "texto": "Osteopenia e osteoporose." },
-        { "id": "D", "texto": "Hipertensão arterial sistêmica grave de início súbito." },
-        { "id": "E", "texto": "Queda de pelos axilares e púbicos, com diminuição do volume testicular." }
+        {
+          "id": "A",
+          "texto": "Diminuição da libido e alterações da função erétil."
+        },
+        {
+          "id": "B",
+          "texto": "Diminuição da massa e força muscular."
+        },
+        {
+          "id": "C",
+          "texto": "Osteopenia e osteoporose."
+        },
+        {
+          "id": "D",
+          "texto": "Hipertensão arterial sistêmica grave de início súbito."
+        },
+        {
+          "id": "E",
+          "texto": "Queda de pelos axilares e púbicos, com diminuição do volume testicular."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "Os sintomas clássicos da deficiência androgênica incluem **diminuição da libido, disfunção erétil, perda de massa/força muscular, osteopenia/osteoporose, queda de pelos axilares/púbicos, redução do volume testicular**, além de fadiga, baixa motivação, distúrbios do sono e humor depressivo. Hipertensão grave de início súbito não é manifestação típica do hipogonadismo.",
       "referenciaAula": "Diminuição da libido, alterações da função erétil, diminuição da massa e força muscular, diminuição da massa óssea com osteopenia, osteoporose, diminuição do volume testicular, queda de pelos axilares e púbicos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 394
     },
     {
       "id": "Q-19-004",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["primário vs secundário", "Klinefelter", "gonadotrofinas"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "primário vs secundário",
+        "Klinefelter",
+        "gonadotrofinas"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Homem de 28 anos, com síndrome de Klinefelter, apresenta testosterona total baixa. Qual o padrão laboratorial esperado das gonadotrofinas e a classificação do hipogonadismo?",
       "alternativas": [
-        { "id": "A", "texto": "LH e FSH baixos — hipogonadismo hipogonadotrófico (secundário)." },
-        { "id": "B", "texto": "LH e FSH normais — hipogonadismo eugonadotrófico." },
-        { "id": "C", "texto": "LH e FSH elevados — hipogonadismo hipergonadotrófico (primário)." },
-        { "id": "D", "texto": "LH alto e FSH suprimido — padrão de tumor hipofisário." },
-        { "id": "E", "texto": "Apenas estradiol elevado, com gonadotrofinas indetectáveis." }
+        {
+          "id": "A",
+          "texto": "LH e FSH baixos — hipogonadismo hipogonadotrófico (secundário)."
+        },
+        {
+          "id": "B",
+          "texto": "LH e FSH normais — hipogonadismo eugonadotrófico."
+        },
+        {
+          "id": "C",
+          "texto": "LH e FSH elevados — hipogonadismo hipergonadotrófico (primário)."
+        },
+        {
+          "id": "D",
+          "texto": "LH alto e FSH suprimido — padrão de tumor hipofisário."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas estradiol elevado, com gonadotrofinas indetectáveis."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A síndrome de Klinefelter é causa clássica de **hipogonadismo primário** (lesão testicular periférica). Como há falência da produção testicular, falta o feedback negativo central, e as **gonadotrofinas (LH e FSH) sobem** — caracterizando o **hipogonadismo hipergonadotrófico**. Outras causas primárias incluem orquite, pós-quimio/radioterapia e trauma testicular.",
       "referenciaAula": "No hipogonadismo primário a falha está no testículo, como no Klinefelter, orquite, após químio ou radioterapia. Eu teria uma testosterona baixa com elevação das gonadotrofinas: lesão periférica e hipogonadismo hipergonadotrófico.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 306
     },
     {
       "id": "Q-19-005",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["hipogonadismo secundário", "hiperprolactinemia", "opioides"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "hipogonadismo secundário",
+        "hiperprolactinemia",
+        "opioides"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 45 anos, em uso crônico de opioides para dor lombar, queixa-se de queda da libido. Exames: testosterona total 220 ng/dL, LH e FSH baixos. Qual a classificação e provável mecanismo?",
       "alternativas": [
-        { "id": "A", "texto": "Hipogonadismo primário por dano testicular direto pelos opioides." },
-        { "id": "B", "texto": "Hipogonadismo secundário (hipogonadotrófico), por inibição central do eixo." },
-        { "id": "C", "texto": "Andropausa fisiológica, sem necessidade de investigação adicional." },
-        { "id": "D", "texto": "Resistência periférica à testosterona, com gonadotrofinas elevadas." },
-        { "id": "E", "texto": "Hipertireoidismo subclínico." }
+        {
+          "id": "A",
+          "texto": "Hipogonadismo primário por dano testicular direto pelos opioides."
+        },
+        {
+          "id": "B",
+          "texto": "Hipogonadismo secundário (hipogonadotrófico), por inibição central do eixo."
+        },
+        {
+          "id": "C",
+          "texto": "Andropausa fisiológica, sem necessidade de investigação adicional."
+        },
+        {
+          "id": "D",
+          "texto": "Resistência periférica à testosterona, com gonadotrofinas elevadas."
+        },
+        {
+          "id": "E",
+          "texto": "Hipertireoidismo subclínico."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Testosterona baixa com **LH e FSH baixos** caracteriza **hipogonadismo hipogonadotrófico (secundário)** — lesão central. Causas centrais incluem **tumores hipofisários, hiperprolactinemia, obesidade e uso de opioides**. Os opioides suprimem a liberação de GnRH, reduzindo o estímulo gonadotrófico e a produção testicular de testosterona.",
       "referenciaAula": "No secundário tenho dificuldade de produção pela falta de estímulo: lesão central com hipogonadotrófico. A gente vê isso em tumores hipofisários, na hiperprolactinemia, na obesidade, no uso de opioides.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 339
     },
     {
       "id": "Q-19-006",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["ponto de corte", "testosterona total", "diagnóstico"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "ponto de corte",
+        "testosterona total",
+        "diagnóstico"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Segundo a referência adotada na aula (Associação Americana de Urologia), qual é o critério laboratorial e clínico para fechar o diagnóstico de hipogonadismo?",
       "alternativas": [
-        { "id": "A", "texto": "Uma única dosagem de testosterona total abaixo de 200 ng/dL, independentemente de sintomas." },
-        { "id": "B", "texto": "Apenas presença de sintomas clínicos compatíveis, sem necessidade de exames." },
-        { "id": "C", "texto": "Duas dosagens de testosterona total abaixo de 300 ng/dL associadas a sinais/sintomas de hipogonadismo." },
-        { "id": "D", "texto": "LH/FSH elevados isoladamente, sem dosar testosterona." },
-        { "id": "E", "texto": "Testosterona livre acima de 345 ng/dL com sintomas." }
+        {
+          "id": "A",
+          "texto": "Uma única dosagem de testosterona total abaixo de 200 ng/dL, independentemente de sintomas."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas presença de sintomas clínicos compatíveis, sem necessidade de exames."
+        },
+        {
+          "id": "C",
+          "texto": "Duas dosagens de testosterona total abaixo de 300 ng/dL associadas a sinais/sintomas de hipogonadismo."
+        },
+        {
+          "id": "D",
+          "texto": "LH/FSH elevados isoladamente, sem dosar testosterona."
+        },
+        {
+          "id": "E",
+          "texto": "Testosterona livre acima de 345 ng/dL com sintomas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A aula segue a referência da **Associação Americana de Urologia**: ponto de corte de **testosterona total < 300 ng/dL**. O diagnóstico é fechado com **duas dosagens** abaixo desse valor associadas a **sinais e sintomas** compatíveis. Não basta um exame isolado nem apenas a clínica — exige ambos. Outras sociedades adotam cortes diferentes (Endocrinologia 200, Europeia 345).",
       "referenciaAula": "Pra gente o nível de corte da testosterona é abaixo de 300. O diagnóstico vai ser após duas dosagens de testosterona total abaixo de 300 associado a sintomas de hipogonadismo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 247
     },
     {
       "id": "Q-19-007",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["fertilidade", "testosterona exógena", "espermatogênese"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "fertilidade",
+        "testosterona exógena",
+        "espermatogênese"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 32 anos, hipogonadismo confirmado, deseja ter filhos no próximo ano. Qual a conduta de reposição androgênica MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar testosterona injetável de longa duração trimestral, pois melhor preserva fertilidade." },
-        { "id": "B", "texto": "Iniciar gel de testosterona diário, que não interfere na espermatogênese." },
-        { "id": "C", "texto": "Evitar testosterona exógena e usar estratégias como hCG, FSH recombinante, citrato de clomifeno ou inibidores da aromatase." },
-        { "id": "D", "texto": "Implante subdérmico de testosterona por 6 meses, que aumenta a contagem espermática." },
-        { "id": "E", "texto": "Postergar todo tratamento até após o nascimento da criança, sem nenhuma intervenção." }
+        {
+          "id": "A",
+          "texto": "Iniciar testosterona injetável de longa duração trimestral, pois melhor preserva fertilidade."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar gel de testosterona diário, que não interfere na espermatogênese."
+        },
+        {
+          "id": "C",
+          "texto": "Evitar testosterona exógena e usar estratégias como hCG, FSH recombinante, citrato de clomifeno ou inibidores da aromatase."
+        },
+        {
+          "id": "D",
+          "texto": "Implante subdérmico de testosterona por 6 meses, que aumenta a contagem espermática."
+        },
+        {
+          "id": "E",
+          "texto": "Postergar todo tratamento até após o nascimento da criança, sem nenhuma intervenção."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **testosterona exógena (gel, injetável ou implante) inibe a espermatogênese** por suprimir o eixo central. Em homens jovens com desejo de paternidade, deve-se **mudar a estratégia**: usar **hCG, FSH recombinante, citrato de clomifeno** (inibe recaptação de estrogênio no hipotálamo) ou **inibidores da aromatase** (impedem a conversão de testosterona em estradiol e o feedback negativo).",
       "referenciaAula": "A testosterona exógena inibe a espermatogênese. Nesse caso vamos usar gonadotrofinas, hCG, FSH recombinante ou não, citrato de clomifeno ou os inibidores da aromatase. Fertilidade, eu não posso ou não devo dar testosterona.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 803
     },
     {
       "id": "Q-19-008",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["formas de reposição", "farmacocinética", "injetável"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "formas de reposição",
+        "farmacocinética",
+        "injetável"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre as formas de reposição de testosterona, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "A apresentação oral tem meia-vida longa e exige apenas uma dose semanal." },
-        { "id": "B", "texto": "O injetável de longa duração (a cada 3 meses) tende a manter níveis fisiológicos mais estáveis que o injetável de ação rápida, que cursa com picos e quedas." },
-        { "id": "C", "texto": "O gel transdérmico tem aplicação mensal e menor adesão que a forma oral." },
-        { "id": "D", "texto": "O implante subdérmico exige reposição semanal." },
-        { "id": "E", "texto": "Todas as apresentações garantem a mesma curva farmacocinética." }
+        {
+          "id": "A",
+          "texto": "A apresentação oral tem meia-vida longa e exige apenas uma dose semanal."
+        },
+        {
+          "id": "B",
+          "texto": "O injetável de longa duração (a cada 3 meses) tende a manter níveis fisiológicos mais estáveis que o injetável de ação rápida, que cursa com picos e quedas."
+        },
+        {
+          "id": "C",
+          "texto": "O gel transdérmico tem aplicação mensal e menor adesão que a forma oral."
+        },
+        {
+          "id": "D",
+          "texto": "O implante subdérmico exige reposição semanal."
+        },
+        {
+          "id": "E",
+          "texto": "Todas as apresentações garantem a mesma curva farmacocinética."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **injetável de longa duração (trimestral)** mantém níveis mais próximos do fisiológico, enquanto o **injetável de ação rápida (a cada 2-3 semanas)** cursa com picos e quedas. O **gel é diário** (reposição fisiológica), as formas **oral e nasal** têm meia-vida curta e requerem 2-3 doses/dia (pior adesão), e o **implante subdérmico** libera lentamente por cerca de 6 meses.",
       "referenciaAula": "A de longa duração tende a manter os níveis fisiológicos da testosterona melhor representados do que essas de ação mais rápidas, onde nós temos picos e uma queda. O implante intradérmico libera lentamente em torno de 6 meses.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 666
     },
     {
       "id": "Q-19-009",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["andropausa", "primário vs secundário", "investigação", "reposição"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "andropausa",
+        "primário vs secundário",
+        "investigação",
+        "reposição"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 68 anos, hipertenso, com queixa de fadiga progressiva, queda da libido, perda de massa muscular e insônia há 1 ano. Não deseja mais filhos. Duas dosagens de testosterona total: 240 e 250 ng/dL. LH e FSH dentro do limite superior da normalidade. Qual a interpretação e a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Diagnóstico de depressão isolada; encaminhar à psiquiatria sem tratar o eixo hormonal." },
-        { "id": "B", "texto": "Hipogonadismo confirmado (clínico + laboratorial); discutir reposição com testosterona, avaliando riscos/benefícios e contraindicações." },
-        { "id": "C", "texto": "Apenas uma dosagem baixa basta — iniciar testosterona oral três vezes ao dia imediatamente." },
-        { "id": "D", "texto": "Iniciar citrato de clomifeno e hCG, pois é a estratégia padrão na andropausa para preservar fertilidade." },
-        { "id": "E", "texto": "Reposição contraindicada por idade, mesmo com sintomas; conduta apenas expectante." }
+        {
+          "id": "A",
+          "texto": "Diagnóstico de depressão isolada; encaminhar à psiquiatria sem tratar o eixo hormonal."
+        },
+        {
+          "id": "B",
+          "texto": "Hipogonadismo confirmado (clínico + laboratorial); discutir reposição com testosterona, avaliando riscos/benefícios e contraindicações."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas uma dosagem baixa basta — iniciar testosterona oral três vezes ao dia imediatamente."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar citrato de clomifeno e hCG, pois é a estratégia padrão na andropausa para preservar fertilidade."
+        },
+        {
+          "id": "E",
+          "texto": "Reposição contraindicada por idade, mesmo com sintomas; conduta apenas expectante."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O paciente preenche o critério: **duas testosteronas < 300 ng/dL + sintomas clínicos compatíveis**. A prevalência de hipogonadismo aumenta com a idade (chega a triplicar aos 70-80 anos). Sintomas de depressão e hipotireoidismo se sobrepõem e devem ser excluídos, mas o quadro é sugestivo. Como **não deseja fertilidade**, a **reposição com testosterona** está indicada após **avaliação individualizada de riscos e benefícios**.",
       "referenciaAula": "Esse diagnóstico vai ser após duas dosagens de testosterona total abaixo de 300 associado a sintomas. Hipogonadismo pode estar associado à idade. Avaliar os riscos e benefícios — toda droga tem efeitos colaterais.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 542
     },
     {
       "id": "Q-19-010",
       "aulaOrigem": 19,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["primário vs secundário", "tratamento individualizado", "investigação etiológica"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "primário vs secundário",
+        "tratamento individualizado",
+        "investigação etiológica"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 38 anos, IMC 35, queixa-se de disfunção erétil e cansaço. Testosterona total: 210 ng/dL (duas dosagens), LH 1,2 UI/L (baixo), FSH 1,5 UI/L (baixo), prolactina 95 ng/mL (elevada). Qual a conduta INICIAL mais adequada?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar imediatamente testosterona injetável trimestral, sem investigação adicional." },
-        { "id": "B", "texto": "Classificar como hipogonadismo primário e iniciar gel de testosterona diário." },
-        { "id": "C", "texto": "Reconhecer hipogonadismo secundário com hiperprolactinemia; investigar causa central (RM de sela túrcica/adenoma hipofisário) e tratar a causa de base antes/junto à decisão sobre reposição." },
-        { "id": "D", "texto": "Indicar orquiectomia bilateral, pois o testículo não responde ao estímulo." },
-        { "id": "E", "texto": "Suspender qualquer investigação e prescrever apenas inibidor da fosfodiesterase-5." }
+        {
+          "id": "A",
+          "texto": "Iniciar imediatamente testosterona injetável trimestral, sem investigação adicional."
+        },
+        {
+          "id": "B",
+          "texto": "Classificar como hipogonadismo primário e iniciar gel de testosterona diário."
+        },
+        {
+          "id": "C",
+          "texto": "Reconhecer hipogonadismo secundário com hiperprolactinemia; investigar causa central (RM de sela túrcica/adenoma hipofisário) e tratar a causa de base antes/junto à decisão sobre reposição."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar orquiectomia bilateral, pois o testículo não responde ao estímulo."
+        },
+        {
+          "id": "E",
+          "texto": "Suspender qualquer investigação e prescrever apenas inibidor da fosfodiesterase-5."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Testosterona baixa + **LH/FSH baixos** caracteriza **hipogonadismo hipogonadotrófico (secundário)**. A **hiperprolactinemia** é causa central clássica e exige investigação de **adenoma hipofisário** (RM de sela). O tratamento deve ser **individualizado pela etiologia**: tratar o prolactinoma (agonista dopaminérgico) frequentemente normaliza o eixo, sem necessidade de testosterona exógena. Repor testosterona sem investigar a causa central é erro grave.",
       "referenciaAula": "Diferenciar primário ou secundário, porque o tratamento vai ser em cima disso. É muito importante a definição do tipo de hipogonadismo para fazer um tratamento individualizado. Hiperprolactinemia, tumores hipofisários são causas centrais.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 815
     }
   ]
 }

@@ -5,212 +5,465 @@
     {
       "id": "Q-16-001",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["fases da cicatrização", "fase inflamatória", "hemostasia"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fases da cicatrização",
+        "fase inflamatória",
+        "hemostasia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o primeiro evento que ocorre após qualquer ferimento, dando início ao processo de cicatrização?",
       "alternativas": [
-        { "id": "A", "texto": "Deposição de colágeno organizado pelos fibroblastos." },
-        { "id": "B", "texto": "Hemostasia, com formação de malha de fibrina e plaquetas." },
-        { "id": "C", "texto": "Contração da ferida pelos miofibroblastos." },
-        { "id": "D", "texto": "Epitelização a partir das bordas." },
-        { "id": "E", "texto": "Brotamento neovascular do tecido de granulação." }
+        {
+          "id": "A",
+          "texto": "Deposição de colágeno organizado pelos fibroblastos."
+        },
+        {
+          "id": "B",
+          "texto": "Hemostasia, com formação de malha de fibrina e plaquetas."
+        },
+        {
+          "id": "C",
+          "texto": "Contração da ferida pelos miofibroblastos."
+        },
+        {
+          "id": "D",
+          "texto": "Epitelização a partir das bordas."
+        },
+        {
+          "id": "E",
+          "texto": "Brotamento neovascular do tecido de granulação."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O primeiro evento após qualquer ferimento é a **hemostasia**, com formação da **malha de fibrina e plaquetas**. É sobre essa malha que se iniciam os demais processos da cicatrização. As demais opções (deposição de colágeno, contração, epitelização e granulação) ocorrem na fase proliferativa, posterior à inflamatória.",
       "referenciaAula": "O primeiro evento que acontece após qualquer tipo de ferimento então é a hemostasia, a formação dessa malha de fibrina com plaquetas.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 252
     },
     {
       "id": "Q-16-002",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["macrófago", "fase inflamatória", "orquestração"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "macrófago",
+        "fase inflamatória",
+        "orquestração"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual tipo celular é considerado o principal orquestrador do processo de cicatrização, regulando a função linfocitária, a proliferação fibroblástica e o brotamento epitelial?",
       "alternativas": [
-        { "id": "A", "texto": "Neutrófilo." },
-        { "id": "B", "texto": "Eosinófilo." },
-        { "id": "C", "texto": "Macrófago." },
-        { "id": "D", "texto": "Mastócito." },
-        { "id": "E", "texto": "Plasmócito." }
+        {
+          "id": "A",
+          "texto": "Neutrófilo."
+        },
+        {
+          "id": "B",
+          "texto": "Eosinófilo."
+        },
+        {
+          "id": "C",
+          "texto": "Macrófago."
+        },
+        {
+          "id": "D",
+          "texto": "Mastócito."
+        },
+        {
+          "id": "E",
+          "texto": "Plasmócito."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **macrófago** é o tipo celular que conduz e orquestra o processo de cicatrização, regulando a função linfocitária, a proliferação fibroblástica, a produção de colágeno e o brotamento epitelial. O **neutrófilo** chega primeiro, mas atua principalmente na limpeza/desbridamento da ferida, removendo patógenos, debris e tecido desvitalizado.",
       "referenciaAula": "O macrófago vai ser o tipo celular que vai conduzir esse processo com os demais elementos celulares no processo de cicatrização.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 337
     },
     {
       "id": "Q-16-003",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["queloide", "cicatriz hipertrófica", "diferenciação clínica"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "queloide",
+        "cicatriz hipertrófica",
+        "diferenciação clínica"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a principal característica clínica que diferencia o queloide da cicatriz hipertrófica?",
       "alternativas": [
-        { "id": "A", "texto": "O queloide é sempre indolor, enquanto a hipertrófica é dolorosa." },
-        { "id": "B", "texto": "O queloide ultrapassa os limites da lesão original; a hipertrófica permanece dentro dos limites da incisão." },
-        { "id": "C", "texto": "A cicatriz hipertrófica nunca regride, enquanto o queloide regride espontaneamente." },
-        { "id": "D", "texto": "O queloide só ocorre em queimaduras; a hipertrófica em incisões cirúrgicas." },
-        { "id": "E", "texto": "A diferenciação só pode ser feita por análise histológica." }
+        {
+          "id": "A",
+          "texto": "O queloide é sempre indolor, enquanto a hipertrófica é dolorosa."
+        },
+        {
+          "id": "B",
+          "texto": "O queloide ultrapassa os limites da lesão original; a hipertrófica permanece dentro dos limites da incisão."
+        },
+        {
+          "id": "C",
+          "texto": "A cicatriz hipertrófica nunca regride, enquanto o queloide regride espontaneamente."
+        },
+        {
+          "id": "D",
+          "texto": "O queloide só ocorre em queimaduras; a hipertrófica em incisões cirúrgicas."
+        },
+        {
+          "id": "E",
+          "texto": "A diferenciação só pode ser feita por análise histológica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A principal definição clínica é que a **cicatriz hipertrófica permanece dentro dos limites da lesão original**, enquanto o **queloide ultrapassa esses limites**, invadindo pele sã. Além disso, o queloide tende a ser mais volumoso, sintomático e **não regride espontaneamente**, enquanto a hipertrófica pode regredir. A diferenciação é eminentemente clínica.",
       "referenciaAula": "A principal definição que vai separar esses dois tipos de cicatrizes é de que as cicatrizes hipertróficas tendem a não ultrapassar os limites da lesão original.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 1144
     },
     {
       "id": "Q-16-004",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["fase proliferativa", "miofibroblastos", "contração"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fase proliferativa",
+        "miofibroblastos",
+        "contração"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "A contração da ferida durante a fase proliferativa é mediada principalmente por:",
       "alternativas": [
-        { "id": "A", "texto": "Neutrófilos com pseudópodes contráteis." },
-        { "id": "B", "texto": "Queratinócitos da camada basal da epiderme." },
-        { "id": "C", "texto": "Miofibroblastos, que possuem filamentos de actina no citoplasma." },
-        { "id": "D", "texto": "Células endoteliais do tecido de granulação." },
-        { "id": "E", "texto": "Mastócitos liberadores de histamina." }
+        {
+          "id": "A",
+          "texto": "Neutrófilos com pseudópodes contráteis."
+        },
+        {
+          "id": "B",
+          "texto": "Queratinócitos da camada basal da epiderme."
+        },
+        {
+          "id": "C",
+          "texto": "Miofibroblastos, que possuem filamentos de actina no citoplasma."
+        },
+        {
+          "id": "D",
+          "texto": "Células endoteliais do tecido de granulação."
+        },
+        {
+          "id": "E",
+          "texto": "Mastócitos liberadores de histamina."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **contração da ferida** é mediada pelos **miofibroblastos**, fibroblastos diferenciados na periferia da ferida que possuem **filamentos de actina** no seu interior, conferindo capacidade contrátil. Essa contração reduz progressivamente o diâmetro da lesão, diminuindo a área a ser cicatrizada. Queratinócitos atuam na epitelização, e células endoteliais no brotamento neovascular.",
       "referenciaAula": "Esse processo é mediado principalmente pela diferenciação de alguns fibroblastos na periferia das feridas para um tipo celular específico que são os miofibroblastos, que possuem filamentos de actina no seu interior.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 541
     },
     {
       "id": "Q-16-005",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["colágeno", "hidroxilação", "vitamina C", "cofatores"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "colágeno",
+        "hidroxilação",
+        "vitamina C",
+        "cofatores"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "A hidroxilação dos aminoácidos do colágeno (prolina e lisina), etapa essencial à sua síntese, ocorre no fígado e exige cofatores. Quais são os principais cofatores envolvidos?",
       "alternativas": [
-        { "id": "A", "texto": "Vitamina K e cálcio." },
-        { "id": "B", "texto": "Vitamina C e ferro." },
-        { "id": "C", "texto": "Vitamina D e magnésio." },
-        { "id": "D", "texto": "Vitamina B12 e ácido fólico." },
-        { "id": "E", "texto": "Selênio e iodo." }
+        {
+          "id": "A",
+          "texto": "Vitamina K e cálcio."
+        },
+        {
+          "id": "B",
+          "texto": "Vitamina C e ferro."
+        },
+        {
+          "id": "C",
+          "texto": "Vitamina D e magnésio."
+        },
+        {
+          "id": "D",
+          "texto": "Vitamina B12 e ácido fólico."
+        },
+        {
+          "id": "E",
+          "texto": "Selênio e iodo."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **hidroxilação de prolina e lisina** (formando hidroxiprolina e hidroxilisina) é etapa indispensável para a estabilidade da tripla hélice do colágeno. Os cofatores essenciais são a **vitamina C** e o **ferro**. A deficiência destes (como no escorbuto) prejudica a formação de colágeno estável e, consequentemente, a cicatrização.",
       "referenciaAula": "Esses cofatores da hidroxilação de aminoácidos vão ser principalmente a vitamina C e o ferro. Esse processo vai acontecer no fígado.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 460
     },
     {
       "id": "Q-16-006",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["fase de remodelação", "força tênsil", "deiscência"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fase de remodelação",
+        "força tênsil",
+        "deiscência"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Paciente submetido a laparotomia mediana é orientado a evitar esforços físicos intensos e cargas de peso por algumas semanas. Qual a base fisiológica dessa orientação clínica?",
       "alternativas": [
-        { "id": "A", "texto": "Evitar a fase inflamatória, que ocorre apenas nas primeiras 24h." },
-        { "id": "B", "texto": "A cicatriz só atinge ganho significativo de força tênsil ao longo da fase de remodelação, e cargas precoces podem causar deiscência ou hérnia incisional." },
-        { "id": "C", "texto": "Esforço aumenta a deposição de colágeno e gera necessariamente queloide." },
-        { "id": "D", "texto": "Cargas de peso aceleram a hidroxilação do colágeno, descontrolando a cicatrização." },
-        { "id": "E", "texto": "O esforço impede a chegada de neutrófilos à ferida operatória." }
+        {
+          "id": "A",
+          "texto": "Evitar a fase inflamatória, que ocorre apenas nas primeiras 24h."
+        },
+        {
+          "id": "B",
+          "texto": "A cicatriz só atinge ganho significativo de força tênsil ao longo da fase de remodelação, e cargas precoces podem causar deiscência ou hérnia incisional."
+        },
+        {
+          "id": "C",
+          "texto": "Esforço aumenta a deposição de colágeno e gera necessariamente queloide."
+        },
+        {
+          "id": "D",
+          "texto": "Cargas de peso aceleram a hidroxilação do colágeno, descontrolando a cicatrização."
+        },
+        {
+          "id": "E",
+          "texto": "O esforço impede a chegada de neutrófilos à ferida operatória."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na **fase de remodelação (maturação)**, ocorre o balanço entre síntese e degradação de colágeno (mediada por metaloproteinases), com formação progressiva de **ligações cruzadas** entre as cadeias, aumentando a **força tênsil** da cicatriz. Esse platô só é atingido após cerca de 90 dias, e atinge no máximo 80% da força da pele íntegra. Cargas precoces antes desse ganho podem causar **deiscência ou hérnia incisional**.",
       "referenciaAula": "Estamos aguardando esse aumento da força tênil dessa ferida operatória para que a gente possa liberar o paciente paraa carga sem que haja uma deiscência ou uma ocorrência de uma hérnia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 754
     },
     {
       "id": "Q-16-007",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["fatores prejudiciais", "corticoide", "drogas"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fatores prejudiciais",
+        "corticoide",
+        "drogas"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em uso crônico de prednisona apresenta cicatrização lenta após uma incisão cirúrgica. Qual o principal mecanismo pelo qual os corticoides prejudicam a cicatrização?",
       "alternativas": [
-        { "id": "A", "texto": "Aumento exacerbado da função fibroblástica, gerando queloide." },
-        { "id": "B", "texto": "Diminuição da função leucocitária, prejudicando as fases inflamatória e proliferativa." },
-        { "id": "C", "texto": "Estímulo direto à degradação do colágeno pela vitamina K." },
-        { "id": "D", "texto": "Hipertrofia do plexo dérmico, com hiperperfusão da ferida." },
-        { "id": "E", "texto": "Aumento da apoptose dos queratinócitos da camada córnea." }
+        {
+          "id": "A",
+          "texto": "Aumento exacerbado da função fibroblástica, gerando queloide."
+        },
+        {
+          "id": "B",
+          "texto": "Diminuição da função leucocitária, prejudicando as fases inflamatória e proliferativa."
+        },
+        {
+          "id": "C",
+          "texto": "Estímulo direto à degradação do colágeno pela vitamina K."
+        },
+        {
+          "id": "D",
+          "texto": "Hipertrofia do plexo dérmico, com hiperperfusão da ferida."
+        },
+        {
+          "id": "E",
+          "texto": "Aumento da apoptose dos queratinócitos da camada córnea."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os **corticoides** prejudicam a cicatrização principalmente por **diminuir a função leucocitária**, comprometendo tanto a fase inflamatória (limpeza/desbridamento) quanto a proliferativa. Outros fatores prejudiciais incluem desnutrição, obesidade, deficiência de oligoelementos, quimioterápicos, radioterapia (lesa o plexo dérmico) e diabetes.",
       "referenciaAula": "Algumas drogas que vão interferir nesse processo, sendo que as mais importantes são os corticoides, que vão diminuir essa função leucocitária, importante na fase inflamatória, na fase proliferativa.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 1056
     },
     {
       "id": "Q-16-008",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["tecido de granulação", "fase proliferativa", "neovascularização"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "tecido de granulação",
+        "fase proliferativa",
+        "neovascularização"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o tecido de granulação na fase proliferativa, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É composto exclusivamente por queratinócitos diferenciados." },
-        { "id": "B", "texto": "É formado por neovasos e matriz extracelular frouxa, estimulado pela hipóxia tecidual e citocinas inflamatórias, e preenche o leito da ferida." },
-        { "id": "C", "texto": "Sua presença indica infecção e exige antibioticoterapia imediata." },
-        { "id": "D", "texto": "Forma-se apenas após a fase de remodelação." },
-        { "id": "E", "texto": "É sinônimo de queloide e indica cicatrização patológica." }
+        {
+          "id": "A",
+          "texto": "É composto exclusivamente por queratinócitos diferenciados."
+        },
+        {
+          "id": "B",
+          "texto": "É formado por neovasos e matriz extracelular frouxa, estimulado pela hipóxia tecidual e citocinas inflamatórias, e preenche o leito da ferida."
+        },
+        {
+          "id": "C",
+          "texto": "Sua presença indica infecção e exige antibioticoterapia imediata."
+        },
+        {
+          "id": "D",
+          "texto": "Forma-se apenas após a fase de remodelação."
+        },
+        {
+          "id": "E",
+          "texto": "É sinônimo de queloide e indica cicatrização patológica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **tecido de granulação** se forma na fase proliferativa: a hipóxia tecidual e as citocinas inflamatórias estimulam o **brotamento neovascular** no leito da ferida. Esses neovasos, junto com a **matriz extracelular frouxa** secretada pelos fibroblastos, dão origem ao tecido que preenche progressivamente a ferida, tornando-a mais rasa. É um achado fisiológico esperado, não patológico.",
       "referenciaAula": "Pelo estímulo de hipóxia tecidual e pelas citocinas envolvidas no processo inflamatório, vai sendo estimulado o brotamento neovascular nesse leito da ferida, dando origem ao tecido de granulação.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 611
     },
     {
       "id": "Q-16-009",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["queloide", "TGF-beta", "apoptose", "fisiopatologia"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "queloide",
+        "TGF-beta",
+        "apoptose",
+        "fisiopatologia"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente de 24 anos, fototipo alto, retorna 8 meses após cesariana com cicatriz volumosa, eritematosa, pruriginosa, que ultrapassa amplamente os limites da incisão de Pfannenstiel. Sobre a fisiopatologia dessa apresentação, qual afirmativa está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Trata-se de cicatriz hipertrófica, com tendência à regressão espontânea em poucos meses." },
-        { "id": "B", "texto": "Trata-se de queloide, caracterizado por diminuição da apoptose celular esperada e ação contínua do TGF-beta, com síntese e deposição persistentes de colágeno desorganizado em novelos." },
-        { "id": "C", "texto": "Trata-se de carcinoma espinocelular, exigindo biópsia incisional imediata." },
-        { "id": "D", "texto": "Trata-se de fasciíte necrotizante tardia, com necessidade de desbridamento cirúrgico de urgência." },
-        { "id": "E", "texto": "Trata-se de deiscência aponeurótica com cicatrização por terceira intenção." }
+        {
+          "id": "A",
+          "texto": "Trata-se de cicatriz hipertrófica, com tendência à regressão espontânea em poucos meses."
+        },
+        {
+          "id": "B",
+          "texto": "Trata-se de queloide, caracterizado por diminuição da apoptose celular esperada e ação contínua do TGF-beta, com síntese e deposição persistentes de colágeno desorganizado em novelos."
+        },
+        {
+          "id": "C",
+          "texto": "Trata-se de carcinoma espinocelular, exigindo biópsia incisional imediata."
+        },
+        {
+          "id": "D",
+          "texto": "Trata-se de fasciíte necrotizante tardia, com necessidade de desbridamento cirúrgico de urgência."
+        },
+        {
+          "id": "E",
+          "texto": "Trata-se de deiscência aponeurótica com cicatrização por terceira intenção."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O quadro descrito (cicatriz que **ultrapassa os limites da lesão original**, sintomática e sem regressão) é típico de **queloide**. Sua fisiopatologia envolve **falha na apoptose** das células que deveriam encerrar a fase proliferativa, ação contínua do **TGF-beta** como mediador, e **deposição persistente de colágeno**, formando histologicamente os característicos **novelos de colágeno** mais espessos e desorganizados. Diferentemente da hipertrófica, o queloide **não regride espontaneamente**.",
       "referenciaAula": "Diminuição da apoptose que deveria ocorrer naturalmente nessas células. Um dos principais mediadores dessa continuidade do processo de cicatrização vai ser o TGF beta. No queloide, formação de novelos de colágeno, fibras mais espessas e desorganizadas.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 1144
     },
     {
       "id": "Q-16-010",
       "aulaOrigem": 16,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["segunda intenção", "epitelização", "anexos cutâneos", "fatores prejudiciais"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "segunda intenção",
+        "epitelização",
+        "anexos cutâneos",
+        "fatores prejudiciais"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente diabético, tabagista, submetido a radioterapia pélvica prévia, evolui com extensa ferida em região sacral em cicatrização por segunda intenção. Sobre o caso, qual afirmativa integra CORRETAMENTE os conceitos envolvidos?",
       "alternativas": [
-        { "id": "A", "texto": "Por ser segunda intenção, a contração da ferida não ocorre, e a única via de fechamento será a epitelização das bordas." },
-        { "id": "B", "texto": "A radioterapia favorece a cicatrização por aumentar a vascularização do plexo dérmico, compensando o diabetes." },
-        { "id": "C", "texto": "A epitelização ocorre tanto a partir das bordas quanto dos anexos cutâneos (folículos pilosos); a radioterapia compromete o plexo dérmico e o diabetes prejudica a microcirculação, retardando a cicatrização." },
-        { "id": "D", "texto": "O diabetes acelera a fase proliferativa e tende a gerar queloide na maioria dos pacientes." },
-        { "id": "E", "texto": "Em feridas por segunda intenção, a fase de remodelação dura no máximo 7 dias, com retorno integral da força tênsil cutânea." }
+        {
+          "id": "A",
+          "texto": "Por ser segunda intenção, a contração da ferida não ocorre, e a única via de fechamento será a epitelização das bordas."
+        },
+        {
+          "id": "B",
+          "texto": "A radioterapia favorece a cicatrização por aumentar a vascularização do plexo dérmico, compensando o diabetes."
+        },
+        {
+          "id": "C",
+          "texto": "A epitelização ocorre tanto a partir das bordas quanto dos anexos cutâneos (folículos pilosos); a radioterapia compromete o plexo dérmico e o diabetes prejudica a microcirculação, retardando a cicatrização."
+        },
+        {
+          "id": "D",
+          "texto": "O diabetes acelera a fase proliferativa e tende a gerar queloide na maioria dos pacientes."
+        },
+        {
+          "id": "E",
+          "texto": "Em feridas por segunda intenção, a fase de remodelação dura no máximo 7 dias, com retorno integral da força tênsil cutânea."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **epitelização** acontece de duas maneiras: **centrípeta a partir das bordas** e a partir dos **anexos cutâneos (folículos pilosos)**, com queratinócitos brotando da camada basal. Em segunda intenção, **contração, granulação, epitelização e fibroplasia ocorrem simultaneamente**. A **radioterapia lesa o plexo dérmico**, reduzindo a circulação cutânea, e o **diabetes** prejudica a microcirculação e a resposta inflamatória — ambos fatores prejudiciais clássicos. A força tênsil final atinge no máximo cerca de 80% da pele íntegra após meses.",
       "referenciaAula": "O fenômeno de epitelização vai ocorrer tanto a partir das bordas da lesão quanto dos anexos cutâneos. A radioterapia prejudica a cicatrização por causar lesões no plexo dérmico, diminuindo a circulação cutânea. Pacientes com diabetes também vão ter dificuldades para cicatrização.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 482
     }
   ]
 }

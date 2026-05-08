@@ -5,81 +5,175 @@
     {
       "id": "Q-21-001",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["hidronefrose", "definição", "trato urinário"],
+      "tags": [
+        "hidronefrose",
+        "definição",
+        "trato urinário"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Em urologia pediátrica, o termo hidronefrose refere-se a:",
       "alternativas": [
-        { "id": "A", "texto": "Cisto único isolado no parênquima renal." },
-        { "id": "B", "texto": "Dilatação da via urinária (pelve renal e/ou ureter), que pode ser secundária a obstrução ou refluxo." },
-        { "id": "C", "texto": "Presença de cálculos coraliformes na pelve renal." },
-        { "id": "D", "texto": "Infecção bacteriana restrita ao parênquima renal." },
-        { "id": "E", "texto": "Ausência congênita de um dos rins." }
+        {
+          "id": "A",
+          "texto": "Cisto único isolado no parênquima renal."
+        },
+        {
+          "id": "B",
+          "texto": "Dilatação da via urinária (pelve renal e/ou ureter), que pode ser secundária a obstrução ou refluxo."
+        },
+        {
+          "id": "C",
+          "texto": "Presença de cálculos coraliformes na pelve renal."
+        },
+        {
+          "id": "D",
+          "texto": "Infecção bacteriana restrita ao parênquima renal."
+        },
+        {
+          "id": "E",
+          "texto": "Ausência congênita de um dos rins."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Hidronefrose** é a **dilatação da via urinária**, mais frequentemente da pelve renal, podendo se estender ao ureter. Pode ser causada por **obstrução** (JUP, JUV, válvula de uretra posterior) ou por **refluxo vesicoureteral**. O raciocínio inicial diante de hidronefrose é: está dilatado porque está obstruído ou porque está refluindo?",
       "referenciaAula": "A dilatação do trato urinário a gente chama de hidronefrose. E ela pode ser por causa de alguma obstrução ou porque a urina está voltando.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 610
     },
     {
       "id": "Q-21-002",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["hipospadia", "definição", "malformação genital"],
+      "tags": [
+        "hipospadia",
+        "definição",
+        "malformação genital"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "A hipospádia é definida como:",
       "alternativas": [
-        { "id": "A", "texto": "Estreitamento congênito do prepúcio que impede a retração." },
-        { "id": "B", "texto": "Ausência de descida do testículo para a bolsa escrotal." },
-        { "id": "C", "texto": "Abertura do meato uretral em posição anômala na face ventral do pênis (distal, média ou proximal), em vez de na ponta da glande." },
-        { "id": "D", "texto": "Acúmulo de líquido na túnica vaginal do testículo." },
-        { "id": "E", "texto": "Dilatação anômala das veias do plexo pampiniforme." }
+        {
+          "id": "A",
+          "texto": "Estreitamento congênito do prepúcio que impede a retração."
+        },
+        {
+          "id": "B",
+          "texto": "Ausência de descida do testículo para a bolsa escrotal."
+        },
+        {
+          "id": "C",
+          "texto": "Abertura do meato uretral em posição anômala na face ventral do pênis (distal, média ou proximal), em vez de na ponta da glande."
+        },
+        {
+          "id": "D",
+          "texto": "Acúmulo de líquido na túnica vaginal do testículo."
+        },
+        {
+          "id": "E",
+          "texto": "Dilatação anômala das veias do plexo pampiniforme."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Na **hipospádia**, a uretra não termina na ponta da glande, mas sim em posição mais proximal — na face ventral do pênis. Classifica-se em **distal, média e proximal** conforme a localização do meato. As formas mais graves (perineais ou perescrotais), especialmente associadas a alteração gonadal, podem fazer parte de quadros de ambiguidade genital.",
       "referenciaAula": "Hipospádia é quando a uretra não está na ponta do genital masculino, ela tá na base, no meio ou na base. A gente classifica em distal, média e proximal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1980
     },
     {
       "id": "Q-21-003",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["uretrocistografia miccional", "investigação", "refluxo"],
+      "tags": [
+        "uretrocistografia miccional",
+        "investigação",
+        "refluxo"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "A uretrocistografia miccional é exame fundamental na urologia pediátrica porque permite avaliar principalmente:",
       "alternativas": [
-        { "id": "A", "texto": "Função renal diferencial entre os dois rins." },
-        { "id": "B", "texto": "Tamanho e forma da bexiga, anatomia da uretra e presença/grau de refluxo vesicoureteral." },
-        { "id": "C", "texto": "Vascularização do parênquima renal." },
-        { "id": "D", "texto": "Densidade óssea da pelve em crianças com mielomeningocele." },
-        { "id": "E", "texto": "Presença de cálculos radiotransparentes." }
+        {
+          "id": "A",
+          "texto": "Função renal diferencial entre os dois rins."
+        },
+        {
+          "id": "B",
+          "texto": "Tamanho e forma da bexiga, anatomia da uretra e presença/grau de refluxo vesicoureteral."
+        },
+        {
+          "id": "C",
+          "texto": "Vascularização do parênquima renal."
+        },
+        {
+          "id": "D",
+          "texto": "Densidade óssea da pelve em crianças com mielomeningocele."
+        },
+        {
+          "id": "E",
+          "texto": "Presença de cálculos radiotransparentes."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **uretrocistografia miccional** é feita injetando contraste iodado pela bexiga via sondinha uretral, sem sedação, e observando a micção sob radioscopia. Avalia **tamanho/forma da bexiga, anatomia uretral** (incluindo válvula de uretra posterior) e a **presença e grau de refluxo vesicoureteral**. Função renal diferencial é avaliada pela **cintilografia (DMSA)**.",
       "referenciaAula": "Eu vou ver tamanho de bexiga, eu vou ver forma de uretra, eu vou ver presença de refluxo, eu vou classificar o refluxo. A uretrocistografia miccional é um exame fundamental.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 900
     },
     {
       "id": "Q-21-004",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["válvula de uretra posterior", "obstrução infravesical", "neonato"],
+      "tags": [
+        "válvula de uretra posterior",
+        "obstrução infravesical",
+        "neonato"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Recém-nascido masculino com diagnóstico pré-natal de mega bexiga, hidronefrose bilateral e oligoidrâmnio. Ao nascer, evolui com dificuldade para urinar e disfunção respiratória. Qual diagnóstico deve ser priorizado?",
       "alternativas": [
-        { "id": "A", "texto": "Estenose de junção pieloureteral (JUP) bilateral isolada." },
-        { "id": "B", "texto": "Refluxo vesicoureteral primário de baixo grau." },
-        { "id": "C", "texto": "Válvula de uretra posterior (VUP) com hipoplasia pulmonar associada." },
-        { "id": "D", "texto": "Rim multicístico displásico bilateral simétrico." },
-        { "id": "E", "texto": "Hipospádia perineal isolada." }
+        {
+          "id": "A",
+          "texto": "Estenose de junção pieloureteral (JUP) bilateral isolada."
+        },
+        {
+          "id": "B",
+          "texto": "Refluxo vesicoureteral primário de baixo grau."
+        },
+        {
+          "id": "C",
+          "texto": "Válvula de uretra posterior (VUP) com hipoplasia pulmonar associada."
+        },
+        {
+          "id": "D",
+          "texto": "Rim multicístico displásico bilateral simétrico."
+        },
+        {
+          "id": "E",
+          "texto": "Hipospádia perineal isolada."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A combinação de **mega bexiga + hidronefrose bilateral + oligoidrâmnio + sexo masculino + insuficiência respiratória neonatal** é altamente sugestiva de **válvula de uretra posterior (VUP)**, principal causa de obstrução infravesical no menino. O oligoidrâmnio leva a **hipoplasia pulmonar**, que é a principal causa de óbito perinatal nesses casos. Confirmação por uretrocistografia miccional.",
@@ -89,128 +183,274 @@
     {
       "id": "Q-21-005",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["estenose de JUP", "vigilância ativa", "cintilografia"],
+      "tags": [
+        "estenose de JUP",
+        "vigilância ativa",
+        "cintilografia"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Lactente de 2 meses com diagnóstico pré-natal de hidronefrose unilateral grau 3, sem infecções urinárias. DMSA mostra função diferencial preservada (48% no rim acometido) e DTPA evidencia obstrução da JUP. Qual a conduta inicial mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Pieloplastia de Anderson-Hynes imediata." },
-        { "id": "B", "texto": "Vigilância ativa com antibiótico profilático, ultrassom e cintilografia seriados, indicando cirurgia em caso de piora funcional, dilatação progressiva ou ITU." },
-        { "id": "C", "texto": "Nefrectomia do lado afetado." },
-        { "id": "D", "texto": "Vesicostomia de descompressão." },
-        { "id": "E", "texto": "Apenas alta sem seguimento, pois a hidronefrose é certamente transitória." }
+        {
+          "id": "A",
+          "texto": "Pieloplastia de Anderson-Hynes imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Vigilância ativa com antibiótico profilático, ultrassom e cintilografia seriados, indicando cirurgia em caso de piora funcional, dilatação progressiva ou ITU."
+        },
+        {
+          "id": "C",
+          "texto": "Nefrectomia do lado afetado."
+        },
+        {
+          "id": "D",
+          "texto": "Vesicostomia de descompressão."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas alta sem seguimento, pois a hidronefrose é certamente transitória."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Antes da cintilografia (introduzida na rotina nos anos 1990), todas as estenoses de JUP eram operadas. Hoje, com função renal preservada e sem ITU, indica-se **vigilância ativa**: antibiótico profilático, ultrassom seriado e cintilografia. **Cirurgia (pieloplastia)** é indicada se houver **piora funcional ao DMSA, dilatação progressiva ao US ou infecção urinária**.",
       "referenciaAula": "Existiam rins obstruídos, mas que mantinham função boa. Esses a gente pode tratar conservadoramente. Hoje em dia a gente chama de vigilância ativa.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 871
     },
     {
       "id": "Q-21-006",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["refluxo vesicoureteral", "ITU", "tratamento conservador"],
+      "tags": [
+        "refluxo vesicoureteral",
+        "ITU",
+        "tratamento conservador"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o refluxo vesicoureteral primário em pediatria, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "Refluxos de alto grau, com dilatação acentuada e cicatrizes renais ou ITU de repetição, têm maior tendência a tratamento cirúrgico." },
-        { "id": "B", "texto": "Sempre devem ser operados no momento do diagnóstico, independente do grau." },
-        { "id": "C", "texto": "Não se associam a infecção urinária na população pediátrica." },
-        { "id": "D", "texto": "Tratar a constipação intestinal não tem impacto na evolução." },
-        { "id": "E", "texto": "A uretrocistografia miccional é desnecessária quando o ultrassom é normal." }
+        {
+          "id": "A",
+          "texto": "Refluxos de alto grau, com dilatação acentuada e cicatrizes renais ou ITU de repetição, têm maior tendência a tratamento cirúrgico."
+        },
+        {
+          "id": "B",
+          "texto": "Sempre devem ser operados no momento do diagnóstico, independente do grau."
+        },
+        {
+          "id": "C",
+          "texto": "Não se associam a infecção urinária na população pediátrica."
+        },
+        {
+          "id": "D",
+          "texto": "Tratar a constipação intestinal não tem impacto na evolução."
+        },
+        {
+          "id": "E",
+          "texto": "A uretrocistografia miccional é desnecessária quando o ultrassom é normal."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "Os **refluxos de baixo grau** tendem ao **manejo conservador** (antibiótico profilático, controle da síndrome bexiga-intestino e da constipação). Os **refluxos de alto grau**, especialmente com **ITU de repetição e cicatrizes renais**, têm maior chance de tratamento cirúrgico (endoscópico com bioimplante de ácido hialurônico/dextran ou reimplante ureteral). A constipação tem associação importante e deve ser tratada.",
       "referenciaAula": "Refluxo de alto grau lesa rim, faz cicatriz renal, dá infecção urinária e tem tendência maior a ser cirúrgico. Não posso tratar refluxo sem tratar o hábito intestinal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1684
     },
     {
       "id": "Q-21-007",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["ITU pediátrica", "investigação", "ultrassom"],
+      "tags": [
+        "ITU pediátrica",
+        "investigação",
+        "ultrassom"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Menina de 18 meses chega com primeiro episódio documentado de infecção urinária febril por E. coli. Qual a conduta investigativa mais apropriada após o controle do quadro infeccioso?",
       "alternativas": [
-        { "id": "A", "texto": "Não investigar, pois ITU em meninas é evento esperado." },
-        { "id": "B", "texto": "Solicitar apenas hemograma e urocultura de controle." },
-        { "id": "C", "texto": "Realizar pelo menos ultrassonografia do trato urinário, pela alta associação de ITU pediátrica com malformação." },
-        { "id": "D", "texto": "Indicar nefrectomia profilática do lado mais acometido." },
-        { "id": "E", "texto": "Iniciar diálise peritoneal ambulatorial." }
+        {
+          "id": "A",
+          "texto": "Não investigar, pois ITU em meninas é evento esperado."
+        },
+        {
+          "id": "B",
+          "texto": "Solicitar apenas hemograma e urocultura de controle."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar pelo menos ultrassonografia do trato urinário, pela alta associação de ITU pediátrica com malformação."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar nefrectomia profilática do lado mais acometido."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar diálise peritoneal ambulatorial."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Toda criança com ITU deve ser investigada**, no mínimo com **ultrassonografia do trato urinário**, pela alta associação com **malformações** — mais de 50% das crianças com ITU têm alguma anomalia urológica (hidronefrose, refluxo, válvula de uretra etc.). Conforme achados, complementa-se com **uretrocistografia miccional** e **cintilografia**.",
       "referenciaAula": "Mais de 50% das crianças com infecção urinária têm malformação no trato urinário. Uma criança com infecção urinária tem que ser investigada, pelo menos com ultrassom.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 131
     },
     {
       "id": "Q-21-008",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["ambiguidade genital", "clitoromegalia", "hiperplasia adrenal congênita"],
+      "tags": [
+        "ambiguidade genital",
+        "clitoromegalia",
+        "hiperplasia adrenal congênita"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Recém-nascida com aparente genitália feminina apresenta clitoromegalia importante, fusão labial parcial e ausência de gônadas palpáveis. Qual a hipótese mais provável e a conduta inicial?",
       "alternativas": [
-        { "id": "A", "texto": "Hipospádia perineal isolada; correção cirúrgica imediata." },
-        { "id": "B", "texto": "Hiperplasia adrenal congênita virilizante; classificar como ambiguidade genital, investigar cariótipo, dosagens hormonais e bloquear adrenal com corticoide." },
-        { "id": "C", "texto": "Variante anatômica normal; alta hospitalar sem investigação." },
-        { "id": "D", "texto": "Tumor gonadal primário; nefrectomia bilateral." },
-        { "id": "E", "texto": "Mielomeningocele oculta; investigação neurológica isolada." }
+        {
+          "id": "A",
+          "texto": "Hipospádia perineal isolada; correção cirúrgica imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Hiperplasia adrenal congênita virilizante; classificar como ambiguidade genital, investigar cariótipo, dosagens hormonais e bloquear adrenal com corticoide."
+        },
+        {
+          "id": "C",
+          "texto": "Variante anatômica normal; alta hospitalar sem investigação."
+        },
+        {
+          "id": "D",
+          "texto": "Tumor gonadal primário; nefrectomia bilateral."
+        },
+        {
+          "id": "E",
+          "texto": "Mielomeningocele oculta; investigação neurológica isolada."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Genitália de aparência feminina com **clitoromegalia, fusão labial e/ou virilização** é **ambiguidade genital**, e a principal causa é a **hiperplasia adrenal congênita** (defeito enzimático adrenal com excesso de andrógenos). A conduta envolve avaliação **cromossômica, hormonal e por imagem**, em equipe multidisciplinar (DDS), com **bloqueio adrenal por corticoide** antes de qualquer correção cirúrgica.",
       "referenciaAula": "Clitoromegalia é uma genitalia ambígua. A principal causa é a hiperplasia adrenal congênita. A gente bloqueia a produção hormonal dando corticoide.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 2021
     },
     {
       "id": "Q-21-009",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["VUP", "vesicostomia", "derivação urinária", "preservação renal"],
+      "tags": [
+        "VUP",
+        "vesicostomia",
+        "derivação urinária",
+        "preservação renal"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Lactente de 3 meses, com diagnóstico recente de válvula de uretra posterior, apresenta-se em mau estado geral, ITU de repetição, refluxo vesicoureteral bilateral de alto grau, bexiga de válvula muito espessada e creatinina elevada (insuficiência renal). Qual a conduta cirúrgica mais apropriada nesse momento?",
       "alternativas": [
-        { "id": "A", "texto": "Ressecção endoscópica da válvula como primeiro tempo, mesmo no quadro atual." },
-        { "id": "B", "texto": "Nefrectomia bilateral imediata e início de diálise." },
-        { "id": "C", "texto": "Vesicostomia (derivação urinária) para descomprimir a via urinária sem pressão, controlar ITU, melhorar função renal e crescimento, postergando a fulguração da válvula." },
-        { "id": "D", "texto": "Apenas antibiótico profilático e seguimento ambulatorial, sem intervenção cirúrgica." },
-        { "id": "E", "texto": "Pieloplastia bilateral de Anderson-Hynes." }
+        {
+          "id": "A",
+          "texto": "Ressecção endoscópica da válvula como primeiro tempo, mesmo no quadro atual."
+        },
+        {
+          "id": "B",
+          "texto": "Nefrectomia bilateral imediata e início de diálise."
+        },
+        {
+          "id": "C",
+          "texto": "Vesicostomia (derivação urinária) para descomprimir a via urinária sem pressão, controlar ITU, melhorar função renal e crescimento, postergando a fulguração da válvula."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas antibiótico profilático e seguimento ambulatorial, sem intervenção cirúrgica."
+        },
+        {
+          "id": "E",
+          "texto": "Pieloplastia bilateral de Anderson-Hynes."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Na **VUP em criança em mau estado geral, com ITU de repetição e insuficiência renal**, a fulguração endoscópica primária pode não ser tolerada. Indica-se **vesicostomia** — abre-se a bexiga e suturam-se os bordos à pele, permitindo escoamento urinário **sem pressão**. Objetivo: ganhar tempo, controlar infecção, recuperar função renal e crescimento, e depois programar desderivação ou eventual transplante. A nefrectomia bilateral primária é desproporcional.",
       "referenciaAula": "Se eu não tenho criança em bom estado, com insuficiência renal, eu faço uma derivação urinária — a vesicostomia. A urina sai sem pressão. Eu quero ganhar tempo, melhorar trato urinário, função renal e crescimento.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1114
     },
     {
       "id": "Q-21-010",
       "aulaOrigem": 21,
-      "blocos": ["D", "H"],
+      "blocos": [
+        "D",
+        "H"
+      ],
       "eixos": [],
-      "tags": ["bexiga neurogênica", "mielomeningocele", "refluxo secundário", "preservação renal"],
+      "tags": [
+        "bexiga neurogênica",
+        "mielomeningocele",
+        "refluxo secundário",
+        "preservação renal"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Pré-escolar com mielomeningocele apresenta ITU de repetição, ultrassom com hidronefrose bilateral e ureteres dilatados, e uretrocistografia mostrando bexiga trabeculada com refluxo vesicoureteral bilateral de alto grau. Cintilografia evidencia perda funcional progressiva. Qual a melhor interpretação fisiopatológica e estratégia geral?",
       "alternativas": [
-        { "id": "A", "texto": "Refluxo primário isolado; basta tratamento endoscópico com bioimplante." },
-        { "id": "B", "texto": "Estenose de JUP bilateral; indicação de pieloplastia." },
-        { "id": "C", "texto": "Bexiga neurogênica gerando alta pressão vesical, refluxo secundário e lesão renal progressiva — manejo deve combinar redução de pressão vesical (cateterismo intermitente, anticolinérgicos), profilaxia/tratamento das ITU e controle do hábito intestinal, com cirurgia reservada para falha clínica." },
-        { "id": "D", "texto": "Hiperplasia adrenal congênita; bloqueio com corticoide." },
-        { "id": "E", "texto": "Hipoplasia pulmonar progressiva; foco no manejo respiratório isolado." }
+        {
+          "id": "A",
+          "texto": "Refluxo primário isolado; basta tratamento endoscópico com bioimplante."
+        },
+        {
+          "id": "B",
+          "texto": "Estenose de JUP bilateral; indicação de pieloplastia."
+        },
+        {
+          "id": "C",
+          "texto": "Bexiga neurogênica gerando alta pressão vesical, refluxo secundário e lesão renal progressiva — manejo deve combinar redução de pressão vesical (cateterismo intermitente, anticolinérgicos), profilaxia/tratamento das ITU e controle do hábito intestinal, com cirurgia reservada para falha clínica."
+        },
+        {
+          "id": "D",
+          "texto": "Hiperplasia adrenal congênita; bloqueio com corticoide."
+        },
+        {
+          "id": "E",
+          "texto": "Hipoplasia pulmonar progressiva; foco no manejo respiratório isolado."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Na **mielomeningocele**, a alteração do plexo sacral gera **bexiga neurogênica** que contrai e relaxa de forma autônoma, gerando **alta pressão intravesical**. Essa pressão produz **refluxo vesicoureteral secundário**, ITU de repetição e **perda progressiva de parênquima renal**. O tratamento integra **cateterismo intermitente limpo, anticolinérgicos**, profilaxia/tratamento de ITU e **controle da constipação** (síndrome bexiga-intestino). Cirurgia (reimplante, ampliação vesical) fica para falha clínica.",
       "referenciaAula": "Mielomeningocele tem alteração do plexo sacral, bexiga autônoma. A urina vai com pressão pro rim, infecção urinária, perda de parenquima renal e insuficiência renal ao longo do tempo se não tratado.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1565
     }
   ]
 }

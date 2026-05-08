@@ -5,18 +5,42 @@
     {
       "id": "Q-T6-001",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["rastreamento", "câncer colorretal", "câncer de pulmão", "diagnóstico precoce"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "rastreamento",
+        "câncer colorretal",
+        "câncer de pulmão",
+        "diagnóstico precoce"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre programas de rastreamento populacional em oncologia cirúrgica, assinale a alternativa CORRETA ao comparar câncer colorretal e câncer de pulmão:",
       "alternativas": [
-        { "id": "A", "texto": "Ambos têm rastreamento amplamente eficaz porque se originam de lesões pré-malignas removíveis." },
-        { "id": "B", "texto": "O rastreamento do câncer colorretal é altamente eficaz por detectar e remover pólipos adenomatosos antes da transformação maligna; já o rastreamento do câncer de pulmão se baseia em TC de baixa dosagem em fumantes selecionados, sem lesão precursora removível." },
-        { "id": "C", "texto": "Sangue oculto nas fezes é o exame de escolha para rastrear ambos os cânceres em pacientes assintomáticos." },
-        { "id": "D", "texto": "TC de baixa dose é indicada como rastreamento populacional para câncer colorretal em pacientes acima de 50 anos." },
-        { "id": "E", "texto": "Nenhum dos dois cânceres dispõe de método de rastreamento com benefício comprovado." }
+        {
+          "id": "A",
+          "texto": "Ambos têm rastreamento amplamente eficaz porque se originam de lesões pré-malignas removíveis."
+        },
+        {
+          "id": "B",
+          "texto": "O rastreamento do câncer colorretal é altamente eficaz por detectar e remover pólipos adenomatosos antes da transformação maligna; já o rastreamento do câncer de pulmão se baseia em TC de baixa dosagem em fumantes selecionados, sem lesão precursora removível."
+        },
+        {
+          "id": "C",
+          "texto": "Sangue oculto nas fezes é o exame de escolha para rastrear ambos os cânceres em pacientes assintomáticos."
+        },
+        {
+          "id": "D",
+          "texto": "TC de baixa dose é indicada como rastreamento populacional para câncer colorretal em pacientes acima de 50 anos."
+        },
+        {
+          "id": "E",
+          "texto": "Nenhum dos dois cânceres dispõe de método de rastreamento com benefício comprovado."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **câncer colorretal** tem rastreamento altamente eficaz porque parte de uma lesão benigna removível (**pólipo adenomatoso**), com história natural longa (5-10 anos até carcinoma). Já o **câncer de pulmão** não tem lesão precursora ressecável análoga; o rastreamento se faz com **TC de baixa dosagem** em fumantes (geralmente >50 anos com carga tabágica significativa), buscando **detecção precoce** de nódulos suspeitos — não prevenção da neoplasia.",
@@ -26,18 +50,41 @@
     {
       "id": "Q-T6-002",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["linfonodo sentinela", "melanoma", "estadiamento"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "linfonodo sentinela",
+        "melanoma",
+        "estadiamento"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a pesquisa de linfonodo sentinela em oncologia cirúrgica, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É indicada de rotina no carcinoma basocelular pela alta taxa de metástase linfonodal." },
-        { "id": "B", "texto": "No melanoma, identifica a primeira estação linfonodal de drenagem, antecipando o diagnóstico de metástase regional antes que ela se torne clinicamente evidente." },
-        { "id": "C", "texto": "Substitui o exame patológico do tumor primário no estadiamento." },
-        { "id": "D", "texto": "Só pode ser realizada com azul de metileno; o radiofármaco é contraindicado." },
-        { "id": "E", "texto": "Linfonodo sentinela positivo dispensa qualquer abordagem adicional do leito linfonodal." }
+        {
+          "id": "A",
+          "texto": "É indicada de rotina no carcinoma basocelular pela alta taxa de metástase linfonodal."
+        },
+        {
+          "id": "B",
+          "texto": "No melanoma, identifica a primeira estação linfonodal de drenagem, antecipando o diagnóstico de metástase regional antes que ela se torne clinicamente evidente."
+        },
+        {
+          "id": "C",
+          "texto": "Substitui o exame patológico do tumor primário no estadiamento."
+        },
+        {
+          "id": "D",
+          "texto": "Só pode ser realizada com azul de metileno; o radiofármaco é contraindicado."
+        },
+        {
+          "id": "E",
+          "texto": "Linfonodo sentinela positivo dispensa qualquer abordagem adicional do leito linfonodal."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **linfonodo sentinela** é a primeira estação de drenagem do tumor. Marca-se a região com **radiofármaco** (mais usado atualmente) ou azul de metileno e identifica-se o linfonodo que primeiro recebe a drenagem linfática. Permite **antecipar a metástase regional antes que se torne clinicamente evidente**. No carcinoma **basocelular** não é indicada porque essa neoplasia praticamente não dá metástase.",
@@ -47,39 +94,88 @@
     {
       "id": "Q-T6-003",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["margens cirúrgicas", "neoplasia de pele", "cirurgia de Mohs"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "margens cirúrgicas",
+        "neoplasia de pele",
+        "cirurgia de Mohs"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação às margens cirúrgicas em neoplasias de pele, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Carcinoma basocelular e carcinoma epidermoide exigem as mesmas margens, independentemente do risco." },
-        { "id": "B", "texto": "No carcinoma basocelular, margens periféricas em torno de 3-4 mm costumam ser suficientes; no carcinoma epidermoide, margens podem chegar a cerca de 1 cm conforme o risco da lesão; ambos demandam margem profunda atingindo o subcutâneo." },
-        { "id": "C", "texto": "A cirurgia de Mohs é indicada apenas para lesões pequenas de baixo risco em tronco." },
-        { "id": "D", "texto": "Não é necessário avaliar a margem profunda nos tumores cutâneos, apenas as periféricas." },
-        { "id": "E", "texto": "No melanoma, a margem cirúrgica não influencia o controle local da doença." }
+        {
+          "id": "A",
+          "texto": "Carcinoma basocelular e carcinoma epidermoide exigem as mesmas margens, independentemente do risco."
+        },
+        {
+          "id": "B",
+          "texto": "No carcinoma basocelular, margens periféricas em torno de 3-4 mm costumam ser suficientes; no carcinoma epidermoide, margens podem chegar a cerca de 1 cm conforme o risco da lesão; ambos demandam margem profunda atingindo o subcutâneo."
+        },
+        {
+          "id": "C",
+          "texto": "A cirurgia de Mohs é indicada apenas para lesões pequenas de baixo risco em tronco."
+        },
+        {
+          "id": "D",
+          "texto": "Não é necessário avaliar a margem profunda nos tumores cutâneos, apenas as periféricas."
+        },
+        {
+          "id": "E",
+          "texto": "No melanoma, a margem cirúrgica não influencia o controle local da doença."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **carcinoma basocelular** trabalha com margens periféricas de 3-4 mm em geral, com profundidade até a gordura subcutânea. O **carcinoma epidermoide** exige margens maiores (até cerca de 1 cm) em função do risco mais alto de invasão e disseminação. A **cirurgia de Mohs** é reservada a lesões em áreas funcionalmente importantes (cabeça/pescoço) ou recidivadas/infiltrativas.",
       "referenciaAula": "Basocelular: 3-4 mm de margem periférica, profundidade até gordura subcutânea. CEC: margens podem chegar a 1 cm. Mohs em áreas de alto risco e lesões recidivadas/infiltrativas.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 10,
+      "videoStartSec": 401
     },
     {
       "id": "Q-T6-004",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["TNM", "estadiamento", "câncer de bexiga", "câncer colorretal"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "TNM",
+        "estadiamento",
+        "câncer de bexiga",
+        "câncer colorretal"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a invasão da parede do órgão e o estadiamento T em diferentes neoplasias, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "No câncer de bexiga, o T1 invade a muscular própria (detrussor) e indica cistectomia radical." },
-        { "id": "B", "texto": "No câncer de bexiga, a distinção crítica para o tratamento é entre tumor não músculo-invasivo (até T1) e músculo-invasivo (T2 em diante), o que muda fundamentalmente a estratégia terapêutica (tratamento intravesical vs. cistectomia)." },
-        { "id": "C", "texto": "No câncer colorretal, a profundidade de invasão na parede não tem impacto no estadio T." },
-        { "id": "D", "texto": "T4 sempre indica metástases à distância, independentemente do órgão." },
-        { "id": "E", "texto": "O componente N do TNM avalia exclusivamente o tamanho do tumor primário." }
+        {
+          "id": "A",
+          "texto": "No câncer de bexiga, o T1 invade a muscular própria (detrussor) e indica cistectomia radical."
+        },
+        {
+          "id": "B",
+          "texto": "No câncer de bexiga, a distinção crítica para o tratamento é entre tumor não músculo-invasivo (até T1) e músculo-invasivo (T2 em diante), o que muda fundamentalmente a estratégia terapêutica (tratamento intravesical vs. cistectomia)."
+        },
+        {
+          "id": "C",
+          "texto": "No câncer colorretal, a profundidade de invasão na parede não tem impacto no estadio T."
+        },
+        {
+          "id": "D",
+          "texto": "T4 sempre indica metástases à distância, independentemente do órgão."
+        },
+        {
+          "id": "E",
+          "texto": "O componente N do TNM avalia exclusivamente o tamanho do tumor primário."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "No **câncer de bexiga**, a divisão crucial é entre **não músculo-invasivo** (Ta, T1) e **músculo-invasivo** (T2+). Tumores não músculo-invasivos são tratados com **RTU + BCG intravesical** conforme risco; já os músculo-invasivos exigem **cistectomia radical** (ou terapia trimodal preservadora). Esse princípio (profundidade de invasão guia conduta) é central no TNM de tumores epiteliais como bexiga, colorretal e bexiga.",
@@ -89,39 +185,90 @@
     {
       "id": "Q-T6-005",
       "aulaOrigem": null,
-      "blocos": ["G", "E"],
-      "eixos": ["T6"],
-      "tags": ["nódulo pulmonar", "câncer colorretal", "metástase", "biópsia"],
+      "blocos": [
+        "G",
+        "E"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "nódulo pulmonar",
+        "câncer colorretal",
+        "metástase",
+        "biópsia"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 64 anos, em seguimento oncológico após colectomia direita por adenocarcinoma de cólon estádio III (há 18 meses), realiza TC de tórax de controle que evidencia nódulo pulmonar sólido único de 1,8 cm, espiculado, no lobo inferior direito. CEA elevado. Qual é a interpretação e a conduta MAIS APROPRIADA?",
       "alternativas": [
-        { "id": "A", "texto": "Trata-se certamente de tuberculose pelo aspecto espiculado; iniciar RIPE empiricamente." },
-        { "id": "B", "texto": "É um achado incidental sem relevância oncológica; manter seguimento sem investigação adicional." },
-        { "id": "C", "texto": "Nódulo solitário com forte suspeita de metástase pulmonar (de adenocarcinoma colorretal prévio) ou segundo primário pulmonar; avaliar com PET-CT e investigação histológica para definir tratamento, podendo incluir metastasectomia se lesão única e doença controlada." },
-        { "id": "D", "texto": "Indicar quimioterapia paliativa imediatamente, sem necessidade de comprovação histológica." },
-        { "id": "E", "texto": "Solicitar enema opaco terapêutico para descompressão." }
+        {
+          "id": "A",
+          "texto": "Trata-se certamente de tuberculose pelo aspecto espiculado; iniciar RIPE empiricamente."
+        },
+        {
+          "id": "B",
+          "texto": "É um achado incidental sem relevância oncológica; manter seguimento sem investigação adicional."
+        },
+        {
+          "id": "C",
+          "texto": "Nódulo solitário com forte suspeita de metástase pulmonar (de adenocarcinoma colorretal prévio) ou segundo primário pulmonar; avaliar com PET-CT e investigação histológica para definir tratamento, podendo incluir metastasectomia se lesão única e doença controlada."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar quimioterapia paliativa imediatamente, sem necessidade de comprovação histológica."
+        },
+        {
+          "id": "E",
+          "texto": "Solicitar enema opaco terapêutico para descompressão."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Em paciente com história de **adenocarcinoma colorretal**, um **nódulo pulmonar espiculado** novo é altamente suspeito de **metástase pulmonar** ou de um **segundo primário pulmonar**. A história prévia de neoplasia de cólon é fator de risco clássico mencionado na investigação de nódulos. **PET-CT** ajuda a avaliar atividade metabólica e doença sistêmica; a **comprovação histológica** orienta a conduta (metastasectomia pulmonar pode ser curativa se doença oligometastática controlada).",
       "referenciaAula": "História prévia de neoplasia de cólon, mama, rim, melanoma é fator de risco para nódulo pulmonar. PET-CT auxilia avaliação metabólica. Lesões espiculadas têm alta chance de malignidade.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 20,
+      "videoStartSec": 1626
     },
     {
       "id": "Q-T6-006",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["rastreamento", "diagnóstico precoce", "estadiamento", "sobrevida"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "rastreamento",
+        "diagnóstico precoce",
+        "estadiamento",
+        "sobrevida"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre a relação entre estadio ao diagnóstico e sobrevida em oncologia cirúrgica, assinale a afirmativa MAIS CORRETA, considerando câncer de pulmão e câncer colorretal:",
       "alternativas": [
-        { "id": "A", "texto": "Em ambos os tumores, a sobrevida em 5 anos no estadio I supera 90%, enquanto o estadio IV apresenta sobrevida muito reduzida — fato que justifica os esforços de detecção precoce e estratégias de rastreamento." },
-        { "id": "B", "texto": "No câncer de pulmão, mais de 90% dos pacientes são diagnosticados em estadio I, o que torna desnecessário o rastreamento." },
-        { "id": "C", "texto": "No câncer colorretal, a chance de cura no estadio I é semelhante à do estadio IV." },
-        { "id": "D", "texto": "Sobrevida em estadio inicial e avançado é equivalente quando se usa quimioterapia moderna." },
-        { "id": "E", "texto": "Tumores diagnosticados em estadio IV não devem ser tratados cirurgicamente em nenhuma situação." }
+        {
+          "id": "A",
+          "texto": "Em ambos os tumores, a sobrevida em 5 anos no estadio I supera 90%, enquanto o estadio IV apresenta sobrevida muito reduzida — fato que justifica os esforços de detecção precoce e estratégias de rastreamento."
+        },
+        {
+          "id": "B",
+          "texto": "No câncer de pulmão, mais de 90% dos pacientes são diagnosticados em estadio I, o que torna desnecessário o rastreamento."
+        },
+        {
+          "id": "C",
+          "texto": "No câncer colorretal, a chance de cura no estadio I é semelhante à do estadio IV."
+        },
+        {
+          "id": "D",
+          "texto": "Sobrevida em estadio inicial e avançado é equivalente quando se usa quimioterapia moderna."
+        },
+        {
+          "id": "E",
+          "texto": "Tumores diagnosticados em estadio IV não devem ser tratados cirurgicamente em nenhuma situação."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "No **câncer de pulmão T1a (≤1 cm)** a sobrevida em 5 anos chega a cerca de **92%**; no **câncer colorretal estadio I**, **~92% de cura**. No **estadio IV**, ambas caem drasticamente (~11% no colorretal). Por isso o **diagnóstico precoce** é prioridade — no pulmão via rastreamento por TC de baixa dose em fumantes, no colorretal via sangue oculto/colonoscopia. A cirurgia citorredutora pode ter papel selecionado em alguns estadios IV (ex.: nefrectomia citorredutora), mas não é regra geral.",
@@ -131,18 +278,42 @@
     {
       "id": "Q-T6-007",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["nódulo pulmonar", "PET-CT", "estadiamento", "tumor renal"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "nódulo pulmonar",
+        "PET-CT",
+        "estadiamento",
+        "tumor renal"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 58 anos, submetida a orquiectomia radical e quimioterapia por seminoma testicular (achado em homem trans com gônadas masculinas — paciente designada do sexo masculino ao nascer). Após o tratamento, persiste massa retroperitoneal residual de 4 cm. Foi solicitado PET-CT. Sobre o uso do PET-CT nesse contexto e em outros cenários oncológicos, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "PET-CT só tem utilidade no câncer de pele." },
-        { "id": "B", "texto": "PET-CT avalia atividade metabólica via captação de 18F-FDG: no câncer de testículo seminomatoso ajuda a diferenciar massa residual viável (tumor) de fibrose pós-tratamento, e no nódulo pulmonar indeterminado auxilia a estimar a probabilidade de malignidade." },
-        { "id": "C", "texto": "Captação elevada de FDG é específica de câncer e exclui diagnósticos infecciosos como tuberculose." },
-        { "id": "D", "texto": "PET-CT substitui sempre o estudo histopatológico no diagnóstico definitivo." },
-        { "id": "E", "texto": "Valor de SUV abaixo de 2,5 indica obrigatoriamente lesão maligna agressiva." }
+        {
+          "id": "A",
+          "texto": "PET-CT só tem utilidade no câncer de pele."
+        },
+        {
+          "id": "B",
+          "texto": "PET-CT avalia atividade metabólica via captação de 18F-FDG: no câncer de testículo seminomatoso ajuda a diferenciar massa residual viável (tumor) de fibrose pós-tratamento, e no nódulo pulmonar indeterminado auxilia a estimar a probabilidade de malignidade."
+        },
+        {
+          "id": "C",
+          "texto": "Captação elevada de FDG é específica de câncer e exclui diagnósticos infecciosos como tuberculose."
+        },
+        {
+          "id": "D",
+          "texto": "PET-CT substitui sempre o estudo histopatológico no diagnóstico definitivo."
+        },
+        {
+          "id": "E",
+          "texto": "Valor de SUV abaixo de 2,5 indica obrigatoriamente lesão maligna agressiva."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **PET-CT com 18F-FDG** mensura atividade metabólica. No **seminoma**, é especialmente útil em massa residual >3 cm pós-quimioterapia, diferenciando **doença viável** de **fibrose**. No **nódulo pulmonar**, auxilia em lesões intermediárias (SUV >3,5 indica maior risco de malignidade; <2,5, baixo). NÃO é específico de câncer — **doenças inflamatórias e infecciosas** (tuberculose, fungos) também captam FDG. Não substitui o anatomopatológico.",
@@ -152,18 +323,42 @@
     {
       "id": "Q-T6-008",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["margem cirúrgica", "câncer colorretal", "câncer de bexiga", "ressecção radical"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "margem cirúrgica",
+        "câncer colorretal",
+        "câncer de bexiga",
+        "ressecção radical"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Em discussão multidisciplinar, três pacientes são apresentados: (1) carcinoma epidermoide cutâneo de alto risco em pavilhão auricular; (2) adenocarcinoma de reto T3 com margem circunferencial de 1 mm em ressonância; (3) carcinoma urotelial de bexiga músculo-invasivo (T2). Qual o princípio oncológico-cirúrgico COMUM mais bem refletido?",
       "alternativas": [
-        { "id": "A", "texto": "Todos devem ser tratados exclusivamente com radioterapia, dispensando-se cirurgia." },
-        { "id": "B", "texto": "Em todos, a obtenção de margens livres adequadas — periféricas e em profundidade — é determinante para o controle local; quando margens estão ameaçadas (ou o tumor é invasivo), há indicação de ressecções mais amplas (ex.: cirurgia micrográfica/Mohs no CEC, ETM com terapia neoadjuvante no reto, cistectomia radical no T2 de bexiga)." },
-        { "id": "C", "texto": "Margens cirúrgicas são irrelevantes desde que se administre quimioterapia adjuvante." },
-        { "id": "D", "texto": "Em todos os casos, a ressecção econômica com margem mínima de 1 mm é suficiente." },
-        { "id": "E", "texto": "Apenas o tumor cutâneo demanda avaliação de margem; nos demais o critério é apenas linfonodal." }
+        {
+          "id": "A",
+          "texto": "Todos devem ser tratados exclusivamente com radioterapia, dispensando-se cirurgia."
+        },
+        {
+          "id": "B",
+          "texto": "Em todos, a obtenção de margens livres adequadas — periféricas e em profundidade — é determinante para o controle local; quando margens estão ameaçadas (ou o tumor é invasivo), há indicação de ressecções mais amplas (ex.: cirurgia micrográfica/Mohs no CEC, ETM com terapia neoadjuvante no reto, cistectomia radical no T2 de bexiga)."
+        },
+        {
+          "id": "C",
+          "texto": "Margens cirúrgicas são irrelevantes desde que se administre quimioterapia adjuvante."
+        },
+        {
+          "id": "D",
+          "texto": "Em todos os casos, a ressecção econômica com margem mínima de 1 mm é suficiente."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas o tumor cutâneo demanda avaliação de margem; nos demais o critério é apenas linfonodal."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Margens livres adequadas** são princípio universal em oncologia cirúrgica. No **CEC cutâneo de alto risco em orelha**, a **cirurgia micrográfica de Mohs** garante negatividade microscópica preservando função. No **reto T3 com margem circunferencial ameaçada (≤1 mm)**, indica-se neoadjuvância e excisão total do mesorreto (ETM). No **câncer de bexiga T2 (músculo-invasivo)**, a **cistectomia radical** com linfadenectomia é o padrão-ouro. Margem comprometida correlaciona-se com recidiva local em qualquer tumor.",
@@ -173,44 +368,97 @@
     {
       "id": "Q-T6-009",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["estadiamento", "metástase", "drenagem linfática", "linfadenectomia"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "estadiamento",
+        "metástase",
+        "drenagem linfática",
+        "linfadenectomia"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Sobre os principais sítios de drenagem linfática e disseminação metastática em diferentes tumores, qual associação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Câncer de testículo — linfonodos inguinais; câncer de pênis — linfonodos retroperitoneais." },
-        { "id": "B", "texto": "Câncer de testículo — linfonodos retroperitoneais; câncer de pênis — linfonodos inguinais; melanoma de dorso — pode drenar para axilas ou inguinais conforme topografia; câncer colorretal — linfonodos mesentéricos/mesorretais." },
-        { "id": "C", "texto": "Todos os tumores cutâneos drenam exclusivamente para linfonodos cervicais." },
-        { "id": "D", "texto": "Câncer de testículo dissemina-se preferencialmente por via hematogênica para fígado, sem acometimento linfonodal relevante." },
-        { "id": "E", "texto": "A drenagem linfática é irrelevante para o estadiamento e tratamento desses tumores." }
+        {
+          "id": "A",
+          "texto": "Câncer de testículo — linfonodos inguinais; câncer de pênis — linfonodos retroperitoneais."
+        },
+        {
+          "id": "B",
+          "texto": "Câncer de testículo — linfonodos retroperitoneais; câncer de pênis — linfonodos inguinais; melanoma de dorso — pode drenar para axilas ou inguinais conforme topografia; câncer colorretal — linfonodos mesentéricos/mesorretais."
+        },
+        {
+          "id": "C",
+          "texto": "Todos os tumores cutâneos drenam exclusivamente para linfonodos cervicais."
+        },
+        {
+          "id": "D",
+          "texto": "Câncer de testículo dissemina-se preferencialmente por via hematogênica para fígado, sem acometimento linfonodal relevante."
+        },
+        {
+          "id": "E",
+          "texto": "A drenagem linfática é irrelevante para o estadiamento e tratamento desses tumores."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os padrões de drenagem linfática são determinantes no estadiamento e na cirurgia: **testículo** drena para **retroperitônio** (origem embriológica abdominal) — daí a abordagem inguinal e a possível **linfadenectomia retroperitoneal**; **pênis** drena para **linfonodos inguinais** (superficiais e profundos), com possível extensão pélvica; **melanoma do dorso** pode drenar para axila ou inguinal conforme topografia (motivo da pesquisa de sentinela com radiofármaco); **colorretal** drena para linfonodos **mesentéricos/mesorretais**.",
       "referenciaAula": "Testículo: principal sítio de metástase é linfonodo retroperitoneal. Pênis: linfonodos inguinais (superficial e profundo) → pélvicos. Melanoma: drenagem topográfica (dorso pode ir para axila ou inguinal).",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 20,
+      "videoStartSec": 1564
     },
     {
       "id": "Q-T6-010",
       "aulaOrigem": null,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["sintomas", "investigação", "câncer de bexiga", "câncer colorretal", "rastreamento"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "sintomas",
+        "investigação",
+        "câncer de bexiga",
+        "câncer colorretal",
+        "rastreamento"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 56 anos, tabagista pesado, refere hematúria macroscópica indolor há 2 semanas e episódios alternados de constipação e diarreia há 3 meses, com perda ponderal de 6 kg. Sobre a investigação proposta, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Solicitar pesquisa de sangue oculto nas fezes como exame inicial; se negativo, descartar câncer colorretal." },
-        { "id": "B", "texto": "Como o paciente é sintomático, sangue oculto nas fezes não é o exame indicado para investigação intestinal — deve-se realizar **colonoscopia**; a hematúria macroscópica obriga **investigação imediata** com TC de abdome (padrão-ouro) e **cistoscopia**, devido ao alto risco de carcinoma urotelial pelo tabagismo." },
-        { "id": "C", "texto": "Hematúria macroscópica em fumante é benigna e pode ser apenas observada." },
-        { "id": "D", "texto": "Investigar apenas o trato urinário, ignorando os sintomas digestivos." },
-        { "id": "E", "texto": "A colonoscopia só está indicada após dois testes de sangue oculto positivos." }
+        {
+          "id": "A",
+          "texto": "Solicitar pesquisa de sangue oculto nas fezes como exame inicial; se negativo, descartar câncer colorretal."
+        },
+        {
+          "id": "B",
+          "texto": "Como o paciente é sintomático, sangue oculto nas fezes não é o exame indicado para investigação intestinal — deve-se realizar **colonoscopia**; a hematúria macroscópica obriga **investigação imediata** com TC de abdome (padrão-ouro) e **cistoscopia**, devido ao alto risco de carcinoma urotelial pelo tabagismo."
+        },
+        {
+          "id": "C",
+          "texto": "Hematúria macroscópica em fumante é benigna e pode ser apenas observada."
+        },
+        {
+          "id": "D",
+          "texto": "Investigar apenas o trato urinário, ignorando os sintomas digestivos."
+        },
+        {
+          "id": "E",
+          "texto": "A colonoscopia só está indicada após dois testes de sangue oculto positivos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Sangue oculto nas fezes** é exame de **rastreamento de assintomáticos**. Diante de **sintomas** (alteração do hábito intestinal, perda ponderal), a investigação deve ser direta com **colonoscopia**. **Hematúria macroscópica** é sinal de alarme e exige **investigação imediata** — TC de abdome (padrão-ouro) + **cistoscopia**, particularmente em **tabagista** (90% dos cânceres de bexiga associam-se ao tabagismo). Pode haver coexistência de neoplasias sincrônicas, ambas relacionadas ao tabaco e à idade.",
       "referenciaAula": "Sangue oculto só para assintomáticos; sintomáticos vão direto para colonoscopia. Hematúria macroscópica obriga investigação imediata: TC + cistoscopia. Tabagismo associado a 90% dos casos de câncer de bexiga.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 20,
+      "videoStartSec": 930
     }
   ]
 }

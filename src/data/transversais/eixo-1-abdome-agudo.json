@@ -5,60 +5,133 @@
     {
       "id": "Q-T1-001",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["diferencial", "padrão da dor", "anamnese"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diferencial",
+        "padrão da dor",
+        "anamnese"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o padrão CARACTERÍSTICO da dor nos 4 grandes tipos de abdome agudo cirúrgico, qual associação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Obstrutivo — dor contínua e em pontada desde o início, sem cólica." },
-        { "id": "B", "texto": "Inflamatório — dor súbita, violenta e generalizada já no primeiro minuto." },
-        { "id": "C", "texto": "Perfurativo — dor súbita, intensa, em facada, frequentemente epigástrica, com rigidez de parede." },
-        { "id": "D", "texto": "Vascular (isquemia mesentérica) — dor leve, bem localizada e proporcional aos achados de exame físico." },
-        { "id": "E", "texto": "Inflamatório (apendicite) — dor sempre desde o início em fossa ilíaca direita, sem migração." }
+        {
+          "id": "A",
+          "texto": "Obstrutivo — dor contínua e em pontada desde o início, sem cólica."
+        },
+        {
+          "id": "B",
+          "texto": "Inflamatório — dor súbita, violenta e generalizada já no primeiro minuto."
+        },
+        {
+          "id": "C",
+          "texto": "Perfurativo — dor súbita, intensa, em facada, frequentemente epigástrica, com rigidez de parede."
+        },
+        {
+          "id": "D",
+          "texto": "Vascular (isquemia mesentérica) — dor leve, bem localizada e proporcional aos achados de exame físico."
+        },
+        {
+          "id": "E",
+          "texto": "Inflamatório (apendicite) — dor sempre desde o início em fossa ilíaca direita, sem migração."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **abdome agudo perfurativo** clássico (úlcera péptica perfurada, perfuração colônica) cursa com **dor súbita, em facada**, e rigidez de parede por irritação peritoneal química. O **obstrutivo** tem dor em **cólica intermitente**; o **inflamatório** (ex.: apendicite) tem dor que **migra** (periumbilical para FID); o **vascular** tem **dor desproporcional ao exame físico** — sintoma muito mais intenso que o que se palpa. Essas distinções organizam o raciocínio diferencial.",
       "referenciaAula": "A dor abdominal em cólica é da tentativa de transpor obstrução. Se há perfuração, a dor muda — é dor de irritação peritoneal contínua.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 1,
+      "videoStartSec": 1860
     },
     {
       "id": "Q-T1-002",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["isquemia mesentérica", "dor desproporcional", "diferencial"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "isquemia mesentérica",
+        "dor desproporcional",
+        "diferencial"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 74 anos, fibrilação atrial em uso irregular de anticoagulante, chega ao pronto-socorro com dor abdominal súbita, intensa e difusa há 4 horas. Exame físico: abdome flácido, sem rigidez, dor à palpação muito menos intensa do que a queixa do paciente. Lactato 5,8 mmol/L. Qual o diagnóstico mais provável e como ele se distingue dos demais abdomes agudos?",
       "alternativas": [
-        { "id": "A", "texto": "Apendicite aguda — dor migratória classicamente para FID com defesa." },
-        { "id": "B", "texto": "Úlcera péptica perfurada — pneumoperitônio em rotina de abdome agudo." },
-        { "id": "C", "texto": "Obstrução intestinal por bridas — distensão e parada de eliminação de gases e fezes." },
-        { "id": "D", "texto": "Isquemia mesentérica aguda embólica — dor desproporcional ao exame físico, fonte cardíaca (FA), lactato elevado." },
-        { "id": "E", "texto": "Diverticulite aguda — dor em fossa ilíaca esquerda com plastrão palpável." }
+        {
+          "id": "A",
+          "texto": "Apendicite aguda — dor migratória classicamente para FID com defesa."
+        },
+        {
+          "id": "B",
+          "texto": "Úlcera péptica perfurada — pneumoperitônio em rotina de abdome agudo."
+        },
+        {
+          "id": "C",
+          "texto": "Obstrução intestinal por bridas — distensão e parada de eliminação de gases e fezes."
+        },
+        {
+          "id": "D",
+          "texto": "Isquemia mesentérica aguda embólica — dor desproporcional ao exame físico, fonte cardíaca (FA), lactato elevado."
+        },
+        {
+          "id": "E",
+          "texto": "Diverticulite aguda — dor em fossa ilíaca esquerda com plastrão palpável."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "A tríade **fibrilação atrial + dor súbita desproporcional ao exame + lactato elevado** é típica de **isquemia mesentérica aguda embólica** (abdome agudo vascular). O diferencial é central: na **perfurativa** haveria rigidez/pneumoperitônio; no **inflamatório (apendicite)** a dor migraria e seria localizada com defesa em FID; no **obstrutivo** haveria distensão e parada de eliminação. A FA é a principal fonte emboligênica — mesmo princípio fisiopatológico da oclusão arterial periférica.",
       "referenciaAula": "A fibrilação atrial é a rainha das fontes embólicas; a oclusão é súbita e intensa e a dor é desproporcional aos achados de exame físico.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 11,
+      "videoStartSec": 150
     },
     {
       "id": "Q-T1-003",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["pneumoperitônio", "rotina de abdome agudo", "perfurativo"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pneumoperitônio",
+        "rotina de abdome agudo",
+        "perfurativo"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Na rotina de abdome agudo (RX tórax em ortostase + abdome ortostático e em decúbito), a presença de **pneumoperitônio** orienta o diagnóstico para qual categoria, e como se diferencia dos outros padrões radiológicos?",
       "alternativas": [
-        { "id": "A", "texto": "Obstrutivo — pelos níveis hidroaéreos em alças de delgado distendidas." },
-        { "id": "B", "texto": "Perfurativo — ar livre no peritônio indica perfuração de víscera oca; difere do padrão de níveis hidroaéreos do obstrutivo e do íleo localizado/inespecífico do inflamatório." },
-        { "id": "C", "texto": "Inflamatório (apendicite) — sinal patognomônico de apendicite com perfuração contida." },
-        { "id": "D", "texto": "Vascular — gás na parede da alça (pneumatose) é igual a pneumoperitônio." },
-        { "id": "E", "texto": "Íleo paralítico — distensão difusa de delgado e cólon sem nível hidroaéreo." }
+        {
+          "id": "A",
+          "texto": "Obstrutivo — pelos níveis hidroaéreos em alças de delgado distendidas."
+        },
+        {
+          "id": "B",
+          "texto": "Perfurativo — ar livre no peritônio indica perfuração de víscera oca; difere do padrão de níveis hidroaéreos do obstrutivo e do íleo localizado/inespecífico do inflamatório."
+        },
+        {
+          "id": "C",
+          "texto": "Inflamatório (apendicite) — sinal patognomônico de apendicite com perfuração contida."
+        },
+        {
+          "id": "D",
+          "texto": "Vascular — gás na parede da alça (pneumatose) é igual a pneumoperitônio."
+        },
+        {
+          "id": "E",
+          "texto": "Íleo paralítico — distensão difusa de delgado e cólon sem nível hidroaéreo."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Pneumoperitônio** é igual a ar livre na cavidade, ou seja, **abdome agudo perfurativo** até prova em contrário, e em geral indica laparotomia. O **obstrutivo** mostra alças distendidas com **níveis hidroaéreos** (sem ar livre); o **inflamatório** costuma mostrar achados inespecíficos (alça sentinela em FID, espessamento por TC); a **isquemia mesentérica** pode mostrar **pneumatose intestinal** (gás na parede), que é diferente do ar peritoneal. Essa leitura é a base radiológica do diferencial dos 4 abdomes.",
@@ -68,18 +141,42 @@
     {
       "id": "Q-T1-004",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["sofrimento de alça", "obstrutivo virando isquêmico", "lactato"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "sofrimento de alça",
+        "obstrutivo virando isquêmico",
+        "lactato"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 65 anos, em manejo conservador de obstrução intestinal por bridas há 24 horas, evolui com mudança da dor — antes em cólica intermitente, agora **contínua e intensa**, taquicardia 130 bpm, febre 38,7 °C, leucocitose 22.000 e lactato 4,8 mmol/L. Qual a melhor interpretação fisiopatológica e a conduta?",
       "alternativas": [
-        { "id": "A", "texto": "Evolução típica do íleo paralítico; suspender SNG e aguardar." },
-        { "id": "B", "texto": "Sofrimento de alça (componente isquêmico/perfurativo se sobrepondo ao obstrutivo) — laparotomia de urgência." },
-        { "id": "C", "texto": "Apendicite associada como diagnóstico alternativo — apendicectomia laparoscópica eletiva." },
-        { "id": "D", "texto": "Diverticulite aguda Hinchey I — antibiótico e alta com retorno em 7 dias." },
-        { "id": "E", "texto": "Pielonefrite aguda concomitante — solicitar urocultura e iniciar ceftriaxona." }
+        {
+          "id": "A",
+          "texto": "Evolução típica do íleo paralítico; suspender SNG e aguardar."
+        },
+        {
+          "id": "B",
+          "texto": "Sofrimento de alça (componente isquêmico/perfurativo se sobrepondo ao obstrutivo) — laparotomia de urgência."
+        },
+        {
+          "id": "C",
+          "texto": "Apendicite associada como diagnóstico alternativo — apendicectomia laparoscópica eletiva."
+        },
+        {
+          "id": "D",
+          "texto": "Diverticulite aguda Hinchey I — antibiótico e alta com retorno em 7 dias."
+        },
+        {
+          "id": "E",
+          "texto": "Pielonefrite aguda concomitante — solicitar urocultura e iniciar ceftriaxona."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A obstrução intestinal pode **evoluir para isquemia e perfuração** quando há sofrimento de alça. A transição de **dor cólica para dor contínua**, somada a febre, taquicardia desproporcional, leucocitose e lactato elevado, marca essa virada — o paciente deixou de ter um abdome agudo puramente obstrutivo e passou a ter um componente **vascular/perfurativo sobreposto**. Indica laparotomia de urgência, com ressuscitação volêmica concomitante.",
@@ -89,18 +186,42 @@
     {
       "id": "Q-T1-005",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["pediatria", "invaginação", "apendicite", "idade"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pediatria",
+        "invaginação",
+        "apendicite",
+        "idade"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Lactente de 8 meses, previamente hígido, apresenta **dor abdominal súbita intermitente em crises de choro com flexão das pernas**, palidez intercrise e duas evacuações com muco e sangue (geleia de morango). Considerando o diferencial dos abdomes agudos na infância, qual a hipótese mais provável e por que NÃO é uma apendicite ou perfuração?",
       "alternativas": [
-        { "id": "A", "texto": "Apendicite aguda — pico de incidência em lactentes com dor migratória." },
-        { "id": "B", "texto": "Diverticulite aguda — comum entre 6 e 12 meses." },
-        { "id": "C", "texto": "Invaginação intestinal (abdome agudo obstrutivo da infância) — dor súbita intermitente com palidez intercrise e fezes em geleia de morango; apendicite é rara abaixo dos 2 anos e tem dor contínua, não em crises." },
-        { "id": "D", "texto": "Úlcera péptica perfurada — pneumoperitônio em RX simples." },
-        { "id": "E", "texto": "Isquemia mesentérica aguda — fibrilação atrial em lactente." }
+        {
+          "id": "A",
+          "texto": "Apendicite aguda — pico de incidência em lactentes com dor migratória."
+        },
+        {
+          "id": "B",
+          "texto": "Diverticulite aguda — comum entre 6 e 12 meses."
+        },
+        {
+          "id": "C",
+          "texto": "Invaginação intestinal (abdome agudo obstrutivo da infância) — dor súbita intermitente com palidez intercrise e fezes em geleia de morango; apendicite é rara abaixo dos 2 anos e tem dor contínua, não em crises."
+        },
+        {
+          "id": "D",
+          "texto": "Úlcera péptica perfurada — pneumoperitônio em RX simples."
+        },
+        {
+          "id": "E",
+          "texto": "Isquemia mesentérica aguda — fibrilação atrial em lactente."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **invaginação intestinal** é causa típica de **abdome agudo obstrutivo no lactente** (6 m a 2 anos): crises de dor súbita intermitente com palidez/letargia entre elas, evolução para fezes em geleia de morango. **Apendicite** é incomum nessa idade (pico 5-10 anos) e cursa com dor contínua/migratória; **úlcera péptica perfurada** e **isquemia mesentérica embólica** praticamente não ocorrem nessa faixa. A idade pediátrica reorganiza completamente o diferencial.",
@@ -110,18 +231,41 @@
     {
       "id": "Q-T1-006",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "diverticulite", "localização"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "diverticulite",
+        "localização"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher de 68 anos com dor abdominal há 48 h, inicialmente em fossa ilíaca esquerda, com febre 38,2 °C e plastrão palpável local. Considerando os diferenciais inflamatórios do abdome agudo, qual a hipótese mais provável e o exame de escolha — e por que difere de uma apendicite?",
       "alternativas": [
-        { "id": "A", "texto": "Apendicite aguda — solicitar US abdominal; localização típica em mulheres idosas." },
-        { "id": "B", "texto": "Diverticulite aguda do sigmoide — solicitar TC com contraste; localização em FIE em paciente idosa diferencia da apendicite (jovens, FID com migração)." },
-        { "id": "C", "texto": "Colecistite aguda — colelitíase com Murphy positivo." },
-        { "id": "D", "texto": "Pancreatite aguda — dor em barra com elevação de lipase." },
-        { "id": "E", "texto": "Úlcera duodenal perfurada — dor em facada com pneumoperitônio." }
+        {
+          "id": "A",
+          "texto": "Apendicite aguda — solicitar US abdominal; localização típica em mulheres idosas."
+        },
+        {
+          "id": "B",
+          "texto": "Diverticulite aguda do sigmoide — solicitar TC com contraste; localização em FIE em paciente idosa diferencia da apendicite (jovens, FID com migração)."
+        },
+        {
+          "id": "C",
+          "texto": "Colecistite aguda — colelitíase com Murphy positivo."
+        },
+        {
+          "id": "D",
+          "texto": "Pancreatite aguda — dor em barra com elevação de lipase."
+        },
+        {
+          "id": "E",
+          "texto": "Úlcera duodenal perfurada — dor em facada com pneumoperitônio."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Diverticulite aguda** é causa frequente de abdome agudo inflamatório no idoso, com dor em **FIE** (sigmoide), febre e plastrão. A **TC com contraste** é o exame de escolha — mostra espessamento do sigmoide, abscesso pericólico e estratifica gravidade (Hinchey). Difere da **apendicite** (jovens, dor periumbilical migrando para **FID**, US frequentemente suficiente em mulheres magras) e da **colecistite** (HCD com Murphy). A localização e a faixa etária são os pivôs do raciocínio.",
@@ -131,81 +275,186 @@
     {
       "id": "Q-T1-007",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["volvo sigmoide", "diverticulite", "tumor obstrutivo", "FIE"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "volvo sigmoide",
+        "diverticulite",
+        "tumor obstrutivo",
+        "FIE"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 72 anos com megacólon chagásico apresenta-se há 3 dias com distensão abdominal acentuada, parada de eliminação de gases e fezes, dor em cólica e RX com sinal do \"grão de café\" em FIE. Sem febre, sem irritação peritoneal, lactato normal. Como diferenciar este quadro de uma diverticulite ou de uma perfuração colônica, e qual a conduta?",
       "alternativas": [
-        { "id": "A", "texto": "Provável diverticulite Hinchey IV; laparotomia com Hartmann." },
-        { "id": "B", "texto": "Perfuração colônica espontânea; laparotomia imediata sem outros exames." },
-        { "id": "C", "texto": "Volvo de sigmoide (abdome agudo obstrutivo) sem sofrimento de alça nem perfuração — retossigmoidoscopia descompressiva inicial; cirurgia eletiva após estabilização." },
-        { "id": "D", "texto": "Apendicite retrocecal — apendicectomia laparoscópica de urgência." },
-        { "id": "E", "texto": "Isquemia mesentérica não oclusiva — angiotomografia e heparinização." }
+        {
+          "id": "A",
+          "texto": "Provável diverticulite Hinchey IV; laparotomia com Hartmann."
+        },
+        {
+          "id": "B",
+          "texto": "Perfuração colônica espontânea; laparotomia imediata sem outros exames."
+        },
+        {
+          "id": "C",
+          "texto": "Volvo de sigmoide (abdome agudo obstrutivo) sem sofrimento de alça nem perfuração — retossigmoidoscopia descompressiva inicial; cirurgia eletiva após estabilização."
+        },
+        {
+          "id": "D",
+          "texto": "Apendicite retrocecal — apendicectomia laparoscópica de urgência."
+        },
+        {
+          "id": "E",
+          "texto": "Isquemia mesentérica não oclusiva — angiotomografia e heparinização."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O contexto (megacólon chagásico, dor em cólica, parada de eliminação, **sinal do grão de café**, sem febre/peritonite/lactato elevado) é **volvo de sigmoide sem sofrimento** — tratamento inicial é **retossigmoidoscopia descompressiva**. Diferencia-se da **diverticulite** (febre, plastrão, espessamento na TC), da **perfuração** (pneumoperitônio, irritação peritoneal) e da **isquemia mesentérica** (lactato elevado, dor desproporcional). Sinais de sofrimento mudam toda a conduta para laparotomia.",
       "referenciaAula": "No volvo, o tratamento inicial é a retossigmoidoscopia para desfazer a torção, desde que não haja sofrimento de alça ou perfuração.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 7,
+      "videoStartSec": 1572
     },
     {
       "id": "Q-T1-008",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["choque", "peritonite", "obstrução", "vascular", "ressuscitação"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "choque",
+        "peritonite",
+        "obstrução",
+        "vascular",
+        "ressuscitação"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre o componente HEMODINÂMICO dos 4 abdomes agudos, qual afirmação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "O abdome agudo obstrutivo nunca cursa com instabilidade hemodinâmica, pois é apenas mecânico." },
-        { "id": "B", "texto": "A peritonite bacteriana secundária do perfurativo causa um choque misto (hipovolêmico + séptico) e exige preparo pré-operatório com volume, antibiótico e correção de distúrbios antes da laparotomia precoce." },
-        { "id": "C", "texto": "Na isquemia mesentérica aguda, o lactato é um marcador irrelevante; importa apenas o exame físico." },
-        { "id": "D", "texto": "Apendicite grau I/II raramente é cirúrgica e quase sempre cursa com choque séptico." },
-        { "id": "E", "texto": "Íleo paralítico é uma indicação cirúrgica de urgência por choque hipovolêmico iminente." }
+        {
+          "id": "A",
+          "texto": "O abdome agudo obstrutivo nunca cursa com instabilidade hemodinâmica, pois é apenas mecânico."
+        },
+        {
+          "id": "B",
+          "texto": "A peritonite bacteriana secundária do perfurativo causa um choque misto (hipovolêmico + séptico) e exige preparo pré-operatório com volume, antibiótico e correção de distúrbios antes da laparotomia precoce."
+        },
+        {
+          "id": "C",
+          "texto": "Na isquemia mesentérica aguda, o lactato é um marcador irrelevante; importa apenas o exame físico."
+        },
+        {
+          "id": "D",
+          "texto": "Apendicite grau I/II raramente é cirúrgica e quase sempre cursa com choque séptico."
+        },
+        {
+          "id": "E",
+          "texto": "Íleo paralítico é uma indicação cirúrgica de urgência por choque hipovolêmico iminente."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na **peritonite bacteriana secundária** (abdome agudo perfurativo evoluído ou inflamatório complicado), forma-se um **choque misto**: hipovolêmico (sequestro de líquido em terceiro espaço) e séptico (translocação/contaminação). O preparo pré-operatório com **volume, antibiótico de amplo espectro, correção de distúrbios hidroeletrolíticos** e cirurgia precoce reduz mortalidade. O **obstrutivo** também pode chocar (sequestro intraluminal, sofrimento de alça), e na **isquemia mesentérica** o lactato é fundamental.",
       "referenciaAula": "Acaba sendo um choque misto — tem componente hipovolêmico e séptico. Tudo isso precisa ser corrigido antes da cirurgia, mas sem demorar.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 14,
+      "videoStartSec": 542
     },
     {
       "id": "Q-T1-009",
       "aulaOrigem": null,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["alça fechada", "isquemia", "perfuração", "obstrução"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "alça fechada",
+        "isquemia",
+        "perfuração",
+        "obstrução"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Por que a obstrução em ALÇA FECHADA (ex.: tumor obstrutivo de cólon com válvula ileocecal competente, volvo de sigmoide sem desfazer) é considerada uma situação que TRANSITA entre os 4 abdomes agudos?",
       "alternativas": [
-        { "id": "A", "texto": "Porque é apenas obstrutiva e nunca causa isquemia ou perfuração." },
-        { "id": "B", "texto": "Porque começa como obstrutivo, evolui rapidamente para isquêmico (vascular) por aumento da pressão intraluminal e estase venosa, e pode terminar como perfurativo com peritonite estercorácea." },
-        { "id": "C", "texto": "Porque é inflamatória por definição, com febre e leucocitose precoces." },
-        { "id": "D", "texto": "Porque sempre apresenta pneumoperitônio inicial, mesmo sem perfuração." },
-        { "id": "E", "texto": "Porque é uma indicação clássica de tratamento conservador prolongado por 72 h." }
+        {
+          "id": "A",
+          "texto": "Porque é apenas obstrutiva e nunca causa isquemia ou perfuração."
+        },
+        {
+          "id": "B",
+          "texto": "Porque começa como obstrutivo, evolui rapidamente para isquêmico (vascular) por aumento da pressão intraluminal e estase venosa, e pode terminar como perfurativo com peritonite estercorácea."
+        },
+        {
+          "id": "C",
+          "texto": "Porque é inflamatória por definição, com febre e leucocitose precoces."
+        },
+        {
+          "id": "D",
+          "texto": "Porque sempre apresenta pneumoperitônio inicial, mesmo sem perfuração."
+        },
+        {
+          "id": "E",
+          "texto": "Porque é uma indicação clássica de tratamento conservador prolongado por 72 h."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na **alça fechada**, o conteúdo não tem para onde escapar (dois pontos de obstrução). A pressão sobe, comprime a microcirculação parietal, gerando **estase venosa, isquemia (componente vascular), translocação bacteriana** e, por fim, **perfuração** (componente perfurativo) com peritonite estercorácea. Por isso é tratada como **urgência cirúrgica** — concentra os 4 mecanismos em uma única alça, ilustrando que os \"4 abdomes\" não são compartimentos estanques.",
       "referenciaAula": "É uma obstrução em dois pontos. O risco iminente de perfuração da alça é grande — exige urgência.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 1,
+      "videoStartSec": 1621
     },
     {
       "id": "Q-T1-010",
       "aulaOrigem": null,
-      "blocos": ["A", "D"],
-      "eixos": ["T1"],
-      "tags": ["pancreatite", "isquemia mesentérica", "úlcera perfurada", "dor súbita"],
+      "blocos": [
+        "A",
+        "D"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pancreatite",
+        "isquemia mesentérica",
+        "úlcera perfurada",
+        "dor súbita"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 58 anos, etilista, chega com **dor súbita epigástrica em barra** há 6 horas, irradiando para o dorso, vômitos, febre baixa, abdome distendido com dor difusa, sem rigidez, sem pneumoperitônio em RX, lipase 1.800 U/L (10x). Quais hipóteses fazem parte do diferencial e qual a mais provável?",
       "alternativas": [
-        { "id": "A", "texto": "Pancreatite aguda (inflamatório) — quadro de dor em barra com lipase muito elevada; diferencia-se da úlcera perfurada (pneumoperitônio ausente), da isquemia mesentérica (lactato e contexto vascular) e da obstrução (cólica e parada de eliminação de gases)." },
-        { "id": "B", "texto": "Úlcera perfurada — dor em facada e pneumoperitônio invariáveis no RX." },
-        { "id": "C", "texto": "Isquemia mesentérica — sempre cursa com lipase elevada." },
-        { "id": "D", "texto": "Apendicite aguda — dor migratória clássica para FIE." },
-        { "id": "E", "texto": "Obstrução por bridas — vômitos fecaloides desde o início." }
+        {
+          "id": "A",
+          "texto": "Pancreatite aguda (inflamatório) — quadro de dor em barra com lipase muito elevada; diferencia-se da úlcera perfurada (pneumoperitônio ausente), da isquemia mesentérica (lactato e contexto vascular) e da obstrução (cólica e parada de eliminação de gases)."
+        },
+        {
+          "id": "B",
+          "texto": "Úlcera perfurada — dor em facada e pneumoperitônio invariáveis no RX."
+        },
+        {
+          "id": "C",
+          "texto": "Isquemia mesentérica — sempre cursa com lipase elevada."
+        },
+        {
+          "id": "D",
+          "texto": "Apendicite aguda — dor migratória clássica para FIE."
+        },
+        {
+          "id": "E",
+          "texto": "Obstrução por bridas — vômitos fecaloides desde o início."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "A **pancreatite aguda** (abdome agudo inflamatório retroperitoneal) explica o quadro: **dor súbita em barra**, irradiação dorsal, vômitos, lipase >3x. A **úlcera péptica perfurada** classicamente teria pneumoperitônio ao RX e dor em facada com rigidez de parede; a **isquemia mesentérica** teria fonte embolígena, dor desproporcional ao exame e lactato muito alto; a **obstrução** teria dor em cólica, parada de eliminação e níveis hidroaéreos. Lipase 10x e padrão da dor selam o diagnóstico.",

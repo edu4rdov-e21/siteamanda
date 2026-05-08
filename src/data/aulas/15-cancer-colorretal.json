@@ -5,144 +5,317 @@
     {
       "id": "Q-15-001",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["epidemiologia", "incidência", "mortalidade"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "epidemiologia",
+        "incidência",
+        "mortalidade"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a epidemiologia mundial do câncer colorretal, qual afirmativa está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "É a neoplasia maligna de maior incidência no mundo, à frente do câncer de pulmão." },
-        { "id": "B", "texto": "Está entre as neoplasias de maior incidência mundial e é a segunda causa de mortalidade por câncer." },
-        { "id": "C", "texto": "Tem incidência baixa, mas mortalidade desprezível por ser indolente." },
-        { "id": "D", "texto": "É mais frequente em países asiáticos por fatores genéticos exclusivos." },
-        { "id": "E", "texto": "Sua mortalidade é inferior à do câncer de próstata em todas as faixas etárias." }
+        {
+          "id": "A",
+          "texto": "É a neoplasia maligna de maior incidência no mundo, à frente do câncer de pulmão."
+        },
+        {
+          "id": "B",
+          "texto": "Está entre as neoplasias de maior incidência mundial e é a segunda causa de mortalidade por câncer."
+        },
+        {
+          "id": "C",
+          "texto": "Tem incidência baixa, mas mortalidade desprezível por ser indolente."
+        },
+        {
+          "id": "D",
+          "texto": "É mais frequente em países asiáticos por fatores genéticos exclusivos."
+        },
+        {
+          "id": "E",
+          "texto": "Sua mortalidade é inferior à do câncer de próstata em todas as faixas etárias."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O câncer colorretal está entre os tumores de **maior incidência mundial** (atrás de pulmão e mama) e corresponde à **segunda causa de mortalidade por câncer**, ficando atrás apenas do câncer de pulmão. Apesar de ter crescimento lento, é diagnosticado tardiamente em muitos casos, o que mantém a mortalidade elevada (~50% em escala global).",
       "referenciaAula": "Câncer intestinal corresponde a cerca de 15% das neoplasias malignas, é a quarta neoplasia mais frequente e a segunda causa de mortalidade.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 369
     },
     {
       "id": "Q-15-002",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["fator de risco", "idade", "esporádico"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "fator de risco",
+        "idade",
+        "esporádico"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o principal fator de risco para o câncer colorretal na população geral?",
       "alternativas": [
-        { "id": "A", "texto": "História familiar em parente de terceiro grau." },
-        { "id": "B", "texto": "Tabagismo isolado." },
-        { "id": "C", "texto": "Idade avançada (acima de 45-50 anos)." },
-        { "id": "D", "texto": "Síndrome de Lynch." },
-        { "id": "E", "texto": "Polipose adenomatosa familiar (FAP)." }
+        {
+          "id": "A",
+          "texto": "História familiar em parente de terceiro grau."
+        },
+        {
+          "id": "B",
+          "texto": "Tabagismo isolado."
+        },
+        {
+          "id": "C",
+          "texto": "Idade avançada (acima de 45-50 anos)."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome de Lynch."
+        },
+        {
+          "id": "E",
+          "texto": "Polipose adenomatosa familiar (FAP)."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Aproximadamente **90% dos tumores colorretais são esporádicos**, e o principal fator de risco é a **idade**. As recomendações modernas indicam início do rastreamento entre 45 e 50 anos. Síndromes hereditárias (Lynch, FAP) respondem por cerca de 10% dos casos e justificam rastreamento mais precoce.",
       "referenciaAula": "No câncer colorretal, o maior fator de risco é a idade. 90% dos tumores colorretais são esporádicos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 758
     },
     {
       "id": "Q-15-003",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["sequência adenoma-carcinoma", "pólipo", "história natural"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "sequência adenoma-carcinoma",
+        "pólipo",
+        "história natural"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a história natural do câncer colorretal, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "É um tumor de crescimento rápido, com poucos meses entre lesão precursora e carcinoma." },
-        { "id": "B", "texto": "Surge tipicamente de novo, sem lesão precursora identificável." },
-        { "id": "C", "texto": "A maioria origina-se de pólipos adenomatosos, com evolução lenta da mucosa normal até o carcinoma (em geral 10-15 anos)." },
-        { "id": "D", "texto": "A remoção endoscópica de adenomas não altera a incidência de carcinoma." },
-        { "id": "E", "texto": "Não há lesão benigna que o anteceda." }
+        {
+          "id": "A",
+          "texto": "É um tumor de crescimento rápido, com poucos meses entre lesão precursora e carcinoma."
+        },
+        {
+          "id": "B",
+          "texto": "Surge tipicamente de novo, sem lesão precursora identificável."
+        },
+        {
+          "id": "C",
+          "texto": "A maioria origina-se de pólipos adenomatosos, com evolução lenta da mucosa normal até o carcinoma (em geral 10-15 anos)."
+        },
+        {
+          "id": "D",
+          "texto": "A remoção endoscópica de adenomas não altera a incidência de carcinoma."
+        },
+        {
+          "id": "E",
+          "texto": "Não há lesão benigna que o anteceda."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O câncer colorretal segue a **sequência adenoma-carcinoma**: da mucosa normal a um pólipo adenomatoso decorrem cerca de 5-10 anos, e desse adenoma até o aparecimento do carcinoma mais 5 anos. Esse crescimento lento é o que torna o **rastreamento altamente eficaz** — remover o adenoma evita a progressão para câncer.",
       "referenciaAula": "Mucosa normal até um pólipo de 2 cm demora de 5 a 10 anos. Esse pólipo benigno até aparecimento de um carcinoma demora mais 5 anos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 574
     },
     {
       "id": "Q-15-004",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["rastreamento", "teste fecal", "estratégia populacional"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "rastreamento",
+        "teste fecal",
+        "estratégia populacional"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em uma estratégia POPULACIONAL de rastreamento de câncer colorretal, qual exame é mais frequentemente utilizado como porta de entrada?",
       "alternativas": [
-        { "id": "A", "texto": "Colonoscopia para todos os indivíduos acima de 50 anos." },
-        { "id": "B", "texto": "Tomografia computadorizada de abdome anual." },
-        { "id": "C", "texto": "Pesquisa de sangue oculto nas fezes (teste fecal imunoquímico - FIT)." },
-        { "id": "D", "texto": "Dosagem de CEA sérico anual." },
-        { "id": "E", "texto": "Enema opaco com bário." }
+        {
+          "id": "A",
+          "texto": "Colonoscopia para todos os indivíduos acima de 50 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Tomografia computadorizada de abdome anual."
+        },
+        {
+          "id": "C",
+          "texto": "Pesquisa de sangue oculto nas fezes (teste fecal imunoquímico - FIT)."
+        },
+        {
+          "id": "D",
+          "texto": "Dosagem de CEA sérico anual."
+        },
+        {
+          "id": "E",
+          "texto": "Enema opaco com bário."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Em estratégias **populacionais**, oferecer colonoscopia a todos é inviável por custo e logística. O **teste fecal imunoquímico** (anticorpo antiemoglobina) é barato, não invasivo, dispensa restrição dietética e exige apenas uma amostra. CEA não tem papel em rastreamento. Na abordagem **individual**, a colonoscopia pode ser oferecida diretamente.",
       "referenciaAula": "A colonoscopia a nível individual pode ser oferecida, mas os testes fecais são feitos a nível populacional. O mais feito hoje é o anticorpo antiemoglobina.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 932
     },
     {
       "id": "Q-15-005",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["sangue oculto positivo", "colonoscopia", "conduta"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "sangue oculto positivo",
+        "colonoscopia",
+        "conduta"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 56 anos, assintomático, realiza pesquisa de sangue oculto nas fezes em campanha de rastreamento e o resultado é POSITIVO. Qual a conduta correta?",
       "alternativas": [
-        { "id": "A", "texto": "Repetir o teste fecal para confirmar o resultado antes de prosseguir." },
-        { "id": "B", "texto": "Solicitar dosagem de CEA e, se normal, repetir o teste fecal em um ano." },
-        { "id": "C", "texto": "Indicar colonoscopia para investigação da causa do sangramento oculto." },
-        { "id": "D", "texto": "Solicitar enema opaco e, se negativo, manter rastreamento anual." },
-        { "id": "E", "texto": "Iniciar dieta sem carne vermelha por três dias e repetir o exame." }
+        {
+          "id": "A",
+          "texto": "Repetir o teste fecal para confirmar o resultado antes de prosseguir."
+        },
+        {
+          "id": "B",
+          "texto": "Solicitar dosagem de CEA e, se normal, repetir o teste fecal em um ano."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar colonoscopia para investigação da causa do sangramento oculto."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar enema opaco e, se negativo, manter rastreamento anual."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar dieta sem carne vermelha por três dias e repetir o exame."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Teste fecal **positivo** em rastreamento é indicação de **colonoscopia**, e não de repetição do teste. O objetivo é investigar a causa do sangramento oculto (pólipo, carcinoma ou outra lesão). Resultado **negativo** é que deve ser repetido anualmente. CEA não é exame de rastreamento. A restrição dietética se aplicava ao teste do guaiaco, não ao FIT atual.",
       "referenciaAula": "Teste positivo significa colonoscopia. Não tem que repetir para ver se o outro dá negativo. Você tem que investigar a causa.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1170
     },
     {
       "id": "Q-15-006",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["estadiamento", "sobrevida", "prognóstico"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "estadiamento",
+        "sobrevida",
+        "prognóstico"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "A respeito da relação entre estadiamento e sobrevida no câncer colorretal, qual afirmativa está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Estadio I tem sobrevida de cerca de 90%, enquanto estadio IV cai para aproximadamente 10%." },
-        { "id": "B", "texto": "Em estadio I é mandatória quimioterapia adjuvante." },
-        { "id": "C", "texto": "A sobrevida do estadio IV é semelhante à do estadio I quando há ressecção do tumor primário." },
-        { "id": "D", "texto": "O estadio II tem sobrevida menor que o estadio IV." },
-        { "id": "E", "texto": "O estadiamento não influencia o prognóstico." }
+        {
+          "id": "A",
+          "texto": "Estadio I tem sobrevida de cerca de 90%, enquanto estadio IV cai para aproximadamente 10%."
+        },
+        {
+          "id": "B",
+          "texto": "Em estadio I é mandatória quimioterapia adjuvante."
+        },
+        {
+          "id": "C",
+          "texto": "A sobrevida do estadio IV é semelhante à do estadio I quando há ressecção do tumor primário."
+        },
+        {
+          "id": "D",
+          "texto": "O estadio II tem sobrevida menor que o estadio IV."
+        },
+        {
+          "id": "E",
+          "texto": "O estadiamento não influencia o prognóstico."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "O estadiamento é o principal determinante prognóstico: **estadio I** apresenta cerca de **92% de sobrevida** e usualmente não exige adjuvância; **estadio IV** (metastático) cai para cerca de **11%**. No estadio III, aproximadamente 50% dos pacientes evoluem para óbito pelo carcinoma. Por isso o diagnóstico precoce é tão impactante.",
       "referenciaAula": "No estadio um, 92% de cura e não precisa fazer quimioterapia. No estadio quatro, com metástase, a chance de cura cai para 11%.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1261
     },
     {
       "id": "Q-15-007",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["retossigmoidoscopia", "alcance", "limitação"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "retossigmoidoscopia",
+        "alcance",
+        "limitação"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o uso da retossigmoidoscopia no rastreamento do câncer colorretal, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "Avalia toda a extensão do cólon, sendo equivalente à colonoscopia." },
-        { "id": "B", "texto": "Examina apenas reto e sigmoide, mas alcança cerca de 70% dos tumores colorretais, com preparo simples e boa adesão." },
-        { "id": "C", "texto": "É indicada apenas para pacientes sintomáticos." },
-        { "id": "D", "texto": "Substitui a colonoscopia em pacientes com teste fecal positivo." },
-        { "id": "E", "texto": "Tem custo superior ao da colonoscopia e é menos tolerada." }
+        {
+          "id": "A",
+          "texto": "Avalia toda a extensão do cólon, sendo equivalente à colonoscopia."
+        },
+        {
+          "id": "B",
+          "texto": "Examina apenas reto e sigmoide, mas alcança cerca de 70% dos tumores colorretais, com preparo simples e boa adesão."
+        },
+        {
+          "id": "C",
+          "texto": "É indicada apenas para pacientes sintomáticos."
+        },
+        {
+          "id": "D",
+          "texto": "Substitui a colonoscopia em pacientes com teste fecal positivo."
+        },
+        {
+          "id": "E",
+          "texto": "Tem custo superior ao da colonoscopia e é menos tolerada."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **retossigmoidoscopia** examina apenas reto e sigmoide, mas como cerca de **70% dos tumores colorretais estão acessíveis** nessa porção distal, é uma estratégia útil em rastreamento populacional. Tem preparo mais simples, é mais bem tolerada e pode ser combinada ao teste fecal. Não substitui a colonoscopia diante de teste fecal positivo.",
@@ -152,65 +325,141 @@
     {
       "id": "Q-15-008",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["gene APC", "supressor tumoral", "carcinogênese"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "gene APC",
+        "supressor tumoral",
+        "carcinogênese"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Na carcinogênese da maioria dos cânceres colorretais esporádicos, qual mecanismo molecular é classicamente envolvido?",
       "alternativas": [
-        { "id": "A", "texto": "Ativação do oncogene RAS isoladamente, sem participação de genes supressores." },
-        { "id": "B", "texto": "Mutação do gene APC, supressor tumoral, com perda do controle da proliferação celular." },
-        { "id": "C", "texto": "Hipermetilação exclusiva do gene BRCA1." },
-        { "id": "D", "texto": "Translocação BCR-ABL." },
-        { "id": "E", "texto": "Amplificação de HER2 como evento inicial." }
+        {
+          "id": "A",
+          "texto": "Ativação do oncogene RAS isoladamente, sem participação de genes supressores."
+        },
+        {
+          "id": "B",
+          "texto": "Mutação do gene APC, supressor tumoral, com perda do controle da proliferação celular."
+        },
+        {
+          "id": "C",
+          "texto": "Hipermetilação exclusiva do gene BRCA1."
+        },
+        {
+          "id": "D",
+          "texto": "Translocação BCR-ABL."
+        },
+        {
+          "id": "E",
+          "texto": "Amplificação de HER2 como evento inicial."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A via clássica do câncer colorretal envolve a **mutação do gene APC**, um **supressor tumoral**. Sua perda libera a proliferação celular e favorece o desenvolvimento de adenomas que progridem para carcinoma. Posteriormente somam-se mutações em KRAS, perda de p53 e outras alterações. BRCA1, BCR-ABL e HER2 não fazem parte da via clássica do câncer colorretal esporádico.",
       "referenciaAula": "O câncer vem de uma via supressora, na grande maioria dos casos, com mutação do gene APC, que é um gene supressor de tumor.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 672
     },
     {
       "id": "Q-15-009",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["sangue oculto", "indicação", "paciente sintomático"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "sangue oculto",
+        "indicação",
+        "paciente sintomático"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 62 anos, refere alteração do hábito intestinal há 3 meses, com episódios de sangramento nas fezes e perda de 4 kg. Procura o pronto-atendimento e o médico solicita pesquisa de sangue oculto nas fezes para definir conduta. Qual a melhor avaliação do caso?",
       "alternativas": [
-        { "id": "A", "texto": "Conduta correta — se o sangue oculto for negativo, pode-se tranquilizar a paciente." },
-        { "id": "B", "texto": "Conduta incorreta — pesquisa de sangue oculto destina-se a indivíduos ASSINTOMÁTICOS; nesta paciente sintomática está indicada colonoscopia diretamente." },
-        { "id": "C", "texto": "Conduta correta — a paciente deve repetir o sangue oculto em três amostras antes da colonoscopia." },
-        { "id": "D", "texto": "Conduta correta — basta dosar CEA para excluir neoplasia." },
-        { "id": "E", "texto": "Conduta correta — apenas se houver história familiar deve-se fazer colonoscopia." }
+        {
+          "id": "A",
+          "texto": "Conduta correta — se o sangue oculto for negativo, pode-se tranquilizar a paciente."
+        },
+        {
+          "id": "B",
+          "texto": "Conduta incorreta — pesquisa de sangue oculto destina-se a indivíduos ASSINTOMÁTICOS; nesta paciente sintomática está indicada colonoscopia diretamente."
+        },
+        {
+          "id": "C",
+          "texto": "Conduta correta — a paciente deve repetir o sangue oculto em três amostras antes da colonoscopia."
+        },
+        {
+          "id": "D",
+          "texto": "Conduta correta — basta dosar CEA para excluir neoplasia."
+        },
+        {
+          "id": "E",
+          "texto": "Conduta correta — apenas se houver história familiar deve-se fazer colonoscopia."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A pesquisa de sangue oculto é exclusivamente um **método de rastreamento em assintomáticos**. Diante de **sintomas de alarme** (mudança de hábito intestinal, sangramento, emagrecimento), a investigação deve ser feita com **colonoscopia**, independentemente do resultado de sangue oculto. Um teste negativo nesse contexto poderia falsamente tranquilizar e atrasar o diagnóstico.",
       "referenciaAula": "Sangue oculto só deve ser empregado para indivíduos assintomáticos. Paciente com queixa, dor, alteração intestinal tem que fazer colonoscopia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1233
     },
     {
       "id": "Q-15-010",
       "aulaOrigem": 15,
-      "blocos": ["G"],
-      "eixos": ["T6"],
-      "tags": ["câncer hereditário", "Lynch", "FAP", "rastreamento precoce"],
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer hereditário",
+        "Lynch",
+        "FAP",
+        "rastreamento precoce"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 32 anos é encaminhado por apresentar pai falecido aos 38 anos por câncer de cólon, tio paterno com câncer de endométrio aos 45 anos e irmã com câncer colorretal aos 36 anos. Qual a melhor conduta em relação ao rastreamento neste paciente?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar rastreamento somente aos 50 anos com pesquisa de sangue oculto anual, por se tratar de população geral." },
-        { "id": "B", "texto": "Considerar síndrome hereditária (sugestiva de Lynch) e iniciar colonoscopia precoce, em intervalos curtos, devendo ser referenciado para aconselhamento genético." },
-        { "id": "C", "texto": "Solicitar apenas CEA e repetir anualmente, sem necessidade de colonoscopia." },
-        { "id": "D", "texto": "Aguardar surgimento de sintomas para iniciar a investigação." },
-        { "id": "E", "texto": "Realizar enema opaco a cada cinco anos como rastreio adequado." }
+        {
+          "id": "A",
+          "texto": "Iniciar rastreamento somente aos 50 anos com pesquisa de sangue oculto anual, por se tratar de população geral."
+        },
+        {
+          "id": "B",
+          "texto": "Considerar síndrome hereditária (sugestiva de Lynch) e iniciar colonoscopia precoce, em intervalos curtos, devendo ser referenciado para aconselhamento genético."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar apenas CEA e repetir anualmente, sem necessidade de colonoscopia."
+        },
+        {
+          "id": "D",
+          "texto": "Aguardar surgimento de sintomas para iniciar a investigação."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar enema opaco a cada cinco anos como rastreio adequado."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "História familiar **forte e precoce** com múltiplos parentes de primeiro grau acometidos por câncer colorretal e tumores associados (endométrio) sugere **câncer colorretal hereditário** (síndrome de Lynch). Esses pacientes representam cerca de 10% dos casos e exigem **rastreamento mais precoce** com colonoscopia em intervalos curtos, além de **aconselhamento genético**. Sangue oculto e CEA não substituem a colonoscopia em alto risco.",
       "referenciaAula": "Se você tem antecedente familiar de câncer muito forte, existem critérios de câncer colorretal hereditário, que são cerca de 10% dos casos. Aí você começa a fazer um pouco mais cedo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 874
     }
   ]
 }

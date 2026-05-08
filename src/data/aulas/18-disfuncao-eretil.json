@@ -5,144 +5,324 @@
     {
       "id": "Q-18-001",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["óxido nítrico", "GMP cíclico", "fisiologia da ereção"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "óxido nítrico",
+        "GMP cíclico",
+        "fisiologia da ereção"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o principal mediador bioquímico responsável pelo relaxamento da musculatura lisa do corpo cavernoso, levando à ereção?",
       "alternativas": [
-        { "id": "A", "texto": "Adrenalina liberada pelo sistema simpático." },
-        { "id": "B", "texto": "Acetilcolina via receptores muscarínicos da artéria cavernosa." },
-        { "id": "C", "texto": "Óxido nítrico (NO), que aumenta o GMP cíclico intracelular." },
-        { "id": "D", "texto": "Endotelina-1 produzida pelo endotélio vascular." },
-        { "id": "E", "texto": "Serotonina liberada pelas terminações pudendas." }
+        {
+          "id": "A",
+          "texto": "Adrenalina liberada pelo sistema simpático."
+        },
+        {
+          "id": "B",
+          "texto": "Acetilcolina via receptores muscarínicos da artéria cavernosa."
+        },
+        {
+          "id": "C",
+          "texto": "Óxido nítrico (NO), que aumenta o GMP cíclico intracelular."
+        },
+        {
+          "id": "D",
+          "texto": "Endotelina-1 produzida pelo endotélio vascular."
+        },
+        {
+          "id": "E",
+          "texto": "Serotonina liberada pelas terminações pudendas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **óxido nítrico (NO)** é o principal mediador da ereção, liberado tanto por terminações nervosas não adrenérgicas-não colinérgicas quanto pelo **endotélio**. O NO converte GTP em **GMP cíclico**, que reduz o cálcio intracelular (sequestro pelo retículo, efluxo e hiperpolarização por canais de potássio), promovendo o desacoplamento actina-miosina e o relaxamento da musculatura lisa cavernosa.",
       "referenciaAula": "O relaxamento do ponto de vista bioquímico farmacológico se dá através da liberação do óxido nítrico, que transforma o guanilato trifosfato em guanilato monofosfato cíclico.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 455
     },
     {
       "id": "Q-18-002",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["parassimpático", "simpático", "neuroanatomia"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "parassimpático",
+        "simpático",
+        "neuroanatomia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a inervação autonômica envolvida na fisiologia da ereção, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "O simpático (T11-L2) promove relaxamento da musculatura lisa e a ereção." },
-        { "id": "B", "texto": "O parassimpático (S2-S4) promove relaxamento da musculatura lisa e é o principal responsável pela ereção, via nervo pudendo." },
-        { "id": "C", "texto": "O simpático e o parassimpático têm efeitos sinérgicos contráteis sobre o corpo cavernoso." },
-        { "id": "D", "texto": "A ejaculação é mediada exclusivamente pelo parassimpático sacral." },
-        { "id": "E", "texto": "A ereção depende apenas de estímulos cognitivos do córtex, sem participação medular." }
+        {
+          "id": "A",
+          "texto": "O simpático (T11-L2) promove relaxamento da musculatura lisa e a ereção."
+        },
+        {
+          "id": "B",
+          "texto": "O parassimpático (S2-S4) promove relaxamento da musculatura lisa e é o principal responsável pela ereção, via nervo pudendo."
+        },
+        {
+          "id": "C",
+          "texto": "O simpático e o parassimpático têm efeitos sinérgicos contráteis sobre o corpo cavernoso."
+        },
+        {
+          "id": "D",
+          "texto": "A ejaculação é mediada exclusivamente pelo parassimpático sacral."
+        },
+        {
+          "id": "E",
+          "texto": "A ereção depende apenas de estímulos cognitivos do córtex, sem participação medular."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **parassimpático sacral (S2-S4)**, conduzido pelo nervo pudendo, é responsável pelo **relaxamento** da musculatura lisa cavernosa e pela ereção. Já o **simpático (T11-L2)** promove **contração** da musculatura lisa, sendo contrário à ereção e responsável pela detumescência associada à ejaculação. Existem dois tipos de ereção: psicogênica (estímulos centrais) e reflexa (arco S2-S4).",
       "referenciaAula": "O simpático está de T11 a L2 e é responsável pela contração da musculatura lisa. O parassimpático estaria de S2 a S4 e seria responsável pelo relaxamento da musculatura lisa, chegando ao pênis pelo nervo pudendo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 151
     },
     {
       "id": "Q-18-003",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["anatomia peniana", "túnica albugínea", "sinusoides"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "anatomia peniana",
+        "túnica albugínea",
+        "sinusoides"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre o mecanismo veno-oclusivo que mantém a ereção, qual estrutura é fundamental para o aprisionamento do sangue nos corpos cavernosos?",
       "alternativas": [
-        { "id": "A", "texto": "Túnica albugínea, estrutura praticamente inelástica que comprime as veias emissárias." },
-        { "id": "B", "texto": "Fáscia de Buck, que contrai ativamente durante a ereção." },
-        { "id": "C", "texto": "Corpo esponjoso, que oclui o retorno venoso." },
-        { "id": "D", "texto": "Músculo bulbocavernoso, que produz oclusão arterial." },
-        { "id": "E", "texto": "Septo intercavernoso, que se contrai sob estímulo simpático." }
+        {
+          "id": "A",
+          "texto": "Túnica albugínea, estrutura praticamente inelástica que comprime as veias emissárias."
+        },
+        {
+          "id": "B",
+          "texto": "Fáscia de Buck, que contrai ativamente durante a ereção."
+        },
+        {
+          "id": "C",
+          "texto": "Corpo esponjoso, que oclui o retorno venoso."
+        },
+        {
+          "id": "D",
+          "texto": "Músculo bulbocavernoso, que produz oclusão arterial."
+        },
+        {
+          "id": "E",
+          "texto": "Septo intercavernoso, que se contrai sob estímulo simpático."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "A **túnica albugínea** é uma estrutura **praticamente inelástica** de tecido conjuntivo denso que circunda os corpos cavernosos. Quando os sinusoides se enchem e o corpo cavernoso aumenta de diâmetro, as **veias emissárias** ficam comprimidas contra a túnica, sendo colabadas. Isso cria o mecanismo veno-oclusivo essencial para manter a ereção.",
       "referenciaAula": "Circundando cada corpo cavernoso você tem uma estrutura praticamente inelástica, que são as túnicas albugíneas. As veias emissárias se tornam colabadas de encontro a essa estrutura inelástica.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 210
     },
     {
       "id": "Q-18-004",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["iPDE5", "sildenafil", "farmacologia"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "iPDE5",
+        "sildenafil",
+        "farmacologia"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o mecanismo de ação dos inibidores da fosfodiesterase tipo 5 (iPDE5), como sildenafil, tadalafil e vardenafil, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Aumentam diretamente a liberação de óxido nítrico pelas terminações nervosas." },
-        { "id": "B", "texto": "Bloqueiam a degradação do GMP cíclico, prolongando o relaxamento da musculatura lisa cavernosa, mas dependem de estímulo sexual e produção de NO." },
-        { "id": "C", "texto": "Promovem a contração das veias emissárias por ação direta." },
-        { "id": "D", "texto": "Aumentam o influxo de cálcio na célula muscular lisa." },
-        { "id": "E", "texto": "Atuam como agonistas dos receptores adrenérgicos cavernosos." }
+        {
+          "id": "A",
+          "texto": "Aumentam diretamente a liberação de óxido nítrico pelas terminações nervosas."
+        },
+        {
+          "id": "B",
+          "texto": "Bloqueiam a degradação do GMP cíclico, prolongando o relaxamento da musculatura lisa cavernosa, mas dependem de estímulo sexual e produção de NO."
+        },
+        {
+          "id": "C",
+          "texto": "Promovem a contração das veias emissárias por ação direta."
+        },
+        {
+          "id": "D",
+          "texto": "Aumentam o influxo de cálcio na célula muscular lisa."
+        },
+        {
+          "id": "E",
+          "texto": "Atuam como agonistas dos receptores adrenérgicos cavernosos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os **iPDE5** inibem a enzima fosfodiesterase tipo 5, que degrada o **GMP cíclico**. Com isso, há acúmulo de GMPc, redução do cálcio intracelular e prolongamento do relaxamento da musculatura lisa. Porém, eles **não geram ereção sozinhos** — dependem de estímulo sexual com liberação de NO endotelial e neuronal. Por isso, em pacientes com lesão neural grave ou disfunção endotelial intensa, a resposta é pobre.",
       "referenciaAula": "A fosfodiesterase inativa o guanilato monofosfato cíclico. Quando inibida, ela promove uma concentração maior dessa substância, levando ao relaxamento. Os inibidores são sildenafil, tadalafil e vardenafil.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 573
     },
     {
       "id": "Q-18-005",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["disfunção endotelial", "aterosclerose", "fatores de risco"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "disfunção endotelial",
+        "aterosclerose",
+        "fatores de risco"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 58 anos, tabagista de longa data, hipertenso, dislipidêmico e sedentário, queixa-se de piora progressiva da ereção há 2 anos. Qual é o mecanismo fisiopatológico mais provavelmente envolvido?",
       "alternativas": [
-        { "id": "A", "texto": "Lesão neural pudenda por compressão crônica." },
-        { "id": "B", "texto": "Hipogonadismo primário com queda da libido." },
-        { "id": "C", "texto": "Disfunção endotelial e aterosclerose das artérias cavernosas, com redução do óxido nítrico e do fluxo sanguíneo." },
-        { "id": "D", "texto": "Priapismo isquêmico recorrente." },
-        { "id": "E", "texto": "Doença de Peyronie por trauma repetitivo." }
+        {
+          "id": "A",
+          "texto": "Lesão neural pudenda por compressão crônica."
+        },
+        {
+          "id": "B",
+          "texto": "Hipogonadismo primário com queda da libido."
+        },
+        {
+          "id": "C",
+          "texto": "Disfunção endotelial e aterosclerose das artérias cavernosas, com redução do óxido nítrico e do fluxo sanguíneo."
+        },
+        {
+          "id": "D",
+          "texto": "Priapismo isquêmico recorrente."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Peyronie por trauma repetitivo."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Os fatores de risco apresentados (tabagismo, HAS, dislipidemia, sedentarismo) são os **mesmos da doença coronariana** e levam à **disfunção endotelial**, com queda da produção de NO e desenvolvimento de **aterosclerose**. As placas de ateroma reduzem o fluxo sanguíneo pelas artérias cavernosas, dificultando o enchimento dos sinusoides e causando disfunção erétil de origem vasculogênica.",
       "referenciaAula": "Os mesmos fatores de risco para a doença coronariana levam à aterosclerose. Quando há disfunção endotelial, há diminuição do óxido nítrico, contração e redução do fluxo para os corpos cavernosos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 965
     },
     {
       "id": "Q-18-006",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["prostatectomia radical", "lesão neural", "feixe neurovascular"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "prostatectomia radical",
+        "lesão neural",
+        "feixe neurovascular"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 65 anos, submetido à prostatectomia radical por câncer de próstata localizado, evolui no pós-operatório com disfunção erétil completa. Qual é a causa mais provável e a expectativa evolutiva?",
       "alternativas": [
-        { "id": "A", "texto": "Hipogonadismo cirúrgico definitivo, sem recuperação possível." },
-        { "id": "B", "texto": "Lesão dos feixes neurovasculares periprostáticos, com possibilidade de regeneração ao longo de até 2 anos, dependendo da preservação do corpo cavernoso." },
-        { "id": "C", "texto": "Aterosclerose aguda das artérias cavernosas induzida pela cirurgia." },
-        { "id": "D", "texto": "Causa exclusivamente psicogênica, com resolução espontânea em poucas semanas." },
-        { "id": "E", "texto": "Lesão da túnica albugínea, irreversível em todos os casos." }
+        {
+          "id": "A",
+          "texto": "Hipogonadismo cirúrgico definitivo, sem recuperação possível."
+        },
+        {
+          "id": "B",
+          "texto": "Lesão dos feixes neurovasculares periprostáticos, com possibilidade de regeneração ao longo de até 2 anos, dependendo da preservação do corpo cavernoso."
+        },
+        {
+          "id": "C",
+          "texto": "Aterosclerose aguda das artérias cavernosas induzida pela cirurgia."
+        },
+        {
+          "id": "D",
+          "texto": "Causa exclusivamente psicogênica, com resolução espontânea em poucas semanas."
+        },
+        {
+          "id": "E",
+          "texto": "Lesão da túnica albugínea, irreversível em todos os casos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os **feixes neurovasculares** responsáveis pelo estímulo erétil passam **muito próximos à próstata**, sendo vulneráveis durante a prostatectomia radical. Quando lesados, pode ocorrer **regeneração em até 2 anos**, mas se o corpo cavernoso não for mantido oxigenado nesse período, o paciente pode evoluir com disfunção permanente — daí a importância da reabilitação peniana precoce.",
       "referenciaAula": "Os nervinhos passam muito rente à próstata. Pode ocorrer uma regeneração que pode demorar até 2 anos. Se você não mantém o corpo cavernoso oxigenado, o indivíduo pode evoluir com quadro disfuncional permanente.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 811
     },
     {
       "id": "Q-18-007",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["disfunção erétil", "marcador cardiovascular", "DAC"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "disfunção erétil",
+        "marcador cardiovascular",
+        "DAC"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "A disfunção erétil tem sido considerada um marcador precoce de doença arterial coronariana. Qual é a base fisiopatológica desta associação?",
       "alternativas": [
-        { "id": "A", "texto": "A artéria cavernosa (1-2 mm) é mais estreita que a coronária (3-4 mm), sendo acometida primeiro pela aterosclerose sistêmica, geralmente 2 a 5 anos antes do evento coronariano." },
-        { "id": "B", "texto": "A disfunção erétil causa disfunção endotelial sistêmica, gerando a aterosclerose coronariana." },
-        { "id": "C", "texto": "A queda de testosterona induzida pela DE leva à aterosclerose coronariana." },
-        { "id": "D", "texto": "Os iPDE5 são cardiotóxicos e precipitam infarto." },
-        { "id": "E", "texto": "Não há associação fisiopatológica comprovada entre DE e DAC." }
+        {
+          "id": "A",
+          "texto": "A artéria cavernosa (1-2 mm) é mais estreita que a coronária (3-4 mm), sendo acometida primeiro pela aterosclerose sistêmica, geralmente 2 a 5 anos antes do evento coronariano."
+        },
+        {
+          "id": "B",
+          "texto": "A disfunção erétil causa disfunção endotelial sistêmica, gerando a aterosclerose coronariana."
+        },
+        {
+          "id": "C",
+          "texto": "A queda de testosterona induzida pela DE leva à aterosclerose coronariana."
+        },
+        {
+          "id": "D",
+          "texto": "Os iPDE5 são cardiotóxicos e precipitam infarto."
+        },
+        {
+          "id": "E",
+          "texto": "Não há associação fisiopatológica comprovada entre DE e DAC."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "A aterosclerose é uma **doença sistêmica**, e como a **artéria cavernosa (1-2 mm) é mais fina que a coronária (3-4 mm)**, ela tende a sofrer obstrução clinicamente significativa **antes** da coronária. Por isso, a disfunção erétil precede, em média, **2 a 5 anos** o evento coronariano (infarto), funcionando como **janela de oportunidade** para investigação e prevenção cardiovascular.",
@@ -152,60 +332,138 @@
     {
       "id": "Q-18-008",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["testosterona", "iPDE5", "hipogonadismo"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "testosterona",
+        "iPDE5",
+        "hipogonadismo"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação ao papel da testosterona na função erétil, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Atua exclusivamente sobre a libido, sem influência na fisiologia bioquímica do corpo cavernoso." },
-        { "id": "B", "texto": "Regula positivamente a geração de óxido nítrico e a expressão de PDE5; pacientes com hipotestosteronemia tendem a responder pior aos iPDE5." },
-        { "id": "C", "texto": "Inibe a produção de óxido nítrico no corpo cavernoso." },
-        { "id": "D", "texto": "Sua suplementação está sempre indicada em qualquer paciente com disfunção erétil." },
-        { "id": "E", "texto": "Promove contração da musculatura lisa cavernosa via receptores adrenérgicos." }
+        {
+          "id": "A",
+          "texto": "Atua exclusivamente sobre a libido, sem influência na fisiologia bioquímica do corpo cavernoso."
+        },
+        {
+          "id": "B",
+          "texto": "Regula positivamente a geração de óxido nítrico e a expressão de PDE5; pacientes com hipotestosteronemia tendem a responder pior aos iPDE5."
+        },
+        {
+          "id": "C",
+          "texto": "Inibe a produção de óxido nítrico no corpo cavernoso."
+        },
+        {
+          "id": "D",
+          "texto": "Sua suplementação está sempre indicada em qualquer paciente com disfunção erétil."
+        },
+        {
+          "id": "E",
+          "texto": "Promove contração da musculatura lisa cavernosa via receptores adrenérgicos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A testosterona é importante não apenas para a **libido**, mas também para a **homeostase da célula muscular lisa cavernosa**, regulando positivamente a produção de **óxido nítrico** e a expressão da **PDE5**. Por isso, pacientes com **queda de testosterona respondem pior aos iPDE5**, e a otimização hormonal pode melhorar a resposta terapêutica nestes casos.",
       "referenciaAula": "A testosterona está diretamente relacionada à geração de óxido nítrico e ao aumento da expressão de fosfodiesterase. Indivíduos com queda da testosterona respondem de maneira pobre aos inibidores de fosfodiesterase.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 1082
     },
     {
       "id": "Q-18-009",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["DE", "marcador cardiovascular", "investigação", "DAC"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "DE",
+        "marcador cardiovascular",
+        "investigação",
+        "DAC"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 52 anos, sem comorbidades conhecidas, procura urologista por disfunção erétil progressiva nos últimos 12 meses. Refere tabagismo (20 maços-ano), pai infartou aos 60 anos, sedentário, sem queixas cardiovasculares atuais. Qual a conduta mais apropriada além da investigação urológica?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar iPDE5 imediatamente sem investigação adicional, pois disfunção erétil é problema isolado da esfera sexual." },
-        { "id": "B", "texto": "Encaminhar para avaliação cardiovascular completa (estratificação de risco, perfil lipídico, glicemia, eventualmente teste ergométrico), pois a DE é marcador de doença coronariana subclínica." },
-        { "id": "C", "texto": "Solicitar apenas dosagem de testosterona total e tratar com reposição hormonal." },
-        { "id": "D", "texto": "Indicar prótese peniana de imediato pelo perfil de risco." },
-        { "id": "E", "texto": "Tranquilizar quanto à benignidade do quadro e orientar apenas mudança de estilo de vida sem investigação." }
+        {
+          "id": "A",
+          "texto": "Iniciar iPDE5 imediatamente sem investigação adicional, pois disfunção erétil é problema isolado da esfera sexual."
+        },
+        {
+          "id": "B",
+          "texto": "Encaminhar para avaliação cardiovascular completa (estratificação de risco, perfil lipídico, glicemia, eventualmente teste ergométrico), pois a DE é marcador de doença coronariana subclínica."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar apenas dosagem de testosterona total e tratar com reposição hormonal."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar prótese peniana de imediato pelo perfil de risco."
+        },
+        {
+          "id": "E",
+          "texto": "Tranquilizar quanto à benignidade do quadro e orientar apenas mudança de estilo de vida sem investigação."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Trata-se de paciente com **múltiplos fatores de risco cardiovascular** (tabagismo, sedentarismo, história familiar) e disfunção erétil progressiva, perfil clássico de DE vasculogênica como **marcador precoce de DAC subclínica**. A janela de 2-5 anos antes do evento coronariano é uma oportunidade preciosa de **investigação e prevenção cardiovascular**, não apenas tratamento sintomático com iPDE5. Reposição hormonal sem dosagem é inadequada, e prótese é última linha de tratamento.",
       "referenciaAula": "Hoje a disfunção erétil é um marcador de doença coronariana. Daí a importância de estudarmos a disfunção erétil, não somente pela qualidade de vida, mas também porque ele acaba sendo um marcador de doença coronariana.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 1082
     },
     {
       "id": "Q-18-010",
       "aulaOrigem": 18,
-      "blocos": ["H"],
-      "eixos": ["T4", "T8"],
-      "tags": ["iPDE5", "contraindicação", "nitratos", "interação medicamentosa"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "iPDE5",
+        "contraindicação",
+        "nitratos",
+        "interação medicamentosa"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 67 anos, com DAC estabelecida em uso de mononitrato de isossorbida diário, procura consulta por disfunção erétil. Solicita prescrição de sildenafil. Qual a conduta correta?",
       "alternativas": [
-        { "id": "A", "texto": "Prescrever sildenafil em dose reduzida, com orientação de espaçamento de 6 horas em relação ao nitrato." },
-        { "id": "B", "texto": "Substituir o sildenafil por tadalafil, que pode ser usado livremente com nitratos." },
-        { "id": "C", "texto": "Contraindicar o uso de iPDE5 (sildenafil, tadalafil ou vardenafil) pela combinação com nitratos, que pode provocar hipotensão grave; rever a indicação cardiológica e considerar terapias alternativas para DE." },
-        { "id": "D", "texto": "Prescrever sildenafil normalmente, pois a interação com nitratos é apenas teórica e clinicamente irrelevante." },
-        { "id": "E", "texto": "Suspender definitivamente o nitrato sem discussão com o cardiologista para liberar o uso do iPDE5." }
+        {
+          "id": "A",
+          "texto": "Prescrever sildenafil em dose reduzida, com orientação de espaçamento de 6 horas em relação ao nitrato."
+        },
+        {
+          "id": "B",
+          "texto": "Substituir o sildenafil por tadalafil, que pode ser usado livremente com nitratos."
+        },
+        {
+          "id": "C",
+          "texto": "Contraindicar o uso de iPDE5 (sildenafil, tadalafil ou vardenafil) pela combinação com nitratos, que pode provocar hipotensão grave; rever a indicação cardiológica e considerar terapias alternativas para DE."
+        },
+        {
+          "id": "D",
+          "texto": "Prescrever sildenafil normalmente, pois a interação com nitratos é apenas teórica e clinicamente irrelevante."
+        },
+        {
+          "id": "E",
+          "texto": "Suspender definitivamente o nitrato sem discussão com o cardiologista para liberar o uso do iPDE5."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A combinação de **iPDE5 com nitratos** é **contraindicação absoluta**: ambos potencializam a via NO/GMPc e podem causar **hipotensão grave e potencialmente fatal**. Nenhum iPDE5 (sildenafil, tadalafil, vardenafil) é seguro nessa combinação. A conduta correta envolve discussão multidisciplinar com o cardiologista para reavaliar a indicação dos nitratos e considerar alternativas terapêuticas (alprostadil intracavernoso, dispositivos de vácuo, prótese), além de manejar fatores de risco e função endotelial.",

@@ -5,212 +5,445 @@
     {
       "id": "Q-02-001",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["sinais de alarme", "trato gastrointestinal", "recém-nascido"],
+      "tags": [
+        "sinais de alarme",
+        "trato gastrointestinal",
+        "recém-nascido"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Quais são os principais sinais de alarme cirúrgico do trato gastrointestinal no recém-nascido?",
       "alternativas": [
-        { "id": "A", "texto": "Icterícia, hepatomegalia e hipoglicemia." },
-        { "id": "B", "texto": "Hipersalivação (hipercialorreia), vômitos biliosos, distensão abdominal e ausência de eliminação de mecônio nas primeiras 48 horas." },
-        { "id": "C", "texto": "Cianose central, taquipneia e febre." },
-        { "id": "D", "texto": "Diarreia aquosa, perda ponderal e fontanela deprimida." },
-        { "id": "E", "texto": "Convulsão, hipotonia e sucção débil." }
+        {
+          "id": "A",
+          "texto": "Icterícia, hepatomegalia e hipoglicemia."
+        },
+        {
+          "id": "B",
+          "texto": "Hipersalivação (hipercialorreia), vômitos biliosos, distensão abdominal e ausência de eliminação de mecônio nas primeiras 48 horas."
+        },
+        {
+          "id": "C",
+          "texto": "Cianose central, taquipneia e febre."
+        },
+        {
+          "id": "D",
+          "texto": "Diarreia aquosa, perda ponderal e fontanela deprimida."
+        },
+        {
+          "id": "E",
+          "texto": "Convulsão, hipotonia e sucção débil."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os principais **sinais de alarme cirúrgico do trato gastrointestinal** no RN são **hipersalivação**, **vômitos biliosos**, **distensão abdominal** e **não eliminação de mecônio nas primeiras 48 horas**. Cianose e taquipneia são sinais de alarme do trato **respiratório**, não gastrointestinal. Icterícia e convulsão não compõem essa tríade clássica.",
       "referenciaAula": "Os principais sinais de alarme do trato gastrointestinal que acometem o recém-nascido são a hipercialorreia, os vômitos biliosos, a distensão abdominal e a não eliminação de mecônio nas primeiras 48 horas.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 34
     },
     {
       "id": "Q-02-002",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["atresia de esôfago", "pré-natal", "polidrâmnio"],
+      "tags": [
+        "atresia de esôfago",
+        "pré-natal",
+        "polidrâmnio"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual achado pré-natal sugere fortemente o diagnóstico de atresia de esôfago?",
       "alternativas": [
-        { "id": "A", "texto": "Oligoâmnio com bexiga fetal pequena." },
-        { "id": "B", "texto": "Polidrâmnio associado a coto esofágico proximal dilatado ao ultrassom." },
-        { "id": "C", "texto": "Sinal da dupla bolha em ultrassom obstétrico." },
-        { "id": "D", "texto": "Translucência nucal aumentada." },
-        { "id": "E", "texto": "Calcificações hepáticas fetais." }
+        {
+          "id": "A",
+          "texto": "Oligoâmnio com bexiga fetal pequena."
+        },
+        {
+          "id": "B",
+          "texto": "Polidrâmnio associado a coto esofágico proximal dilatado ao ultrassom."
+        },
+        {
+          "id": "C",
+          "texto": "Sinal da dupla bolha em ultrassom obstétrico."
+        },
+        {
+          "id": "D",
+          "texto": "Translucência nucal aumentada."
+        },
+        {
+          "id": "E",
+          "texto": "Calcificações hepáticas fetais."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na atresia de esôfago, o feto não deglute o líquido amniótico, gerando **polidrâmnio**, e o ultrassom pode evidenciar o **coto esofágico proximal dilatado**. O sinal da **dupla bolha** é típico de **atresia de duodeno**, não de esôfago. Oligoâmnio sugere problemas urinários fetais.",
       "referenciaAula": "A mãe vai apresentar um polidrâmnio, ou seja, uma quantidade aumentada de líquido amniótico, e o ultrassonografista já vê um coto esofágico proximal dilatado.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 93
     },
     {
       "id": "Q-02-003",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["atresia de esôfago", "tipo C", "fístula traqueoesofágica"],
+      "tags": [
+        "atresia de esôfago",
+        "tipo C",
+        "fístula traqueoesofágica"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o tipo mais comum de atresia de esôfago e sua característica anatômica?",
       "alternativas": [
-        { "id": "A", "texto": "Tipo A — atresia pura, sem fístula." },
-        { "id": "B", "texto": "Tipo B — fístula apenas no coto proximal." },
-        { "id": "C", "texto": "Tipo C — coto proximal fechado e fístula entre coto distal do esôfago e a traqueia." },
-        { "id": "D", "texto": "Tipo D — dupla fístula (proximal e distal)." },
-        { "id": "E", "texto": "Tipo E — fístula em H sem atresia." }
+        {
+          "id": "A",
+          "texto": "Tipo A — atresia pura, sem fístula."
+        },
+        {
+          "id": "B",
+          "texto": "Tipo B — fístula apenas no coto proximal."
+        },
+        {
+          "id": "C",
+          "texto": "Tipo C — coto proximal fechado e fístula entre coto distal do esôfago e a traqueia."
+        },
+        {
+          "id": "D",
+          "texto": "Tipo D — dupla fístula (proximal e distal)."
+        },
+        {
+          "id": "E",
+          "texto": "Tipo E — fístula em H sem atresia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **tipo C** é o mais comum: **coto proximal fechado** com **fístula entre o coto distal do esôfago e a traqueia**. Por isso, esses RNs apresentam ar no abdome ao raio X (o ar passa da traqueia para o estômago via fístula). Os tipos A (atresia pura) e E (fístula em H) são bem menos frequentes.",
       "referenciaAula": "O tipo C é o mais comum: você tem um coto proximal fechado e a fístula do esôfago com a traqueia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 123
     },
     {
       "id": "Q-02-004",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["atresia de esôfago", "tratamento inicial", "decúbito 30 graus"],
+      "tags": [
+        "atresia de esôfago",
+        "tratamento inicial",
+        "decúbito 30 graus"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "RN a termo apresenta hipersalivação intensa, espuma pela boca e não consegue deglutir a saliva. Suspeita-se de atresia de esôfago. Qual a conduta inicial mais apropriada antes da cirurgia?",
       "alternativas": [
-        { "id": "A", "texto": "Decúbito horizontal, dieta enteral por sonda nasogástrica e antibiótico de amplo espectro." },
-        { "id": "B", "texto": "Decúbito a 30°, aspiração contínua da orofaringe/coto proximal e jejum." },
-        { "id": "C", "texto": "Posição de Trendelenburg e ventilação com pressão positiva em máscara." },
-        { "id": "D", "texto": "Iniciar leite materno via oral em pequenos volumes." },
-        { "id": "E", "texto": "Intubação orotraqueal de rotina e nutrição parenteral exclusiva por 30 dias." }
+        {
+          "id": "A",
+          "texto": "Decúbito horizontal, dieta enteral por sonda nasogástrica e antibiótico de amplo espectro."
+        },
+        {
+          "id": "B",
+          "texto": "Decúbito a 30°, aspiração contínua da orofaringe/coto proximal e jejum."
+        },
+        {
+          "id": "C",
+          "texto": "Posição de Trendelenburg e ventilação com pressão positiva em máscara."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar leite materno via oral em pequenos volumes."
+        },
+        {
+          "id": "E",
+          "texto": "Intubação orotraqueal de rotina e nutrição parenteral exclusiva por 30 dias."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O manejo inicial visa **evitar broncoaspiração da saliva** acumulada no coto proximal: **decúbito a 30°**, **aspiração contínua** e **jejum** até a cirurgia. Decúbito horizontal favorece refluxo de saliva para a via aérea, e dieta oral é contraindicada pela atresia. A correção cirúrgica definitiva consiste em ligadura da fístula e anastomose término-terminal.",
       "referenciaAula": "É você colocar a criança em decúbito 30° com uma aspiração da traqueia de forma contínua para ele não aspirar essa saliva, e jejum.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 181
     },
     {
       "id": "Q-02-005",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["atresia de duodeno", "dupla bolha", "obstrução alta"],
+      "tags": [
+        "atresia de duodeno",
+        "dupla bolha",
+        "obstrução alta"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "RN com 12 horas de vida apresenta vômitos biliosos, sem distensão abdominal generalizada (apenas leve abaulamento do andar superior do abdome). Raio X em ortostase mostra duas bolhas de ar com níveis hidroaéreos e ausência de ar distal. Qual o diagnóstico mais provável?",
       "alternativas": [
-        { "id": "A", "texto": "Atresia de íleo." },
-        { "id": "B", "texto": "Íleo meconial." },
-        { "id": "C", "texto": "Atresia de duodeno." },
-        { "id": "D", "texto": "Doença de Hirschsprung." },
-        { "id": "E", "texto": "Ânus imperfurado." }
+        {
+          "id": "A",
+          "texto": "Atresia de íleo."
+        },
+        {
+          "id": "B",
+          "texto": "Íleo meconial."
+        },
+        {
+          "id": "C",
+          "texto": "Atresia de duodeno."
+        },
+        {
+          "id": "D",
+          "texto": "Doença de Hirschsprung."
+        },
+        {
+          "id": "E",
+          "texto": "Ânus imperfurado."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Vômito bilioso sem distensão generalizada** (ou só do andar superior) somado ao **sinal da dupla bolha** ao raio X — estômago e duodeno dilatados sem ar distal — é clássico de **atresia de duodeno**. As atresias de íleo e o íleo meconial cursam com **distensão abdominal difusa** e múltiplos níveis hidroaéreos. O tratamento é cirúrgico com duodenoduodenostomia (bypass da atresia).",
       "referenciaAula": "Essa dupla bolha aqui a gente vê o estômago e o duodeno dilatado. Atresia de duodeno vai causar vômito bilioso sem distensão abdominal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 343
     },
     {
       "id": "Q-02-006",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["íleo meconial", "atresia de íleo", "ileostomia em dupla boca"],
+      "tags": [
+        "íleo meconial",
+        "atresia de íleo",
+        "ileostomia em dupla boca"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Diante de obstrução intestinal baixa em RN diagnosticada intraoperatoriamente como íleo meconial (impactação de mecônio espesso no íleo terminal, sem segmento atrésico), qual a conduta cirúrgica indicada?",
       "alternativas": [
-        { "id": "A", "texto": "Ressecção do segmento e anastomose término-terminal imediata." },
-        { "id": "B", "texto": "Apenas enterotomia com lavagem por soro fisiológico e fechamento primário." },
-        { "id": "C", "texto": "Ileostomia em dupla boca com lavagens posteriores (ex.: N-acetilcisteína/Fluimucil) e reconstrução do trânsito em segundo tempo." },
-        { "id": "D", "texto": "Colostomia em alça no transverso." },
-        { "id": "E", "texto": "Conduta clínica exclusiva com enema de bário sem cirurgia." }
+        {
+          "id": "A",
+          "texto": "Ressecção do segmento e anastomose término-terminal imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas enterotomia com lavagem por soro fisiológico e fechamento primário."
+        },
+        {
+          "id": "C",
+          "texto": "Ileostomia em dupla boca com lavagens posteriores (ex.: N-acetilcisteína/Fluimucil) e reconstrução do trânsito em segundo tempo."
+        },
+        {
+          "id": "D",
+          "texto": "Colostomia em alça no transverso."
+        },
+        {
+          "id": "E",
+          "texto": "Conduta clínica exclusiva com enema de bário sem cirurgia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "No **íleo meconial**, o mecônio espesso não é removível durante a cirurgia em um único tempo. A conduta é **ileostomia em dupla boca**, seguida de **lavagens com N-acetilcisteína (Fluimucil)** para desobstruir, e reconstrução do trânsito em segundo tempo. Já na **atresia de íleo**, ressecção do segmento atrésico com anastomose término-terminal (espatulando a alça fina) é apropriada.",
       "referenciaAula": "Quando você encontra esse quadro de íleo meconial, o que você tem que fazer é uma ileostomia em dupla boca, e aí você lava esse íleo com fluimucil, N-acetilcisteína, para poder desobstruir.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 600
     },
     {
       "id": "Q-02-007",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["doença de Hirschsprung", "megacólon congênito", "toque retal"],
+      "tags": [
+        "doença de Hirschsprung",
+        "megacólon congênito",
+        "toque retal"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "RN com 36 horas de vida apresenta distensão abdominal generalizada e ausência de eliminação de mecônio. Ao toque retal com cotonete (dedo mínimo), há saída explosiva de fezes. Qual o diagnóstico mais provável?",
       "alternativas": [
-        { "id": "A", "texto": "Atresia de duodeno." },
-        { "id": "B", "texto": "Íleo meconial." },
-        { "id": "C", "texto": "Megacólon congênito (doença de Hirschsprung)." },
-        { "id": "D", "texto": "Atresia de esôfago tipo A." },
-        { "id": "E", "texto": "Hérnia diafragmática congênita." }
+        {
+          "id": "A",
+          "texto": "Atresia de duodeno."
+        },
+        {
+          "id": "B",
+          "texto": "Íleo meconial."
+        },
+        {
+          "id": "C",
+          "texto": "Megacólon congênito (doença de Hirschsprung)."
+        },
+        {
+          "id": "D",
+          "texto": "Atresia de esôfago tipo A."
+        },
+        {
+          "id": "E",
+          "texto": "Hérnia diafragmática congênita."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **saída explosiva de fezes ao toque retal** em RN com distensão abdominal e ausência de eliminação de mecônio é sinal clássico de **megacólon congênito (doença de Hirschsprung)**. O diagnóstico é confirmado por **enema opaco**, que mostra a **zona de transição** entre segmento aganglionar (fino) e segmento normal proximal (dilatado). Atresia de duodeno cursa sem distensão difusa.",
       "referenciaAula": "Se você fizer no exame físico um toque retal no recém-nascido, faz com cotonete, com o dedinho, você vai ter saída de fezes explosivas. É um sinal que faz a gente pensar em megacólon congênito.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 667
     },
     {
       "id": "Q-02-008",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["megacólon chagásico", "Hirschsprung", "fisiopatologia", "diagnóstico diferencial"],
+      "tags": [
+        "megacólon chagásico",
+        "Hirschsprung",
+        "fisiopatologia",
+        "diagnóstico diferencial"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre a diferença fisiopatológica entre o megacólon chagásico e o megacólon congênito (Hirschsprung), assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Em ambos, o segmento dilatado é o segmento aganglionar (doente)." },
-        { "id": "B", "texto": "No chagásico, o segmento dilatado é o doente (plexos destruídos pelo Trypanosoma cruzi); no congênito, o dilatado é o segmento sadio com inervação preservada, e o doente é o segmento distal aganglionar (retossigmoide)." },
-        { "id": "C", "texto": "No congênito, o segmento dilatado é o doente; no chagásico, o dilatado é o sadio." },
-        { "id": "D", "texto": "Ambos resultam de ausência congênita de plexos mioentéricos por desenvolvimento crânio-caudal." },
-        { "id": "E", "texto": "Em ambos, o tratamento cirúrgico de escolha é a ressecção do segmento dilatado." }
+        {
+          "id": "A",
+          "texto": "Em ambos, o segmento dilatado é o segmento aganglionar (doente)."
+        },
+        {
+          "id": "B",
+          "texto": "No chagásico, o segmento dilatado é o doente (plexos destruídos pelo Trypanosoma cruzi); no congênito, o dilatado é o segmento sadio com inervação preservada, e o doente é o segmento distal aganglionar (retossigmoide)."
+        },
+        {
+          "id": "C",
+          "texto": "No congênito, o segmento dilatado é o doente; no chagásico, o dilatado é o sadio."
+        },
+        {
+          "id": "D",
+          "texto": "Ambos resultam de ausência congênita de plexos mioentéricos por desenvolvimento crânio-caudal."
+        },
+        {
+          "id": "E",
+          "texto": "Em ambos, o tratamento cirúrgico de escolha é a ressecção do segmento dilatado."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Esta é uma distinção conceitual essencial. No **megacólon chagásico**, o segmento dilatado é o **doente** (plexos de Auerbach/Meissner destruídos pelo *T. cruzi*). No **megacólon congênito**, ocorre o oposto: o segmento dilatado é o **sadio** (com inervação preservada), e o **doente é o distal aganglionar** (em geral retossigmoide), que fica espasmado e impede a passagem do conteúdo. Por isso, a cirurgia ressecciona o segmento aganglionar e abaixa o segmento sadio.",
       "referenciaAula": "O megacólon chagásico, a parte dilatada é a doente. No megacólon congênito, a parte dilatada ela tem inervação, ela tem os gânglios nervosos, e a parte ruim é a parte do retossigmoide que não tem gânglio.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 782
     },
     {
       "id": "Q-02-009",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["hérnia diafragmática congênita", "hipoplasia pulmonar", "hipertensão pulmonar", "oclusão traqueal fetal"],
+      "tags": [
+        "hérnia diafragmática congênita",
+        "hipoplasia pulmonar",
+        "hipertensão pulmonar",
+        "oclusão traqueal fetal"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "RN nasce com diagnóstico pré-natal de hérnia diafragmática congênita à esquerda. Ao raio X, alças intestinais no hemitórax esquerdo com desvio do mediastino para a direita. A correção cirúrgica precoce reduzindo as alças e fechando o defeito frequentemente NÃO é suficiente porque a principal causa de óbito é uma complicação fisiopatológica. Qual é, e qual estratégia fetal moderna é utilizada para mitigá-la?",
       "alternativas": [
-        { "id": "A", "texto": "Sepse abdominal por contaminação intestinal; profilaxia com antibioticoterapia fetal." },
-        { "id": "B", "texto": "Hipoplasia pulmonar com hipertensão pulmonar persistente; oclusão traqueal fetal com balão, inserido por volta da 24ª semana e retirado por volta da 28ª." },
-        { "id": "C", "texto": "Hemorragia intra-abdominal pela manipulação cirúrgica; correção fetal aberta com sutura primária do diafragma." },
-        { "id": "D", "texto": "Cardiopatia congênita associada; correção fetal por cateterismo." },
-        { "id": "E", "texto": "Refluxo gastroesofágico grave; fundoplicatura fetal endoscópica." }
+        {
+          "id": "A",
+          "texto": "Sepse abdominal por contaminação intestinal; profilaxia com antibioticoterapia fetal."
+        },
+        {
+          "id": "B",
+          "texto": "Hipoplasia pulmonar com hipertensão pulmonar persistente; oclusão traqueal fetal com balão, inserido por volta da 24ª semana e retirado por volta da 28ª."
+        },
+        {
+          "id": "C",
+          "texto": "Hemorragia intra-abdominal pela manipulação cirúrgica; correção fetal aberta com sutura primária do diafragma."
+        },
+        {
+          "id": "D",
+          "texto": "Cardiopatia congênita associada; correção fetal por cateterismo."
+        },
+        {
+          "id": "E",
+          "texto": "Refluxo gastroesofágico grave; fundoplicatura fetal endoscópica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A mortalidade da hérnia diafragmática congênita decorre principalmente da **hipoplasia pulmonar ipsilateral** (pulmão comprimido pelas alças durante a vida fetal) com consequente **hipertensão pulmonar persistente** no pós-natal — manutenção do shunt fetal pelo canal arterial e dificuldade de oxigenação/eliminação de CO2. A estratégia fetal moderna é a **oclusão traqueal com balão**: o balão é colocado por volta de **24 semanas** e retirado por volta de **28 semanas**, retendo o muco pulmonar e estimulando crescimento pulmonar. Aumentou a sobrevida para cerca de 50-60%.",
       "referenciaAula": "Esse pulmão não vai desenvolver, ele vai ficar hipotrófico, e isso causava um quadro de hipertensão pulmonar. Você coloca mais ou menos esse balão na 24ª semana e tira esse balão na 28ª.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1662
     },
     {
       "id": "Q-02-010",
       "aulaOrigem": 2,
-      "blocos": ["D"],
+      "blocos": [
+        "D"
+      ],
       "eixos": [],
-      "tags": ["enfisema lobar congênito", "mecanismo valvular", "lobectomia", "ventilação com pressão positiva"],
+      "tags": [
+        "enfisema lobar congênito",
+        "mecanismo valvular",
+        "lobectomia",
+        "ventilação com pressão positiva"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "RN nasce com Apgar 9/10. Após algumas horas, evolui com taquipneia, dispneia e cianose progressiva. Raio X mostra hemitórax esquerdo hipertransparente com desvio do mediastino para a direita. Tomografia confirma enfisema lobar congênito. Qual a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Intubação orotraqueal e ventilação com pressão positiva, mantendo conduta clínica." },
-        { "id": "B", "texto": "Drenagem torácica de urgência por suspeita de pneumotórax hipertensivo." },
-        { "id": "C", "texto": "Lobectomia de urgência do lobo afetado." },
-        { "id": "D", "texto": "Toracocentese de alívio repetida e observação clínica." },
-        { "id": "E", "texto": "Antibioticoterapia ampla e corticoide inalatório." }
+        {
+          "id": "A",
+          "texto": "Intubação orotraqueal e ventilação com pressão positiva, mantendo conduta clínica."
+        },
+        {
+          "id": "B",
+          "texto": "Drenagem torácica de urgência por suspeita de pneumotórax hipertensivo."
+        },
+        {
+          "id": "C",
+          "texto": "Lobectomia de urgência do lobo afetado."
+        },
+        {
+          "id": "D",
+          "texto": "Toracocentese de alívio repetida e observação clínica."
+        },
+        {
+          "id": "E",
+          "texto": "Antibioticoterapia ampla e corticoide inalatório."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **enfisema lobar congênito** decorre de mecanismo **valvular** (displasia/fraqueza da cartilagem brônquica): o ar entra mas não sai, hiperinsuflando o lobo. A **ventilação com pressão positiva PIORA o quadro**, pois injeta mais ar no lobo afetado. O tratamento definitivo é a **lobectomia de urgência** do lobo enfisematoso. Não é pneumotórax (há parênquima hipertransparente, não ausência de trama), portanto drenagem torácica não é a conduta.",
       "referenciaAula": "Aliás, você intubar, às vezes você piora a condição, porque você injeta oxigênio, ar com pressão. O tratamento feito o diagnóstico é cirúrgico. A gente vai fazer uma lobectomia de urgência.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1838
     }
   ]
 }

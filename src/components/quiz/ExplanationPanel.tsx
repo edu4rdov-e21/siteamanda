@@ -1,5 +1,6 @@
 import { Star } from 'lucide-react';
 import type { Question } from '../../lib/types';
+import { VideoMomentButton } from './VideoMomentButton';
 
 interface Props {
   question: Question;
@@ -37,6 +38,9 @@ export function ExplanationPanel({ question, isFavorite, onToggleFavorite }: Pro
           {question.referenciaAula}
         </blockquote>
       )}
+      <div className="flex flex-wrap items-center gap-2 pt-1">
+        <VideoMomentButton question={question} />
+      </div>
     </div>
   );
 }

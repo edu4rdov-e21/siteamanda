@@ -5,144 +5,317 @@
     {
       "id": "Q-13-001",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "epidemiologia", "abdome agudo inflamatorio"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "epidemiologia",
+        "abdome agudo inflamatorio"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a principal causa de abdome agudo inflamatorio?",
       "alternativas": [
-        { "id": "A", "texto": "Colecistite aguda." },
-        { "id": "B", "texto": "Apendicite aguda." },
-        { "id": "C", "texto": "Diverticulite aguda." },
-        { "id": "D", "texto": "Pancreatite aguda." },
-        { "id": "E", "texto": "Doença inflamatória pélvica." }
+        {
+          "id": "A",
+          "texto": "Colecistite aguda."
+        },
+        {
+          "id": "B",
+          "texto": "Apendicite aguda."
+        },
+        {
+          "id": "C",
+          "texto": "Diverticulite aguda."
+        },
+        {
+          "id": "D",
+          "texto": "Pancreatite aguda."
+        },
+        {
+          "id": "E",
+          "texto": "Doença inflamatória pélvica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **apendicite aguda** é a principal causa de abdome agudo inflamatório, sendo mais comum em adultos jovens (segunda e terceira décadas de vida). Quando diagnosticada e tratada precocemente, a doença é simples, mas ainda hoje pacientes morrem por apendicite não diagnosticada.",
       "referenciaAula": "Apendicite aguda é a principal causa de abdome agudo inflamatório, doença de adulto jovem, mais comum na segunda e terceira década de vida.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 547
     },
     {
       "id": "Q-13-002",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["colecistite", "Murphy", "sinal clinico"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "colecistite",
+        "Murphy",
+        "sinal clinico"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "O sinal de Murphy, característico da colecistite aguda, é definido como:",
       "alternativas": [
-        { "id": "A", "texto": "Dor à descompressão brusca no ponto de McBurney." },
-        { "id": "B", "texto": "Dor em fossa ilíaca direita ao comprimir o flanco esquerdo." },
-        { "id": "C", "texto": "Interrupção da inspiração profunda durante a palpação subcostal direita por dor." },
-        { "id": "D", "texto": "Equimose periumbilical em pacientes com pancreatite grave." },
-        { "id": "E", "texto": "Dor à hiperextensão passiva do membro inferior direito." }
+        {
+          "id": "A",
+          "texto": "Dor à descompressão brusca no ponto de McBurney."
+        },
+        {
+          "id": "B",
+          "texto": "Dor em fossa ilíaca direita ao comprimir o flanco esquerdo."
+        },
+        {
+          "id": "C",
+          "texto": "Interrupção da inspiração profunda durante a palpação subcostal direita por dor."
+        },
+        {
+          "id": "D",
+          "texto": "Equimose periumbilical em pacientes com pancreatite grave."
+        },
+        {
+          "id": "E",
+          "texto": "Dor à hiperextensão passiva do membro inferior direito."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **sinal de Murphy** é positivo quando o paciente interrompe a inspiração profunda durante a palpação subcostal direita devido à dor. É clássico da **colecistite aguda**. Os outros sinais descritos correspondem a Blumberg (apendicite), Rovsing (apendicite), sinal de Cullen (pancreatite hemorrágica) e sinal do psoas (apendicite retrocecal).",
       "referenciaAula": "Sinal de Murphy: você palpa a região subcostal e pede pro doente respirar profundamente e ele interrompe a respiração por causa da dor.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1568
     },
     {
       "id": "Q-13-003",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["colecistite", "ultrassonografia", "diagnostico"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "colecistite",
+        "ultrassonografia",
+        "diagnostico"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o exame de imagem de eleição para o diagnóstico de colecistite aguda?",
       "alternativas": [
-        { "id": "A", "texto": "Tomografia computadorizada de abdome com contraste." },
-        { "id": "B", "texto": "Radiografia simples de abdome." },
-        { "id": "C", "texto": "Ultrassonografia abdominal." },
-        { "id": "D", "texto": "Colangiopancreatografia retrógrada endoscópica (CPRE)." },
-        { "id": "E", "texto": "Ressonância magnética nuclear." }
+        {
+          "id": "A",
+          "texto": "Tomografia computadorizada de abdome com contraste."
+        },
+        {
+          "id": "B",
+          "texto": "Radiografia simples de abdome."
+        },
+        {
+          "id": "C",
+          "texto": "Ultrassonografia abdominal."
+        },
+        {
+          "id": "D",
+          "texto": "Colangiopancreatografia retrógrada endoscópica (CPRE)."
+        },
+        {
+          "id": "E",
+          "texto": "Ressonância magnética nuclear."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **ultrassonografia abdominal** é o exame de eleição para colecistite aguda — não a tomografia. Achados típicos são cálculo, espessamento da parede vesicular e líquido perivesicular. Se houver suspeita de coledocolitíase ou dilatação de vias biliares, complementa-se com colangiorressonância e, se necessário, CPRE para papilotomia.",
       "referenciaAula": "Aqui o exame de eleição para diagnóstico é a ultrassonografia abdominal. Não é a tomografia, pessoal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1685
     },
     {
       "id": "Q-13-004",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "Alvarado", "escore"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "Alvarado",
+        "escore"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a escala de Alvarado para apendicite aguda, qual interpretação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Pontuação 0-4 indica alta probabilidade de apendicite." },
-        { "id": "B", "texto": "Pontuação 5-6 corresponde a probabilidade intermediária." },
-        { "id": "C", "texto": "Pontuação 7-10 indica baixo risco e dispensa cirurgia." },
-        { "id": "D", "texto": "A escala não considera achados laboratoriais." },
-        { "id": "E", "texto": "Migração da dor para fossa ilíaca direita pontua dois pontos." }
+        {
+          "id": "A",
+          "texto": "Pontuação 0-4 indica alta probabilidade de apendicite."
+        },
+        {
+          "id": "B",
+          "texto": "Pontuação 5-6 corresponde a probabilidade intermediária."
+        },
+        {
+          "id": "C",
+          "texto": "Pontuação 7-10 indica baixo risco e dispensa cirurgia."
+        },
+        {
+          "id": "D",
+          "texto": "A escala não considera achados laboratoriais."
+        },
+        {
+          "id": "E",
+          "texto": "Migração da dor para fossa ilíaca direita pontua dois pontos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **escala de Alvarado** combina sinais, sintomas e exames laboratoriais. Pontuação **7-10** indica alta chance de apendicite aguda; **5-6** é intermediária; **0-4** é baixo risco. Defesa em fossa ilíaca direita e leucocitose pontuam dois pontos cada — os demais itens valem um ponto.",
       "referenciaAula": "Se a escala de Alvarado der entre 7 e 10, alta chance de ser apendicite aguda. Se der de zero ao quatro, é baixo risco e 5 a 6 é intermediário.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1175
     },
     {
       "id": "Q-13-005",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["pancreatite", "etiologia", "colelitiase"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pancreatite",
+        "etiologia",
+        "colelitiase"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação à etiologia da pancreatite aguda, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "A principal causa é o trauma abdominal fechado." },
-        { "id": "B", "texto": "A colelitíase é a principal causa, seguida pelo alcoolismo." },
-        { "id": "C", "texto": "Hiperlipidemia é a principal causa em adultos jovens." },
-        { "id": "D", "texto": "Medicamentos como corticoides e azatioprina são as causas mais frequentes." },
-        { "id": "E", "texto": "Pâncreas divisum representa mais de 50% dos casos." }
+        {
+          "id": "A",
+          "texto": "A principal causa é o trauma abdominal fechado."
+        },
+        {
+          "id": "B",
+          "texto": "A colelitíase é a principal causa, seguida pelo alcoolismo."
+        },
+        {
+          "id": "C",
+          "texto": "Hiperlipidemia é a principal causa em adultos jovens."
+        },
+        {
+          "id": "D",
+          "texto": "Medicamentos como corticoides e azatioprina são as causas mais frequentes."
+        },
+        {
+          "id": "E",
+          "texto": "Pâncreas divisum representa mais de 50% dos casos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **colelitíase** (cálculo que passa pela papila e inflama o pâncreas) é a **principal causa** de pancreatite aguda, seguida pelo **alcoolismo**. As demais causas — hiperlipidemia, obstrução do ducto, áscaris, papilite, tumores, trauma, hiperparatireoidismo, viroses, medicamentos e pâncreas divisum — são bem mais raras.",
       "referenciaAula": "Na etiologia, a principal causa de pancreatite aguda é a colelitíase. E outra etiologia bastante frequente é o alcoolismo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1954
     },
     {
       "id": "Q-13-006",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "McBurney", "Blumberg"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "McBurney",
+        "Blumberg"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 22 anos, com dor que iniciou em região periumbilical há 18 horas e migrou para fossa ilíaca direita, acompanhada de anorexia e náuseas. Ao exame, apresenta dor à descompressão brusca em ponto situado na linha entre cicatriz umbilical e espinha ilíaca anterossuperior direita, no terço externo. Esse achado corresponde ao:",
       "alternativas": [
-        { "id": "A", "texto": "Sinal de Rovsing positivo." },
-        { "id": "B", "texto": "Sinal do psoas positivo." },
-        { "id": "C", "texto": "Sinal de Blumberg no ponto de McBurney." },
-        { "id": "D", "texto": "Sinal do obturador positivo." },
-        { "id": "E", "texto": "Sinal de Cullen." }
+        {
+          "id": "A",
+          "texto": "Sinal de Rovsing positivo."
+        },
+        {
+          "id": "B",
+          "texto": "Sinal do psoas positivo."
+        },
+        {
+          "id": "C",
+          "texto": "Sinal de Blumberg no ponto de McBurney."
+        },
+        {
+          "id": "D",
+          "texto": "Sinal do obturador positivo."
+        },
+        {
+          "id": "E",
+          "texto": "Sinal de Cullen."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **ponto de McBurney** localiza-se no terço externo da linha entre a cicatriz umbilical e a espinha ilíaca anterossuperior direita. O **sinal de Blumberg** é a dor à descompressão brusca nesse ponto, característico de apendicite aguda. Rovsing é dor em FID ao comprimir flanco esquerdo; psoas e obturador testam apêndices retrocecais ou pélvicos.",
       "referenciaAula": "O Blumberg é a dor, a descompressão no ponto de McBurney. Você traça uma linha pegando a cicatriz umbilical e a espinha ilíaca anterossuperior, no terço externo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 871
     },
     {
       "id": "Q-13-007",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["diverticulite", "Hinchey", "classificacao"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diverticulite",
+        "Hinchey",
+        "classificacao"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "De acordo com a classificação de Hinchey para diverticulite aguda complicada, o estádio II corresponde a:",
       "alternativas": [
-        { "id": "A", "texto": "Abscesso pericólico." },
-        { "id": "B", "texto": "Abscesso pélvico." },
-        { "id": "C", "texto": "Peritonite purulenta generalizada." },
-        { "id": "D", "texto": "Peritonite fecal generalizada." },
-        { "id": "E", "texto": "Apenas espessamento de parede sem coleção." }
+        {
+          "id": "A",
+          "texto": "Abscesso pericólico."
+        },
+        {
+          "id": "B",
+          "texto": "Abscesso pélvico."
+        },
+        {
+          "id": "C",
+          "texto": "Peritonite purulenta generalizada."
+        },
+        {
+          "id": "D",
+          "texto": "Peritonite fecal generalizada."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas espessamento de parede sem coleção."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **classificação de Hinchey** estratifica a diverticulite complicada: **I — abscesso pericólico**; **II — abscesso pélvico**; **III — peritonite purulenta**; **IV — peritonite fecal**. Originalmente baseada em achados intraoperatórios, hoje é aplicada por meio de tomografia computadorizada com contraste.",
@@ -152,39 +325,88 @@
     {
       "id": "Q-13-008",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["pancreatite", "tratamento", "conduta"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pancreatite",
+        "tratamento",
+        "conduta"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 48 anos, apresenta dor epigástrica intensa irradiada para o dorso, vômitos e amilase 1.200 U/L. Ultrassonografia evidencia colelitíase. Não há sinais de gravidade nem complicações locais. Qual a conduta apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Laparotomia de urgência com pancreatectomia." },
-        { "id": "B", "texto": "Tratamento clínico com jejum, hidratação e analgesia, seguido de colecistectomia na mesma internação." },
-        { "id": "C", "texto": "Colecistectomia imediata seguida de antibioticoterapia prolongada." },
-        { "id": "D", "texto": "Apenas antibioticoterapia ambulatorial e dieta livre." },
-        { "id": "E", "texto": "CPRE de urgência seguida de alta hospitalar sem cirurgia." }
+        {
+          "id": "A",
+          "texto": "Laparotomia de urgência com pancreatectomia."
+        },
+        {
+          "id": "B",
+          "texto": "Tratamento clínico com jejum, hidratação e analgesia, seguido de colecistectomia na mesma internação."
+        },
+        {
+          "id": "C",
+          "texto": "Colecistectomia imediata seguida de antibioticoterapia prolongada."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas antibioticoterapia ambulatorial e dieta livre."
+        },
+        {
+          "id": "E",
+          "texto": "CPRE de urgência seguida de alta hospitalar sem cirurgia."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O tratamento da pancreatite aguda é **clínico**: jejum, hidratação, analgesia e drogas que inibem a secreção pancreática. A cirurgia só é indicada na ocorrência de **complicações locais**. Na **pancreatite biliar**, após remissão do surto, a colecistectomia deve ser realizada **na mesma internação** para evitar novos episódios enquanto se aguarda cirurgia eletiva.",
       "referenciaAula": "O tratamento da pancreatite aguda é clínico. Na pancreatite biliar é melhor esperar a remissão do surto e indicar colecistectomia na mesma internação.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2433
     },
     {
       "id": "Q-13-009",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "diagnostico diferencial", "doenca inflamatoria pelvica", "caso clinico"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "diagnostico diferencial",
+        "doenca inflamatoria pelvica",
+        "caso clinico"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 24 anos, sexualmente ativa, apresenta dor em hipogástrio e fossa ilíaca direita há 36 horas, febre de 39 °C desde o início, leucorreia e disparenia. Ao exame, encontra-se em bom estado geral, com dor à palpação bilateral em andar inferior e exame ginecológico com dor à mobilização cervical. Qual é a hipótese diagnóstica mais provável e o diferencial-chave a considerar?",
       "alternativas": [
-        { "id": "A", "texto": "Apendicite aguda grau IV — indicar laparotomia mediana imediata." },
-        { "id": "B", "texto": "Doença inflamatória pélvica, com apendicite como diagnóstico diferencial; iniciar antibioticoterapia de largo espectro por no mínimo 14 dias." },
-        { "id": "C", "texto": "Colecistite aguda — solicitar ultrassonografia de vias biliares e indicar colecistectomia." },
-        { "id": "D", "texto": "Diverticulite aguda Hinchey III — indicar cirurgia de urgência com colostomia." },
-        { "id": "E", "texto": "Pancreatite aguda biliar — iniciar jejum e dosar amilase/lipase." }
+        {
+          "id": "A",
+          "texto": "Apendicite aguda grau IV — indicar laparotomia mediana imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Doença inflamatória pélvica, com apendicite como diagnóstico diferencial; iniciar antibioticoterapia de largo espectro por no mínimo 14 dias."
+        },
+        {
+          "id": "C",
+          "texto": "Colecistite aguda — solicitar ultrassonografia de vias biliares e indicar colecistectomia."
+        },
+        {
+          "id": "D",
+          "texto": "Diverticulite aguda Hinchey III — indicar cirurgia de urgência com colostomia."
+        },
+        {
+          "id": "E",
+          "texto": "Pancreatite aguda biliar — iniciar jejum e dosar amilase/lipase."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O quadro favorece **doença inflamatória pélvica (DIP)**: mulher jovem, sexualmente ativa, febre alta **desde o início**, em **bom estado geral**, com leucorreia, disparenia e dor à mobilização cervical. Diferentemente da apendicite, na DIP a febre é precoce e o paciente não está prostrado/séptico. O tratamento é antibioticoterapia de largo espectro (cobrir gonococo, clamídia, micoplasma, aeróbios e anaeróbios) por no mínimo **14 dias**.",
@@ -194,23 +416,50 @@
     {
       "id": "Q-13-010",
       "aulaOrigem": 13,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["diverticulite", "Hinchey", "abscesso", "drenagem percutanea", "caso clinico"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diverticulite",
+        "Hinchey",
+        "abscesso",
+        "drenagem percutanea",
+        "caso clinico"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 68 anos, com dor em fossa ilíaca esquerda, febre 38,5 °C e leucocitose. Tomografia com contraste evidencia espessamento do sigmoide e abscesso pélvico único e unilobulado de 7 cm, sem pneumoperitônio nem peritonite difusa. Qual a conduta mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Antibioticoterapia oral ambulatorial isolada." },
-        { "id": "B", "texto": "Sigmoidectomia de urgência à Hartmann (colostomia terminal)." },
-        { "id": "C", "texto": "Internação, jejum, antibiótico endovenoso e drenagem percutânea guiada por imagem do abscesso." },
-        { "id": "D", "texto": "Colonoscopia descompressiva imediata para esvaziar o abscesso." },
-        { "id": "E", "texto": "Apenas observação clínica com dieta sem fibras." }
+        {
+          "id": "A",
+          "texto": "Antibioticoterapia oral ambulatorial isolada."
+        },
+        {
+          "id": "B",
+          "texto": "Sigmoidectomia de urgência à Hartmann (colostomia terminal)."
+        },
+        {
+          "id": "C",
+          "texto": "Internação, jejum, antibiótico endovenoso e drenagem percutânea guiada por imagem do abscesso."
+        },
+        {
+          "id": "D",
+          "texto": "Colonoscopia descompressiva imediata para esvaziar o abscesso."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas observação clínica com dieta sem fibras."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Trata-se de **diverticulite aguda Hinchey II** (abscesso pélvico). Em abscessos **maiores que cerca de 4 cm**, além de internação, jejum e antibiótico endovenoso, indica-se **drenagem percutânea guiada por imagem** (ultrassonografia ou tomografia). Cirurgia de urgência é reservada a casos em que a drenagem é impossível (multilobulado, atrás de alça) ou perfuração em cavidade livre. Colonoscopia/retossigmoidoscopia na fase aguda é **contraindicada** — pode desbloquear uma perfuração contida.",
       "referenciaAula": "Abscesso pequeno até 4 cm pode tentar só antibiótico, abscessos maiores é importante além do antibiótico fazer punção guiada por ultrassonografia ou tomografia. Na fase aguda não se deve fazer colonoscopia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2689
     }
   ]
 }

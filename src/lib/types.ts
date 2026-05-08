@@ -23,6 +23,10 @@ export interface Question {
   explicacao: string;
   referenciaAula?: string;
   transversal: boolean;
+  /** Aula a que o vídeo de referência pertence (pode diferir de aulaOrigem em eixos transversais). */
+  videoAulaId?: number;
+  /** Segundo de início no vídeo da aula (timestamp do trecho citado em referenciaAula). */
+  videoStartSec?: number;
 }
 
 export interface Aula {
@@ -32,6 +36,7 @@ export interface Aula {
   blocosSecundarios: BlocoId[];
   eixos: EixoId[];
   arquivoQuestoes: string;
+  videoId?: string;
 }
 
 export interface Bloco {

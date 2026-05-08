@@ -5,39 +5,89 @@
     {
       "id": "Q-T3-001",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["antibioticoprofilaxia", "timing", "ISC", "cefazolina"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "antibioticoprofilaxia",
+        "timing",
+        "ISC",
+        "cefazolina"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a antibioticoprofilaxia cirúrgica e seu impacto na infecção do sítio cirúrgico (ISC), assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "O antibiótico profilático deve ser iniciado 6 horas antes da incisão para garantir nível tecidual adequado." },
-        { "id": "B", "texto": "A maior eficácia ocorre quando a infusão é feita imediatamente antes da incisão, com pico sérico no momento da contaminação; doses prolongadas além do intraoperatório não reduzem ISC e aumentam seleção de multirresistentes." },
-        { "id": "C", "texto": "O prolongamento da profilaxia por 7 dias no pós-operatório reduz significativamente a incidência de ISC em cirurgias limpas." },
-        { "id": "D", "texto": "A vancomicina é a droga de primeira escolha em todas as cirurgias eletivas, por sua ampla cobertura." },
-        { "id": "E", "texto": "Cefalosporinas de primeira geração devem ser evitadas por induzirem alta resistência bacteriana." }
+        {
+          "id": "A",
+          "texto": "O antibiótico profilático deve ser iniciado 6 horas antes da incisão para garantir nível tecidual adequado."
+        },
+        {
+          "id": "B",
+          "texto": "A maior eficácia ocorre quando a infusão é feita imediatamente antes da incisão, com pico sérico no momento da contaminação; doses prolongadas além do intraoperatório não reduzem ISC e aumentam seleção de multirresistentes."
+        },
+        {
+          "id": "C",
+          "texto": "O prolongamento da profilaxia por 7 dias no pós-operatório reduz significativamente a incidência de ISC em cirurgias limpas."
+        },
+        {
+          "id": "D",
+          "texto": "A vancomicina é a droga de primeira escolha em todas as cirurgias eletivas, por sua ampla cobertura."
+        },
+        {
+          "id": "E",
+          "texto": "Cefalosporinas de primeira geração devem ser evitadas por induzirem alta resistência bacteriana."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A profilaxia ideal é feita **imediatamente antes da incisão**, com pico sérico no momento da contaminação — o efeito está em prevenir a fase de **crescimento exponencial** bacteriano nas primeiras horas. Estudos mostram que prolongar a profilaxia além do intraoperatório **não reduz ISC** e aumenta em ~60% o risco de colonização por multirresistentes. **Cefalosporinas de 1ª geração** (cefazolina) cobrem a flora cutânea residente com baixa indução de resistência.",
       "referenciaAula": "Aulas 03 (antibioticoprofilaxia) e 23 (cuidados com a ferida cirúrgica) — profilaxia em dose única intraoperatória; prolongamento não traz benefício e seleciona multirresistentes.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 23,
+      "videoStartSec": 0
     },
     {
       "id": "Q-T3-002",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["ASA", "risco cirúrgico", "otimização pré-operatória", "diabetes"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ASA",
+        "risco cirúrgico",
+        "otimização pré-operatória",
+        "diabetes"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 68 anos, hipertenso, diabético com HbA1c 9,8%, IMC 32, tabagista ativo, será submetido a herniorrafia inguinal eletiva. Considerando a integração entre avaliação pré-operatória e prevenção de ISC/cicatrização, qual conduta é a MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Operar imediatamente, pois trata-se de cirurgia limpa de baixo risco." },
-        { "id": "B", "texto": "Adiar a cirurgia eletiva para otimização: compensação glicêmica, cessação do tabagismo e abordagem do peso, reduzindo risco de ISC e de cicatrização inadequada." },
-        { "id": "C", "texto": "Manter o tabagismo, pois sua interrupção próxima à cirurgia aumenta a tosse e o risco de deiscência." },
-        { "id": "D", "texto": "Indicar nutrição parenteral total por 7 dias antes da cirurgia, mesmo sem desnutrição estabelecida." },
-        { "id": "E", "texto": "Iniciar antibioticoprofilaxia 5 dias antes do procedimento, mantendo até a cirurgia." }
+        {
+          "id": "A",
+          "texto": "Operar imediatamente, pois trata-se de cirurgia limpa de baixo risco."
+        },
+        {
+          "id": "B",
+          "texto": "Adiar a cirurgia eletiva para otimização: compensação glicêmica, cessação do tabagismo e abordagem do peso, reduzindo risco de ISC e de cicatrização inadequada."
+        },
+        {
+          "id": "C",
+          "texto": "Manter o tabagismo, pois sua interrupção próxima à cirurgia aumenta a tosse e o risco de deiscência."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar nutrição parenteral total por 7 dias antes da cirurgia, mesmo sem desnutrição estabelecida."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar antibioticoprofilaxia 5 dias antes do procedimento, mantendo até a cirurgia."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Em cirurgia **eletiva**, fatores de risco modificáveis devem ser otimizados no pré-operatório. **Hiperglicemia mal controlada, tabagismo e obesidade** são fatores diretamente associados a maior incidência de **ISC e pior cicatrização** (pela diminuição da resposta imune inata, hipoperfusão e inflamação crônica). Nutrição parenteral está indicada em desnutrição grave que não tolere via enteral; antibioticoprofilaxia prolongada não tem benefício.",
@@ -47,18 +97,42 @@
     {
       "id": "Q-T3-003",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["nutrição", "ASG", "cicatrização", "ERAS/ACERTO"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "nutrição",
+        "ASG",
+        "cicatrização",
+        "ERAS/ACERTO"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a integração entre avaliação nutricional pré-operatória e processo de cicatrização, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "A desnutrição não interfere na cicatrização, desde que o paciente receba antibioticoprofilaxia adequada." },
-        { "id": "B", "texto": "A Avaliação Subjetiva Global (ASG) classifica o paciente em A (nutrido), B (desnutrição moderada) ou C (desnutrição grave); pacientes B/C com cirurgia eletiva devem receber terapia nutricional por pelo menos 5 a 14 dias antes do procedimento, pois a cicatrização exige aporte proteico em todas as suas fases." },
-        { "id": "C", "texto": "A albumina sérica isoladamente é suficiente para classificar o estado nutricional e dispensa avaliação clínica." },
-        { "id": "D", "texto": "Pacientes desnutridos devem permanecer em jejum total de 12 horas no pré-operatório imediato para reduzir risco de aspiração." },
-        { "id": "E", "texto": "Suplementos hiperproteicos com ômega-3 e arginina aumentam a resposta inflamatória sistêmica e devem ser evitados." }
+        {
+          "id": "A",
+          "texto": "A desnutrição não interfere na cicatrização, desde que o paciente receba antibioticoprofilaxia adequada."
+        },
+        {
+          "id": "B",
+          "texto": "A Avaliação Subjetiva Global (ASG) classifica o paciente em A (nutrido), B (desnutrição moderada) ou C (desnutrição grave); pacientes B/C com cirurgia eletiva devem receber terapia nutricional por pelo menos 5 a 14 dias antes do procedimento, pois a cicatrização exige aporte proteico em todas as suas fases."
+        },
+        {
+          "id": "C",
+          "texto": "A albumina sérica isoladamente é suficiente para classificar o estado nutricional e dispensa avaliação clínica."
+        },
+        {
+          "id": "D",
+          "texto": "Pacientes desnutridos devem permanecer em jejum total de 12 horas no pré-operatório imediato para reduzir risco de aspiração."
+        },
+        {
+          "id": "E",
+          "texto": "Suplementos hiperproteicos com ômega-3 e arginina aumentam a resposta inflamatória sistêmica e devem ser evitados."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **ASG** é o método clínico padrão para triagem nutricional pré-operatória; pacientes B/C com cirurgia eletiva beneficiam-se de **terapia nutricional por 5–14 dias** antes do procedimento. A cicatrização requer **proteína em todas as fases** (inflamatória, proliferativa, remodelação). O projeto **ACERTO/ERAS** preconiza **abreviação do jejum** (não jejum total), e suplementos com **ômega-3 e arginina** atenuam a inflamação e melhoram a perfusão tecidual.",
@@ -68,18 +142,42 @@
     {
       "id": "Q-T3-004",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["curativo", "ferida", "ISC", "antibioticoprofilaxia"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "curativo",
+        "ferida",
+        "ISC",
+        "antibioticoprofilaxia"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação aos cuidados pós-operatórios com a ferida cirúrgica em cirurgia limpa ou potencialmente contaminada (CDC classe I/II), qual afirmativa está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Manter curativo oclusivo por no mínimo 7 dias reduz a incidência de ISC." },
-        { "id": "B", "texto": "Curativos avançados (hidrocoloides, alginatos) demonstram superioridade clara sobre curativo simples na prevenção de infecção em feridas operatórias incisionais simples." },
-        { "id": "C", "texto": "O curativo deve ser mantido por 24–48 horas (idealmente 48h), tempo em que ocorre a reepitelização inicial; após esse período, higienização com água e sabão é suficiente, e antibioticoprofilaxia prolongada no pós-operatório não traz benefício." },
-        { "id": "D", "texto": "O ambiente seco é o ideal para a cicatrização, devendo o curativo ser totalmente absortivo." },
-        { "id": "E", "texto": "Em qualquer ferida operatória, deve-se manter cefalosporina oral por 7 dias após a cirurgia para evitar ISC." }
+        {
+          "id": "A",
+          "texto": "Manter curativo oclusivo por no mínimo 7 dias reduz a incidência de ISC."
+        },
+        {
+          "id": "B",
+          "texto": "Curativos avançados (hidrocoloides, alginatos) demonstram superioridade clara sobre curativo simples na prevenção de infecção em feridas operatórias incisionais simples."
+        },
+        {
+          "id": "C",
+          "texto": "O curativo deve ser mantido por 24–48 horas (idealmente 48h), tempo em que ocorre a reepitelização inicial; após esse período, higienização com água e sabão é suficiente, e antibioticoprofilaxia prolongada no pós-operatório não traz benefício."
+        },
+        {
+          "id": "D",
+          "texto": "O ambiente seco é o ideal para a cicatrização, devendo o curativo ser totalmente absortivo."
+        },
+        {
+          "id": "E",
+          "texto": "Em qualquer ferida operatória, deve-se manter cefalosporina oral por 7 dias após a cirurgia para evitar ISC."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O curativo deve ser mantido por **24–48 horas** (48h é o melhor definido na literatura), pois nesse período já ocorre a **reepitelização inicial** das bordas. Após a remoção, **água e sabão** são suficientes; curativos avançados não mostraram superioridade em feridas simples. **Antibioticoprofilaxia prolongada no pós-operatório não reduz ISC** — a janela de eficácia é o intraoperatório. O ambiente úmido controlado (não seco) favorece a cicatrização.",
@@ -89,18 +187,43 @@
     {
       "id": "Q-T3-005",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3", "T5"],
-      "tags": ["normotermia", "hipoperfusão", "ISC", "intraoperatório"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "normotermia",
+        "hipoperfusão",
+        "ISC",
+        "intraoperatório"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente de 70 anos submetido a colectomia eletiva por neoplasia. No intraoperatório, evoluiu com temperatura de 34,8 °C, hipotensão sustentada por 40 minutos (PAM 55 mmHg) e perda volêmica de aproximadamente 50% da volemia, repostas com cristaloides e hemoderivados. A cefazolina foi administrada uma única vez na indução, há 4 horas. Qual a interpretação INTEGRADA mais apropriada quanto ao risco de complicações pós-operatórias?",
       "alternativas": [
-        { "id": "A", "texto": "Risco baixo de ISC, pois a profilaxia foi adequadamente administrada na indução." },
-        { "id": "B", "texto": "Hipotermia, hipoperfusão e ausência de repique do antibiótico (após perda > 40% da volemia e duração > meia-vida da cefazolina) configuram cenário de alto risco de ISC e de cicatrização prejudicada — devem ser ativamente corrigidos." },
-        { "id": "C", "texto": "A transfusão de hemoderivados reduz o risco de ISC, por aporte adicional de imunoglobulinas." },
-        { "id": "D", "texto": "Em cirurgias colorretais, normotermia e controle hemodinâmico não influenciam a incidência de ISC." },
-        { "id": "E", "texto": "Deve-se prolongar a cefazolina por 7 dias no pós-operatório como medida compensatória." }
+        {
+          "id": "A",
+          "texto": "Risco baixo de ISC, pois a profilaxia foi adequadamente administrada na indução."
+        },
+        {
+          "id": "B",
+          "texto": "Hipotermia, hipoperfusão e ausência de repique do antibiótico (após perda > 40% da volemia e duração > meia-vida da cefazolina) configuram cenário de alto risco de ISC e de cicatrização prejudicada — devem ser ativamente corrigidos."
+        },
+        {
+          "id": "C",
+          "texto": "A transfusão de hemoderivados reduz o risco de ISC, por aporte adicional de imunoglobulinas."
+        },
+        {
+          "id": "D",
+          "texto": "Em cirurgias colorretais, normotermia e controle hemodinâmico não influenciam a incidência de ISC."
+        },
+        {
+          "id": "E",
+          "texto": "Deve-se prolongar a cefazolina por 7 dias no pós-operatório como medida compensatória."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Hipotermia** (vasoconstrição periférica, redução da chegada de células fagocitárias) e **hipoperfusão** aumentam comprovadamente a incidência de ISC e atrasam a cicatrização. Após **perda > 40% da volemia** ou cirurgia mais longa que a meia-vida da droga, deve-se **repicar a cefazolina (a cada 4h)** para manter concentração tecidual. **Transfusão** é status pró-inflamatório e aumenta o risco. Prolongar profilaxia no pós-operatório é desnecessário e nocivo.",
@@ -110,18 +233,42 @@
     {
       "id": "Q-T3-006",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["pós-operatório", "íleo", "nutrição precoce", "ACERTO"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "pós-operatório",
+        "íleo",
+        "nutrição precoce",
+        "ACERTO"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em segundo pós-operatório de retossigmoidectomia eletiva por neoplasia, sem complicações intraoperatórias, encontra-se hemodinamicamente estável, com discreta distensão abdominal e ainda sem ruídos hidroaéreos audíveis. A equipe questiona o início da dieta. Conforme princípios do projeto ACERTO/ERAS, qual a conduta mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter jejum absoluto até a primeira eliminação de gases ou flatos, mesmo que isso leve mais de 5 dias." },
-        { "id": "B", "texto": "Iniciar nutrição parenteral total imediatamente, pois ausência de RHA contraindica via enteral." },
-        { "id": "C", "texto": "A presença de ruídos hidroaéreos não é critério essencial para iniciar dieta; a motilidade do delgado retorna em 6–12 horas, e a alimentação precoce (oral/enteral) é recomendada quando o paciente está hemodinamicamente estável e o cirurgião libera o uso do TGI." },
-        { "id": "D", "texto": "Solicitar TC abdominal de rotina antes de qualquer reintrodução de dieta." },
-        { "id": "E", "texto": "Reintroduzir dieta apenas após sete dias, independentemente do estado clínico." }
+        {
+          "id": "A",
+          "texto": "Manter jejum absoluto até a primeira eliminação de gases ou flatos, mesmo que isso leve mais de 5 dias."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar nutrição parenteral total imediatamente, pois ausência de RHA contraindica via enteral."
+        },
+        {
+          "id": "C",
+          "texto": "A presença de ruídos hidroaéreos não é critério essencial para iniciar dieta; a motilidade do delgado retorna em 6–12 horas, e a alimentação precoce (oral/enteral) é recomendada quando o paciente está hemodinamicamente estável e o cirurgião libera o uso do TGI."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar TC abdominal de rotina antes de qualquer reintrodução de dieta."
+        },
+        {
+          "id": "E",
+          "texto": "Reintroduzir dieta apenas após sete dias, independentemente do estado clínico."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O projeto **ACERTO/ERAS** preconiza **alimentação precoce** no pós-operatório: a motilidade do delgado retorna em **6–12 horas**, e o ruído hidroaéreo **não é critério obrigatório** para reintroduzir dieta. A liberação cabe ao cirurgião, conforme a complexidade do procedimento. Nutrição parenteral é reservada quando não se consegue nutrir até o **5º–7º dia** em adulto. Jejum prolongado piora a desmotilidade e aumenta complicações.",
@@ -131,18 +278,43 @@
     {
       "id": "Q-T3-007",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3", "T5"],
-      "tags": ["pós-operatório", "ISC tardia", "deiscência", "diagnóstico"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "pós-operatório",
+        "ISC tardia",
+        "deiscência",
+        "diagnóstico"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em 7º pós-operatório de laparotomia mediana por neoplasia colônica, diabético mal controlado, evolui com aumento da dor local, eritema, edema e drenagem de secreção purulenta na ferida operatória, associado a febre 38,5 °C, leucocitose 18.000 com desvio à esquerda e PCR elevada. Qual a conduta INTEGRADA mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter apenas observação, pois sinais inflamatórios são esperados até 10 dias após cirurgia." },
-        { "id": "B", "texto": "Iniciar corticoide sistêmico para reduzir o eritema e o edema." },
-        { "id": "C", "texto": "Trata-se de infecção do sítio cirúrgico (ISC) incisional. A conduta inclui abertura/drenagem da ferida, coleta de cultura, antibioticoterapia direcionada (não profilática), controle glicêmico rigoroso e curativos seriados; vigilância para deiscência associada." },
-        { "id": "D", "texto": "Reaplicar a cefazolina profilática em dose única e fechar novamente a ferida." },
-        { "id": "E", "texto": "Indicar imediatamente reoperação com ressecção da anastomose, sem antibiótico." }
+        {
+          "id": "A",
+          "texto": "Manter apenas observação, pois sinais inflamatórios são esperados até 10 dias após cirurgia."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar corticoide sistêmico para reduzir o eritema e o edema."
+        },
+        {
+          "id": "C",
+          "texto": "Trata-se de infecção do sítio cirúrgico (ISC) incisional. A conduta inclui abertura/drenagem da ferida, coleta de cultura, antibioticoterapia direcionada (não profilática), controle glicêmico rigoroso e curativos seriados; vigilância para deiscência associada."
+        },
+        {
+          "id": "D",
+          "texto": "Reaplicar a cefazolina profilática em dose única e fechar novamente a ferida."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar imediatamente reoperação com ressecção da anastomose, sem antibiótico."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O quadro caracteriza **ISC incisional** (sinais clássicos: dor, eritema, edema, secreção purulenta, podendo evoluir com **deiscência**). A conduta envolve **abertura da ferida**, **coleta de cultura** e **antibioticoterapia direcionada** — não mais profilática. O **controle glicêmico rigoroso** reduz progressão da infecção e melhora a resposta imune. A deiscência é frequentemente associada à infecção, exigindo vigilância integrada.",
@@ -152,18 +324,42 @@
     {
       "id": "Q-T3-008",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["medicação contínua", "anticoagulante", "corticoide", "pré-operatório"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "medicação contínua",
+        "anticoagulante",
+        "corticoide",
+        "pré-operatório"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente de 75 anos, em uso crônico de varfarina (FA), prednisona 10 mg/dia (polimialgia reumática), AAS 100 mg, hidroclorotiazida e metformina, internará para colecistectomia eletiva. Qual o manejo CORRETO das medicações no perioperatório?",
       "alternativas": [
-        { "id": "A", "texto": "Suspender todas as medicações 24 horas antes da cirurgia, incluindo o corticoide." },
-        { "id": "B", "texto": "Manter varfarina e AAS para evitar eventos tromboembólicos no perioperatório." },
-        { "id": "C", "texto": "Suspender varfarina 3–5 dias antes (e AAS conforme avaliação de risco trombótico/hemorrágico); manter corticoide (risco de insuficiência adrenal), com transição para hidrocortisona EV se via oral indisponível; suspender diurético no dia da cirurgia e metformina no dia, com correção de hiperglicemia por insulina regular." },
-        { "id": "D", "texto": "Manter metformina inclusive no dia da cirurgia para evitar hiperglicemia." },
-        { "id": "E", "texto": "Trocar a prednisona por dexametasona oral em jejum no dia da cirurgia." }
+        {
+          "id": "A",
+          "texto": "Suspender todas as medicações 24 horas antes da cirurgia, incluindo o corticoide."
+        },
+        {
+          "id": "B",
+          "texto": "Manter varfarina e AAS para evitar eventos tromboembólicos no perioperatório."
+        },
+        {
+          "id": "C",
+          "texto": "Suspender varfarina 3–5 dias antes (e AAS conforme avaliação de risco trombótico/hemorrágico); manter corticoide (risco de insuficiência adrenal), com transição para hidrocortisona EV se via oral indisponível; suspender diurético no dia da cirurgia e metformina no dia, com correção de hiperglicemia por insulina regular."
+        },
+        {
+          "id": "D",
+          "texto": "Manter metformina inclusive no dia da cirurgia para evitar hiperglicemia."
+        },
+        {
+          "id": "E",
+          "texto": "Trocar a prednisona por dexametasona oral em jejum no dia da cirurgia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Anticoagulantes/antiagregantes** aumentam risco hemorrágico e devem ser suspensos com tempo adequado (varfarina 3–5 dias). **Corticoide crônico nunca deve ser suspenso abruptamente** (risco de insuficiência adrenal) — transicionar para **hidrocortisona EV** se via oral indisponível. **Diuréticos** e **antidiabéticos orais** são suspensos no dia da cirurgia; hiperglicemia é corrigida com **insulina regular**.",
@@ -173,18 +369,42 @@
     {
       "id": "Q-T3-009",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["força tênsil", "cicatrização", "deiscência", "orientação pós-operatória"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "força tênsil",
+        "cicatrização",
+        "deiscência",
+        "orientação pós-operatória"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre a evolução temporal da força tênsil de uma ferida operatória e sua relação com os cuidados pós-operatórios, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Aos 7 dias de pós-operatório, a ferida já recuperou 100% da força tênsil da pele íntegra, podendo o paciente retomar atividades extenuantes." },
-        { "id": "B", "texto": "A força tênsil aumenta progressivamente ao longo da fase de remodelação (atingindo platô em ~90 dias e até 1–1,5 ano), porém a cicatriz alcança no máximo cerca de 80% da força tênsil da pele íntegra; a orientação de evitar esforços e cargas no pós-operatório (ex.: laparotomia) visa prevenir deiscência e hérnias incisionais." },
-        { "id": "C", "texto": "A fase inflamatória é a que confere maior força tênsil à ferida, sendo dispensável a fase de remodelação." },
-        { "id": "D", "texto": "A retirada precoce dos pontos (3º dia em qualquer região) é segura, pois a força tênsil é máxima nesse momento." },
-        { "id": "E", "texto": "Cicatrizes hipertróficas e queloides apresentam maior força tênsil que a pele normal, sendo desejáveis." }
+        {
+          "id": "A",
+          "texto": "Aos 7 dias de pós-operatório, a ferida já recuperou 100% da força tênsil da pele íntegra, podendo o paciente retomar atividades extenuantes."
+        },
+        {
+          "id": "B",
+          "texto": "A força tênsil aumenta progressivamente ao longo da fase de remodelação (atingindo platô em ~90 dias e até 1–1,5 ano), porém a cicatriz alcança no máximo cerca de 80% da força tênsil da pele íntegra; a orientação de evitar esforços e cargas no pós-operatório (ex.: laparotomia) visa prevenir deiscência e hérnias incisionais."
+        },
+        {
+          "id": "C",
+          "texto": "A fase inflamatória é a que confere maior força tênsil à ferida, sendo dispensável a fase de remodelação."
+        },
+        {
+          "id": "D",
+          "texto": "A retirada precoce dos pontos (3º dia em qualquer região) é segura, pois a força tênsil é máxima nesse momento."
+        },
+        {
+          "id": "E",
+          "texto": "Cicatrizes hipertróficas e queloides apresentam maior força tênsil que a pele normal, sendo desejáveis."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **força tênsil** evolui ao longo da remodelação, atingindo platô em torno de **90 dias** (com refinamento até 1–1,5 ano) e alcançando no máximo **~80%** da força da pele íntegra. Por isso, orienta-se evitar esforços e cargas no pós-operatório, especialmente em laparotomias, para prevenir **deiscência e hérnia incisional**. A retirada de pontos respeita a região (ex.: face mais precoce, MMII mais tardia). Queloide/hipertrófica são cicatrizações **patológicas**, não funcionais.",
@@ -194,18 +414,43 @@
     {
       "id": "Q-T3-010",
       "aulaOrigem": null,
-      "blocos": ["C"],
-      "eixos": ["T3", "T5"],
-      "tags": ["choque séptico", "complicação pós-operatória", "SDMO", "monitorização UTI"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "choque séptico",
+        "complicação pós-operatória",
+        "SDMO",
+        "monitorização UTI"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em 3º PO de revascularização do miocárdio, em UTI, evolui com confusão e agitação, taquicardia, aumento da necessidade de noradrenalina, oligúria, taquipneia com hipoxemia, tosse produtiva, febre 38,7 °C, leucocitose 19.000 com 10% bastões, plaquetopenia, lactato 4,5 mmol/L, acidose metabólica e consolidação no lobo médio direito ao RX. Qual a interpretação e a conduta INTEGRADAS mais apropriadas?",
       "alternativas": [
-        { "id": "A", "texto": "Quadro de íleo paralítico pós-operatório; suspender dieta e observar." },
-        { "id": "B", "texto": "Provável reação à profilaxia antitrombótica; suspender enoxaparina e reavaliar em 24h." },
-        { "id": "C", "texto": "Choque séptico de foco pulmonar (pneumonia nosocomial) com síndrome de disfunção de múltiplos órgãos (neurológica, hemodinâmica, respiratória, renal, hematológica); iniciar antibioticoterapia empírica de amplo espectro (ex.: piperacilina-tazobactam), otimização volêmica, titulação de droga vasoativa e monitorização hemodinâmica intensiva." },
-        { "id": "D", "texto": "Trata-se de delirium isolado por internação prolongada; iniciar haloperidol e suspender monitorização invasiva." },
-        { "id": "E", "texto": "Sangramento mediastinal contido; indicar reabordagem cirúrgica imediata sem antibiótico." }
+        {
+          "id": "A",
+          "texto": "Quadro de íleo paralítico pós-operatório; suspender dieta e observar."
+        },
+        {
+          "id": "B",
+          "texto": "Provável reação à profilaxia antitrombótica; suspender enoxaparina e reavaliar em 24h."
+        },
+        {
+          "id": "C",
+          "texto": "Choque séptico de foco pulmonar (pneumonia nosocomial) com síndrome de disfunção de múltiplos órgãos (neurológica, hemodinâmica, respiratória, renal, hematológica); iniciar antibioticoterapia empírica de amplo espectro (ex.: piperacilina-tazobactam), otimização volêmica, titulação de droga vasoativa e monitorização hemodinâmica intensiva."
+        },
+        {
+          "id": "D",
+          "texto": "Trata-se de delirium isolado por internação prolongada; iniciar haloperidol e suspender monitorização invasiva."
+        },
+        {
+          "id": "E",
+          "texto": "Sangramento mediastinal contido; indicar reabordagem cirúrgica imediata sem antibiótico."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O conjunto clínico-laboratorial caracteriza **choque séptico de foco pulmonar (pneumonia nosocomial)** com **síndrome de disfunção de múltiplos órgãos (SDMO)**. A conduta envolve **antibioticoterapia empírica de amplo espectro** (cobrindo Gram-negativos, anaeróbios e Gram-positivos — ex.: piperacilina-tazobactam), **otimização da DO2** (ressuscitação volêmica, droga vasoativa, transfusão se indicada) e monitorização hemodinâmica intensiva. Reconhecimento e tratamento precoces são determinantes do prognóstico.",

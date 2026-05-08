@@ -5,186 +5,420 @@
     {
       "id": "Q-20-001",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["hematúria macroscópica", "sinal de alarme", "investigação"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "hematúria macroscópica",
+        "sinal de alarme",
+        "investigação"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a hematúria macroscópica em urooncologia, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Pode ser observada por seis meses antes da investigação." },
-        { "id": "B", "texto": "É um sinal de alarme e exige investigação imediata." },
-        { "id": "C", "texto": "Em adultos jovens não fumantes, dispensa propedêutica." },
-        { "id": "D", "texto": "Só deve ser investigada se a urocultura for negativa." },
-        { "id": "E", "texto": "É definida pela presença de três hemácias por campo no exame de urina." }
+        {
+          "id": "A",
+          "texto": "Pode ser observada por seis meses antes da investigação."
+        },
+        {
+          "id": "B",
+          "texto": "É um sinal de alarme e exige investigação imediata."
+        },
+        {
+          "id": "C",
+          "texto": "Em adultos jovens não fumantes, dispensa propedêutica."
+        },
+        {
+          "id": "D",
+          "texto": "Só deve ser investigada se a urocultura for negativa."
+        },
+        {
+          "id": "E",
+          "texto": "É definida pela presença de três hemácias por campo no exame de urina."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **hematúria macroscópica** é considerada **sinal de alarme** e impõe investigação imediata, independentemente da idade ou de fatores de risco. A definição com três hemácias por campo refere-se à hematúria **microscópica**, que pode ser estratificada por risco. Infecção urinária é a causa mais comum de hematúria microscópica, mas hematúria macroscópica nunca pode ser apenas observada.",
       "referenciaAula": "Hematura macroscópica, a investigação deve ser imediata sempre, é um sinal de alarme.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 121
     },
     {
       "id": "Q-20-002",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer renal", "carcinoma de células claras", "histologia"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer renal",
+        "carcinoma de células claras",
+        "histologia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o tipo histológico mais frequente do tumor renal maligno?",
       "alternativas": [
-        { "id": "A", "texto": "Carcinoma papilar." },
-        { "id": "B", "texto": "Carcinoma cromófobo." },
-        { "id": "C", "texto": "Carcinoma de ductos de Bellini." },
-        { "id": "D", "texto": "Carcinoma de células claras." },
-        { "id": "E", "texto": "Oncocitoma." }
+        {
+          "id": "A",
+          "texto": "Carcinoma papilar."
+        },
+        {
+          "id": "B",
+          "texto": "Carcinoma cromófobo."
+        },
+        {
+          "id": "C",
+          "texto": "Carcinoma de ductos de Bellini."
+        },
+        {
+          "id": "D",
+          "texto": "Carcinoma de células claras."
+        },
+        {
+          "id": "E",
+          "texto": "Oncocitoma."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "O **carcinoma de células claras** corresponde a **70 a 90%** dos casos de câncer renal, sendo o tipo mais comum e o mais estudado, com maior arsenal terapêutico. Os carcinomas papilar e cromófobo vêm em seguida em frequência, e o carcinoma de ductos de Bellini é o **mais raro e agressivo**. O oncocitoma é um tumor benigno (com pequena fração maligna) e não é classificado como câncer renal.",
       "referenciaAula": "Disparado, o mais comum é o carcinoma de células claras. Ele é de 70 a 90% dos casos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 487
     },
     {
       "id": "Q-20-003",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer de bexiga", "tabagismo", "fatores de risco"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de bexiga",
+        "tabagismo",
+        "fatores de risco"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o principal fator de risco associado ao câncer de bexiga?",
       "alternativas": [
-        { "id": "A", "texto": "Obesidade." },
-        { "id": "B", "texto": "Hipertensão arterial sistêmica." },
-        { "id": "C", "texto": "Tabagismo." },
-        { "id": "D", "texto": "Infecção por HPV." },
-        { "id": "E", "texto": "Criptorquidia." }
+        {
+          "id": "A",
+          "texto": "Obesidade."
+        },
+        {
+          "id": "B",
+          "texto": "Hipertensão arterial sistêmica."
+        },
+        {
+          "id": "C",
+          "texto": "Tabagismo."
+        },
+        {
+          "id": "D",
+          "texto": "Infecção por HPV."
+        },
+        {
+          "id": "E",
+          "texto": "Criptorquidia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **tabagismo**, ativo ou passivo, é o principal fator de risco para câncer de bexiga, estando associado a aproximadamente **90% dos casos**. Outros fatores incluem exposição a radiação pélvica, produtos químicos, idade avançada (acima de 70 anos) e infecções crônicas do trato geniturinário. HPV está relacionado ao câncer de pênis, e criptorquidia ao câncer de testículo.",
       "referenciaAula": "Tabagismo é a principal causa, seja ele ativo ou passivo. 90% dos casos de câncer de bexiga estão associados ao tabagismo.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 930
     },
     {
       "id": "Q-20-004",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["cisto renal", "Bosniak", "classificação"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "cisto renal",
+        "Bosniak",
+        "classificação"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a classificação de Bosniak para cistos renais, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Bosniak I e II são lesões certamente malignas e exigem nefrectomia." },
-        { "id": "B", "texto": "Bosniak III tem alto potencial de malignidade (cerca de 50% dos casos), podendo demandar tratamento cirúrgico." },
-        { "id": "C", "texto": "Bosniak IV é sempre benigno e tratado conservadoramente." },
-        { "id": "D", "texto": "Cistos Bosniak 2F dispensam acompanhamento." },
-        { "id": "E", "texto": "A classificação é feita exclusivamente por ultrassom abdominal." }
+        {
+          "id": "A",
+          "texto": "Bosniak I e II são lesões certamente malignas e exigem nefrectomia."
+        },
+        {
+          "id": "B",
+          "texto": "Bosniak III tem alto potencial de malignidade (cerca de 50% dos casos), podendo demandar tratamento cirúrgico."
+        },
+        {
+          "id": "C",
+          "texto": "Bosniak IV é sempre benigno e tratado conservadoramente."
+        },
+        {
+          "id": "D",
+          "texto": "Cistos Bosniak 2F dispensam acompanhamento."
+        },
+        {
+          "id": "E",
+          "texto": "A classificação é feita exclusivamente por ultrassom abdominal."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **classificação de Bosniak** é feita por **TC ou RM** com contraste. Bosniak **I e II** são considerados benignos, **2F** exige acompanhamento por imagem a cada 6 meses, **III** tem grande potencial de malignidade (cerca de 50%) e pode requerer cirurgia (em geral nefrectomia parcial), e **IV** apresenta componente sólido e é praticamente sempre maligno, exigindo conduta cirúrgica.",
       "referenciaAula": "O BNEC 3 já tem um grande potencial de malignidade. 50% dos cistos Bennect 3 podem ser malignos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 184
     },
     {
       "id": "Q-20-005",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["angiomiolipoma", "tumor benigno", "tamanho"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "angiomiolipoma",
+        "tumor benigno",
+        "tamanho"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 45 anos, assintomática, em ultrassom de rotina apresenta lesão renal bem delimitada, com componente gorduroso, medindo 2,5 cm, compatível com angiomiolipoma. Qual a conduta mais adequada?",
       "alternativas": [
-        { "id": "A", "texto": "Nefrectomia total imediata." },
-        { "id": "B", "texto": "Nefrectomia parcial eletiva." },
-        { "id": "C", "texto": "Embolização da artéria renal." },
-        { "id": "D", "texto": "Acompanhamento clínico-radiológico." },
-        { "id": "E", "texto": "Biópsia renal percutânea." }
+        {
+          "id": "A",
+          "texto": "Nefrectomia total imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Nefrectomia parcial eletiva."
+        },
+        {
+          "id": "C",
+          "texto": "Embolização da artéria renal."
+        },
+        {
+          "id": "D",
+          "texto": "Acompanhamento clínico-radiológico."
+        },
+        {
+          "id": "E",
+          "texto": "Biópsia renal percutânea."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "O **angiomiolipoma** é um tumor renal benigno (gordura, vasos e músculo liso) e a conduta é guiada pelo **tamanho**. Lesões **menores que 4 cm** são tipicamente assintomáticas e têm baixo risco de ruptura — indica-se **acompanhamento**. Para lesões **acima de 4 cm**, considera-se tratamento (embolização da artéria nutridora ou nefrectomia parcial), pelo risco aumentado de sangramento retroperitoneal.",
       "referenciaAula": "Os angomilipomas menores do que 4 cm, a gente vai só acompanhar, porque a chance de ter ruptura ou causar qualquer tipo de problema é baixa.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 304
     },
     {
       "id": "Q-20-006",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["tumor renal", "diagnóstico", "biópsia"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "tumor renal",
+        "diagnóstico",
+        "biópsia"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o diagnóstico do câncer de rim, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "A biópsia renal percutânea é exigida em todos os casos antes da cirurgia." },
-        { "id": "B", "texto": "O padrão-ouro diagnóstico é o ultrassom Doppler de rins." },
-        { "id": "C", "texto": "A tomografia computadorizada é o padrão-ouro e permite estadiamento, sendo a biópsia reservada a situações especiais." },
-        { "id": "D", "texto": "A PET-CT é o exame inicial para investigação de massa renal." },
-        { "id": "E", "texto": "Toda massa renal suspeita exige cintilografia óssea de imediato." }
+        {
+          "id": "A",
+          "texto": "A biópsia renal percutânea é exigida em todos os casos antes da cirurgia."
+        },
+        {
+          "id": "B",
+          "texto": "O padrão-ouro diagnóstico é o ultrassom Doppler de rins."
+        },
+        {
+          "id": "C",
+          "texto": "A tomografia computadorizada é o padrão-ouro e permite estadiamento, sendo a biópsia reservada a situações especiais."
+        },
+        {
+          "id": "D",
+          "texto": "A PET-CT é o exame inicial para investigação de massa renal."
+        },
+        {
+          "id": "E",
+          "texto": "Toda massa renal suspeita exige cintilografia óssea de imediato."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **TC de abdome** com contraste é o **padrão-ouro** para diagnóstico e estadiamento do tumor renal. A RM auxilia em casos de suspeita de invasão de veia renal/cava (trombo tumoral). A **biópsia não é rotina** e fica reservada a situações como suspeita de linfoma renal, oncocitoma, tumores bilaterais ou pacientes que farão apenas terapia sistêmica sem cirurgia.",
       "referenciaAula": "A tomografia é o padrão ouro para você fazer o diagnóstico e também já estadiar esse paciente. Não é necessário fazer biópsia, a não ser salvos algumas situações muito especiais.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 510
     },
     {
       "id": "Q-20-007",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer de bexiga", "BCG", "RTU", "não músculo invasivo"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de bexiga",
+        "BCG",
+        "RTU",
+        "não músculo invasivo"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 68 anos, tabagista, com hematúria macroscópica. RTU de bexiga revela carcinoma urotelial T1, alto grau. Qual o tratamento adjuvante mais apropriado?",
       "alternativas": [
-        { "id": "A", "texto": "Apenas observação clínica e cistoscopia anual." },
-        { "id": "B", "texto": "Cistoprostatectomia radical de imediato." },
-        { "id": "C", "texto": "Quimioterapia sistêmica como primeira linha." },
-        { "id": "D", "texto": "Re-RTU em 4 a 6 semanas e BCG intravesical com indução e manutenção por 3 anos." },
-        { "id": "E", "texto": "Radioterapia pélvica isolada." }
+        {
+          "id": "A",
+          "texto": "Apenas observação clínica e cistoscopia anual."
+        },
+        {
+          "id": "B",
+          "texto": "Cistoprostatectomia radical de imediato."
+        },
+        {
+          "id": "C",
+          "texto": "Quimioterapia sistêmica como primeira linha."
+        },
+        {
+          "id": "D",
+          "texto": "Re-RTU em 4 a 6 semanas e BCG intravesical com indução e manutenção por 3 anos."
+        },
+        {
+          "id": "E",
+          "texto": "Radioterapia pélvica isolada."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "Tumores **T1 (não músculo invasivos)** exigem **re-RTU em cerca de 4 a 6 semanas** para reavaliar a profundidade. Tratando-se de alto risco, indica-se **BCG intravesical**: indução de 6 doses semanais e manutenção por **3 anos** (mensal no 1º ano, trimestral no 2º e semestral no 3º). Cistectomia radical fica reservada para falha de BCG, recidiva ou impossibilidade de ressecção completa.",
       "referenciaAula": "Nos tumores T1, é obrigatório a gente fazer uma re-RTU. Nos de alto risco, BCG indução por 6 semanas e manutenção por 3 anos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1332
     },
     {
       "id": "Q-20-008",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer de testículo", "orquiectomia", "via inguinal"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de testículo",
+        "orquiectomia",
+        "via inguinal"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 28 anos, palpa nódulo indolor em testículo direito há 2 meses, com aumento progressivo. USG confirma lesão sólida testicular. Qual a conduta inicial?",
       "alternativas": [
-        { "id": "A", "texto": "Biópsia transescrotal da lesão testicular." },
-        { "id": "B", "texto": "Orquiectomia radical por via inguinal com ligadura alta do cordão espermático." },
-        { "id": "C", "texto": "Punção aspirativa por agulha fina e seguimento." },
-        { "id": "D", "texto": "Quimioterapia neoadjuvante antes de qualquer cirurgia." },
-        { "id": "E", "texto": "Acompanhamento clínico com ultrassom semestral." }
+        {
+          "id": "A",
+          "texto": "Biópsia transescrotal da lesão testicular."
+        },
+        {
+          "id": "B",
+          "texto": "Orquiectomia radical por via inguinal com ligadura alta do cordão espermático."
+        },
+        {
+          "id": "C",
+          "texto": "Punção aspirativa por agulha fina e seguimento."
+        },
+        {
+          "id": "D",
+          "texto": "Quimioterapia neoadjuvante antes de qualquer cirurgia."
+        },
+        {
+          "id": "E",
+          "texto": "Acompanhamento clínico com ultrassom semestral."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Em suspeita de **câncer de testículo**, a conduta padrão é **orquiectomia radical por via inguinal**, com retirada do testículo, epidídimo e cordão espermático até o anel inguinal interno. Não se faz biópsia transescrotal — há risco de disseminação e alteração da drenagem linfática. A cirurgia confirma o tipo histológico e orienta o estadiamento, complementado por TC de abdome/tórax e marcadores (beta-hCG, AFP, LDH).",
       "referenciaAula": "Quando você suspeita de câncer de testículo, você já parte direto pro tratamento cirúrgico, que é a orquectomia radical via inguinal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1711
     },
     {
       "id": "Q-20-009",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer de bexiga", "músculo invasivo", "cistoprostatectomia", "estadiamento"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de bexiga",
+        "músculo invasivo",
+        "cistoprostatectomia",
+        "estadiamento"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 65 anos, hematúria macroscópica. RTU evidencia carcinoma urotelial **T2**, com invasão do músculo detrusor. TC sem evidência de metástase a distância e sem linfonodomegalia. Qual a estratégia terapêutica de PRIMEIRA escolha?",
       "alternativas": [
-        { "id": "A", "texto": "Repetir RTU e iniciar BCG intravesical com manutenção por 3 anos." },
-        { "id": "B", "texto": "Cistectomia higiênica com finalidade paliativa." },
-        { "id": "C", "texto": "Cistoprostatectomia radical com linfadenectomia pélvica, idealmente precedida por quimioterapia neoadjuvante." },
-        { "id": "D", "texto": "Apenas radioterapia pélvica isolada." },
-        { "id": "E", "texto": "Imunoterapia sistêmica isolada como primeira linha." }
+        {
+          "id": "A",
+          "texto": "Repetir RTU e iniciar BCG intravesical com manutenção por 3 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Cistectomia higiênica com finalidade paliativa."
+        },
+        {
+          "id": "C",
+          "texto": "Cistoprostatectomia radical com linfadenectomia pélvica, idealmente precedida por quimioterapia neoadjuvante."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas radioterapia pélvica isolada."
+        },
+        {
+          "id": "E",
+          "texto": "Imunoterapia sistêmica isolada como primeira linha."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Câncer de bexiga **músculo invasivo (T2)** não responde a tratamento intravesical. A primeira opção, com intenção curativa, é **cistoprostatectomia radical com linfadenectomia pélvica** (no homem) ou exenteração pélvica anterior (na mulher), **preferencialmente precedida por quimioterapia neoadjuvante**. A trimodal (RTU máxima + RT + QT) é alternativa para preservação de órgão em pacientes inelegíveis para cirurgia. Cistectomia higiênica é paliativa, não curativa.",
@@ -194,23 +428,50 @@
     {
       "id": "Q-20-010",
       "aulaOrigem": 20,
-      "blocos": ["H", "G"],
-      "eixos": ["T6"],
-      "tags": ["câncer de pênis", "linfadenectomia inguinal", "HPV", "estadiamento"],
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de pênis",
+        "linfadenectomia inguinal",
+        "HPV",
+        "estadiamento"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 58 anos, fimose crônica e má higiene, com lesão verrucosa ulcerada na glande há 8 meses. Biópsia: carcinoma epidermoide invasivo. Exame físico: linfonodos inguinais palpáveis, móveis, bilaterais. TC sem metástase a distância. Qual a conduta cirúrgica adicional, além da cirurgia do tumor primário?",
       "alternativas": [
-        { "id": "A", "texto": "Apenas observação dos linfonodos com reavaliação em 3 meses." },
-        { "id": "B", "texto": "Antibioticoterapia prolongada antes de qualquer ato cirúrgico linfonodal." },
-        { "id": "C", "texto": "Linfadenectomia inguinal (superficial e profunda); se houver acometimento, complementar com linfadenectomia pélvica." },
-        { "id": "D", "texto": "Quimioterapia paliativa exclusiva, sem abordagem linfonodal." },
-        { "id": "E", "texto": "Radioterapia inguinal isolada como primeira linha." }
+        {
+          "id": "A",
+          "texto": "Apenas observação dos linfonodos com reavaliação em 3 meses."
+        },
+        {
+          "id": "B",
+          "texto": "Antibioticoterapia prolongada antes de qualquer ato cirúrgico linfonodal."
+        },
+        {
+          "id": "C",
+          "texto": "Linfadenectomia inguinal (superficial e profunda); se houver acometimento, complementar com linfadenectomia pélvica."
+        },
+        {
+          "id": "D",
+          "texto": "Quimioterapia paliativa exclusiva, sem abordagem linfonodal."
+        },
+        {
+          "id": "E",
+          "texto": "Radioterapia inguinal isolada como primeira linha."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "No **câncer de pênis** com **linfonodos inguinais palpáveis** (ou identificados em imagem), a conduta é **linfadenectomia inguinal superficial e profunda**. Se houver acometimento, **complementa-se com linfadenectomia pélvica**. Os linfonodos inguinais são o principal sítio de metástase. HPV (especialmente subtipos 16 e 18), fimose e má higiene são fatores de risco bem estabelecidos. Observação não é segura quando há linfonodos clinicamente positivos.",
       "referenciaAula": "Quando você palpa linfonodo, parte para tratamento cirúrgico: linfadenectomia inguinal superficial e profunda. Se tiver acometimento, parte pra linfadenectomia pélvica.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 2164
     }
   ]
 }

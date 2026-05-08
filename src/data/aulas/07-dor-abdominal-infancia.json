@@ -5,212 +5,472 @@
     {
       "id": "Q-07-001",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["semiologia", "dor que preocupa", "sinais de alarme"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "semiologia",
+        "dor que preocupa",
+        "sinais de alarme"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a dor abdominal aguda na infância, qual característica é considerada um SINAL DE ALARME (\"dor que preocupa\")?",
       "alternativas": [
-        { "id": "A", "texto": "Dor leve referida apenas quando a mãe pede para escovar os dentes." },
-        { "id": "B", "texto": "Dor que aparece somente em situações de contrariedade ou disciplina." },
-        { "id": "C", "texto": "Dor que interrompe brincadeiras habituais ou desperta a criança durante o sono." },
-        { "id": "D", "texto": "Dor que cede integralmente ao oferecer alimento favorito." },
-        { "id": "E", "texto": "Dor relatada apenas em ambiente escolar." }
+        {
+          "id": "A",
+          "texto": "Dor leve referida apenas quando a mãe pede para escovar os dentes."
+        },
+        {
+          "id": "B",
+          "texto": "Dor que aparece somente em situações de contrariedade ou disciplina."
+        },
+        {
+          "id": "C",
+          "texto": "Dor que interrompe brincadeiras habituais ou desperta a criança durante o sono."
+        },
+        {
+          "id": "D",
+          "texto": "Dor que cede integralmente ao oferecer alimento favorito."
+        },
+        {
+          "id": "E",
+          "texto": "Dor relatada apenas em ambiente escolar."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **dor que preocupa** é aquela que **interrompe brincadeiras** ou **acorda a criança à noite**, ao contrário da dor de fundo psicológico/manipulador. Outras características de alarme são dor súbita intermitente (sugere torção/isquemia) e dor associada a vômitos biliosos, sangramento intestinal ou comprometimento sistêmico.",
       "referenciaAula": "A dor que interrompe as brincadeiras normais, a dor que eventualmente acorda a criança de noite, essa é a dor que preocupa.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 184
     },
     {
       "id": "Q-07-002",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["hérnia inguinal encarcerada", "obstrução intestinal", "exame físico"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "hérnia inguinal encarcerada",
+        "obstrução intestinal",
+        "exame físico"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Em crianças de qualquer faixa etária, qual é a principal causa de obstrução intestinal a ser sempre lembrada e investigada ao exame físico?",
       "alternativas": [
-        { "id": "A", "texto": "Volvo de sigmoide." },
-        { "id": "B", "texto": "Hérnia inguinal encarcerada." },
-        { "id": "C", "texto": "Bolo de áscaris." },
-        { "id": "D", "texto": "Bridas pós-operatórias." },
-        { "id": "E", "texto": "Doença de Crohn." }
+        {
+          "id": "A",
+          "texto": "Volvo de sigmoide."
+        },
+        {
+          "id": "B",
+          "texto": "Hérnia inguinal encarcerada."
+        },
+        {
+          "id": "C",
+          "texto": "Bolo de áscaris."
+        },
+        {
+          "id": "D",
+          "texto": "Bridas pós-operatórias."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Crohn."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **hérnia inguinal encarcerada** é a **principal causa de obstrução intestinal em crianças de todas as idades**, e por isso é fundamental **tirar a roupa da criança** e examinar a região inguinal. As demais causas listadas são bem mais raras nessa faixa etária.",
       "referenciaAula": "A hérnia inguinal encarcerada é a principal causa de obstrução intestinal nas crianças de todas as idades. Sempre importante lembrar de tirar a roupa da criança.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 723
     },
     {
       "id": "Q-07-003",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["apendicite", "epidemiologia", "faixa etária"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "epidemiologia",
+        "faixa etária"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a principal causa de dor abdominal CIRÚRGICA na infância e em qual faixa etária ela é mais frequente?",
       "alternativas": [
-        { "id": "A", "texto": "Invaginação intestinal, em crianças de 5 a 12 anos." },
-        { "id": "B", "texto": "Estenose hipertrófica do piloro, em escolares." },
-        { "id": "C", "texto": "Apendicite aguda, principalmente entre 5 e 12 anos." },
-        { "id": "D", "texto": "Atresia intestinal, na fase pré-escolar." },
-        { "id": "E", "texto": "Divertículo de Meckel, em adolescentes." }
+        {
+          "id": "A",
+          "texto": "Invaginação intestinal, em crianças de 5 a 12 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Estenose hipertrófica do piloro, em escolares."
+        },
+        {
+          "id": "C",
+          "texto": "Apendicite aguda, principalmente entre 5 e 12 anos."
+        },
+        {
+          "id": "D",
+          "texto": "Atresia intestinal, na fase pré-escolar."
+        },
+        {
+          "id": "E",
+          "texto": "Divertículo de Meckel, em adolescentes."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **apendicite aguda** é a **causa mais comum de dor abdominal cirúrgica na infância**, com pico entre **5 e 12 anos** (idade pré-escolar/escolar). Em lactentes pequenos é rara — nessa faixa as causas mais prováveis são hérnia encarcerada, invaginação ou volvo do intestino médio.",
       "referenciaAula": "A apendicite aguda é a causa mais comum de dor abdominal cirúrgica na infância, ocorre principalmente entre 5 e 12 anos de idade.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1595
     },
     {
       "id": "Q-07-004",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["invaginação intestinal", "tríade clínica", "lactente"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "invaginação intestinal",
+        "tríade clínica",
+        "lactente"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Lactente de 6 meses apresenta há 12 horas episódios súbitos de dor em cólica, choro intenso, vômitos e, há 1 hora, eliminação de fezes com sangue. Qual o diagnóstico mais provável?",
       "alternativas": [
-        { "id": "A", "texto": "Apendicite aguda." },
-        { "id": "B", "texto": "Estenose hipertrófica do piloro." },
-        { "id": "C", "texto": "Gastroenterite viral." },
-        { "id": "D", "texto": "Invaginação intestinal." },
-        { "id": "E", "texto": "Refluxo gastroesofágico." }
+        {
+          "id": "A",
+          "texto": "Apendicite aguda."
+        },
+        {
+          "id": "B",
+          "texto": "Estenose hipertrófica do piloro."
+        },
+        {
+          "id": "C",
+          "texto": "Gastroenterite viral."
+        },
+        {
+          "id": "D",
+          "texto": "Invaginação intestinal."
+        },
+        {
+          "id": "E",
+          "texto": "Refluxo gastroesofágico."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "A **invaginação intestinal** classicamente acomete lactentes em torno de **6 meses** e cursa com **dor súbita intermitente em cólica**, vômitos e **sangramento intestinal** por sofrimento vascular da alça invaginada. O diagnóstico pode ser confirmado por **ultrassom** e o tratamento (radiológico ou cirúrgico) deve ser instituído de urgência para evitar necrose.",
       "referenciaAula": "Criança de 6 meses com quadro de dor abdominal em cólica que evolui com sangramento intestinal e quadro de obstrução intestinal, até prova em contrário, ela tem uma invaginação intestinal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1531
     },
     {
       "id": "Q-07-005",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["estenose hipertrófica do piloro", "vômitos não biliosos", "diagnóstico diferencial"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "estenose hipertrófica do piloro",
+        "vômitos não biliosos",
+        "diagnóstico diferencial"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Lactente de 4 semanas, previamente hígido, apresenta vômitos em jato NÃO biliosos após mamadas, com perda de peso. Qual diagnóstico deve ser ativamente afastado e qual o exame de escolha?",
       "alternativas": [
-        { "id": "A", "texto": "Atresia duodenal — radiografia simples de abdome." },
-        { "id": "B", "texto": "Invaginação intestinal — enema opaco." },
-        { "id": "C", "texto": "Estenose hipertrófica do piloro — ultrassonografia abdominal." },
-        { "id": "D", "texto": "Volvo do intestino médio — tomografia de abdome." },
-        { "id": "E", "texto": "Doença de Hirschsprung — manometria anorretal." }
+        {
+          "id": "A",
+          "texto": "Atresia duodenal — radiografia simples de abdome."
+        },
+        {
+          "id": "B",
+          "texto": "Invaginação intestinal — enema opaco."
+        },
+        {
+          "id": "C",
+          "texto": "Estenose hipertrófica do piloro — ultrassonografia abdominal."
+        },
+        {
+          "id": "D",
+          "texto": "Volvo do intestino médio — tomografia de abdome."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Hirschsprung — manometria anorretal."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Vômitos **não biliosos** (obstrução proximal à ampola de Vater) em lactente de **3-4 semanas** com parada de ganho ponderal sugerem **estenose hipertrófica do piloro**. O principal diferencial é refluxo gastroesofágico, mas a **ultrassonografia** confirma o diagnóstico e o tratamento é cirúrgico simples; sem tratamento, há risco de distúrbio metabólico grave.",
       "referenciaAula": "Estenose hipertrófica do piloro: vômitos não biliosos, ocorre na faixa etária de 3 a 4 semanas de vida. O diagnóstico é facilmente confirmado através de uma ultrassonografia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1392
     },
     {
       "id": "Q-07-006",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["vômito bilioso neonatal", "obstrução intestinal", "má rotação"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "vômito bilioso neonatal",
+        "obstrução intestinal",
+        "má rotação"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Recém-nascido com 4 dias de vida apresenta vômitos biliosos. Qual a interpretação CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Trata-se provavelmente de intolerância à lactose; pode ser observado ambulatorialmente." },
-        { "id": "B", "texto": "Vômito bilioso no período neonatal equivale a obstrução intestinal até prova em contrário." },
-        { "id": "C", "texto": "É achado fisiológico esperado em recém-nascidos amamentados." },
-        { "id": "D", "texto": "Provável refluxo gastroesofágico; iniciar antiácido e reavaliar em 30 dias." },
-        { "id": "E", "texto": "Sugere apendicite neonatal; indicar laparotomia imediata." }
+        {
+          "id": "A",
+          "texto": "Trata-se provavelmente de intolerância à lactose; pode ser observado ambulatorialmente."
+        },
+        {
+          "id": "B",
+          "texto": "Vômito bilioso no período neonatal equivale a obstrução intestinal até prova em contrário."
+        },
+        {
+          "id": "C",
+          "texto": "É achado fisiológico esperado em recém-nascidos amamentados."
+        },
+        {
+          "id": "D",
+          "texto": "Provável refluxo gastroesofágico; iniciar antiácido e reavaliar em 30 dias."
+        },
+        {
+          "id": "E",
+          "texto": "Sugere apendicite neonatal; indicar laparotomia imediata."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Vômito bilioso no período neonatal = obstrução intestinal** até prova em contrário. As principais causas são **atresias intestinais**, **má rotação com volvo do intestino médio** e outras malformações. Nunca atribuir a intolerância alimentar — o atraso diagnóstico em volvo de intestino médio pode levar a **necrose de praticamente todo o intestino**.",
       "referenciaAula": "Com uma criança que vomita bilioso no período neonatal, nós nunca vamos pensar que essa criança teve uma intolerância alimentar. Vômito bilioso no período neonatal é igual obstrução intestinal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 360
     },
     {
       "id": "Q-07-007",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["radiologia", "abdome agudo", "níveis hidroaéreos"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "radiologia",
+        "abdome agudo",
+        "níveis hidroaéreos"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Na investigação radiológica do abdome agudo na criança, qual conduta é mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Solicitar de rotina tomografia computadorizada de abdome com contraste, por sua maior acurácia." },
-        { "id": "B", "texto": "Solicitar radiografia de abdome em decúbito e em ortostase (ou decúbito lateral com raios horizontais), buscando alças dilatadas e níveis hidroaéreos." },
-        { "id": "C", "texto": "Solicitar trânsito intestinal contrastado por via oral como exame inicial." },
-        { "id": "D", "texto": "Apenas radiografia em decúbito é suficiente, pois identifica todos os sinais relevantes." },
-        { "id": "E", "texto": "Radiografia simples não tem valor; apenas o ultrassom deve ser solicitado." }
+        {
+          "id": "A",
+          "texto": "Solicitar de rotina tomografia computadorizada de abdome com contraste, por sua maior acurácia."
+        },
+        {
+          "id": "B",
+          "texto": "Solicitar radiografia de abdome em decúbito e em ortostase (ou decúbito lateral com raios horizontais), buscando alças dilatadas e níveis hidroaéreos."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar trânsito intestinal contrastado por via oral como exame inicial."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas radiografia em decúbito é suficiente, pois identifica todos os sinais relevantes."
+        },
+        {
+          "id": "E",
+          "texto": "Radiografia simples não tem valor; apenas o ultrassom deve ser solicitado."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A avaliação radiológica do abdome agudo pediátrico inicia-se com **radiografia em decúbito e em ortostase** (ou **decúbito lateral esquerdo com raios horizontais** quando a criança não fica em pé), buscando **alças dilatadas, níveis hidroaéreos** e **pneumoperitônio**. **Tomografia** deve ser excepcional na urgência pelo risco de radiação cumulativa; **contraste oral** é arriscado por aspiração se a criança for operada.",
       "referenciaAula": "Sempre fazer o raio X com a criança deitada e depois um raio X na posição ortostática para verificar a eventual presença de níveis hidroaéreos.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 961
     },
     {
       "id": "Q-07-008",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["exame físico", "causas extra-abdominais", "abordagem geral"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "exame físico",
+        "causas extra-abdominais",
+        "abordagem geral"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em uma criança que chega ao pronto-socorro com queixa de dor abdominal, por que é fundamental realizar o exame físico GERAL antes do exame abdominal?",
       "alternativas": [
-        { "id": "A", "texto": "Porque a maioria das dores abdominais em crianças tem origem em causas extra-abdominais (IVAS, pneumonia, pioartrite de quadril, etc.)." },
-        { "id": "B", "texto": "Porque o exame abdominal é desnecessário se houver febre." },
-        { "id": "C", "texto": "Porque a palpação abdominal é contraindicada em crianças pré-escolares." },
-        { "id": "D", "texto": "Porque o exame geral substitui a anamnese complementar." },
-        { "id": "E", "texto": "Porque os exames laboratoriais já fornecem o diagnóstico definitivo." }
+        {
+          "id": "A",
+          "texto": "Porque a maioria das dores abdominais em crianças tem origem em causas extra-abdominais (IVAS, pneumonia, pioartrite de quadril, etc.)."
+        },
+        {
+          "id": "B",
+          "texto": "Porque o exame abdominal é desnecessário se houver febre."
+        },
+        {
+          "id": "C",
+          "texto": "Porque a palpação abdominal é contraindicada em crianças pré-escolares."
+        },
+        {
+          "id": "D",
+          "texto": "Porque o exame geral substitui a anamnese complementar."
+        },
+        {
+          "id": "E",
+          "texto": "Porque os exames laboratoriais já fornecem o diagnóstico definitivo."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "Mais de **70% das dores abdominais na criança** têm origem **extra-abdominal** (IVAS, pneumonia de base, meningite, pioartrite de quadril, psoíte, arboviroses). O exame geral também avalia o **estado geral** (perfusão, palidez, FC, FR) e estabelece **vínculo** com a criança para permitir um exame abdominal adequado.",
       "referenciaAula": "Mais de 70% das causas da dor abdominal são extra-abdominais. IVAS, pneumonia, meningite, pioartrite de quadril podem estar associadas com quadro de dor abdominal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 575
     },
     {
       "id": "Q-07-009",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["má rotação intestinal", "volvo do intestino médio", "dor súbita intermitente"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "má rotação intestinal",
+        "volvo do intestino médio",
+        "dor súbita intermitente"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Menino de 3 anos apresenta há 6 meses episódios recorrentes de dor abdominal súbita e intermitente que cedem espontaneamente, sem cirurgias prévias. Hoje retorna com dor contínua intensa, vômitos biliosos, distensão e palidez. Qual a hipótese diagnóstica MAIS preocupante e sua justificativa?",
       "alternativas": [
-        { "id": "A", "texto": "Constipação funcional, pois é causa frequente de dor recorrente." },
-        { "id": "B", "texto": "Apendicite aguda, justificada pela dor contínua atual." },
-        { "id": "C", "texto": "Má rotação intestinal com volvo do intestino médio — anomalia anatômica que predispõe a episódios intermitentes de torção/distorção e que pode evoluir com torção fixa e necrose extensa." },
-        { "id": "D", "texto": "Gastroenterite por rotavírus, dada a história de episódios prévios." },
-        { "id": "E", "texto": "Estenose hipertrófica do piloro, por vômitos repetidos." }
+        {
+          "id": "A",
+          "texto": "Constipação funcional, pois é causa frequente de dor recorrente."
+        },
+        {
+          "id": "B",
+          "texto": "Apendicite aguda, justificada pela dor contínua atual."
+        },
+        {
+          "id": "C",
+          "texto": "Má rotação intestinal com volvo do intestino médio — anomalia anatômica que predispõe a episódios intermitentes de torção/distorção e que pode evoluir com torção fixa e necrose extensa."
+        },
+        {
+          "id": "D",
+          "texto": "Gastroenterite por rotavírus, dada a história de episódios prévios."
+        },
+        {
+          "id": "E",
+          "texto": "Estenose hipertrófica do piloro, por vômitos repetidos."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Episódios prévios semelhantes** sugerem **substrato anatômico** (vício de rotação, hérnia interna). A **má rotação intestinal** predispõe ao **volvo do intestino médio**, que pode \"ir e voltar\" gerando **dor súbita intermitente com vômitos** — e, quando a torção se fixa, leva a **necrose de praticamente todo o intestino**. Trata-se de uma das emergências mais graves; constipação, apendicite e gastroenterite não explicam o conjunto.",
       "referenciaAula": "A má rotação intestinal predispõe a um volvo, dor abdominal intermitente e súbita que desaparece e que eventualmente evolui por um quadro fixo com torção do intestino médio inteiro e necrose.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1892
     },
     {
       "id": "Q-07-010",
       "aulaOrigem": 7,
-      "blocos": ["D", "A"],
-      "eixos": ["T1"],
-      "tags": ["observação clínica", "indicação cirúrgica", "sinais de alarme"],
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "observação clínica",
+        "indicação cirúrgica",
+        "sinais de alarme"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Menina de 8 anos é mantida em observação clínica seriada por suspeita de apendicite. Durante a reavaliação, evolui com piora da dor, distensão abdominal acentuada, vômitos biliosos, instabilidade hemodinâmica e suspeita de invaginação no ultrassom. Qual a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter observação clínica por mais 24 horas, pois a observação seriada por mesmo examinador é o padrão-ouro." },
-        { "id": "B", "texto": "Suspender observação e indicar avaliação cirúrgica de urgência (laparoscopia diagnóstica/terapêutica), pois há sinais de alarme, suspeita de invaginação e instabilidade — situações em que a observação NÃO está indicada." },
-        { "id": "C", "texto": "Solicitar tomografia computadorizada com contraste oral antes de qualquer conduta." },
-        { "id": "D", "texto": "Iniciar antibioticoterapia empírica e reavaliar em 12 horas." },
-        { "id": "E", "texto": "Encaminhar para enema opaco terapêutico sem nova avaliação cirúrgica." }
+        {
+          "id": "A",
+          "texto": "Manter observação clínica por mais 24 horas, pois a observação seriada por mesmo examinador é o padrão-ouro."
+        },
+        {
+          "id": "B",
+          "texto": "Suspender observação e indicar avaliação cirúrgica de urgência (laparoscopia diagnóstica/terapêutica), pois há sinais de alarme, suspeita de invaginação e instabilidade — situações em que a observação NÃO está indicada."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar tomografia computadorizada com contraste oral antes de qualquer conduta."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar antibioticoterapia empírica e reavaliar em 12 horas."
+        },
+        {
+          "id": "E",
+          "texto": "Encaminhar para enema opaco terapêutico sem nova avaliação cirúrgica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **observação clínica** não deve ser realizada quando há **suspeita de volvo ou invaginação** (risco de necrose), **paciente instável ou em piora**, ou ausência de especialista experiente. **Vômitos biliosos, distensão importante, sinais de peritonite e instabilidade** são indicações de avaliação cirúrgica imediata; a **laparoscopia** pode ser diagnóstica e terapêutica. TC com contraste oral é arriscada (aspiração) e atrasa a conduta.",
       "referenciaAula": "Quando que você não deve observar? Suspeita de volvo ou invaginação, porque pode estar evoluindo necrose. Se o paciente tiver instável ou piorando.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 2044
     }
   ]
 }

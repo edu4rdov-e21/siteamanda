@@ -5,39 +5,90 @@
     {
       "id": "Q-T7-001",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["nódulo pulmonar", "derrame pleural", "metástase", "investigação"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "nódulo pulmonar",
+        "derrame pleural",
+        "metástase",
+        "investigação"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher de 62 anos, ex-tabagista (35 anos-maço), apresenta tosse seca e dispneia progressiva há 1 mês. Tomografia mostra nódulo espiculado de 2,8 cm no lobo superior direito e derrame pleural ipsilateral moderado. Qual a sequência de investigação MAIS adequada?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar quimioterapia empírica antes de qualquer biópsia, dada a alta suspeita de neoplasia." },
-        { "id": "B", "texto": "Toracocentese diagnóstica com citologia oncótica e bioquímica do líquido, complementada por biópsia do nódulo (transtorácica ou broncoscópica)." },
-        { "id": "C", "texto": "Drenagem pleural fechada imediata e aguardar resolução espontânea do nódulo." },
-        { "id": "D", "texto": "Solicitar PET-CT e suspender qualquer abordagem invasiva até estadiamento completo." },
-        { "id": "E", "texto": "Realizar traqueostomia profilática antes de qualquer procedimento torácico." }
+        {
+          "id": "A",
+          "texto": "Iniciar quimioterapia empírica antes de qualquer biópsia, dada a alta suspeita de neoplasia."
+        },
+        {
+          "id": "B",
+          "texto": "Toracocentese diagnóstica com citologia oncótica e bioquímica do líquido, complementada por biópsia do nódulo (transtorácica ou broncoscópica)."
+        },
+        {
+          "id": "C",
+          "texto": "Drenagem pleural fechada imediata e aguardar resolução espontânea do nódulo."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar PET-CT e suspender qualquer abordagem invasiva até estadiamento completo."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar traqueostomia profilática antes de qualquer procedimento torácico."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A presença de nódulo espiculado >2 cm em paciente de alto risco já indica forte suspeição de malignidade, e o derrame pleural ipsilateral pode representar doença avançada (M1a, derrame maligno). A **toracocentese** é útil em até 92% dos casos e fecha diagnóstico em 50-87%, com citologia oncótica para neoplasia. A **biópsia do nódulo** (broncoscopia/punção transtorácica) é necessária para definição histológica e tratamento. A combinação confirma neoplasia e estadia simultaneamente.",
       "referenciaAula": "Toracocentese é útil em 92% dos pacientes; nódulo espiculado >2 cm tem ~80% de chance de malignidade.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 24,
+      "videoStartSec": 492
     },
     {
       "id": "Q-T7-002",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7"],
-      "tags": ["traqueostomia", "drenagem pleural", "ventilação mecânica", "complicações"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "traqueostomia",
+        "drenagem pleural",
+        "ventilação mecânica",
+        "complicações"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 70 anos, internado em UTI por pneumonia grave, intubado há 18 dias e com derrame parapneumônico complicado em hemitórax direito drenado por dreno torácico. Apresenta secreção traqueal abundante e desmame ventilatório difícil. Qual conduta combinada é MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter intubação orotraqueal indefinidamente e retirar o dreno torácico para facilitar mobilização." },
-        { "id": "B", "texto": "Realizar traqueostomia para facilitar aspiração de secreções e desmame, mantendo o dreno em selo d'água até resolução do derrame." },
-        { "id": "C", "texto": "Extubar imediatamente e converter o dreno para drenagem aberta." },
-        { "id": "D", "texto": "Indicar pleurostomia e cricotireoidostomia eletiva." },
-        { "id": "E", "texto": "Realizar pleurectomia decorticação antes de qualquer abordagem das vias aéreas." }
+        {
+          "id": "A",
+          "texto": "Manter intubação orotraqueal indefinidamente e retirar o dreno torácico para facilitar mobilização."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar traqueostomia para facilitar aspiração de secreções e desmame, mantendo o dreno em selo d'água até resolução do derrame."
+        },
+        {
+          "id": "C",
+          "texto": "Extubar imediatamente e converter o dreno para drenagem aberta."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar pleurostomia e cricotireoidostomia eletiva."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar pleurectomia decorticação antes de qualquer abordagem das vias aéreas."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Em ventilação mecânica prolongada (>14 dias), a **traqueostomia** facilita aspiração de secreções, protege a via aérea e previne estenose de glote pelo balonete prolongado. O **derrame parapneumônico complicado** mantém indicação de drenagem em selo d'água até resolução do processo infeccioso. As duas condutas são complementares no manejo torácico integrado.",
@@ -47,18 +98,43 @@
     {
       "id": "Q-T7-003",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["empiema", "neoplasia", "exsudato", "diagnóstico diferencial"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "empiema",
+        "neoplasia",
+        "exsudato",
+        "diagnóstico diferencial"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 58 anos, tabagista, com nódulo pulmonar espiculado de 3 cm em lobo inferior esquerdo e derrame pleural ipsilateral. Toracocentese: proteína 4,5 g/dL, LDH 850, predomínio linfocítico, citologia oncótica negativa, BAAR negativo. Qual a interpretação MAIS correta?",
       "alternativas": [
-        { "id": "A", "texto": "Trata-se de transudato; otimizar doença de base e dispensar nova investigação." },
-        { "id": "B", "texto": "Exsudato linfocítico; uma única citologia negativa exclui neoplasia, sendo provável derrame parapneumônico." },
-        { "id": "C", "texto": "Exsudato linfocítico em paciente com nódulo suspeito; uma citologia negativa NÃO exclui malignidade, indicar biópsia (videopleuroscopia ou biópsia do nódulo) — diagnóstico diferencial entre neoplasia e tuberculose." },
-        { "id": "D", "texto": "Realizar drenagem aberta imediatamente, pois o quadro é compatível com empiema em fase de organização." },
-        { "id": "E", "texto": "Indicar traqueostomia diagnóstica para coleta de material das vias aéreas." }
+        {
+          "id": "A",
+          "texto": "Trata-se de transudato; otimizar doença de base e dispensar nova investigação."
+        },
+        {
+          "id": "B",
+          "texto": "Exsudato linfocítico; uma única citologia negativa exclui neoplasia, sendo provável derrame parapneumônico."
+        },
+        {
+          "id": "C",
+          "texto": "Exsudato linfocítico em paciente com nódulo suspeito; uma citologia negativa NÃO exclui malignidade, indicar biópsia (videopleuroscopia ou biópsia do nódulo) — diagnóstico diferencial entre neoplasia e tuberculose."
+        },
+        {
+          "id": "D",
+          "texto": "Realizar drenagem aberta imediatamente, pois o quadro é compatível com empiema em fase de organização."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar traqueostomia diagnóstica para coleta de material das vias aéreas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Pelos critérios de Light (proteína >3 g/dL, LDH elevado), trata-se de **exsudato linfocítico**, cujos diagnósticos diferenciais principais são **neoplasia e tuberculose**. A citologia oncótica do líquido pleural tem sensibilidade limitada (uma amostra negativa NÃO exclui malignidade). A **videopleuroscopia** alcança acurácia próxima de 100% nos casos de derrame de etiologia indefinida e permite biópsia dirigida. A presença concomitante de nódulo suspeito reforça necessidade de histologia.",
@@ -68,39 +144,90 @@
     {
       "id": "Q-T7-004",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7"],
-      "tags": ["pneumotórax", "biópsia transtorácica", "complicações", "drenagem"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "pneumotórax",
+        "biópsia transtorácica",
+        "complicações",
+        "drenagem"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre as complicações da punção transtorácica guiada por tomografia para biópsia de nódulo pulmonar periférico, é CORRETO afirmar que:",
       "alternativas": [
-        { "id": "A", "texto": "O pneumotórax ocorre em cerca de 50% dos casos, mas apenas <5% destes necessitam drenagem pleural." },
-        { "id": "B", "texto": "Hemoptise maciça é a principal complicação, presente em mais de 40% dos casos." },
-        { "id": "C", "texto": "A drenagem aberta é sempre necessária após o procedimento, mesmo sem pneumotórax." },
-        { "id": "D", "texto": "O ultrassom é o método de escolha para guiar a punção, pois transmite ondas pelo ar pulmonar." },
-        { "id": "E", "texto": "A presença de pneumotórax pós-punção sempre indica toracotomia de urgência." }
+        {
+          "id": "A",
+          "texto": "O pneumotórax ocorre em cerca de 50% dos casos, mas apenas <5% destes necessitam drenagem pleural."
+        },
+        {
+          "id": "B",
+          "texto": "Hemoptise maciça é a principal complicação, presente em mais de 40% dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "A drenagem aberta é sempre necessária após o procedimento, mesmo sem pneumotórax."
+        },
+        {
+          "id": "D",
+          "texto": "O ultrassom é o método de escolha para guiar a punção, pois transmite ondas pelo ar pulmonar."
+        },
+        {
+          "id": "E",
+          "texto": "A presença de pneumotórax pós-punção sempre indica toracotomia de urgência."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "O **pneumotórax** ocorre em ~50% das punções transtorácicas, porém menos de 5% destes pacientes necessitam de **drenagem pleural** — a maioria é manejada apenas com observação. O ultrassom é limitado em pulmão por não se propagar pelo ar; a tomografia é o método preferencial de orientação. Hemoptise maciça é incomum (geralmente apenas escarros hemoptóicos).",
       "referenciaAula": "Risco de pneumotórax na punção transtorácica em torno de 50%; menos de 5% necessitam drenagem pleural.",
-      "transversal": true
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 2135
     },
     {
       "id": "Q-T7-005",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["empiema", "fases", "drenagem aberta", "tratamento"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "empiema",
+        "fases",
+        "drenagem aberta",
+        "tratamento"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente de 57 anos com pneumonia tratada inadequadamente há 3 semanas evolui com febre, dispneia e radiografia mostrando opacidade total do hemitórax direito. Tomografia revela espessamento pleural acentuado, septações múltiplas e pulmão encarcerado. Foi colocado dreno em selo d'água sem reexpansão pulmonar. Qual a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter o dreno em selo d'água por mais 30 dias e aguardar reexpansão espontânea." },
-        { "id": "B", "texto": "Realizar nova toracocentese de alívio." },
-        { "id": "C", "texto": "Indicar pleuroscopia para limpeza mecânica da cavidade ou conversão para drenagem aberta/pleurostomia, com possibilidade de decorticação se houver fibrose densa." },
-        { "id": "D", "texto": "Realizar traqueostomia para melhorar a higiene brônquica antes de qualquer abordagem pleural." },
-        { "id": "E", "texto": "Iniciar pleurodese química com talco para fechar a cavidade pleural." }
+        {
+          "id": "A",
+          "texto": "Manter o dreno em selo d'água por mais 30 dias e aguardar reexpansão espontânea."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar nova toracocentese de alívio."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar pleuroscopia para limpeza mecânica da cavidade ou conversão para drenagem aberta/pleurostomia, com possibilidade de decorticação se houver fibrose densa."
+        },
+        {
+          "id": "D",
+          "texto": "Realizar traqueostomia para melhorar a higiene brônquica antes de qualquer abordagem pleural."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar pleurodese química com talco para fechar a cavidade pleural."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O quadro descreve **empiema em fase fibrinopurulenta/organização** com pulmão encarcerado. Nesta fase a drenagem fechada é ineficaz porque o espessamento pleural impede a reexpansão. A conduta é **pleuroscopia/videotoracoscopia** para desfazer septações e limpeza mecânica; em fase organizada com fibrose, indica-se **decorticação pleural** (toracotomia). A pleurodese é contraindicada em empiema. A pleurostomia (drenagem aberta) é alternativa quando a pressão atmosférica não consegue colabar mais a cavidade.",
@@ -110,18 +237,43 @@
     {
       "id": "Q-T7-006",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["traqueostomia", "câncer de laringe", "estoma definitivo", "via aérea"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "traqueostomia",
+        "câncer de laringe",
+        "estoma definitivo",
+        "via aérea"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre as diferenças entre traqueostomia temporária e traqueostoma definitivo após laringectomia total, qual afirmação é CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Em ambos os casos é possível ventilar o paciente por intubação orotraqueal em emergências." },
-        { "id": "B", "texto": "Na traqueostomia temporária o paciente pode falar ocluindo o orifício, pois a laringe está preservada; no traqueostoma definitivo (pós-laringectomia total) a laringe foi removida e o paciente respira exclusivamente pelo estoma." },
-        { "id": "C", "texto": "A traqueostomia temporária é sempre indicada em câncer de laringe avançado." },
-        { "id": "D", "texto": "Ambas são realizadas entre o 5º e 6º anel traqueal." },
-        { "id": "E", "texto": "O traqueostoma definitivo é fechado em 30 dias após a cirurgia oncológica." }
+        {
+          "id": "A",
+          "texto": "Em ambos os casos é possível ventilar o paciente por intubação orotraqueal em emergências."
+        },
+        {
+          "id": "B",
+          "texto": "Na traqueostomia temporária o paciente pode falar ocluindo o orifício, pois a laringe está preservada; no traqueostoma definitivo (pós-laringectomia total) a laringe foi removida e o paciente respira exclusivamente pelo estoma."
+        },
+        {
+          "id": "C",
+          "texto": "A traqueostomia temporária é sempre indicada em câncer de laringe avançado."
+        },
+        {
+          "id": "D",
+          "texto": "Ambas são realizadas entre o 5º e 6º anel traqueal."
+        },
+        {
+          "id": "E",
+          "texto": "O traqueostoma definitivo é fechado em 30 dias após a cirurgia oncológica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na **traqueostomia temporária** a laringe está íntegra: ocluindo o estoma, o ar passa ao redor da cânula e o paciente fonata. No **traqueostoma definitivo** (após laringectomia total por câncer de laringe/hipofaringe) a laringe foi removida — o paciente respira exclusivamente pelo estoma, e a intubação orotraqueal não atinge a via aérea inferior. A traqueostomia padrão é feita entre o 2º e 3º anéis traqueais.",
@@ -131,18 +283,43 @@
     {
       "id": "Q-T7-007",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["nódulo pulmonar", "PET-CT", "estadiamento", "biópsia"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "nódulo pulmonar",
+        "PET-CT",
+        "estadiamento",
+        "biópsia"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 55 anos, fumante (30 anos-maço), apresenta nódulo pulmonar parcialmente sólido de 1,8 cm em lobo superior direito, com SUV de 4,2 no PET-CT. Sem derrame pleural. Sobre a conduta, é CORRETO afirmar que:",
       "alternativas": [
-        { "id": "A", "texto": "SUV >3,5 sugere alta atividade metabólica e maior risco de malignidade — está indicada confirmação histológica (biópsia broncoscópica, transtorácica ou ressecção/biópsia excisional por videocirurgia)." },
-        { "id": "B", "texto": "SUV elevado faz diagnóstico definitivo de câncer, dispensando biópsia." },
-        { "id": "C", "texto": "Indicar drenagem pleural profilática antes da biópsia." },
-        { "id": "D", "texto": "Lesões parcialmente sólidas são sempre benignas e devem ser apenas acompanhadas." },
-        { "id": "E", "texto": "Indicar traqueostomia para acesso seguro à biópsia broncoscópica em todo nódulo periférico." }
+        {
+          "id": "A",
+          "texto": "SUV >3,5 sugere alta atividade metabólica e maior risco de malignidade — está indicada confirmação histológica (biópsia broncoscópica, transtorácica ou ressecção/biópsia excisional por videocirurgia)."
+        },
+        {
+          "id": "B",
+          "texto": "SUV elevado faz diagnóstico definitivo de câncer, dispensando biópsia."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar drenagem pleural profilática antes da biópsia."
+        },
+        {
+          "id": "D",
+          "texto": "Lesões parcialmente sólidas são sempre benignas e devem ser apenas acompanhadas."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar traqueostomia para acesso seguro à biópsia broncoscópica em todo nódulo periférico."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "Lesões com **SUV >3,5** denotam atividade metabólica intensa e maior risco de malignidade, mas o PET-CT NÃO substitui a histologia (pode estar elevado em infecções/inflamações). Nódulos **parcialmente sólidos** podem corresponder a adenocarcinomas com agressividade variável e requerem confirmação. A biópsia pode ser por broncoscopia (lesões centrais), punção transtorácica (periféricas) ou biópsia excisional por videocirurgia. Não há indicação de drenagem pleural profilática nem traqueostomia para biópsia eletiva.",
@@ -152,18 +329,42 @@
     {
       "id": "Q-T7-008",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7"],
-      "tags": ["cricotireoidostomia", "via aérea", "emergência", "drenagem"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "cricotireoidostomia",
+        "via aérea",
+        "emergência",
+        "drenagem"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente politraumatizado chega ao PS com trauma facial extenso impossibilitando intubação orotraqueal, sangramento ativo em via aérea e suspeita de pneumotórax hipertensivo à direita (turgência jugular, hipotensão e murmúrio vesicular abolido). Qual a sequência de procedimentos MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Realizar primeiro a tomografia para confirmar pneumotórax e depois acessar a via aérea." },
-        { "id": "B", "texto": "Toracotomia exploradora antes de qualquer procedimento na via aérea." },
-        { "id": "C", "texto": "Acesso emergencial à via aérea por cricotireoidostomia (perfuração da membrana cricotireoidiana) e descompressão imediata do pneumotórax hipertensivo (toracocentese de alívio seguida de drenagem pleural em selo d'água)." },
-        { "id": "D", "texto": "Traqueostomia eletiva entre 2º e 3º anéis traqueais e tomografia subsequente." },
-        { "id": "E", "texto": "Pleurodese por talco após drenagem para evitar recidiva do pneumotórax." }
+        {
+          "id": "A",
+          "texto": "Realizar primeiro a tomografia para confirmar pneumotórax e depois acessar a via aérea."
+        },
+        {
+          "id": "B",
+          "texto": "Toracotomia exploradora antes de qualquer procedimento na via aérea."
+        },
+        {
+          "id": "C",
+          "texto": "Acesso emergencial à via aérea por cricotireoidostomia (perfuração da membrana cricotireoidiana) e descompressão imediata do pneumotórax hipertensivo (toracocentese de alívio seguida de drenagem pleural em selo d'água)."
+        },
+        {
+          "id": "D",
+          "texto": "Traqueostomia eletiva entre 2º e 3º anéis traqueais e tomografia subsequente."
+        },
+        {
+          "id": "E",
+          "texto": "Pleurodese por talco após drenagem para evitar recidiva do pneumotórax."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "No trauma facial com via aérea impossível por intubação orotraqueal, a **cricotireoidostomia** (perfuração da membrana cricotireoidiana) é o acesso emergencial de eleição — é mais rápida que traqueostomia formal. O **pneumotórax hipertensivo** exige descompressão imediata com toracocentese seguida de drenagem em selo d'água, sem aguardar imagem. Ambos são procedimentos salvadores realizados antes de qualquer exame complementar.",
@@ -173,18 +374,42 @@
     {
       "id": "Q-T7-009",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7"],
-      "tags": ["dreno torácico", "complicações", "selo d'água", "fisiopatologia"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "dreno torácico",
+        "complicações",
+        "selo d'água",
+        "fisiopatologia"
+      ],
       "dificuldade": "dificil",
       "tipo": "multipla",
       "enunciado": "Sobre a fisiopatologia da cavidade pleural e o sistema de drenagem em selo d'água, qual afirmativa é CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "A pressão intrapleural fisiológica é positiva (+5 cmH2O), e o selo d'água serve para manter essa positividade." },
-        { "id": "B", "texto": "A pressão intrapleural fisiológica é negativa (-2 a -1 cmH2O); o selo d'água (cerca de 2 cm) atua como válvula unidirecional, impedindo retorno de ar para a cavidade pleural durante a inspiração." },
-        { "id": "C", "texto": "Um orifício do dreno fora do espaço pleural não causa enfisema subcutâneo, pois o selo d'água impede totalmente." },
-        { "id": "D", "texto": "Drenos com pressão positiva mantida são preferíveis em todos os pacientes com pneumotórax." },
-        { "id": "E", "texto": "A presença do dreno fora da cavidade pleural pode ser identificada apenas por toracotomia exploradora." }
+        {
+          "id": "A",
+          "texto": "A pressão intrapleural fisiológica é positiva (+5 cmH2O), e o selo d'água serve para manter essa positividade."
+        },
+        {
+          "id": "B",
+          "texto": "A pressão intrapleural fisiológica é negativa (-2 a -1 cmH2O); o selo d'água (cerca de 2 cm) atua como válvula unidirecional, impedindo retorno de ar para a cavidade pleural durante a inspiração."
+        },
+        {
+          "id": "C",
+          "texto": "Um orifício do dreno fora do espaço pleural não causa enfisema subcutâneo, pois o selo d'água impede totalmente."
+        },
+        {
+          "id": "D",
+          "texto": "Drenos com pressão positiva mantida são preferíveis em todos os pacientes com pneumotórax."
+        },
+        {
+          "id": "E",
+          "texto": "A presença do dreno fora da cavidade pleural pode ser identificada apenas por toracotomia exploradora."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **pressão intrapleural** é negativa (-2 a -1 cmH2O em relação à atmosférica). O **selo d'água** (~2 cm) funciona como válvula unidirecional: permite saída de ar/líquido da cavidade na expiração e impede retorno na inspiração. Uma **complicação comum** é o orifício mais externo do dreno ficar fora do espaço pleural, causando **enfisema subcutâneo** ou perpetuando pneumotórax — identificada por radiografia simples (não requer toracotomia).",
@@ -194,18 +419,43 @@
     {
       "id": "Q-T7-010",
       "aulaOrigem": null,
-      "blocos": ["E"],
-      "eixos": ["T7", "T6"],
-      "tags": ["nódulo pulmonar", "rastreamento", "tabagismo", "vidro fosco"],
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7",
+        "T6"
+      ],
+      "tags": [
+        "nódulo pulmonar",
+        "rastreamento",
+        "tabagismo",
+        "vidro fosco"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher de 67 anos, ex-tabagista (carga tabágica de 35 anos-maço, parou há 8 anos), realiza tomografia de baixa dose para rastreamento de câncer de pulmão. Detecta-se nódulo em vidro fosco puro de 12 mm em lobo superior direito, sem componente sólido, sem espiculação e sem derrame pleural. Qual conduta é MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Indicar lobectomia imediata por videocirurgia, dado o alto risco da paciente." },
-        { "id": "B", "texto": "Realizar drenagem pleural profilática antes de qualquer investigação." },
-        { "id": "C", "texto": "Indicar broncoscopia com biópsia incisional emergencial, pois lesões em vidro fosco são sempre malignas." },
-        { "id": "D", "texto": "Acompanhamento tomográfico seriado (3-6 meses), pois lesões em vidro fosco puro têm caráter indolente (frequentemente adenocarcinoma in situ); biópsia/ressecção indicada se houver crescimento, surgimento de componente sólido ou persistência." },
-        { "id": "E", "texto": "Indicar traqueostomia para vigilância endoscópica trimestral das vias aéreas." }
+        {
+          "id": "A",
+          "texto": "Indicar lobectomia imediata por videocirurgia, dado o alto risco da paciente."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar drenagem pleural profilática antes de qualquer investigação."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar broncoscopia com biópsia incisional emergencial, pois lesões em vidro fosco são sempre malignas."
+        },
+        {
+          "id": "D",
+          "texto": "Acompanhamento tomográfico seriado (3-6 meses), pois lesões em vidro fosco puro têm caráter indolente (frequentemente adenocarcinoma in situ); biópsia/ressecção indicada se houver crescimento, surgimento de componente sólido ou persistência."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar traqueostomia para vigilância endoscópica trimestral das vias aéreas."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "Os critérios brasileiros de rastreamento incluem ex/tabagistas com >50 anos e carga tabágica >20 anos-maço. **Lesões em vidro fosco puro** são frequentemente adenocarcinomas in situ ou de baixa agressividade, com curso **indolente** — o seguimento tomográfico seriado é apropriado para detectar mudança de características. O surgimento de **componente sólido** ou crescimento indicam comportamento mais agressivo e justificam biópsia/ressecção. Lobectomia imediata em vidro fosco puro de 12 mm é desproporcional.",

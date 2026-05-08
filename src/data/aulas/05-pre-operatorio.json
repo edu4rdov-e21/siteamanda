@@ -5,39 +5,87 @@
     {
       "id": "Q-05-001",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["classificação", "urgência", "emergência"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "classificação",
+        "urgência",
+        "emergência"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a classificação das cirurgias quanto à urgência, qual alternativa define corretamente uma cirurgia de EMERGÊNCIA?",
       "alternativas": [
-        { "id": "A", "texto": "Cirurgia que pode ser realizada em até 24 horas sem prejuízo importante ao prognóstico." },
-        { "id": "B", "texto": "Cirurgia que deve ser realizada idealmente em menos de 6 horas, sob risco de óbito ou incapacidade grave permanente." },
-        { "id": "C", "texto": "Cirurgia que pode ser adiada por até 1 ano sem comprometer o prognóstico." },
-        { "id": "D", "texto": "Cirurgia oncológica sensível ao tempo, programada para semanas." },
-        { "id": "E", "texto": "Cirurgia eletiva agendada por demanda ambulatorial." }
+        {
+          "id": "A",
+          "texto": "Cirurgia que pode ser realizada em até 24 horas sem prejuízo importante ao prognóstico."
+        },
+        {
+          "id": "B",
+          "texto": "Cirurgia que deve ser realizada idealmente em menos de 6 horas, sob risco de óbito ou incapacidade grave permanente."
+        },
+        {
+          "id": "C",
+          "texto": "Cirurgia que pode ser adiada por até 1 ano sem comprometer o prognóstico."
+        },
+        {
+          "id": "D",
+          "texto": "Cirurgia oncológica sensível ao tempo, programada para semanas."
+        },
+        {
+          "id": "E",
+          "texto": "Cirurgia eletiva agendada por demanda ambulatorial."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Cirurgias de emergência** devem ser feitas idealmente em **menos de 6 horas**, pois o atraso traz risco grande de óbito ou incapacidade grave e permanente. As de urgência têm janela de até 24h; sensíveis ao tempo (ex.: oncológicas) não toleram demora excessiva, e eletivas podem ser adiadas até cerca de 1 ano.",
       "referenciaAula": "Cirurgias de emergência são aquelas que devem ser feitas rapidamente, idealmente em menos de 6 horas, caso contrário há risco de óbito ou incapacidade grave permanente.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 37
     },
     {
       "id": "Q-05-002",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["ASA", "classificação", "anestesiologia"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ASA",
+        "classificação",
+        "anestesiologia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Na classificação ASA da Sociedade Americana de Anestesiologia, o paciente ASA 2 corresponde a:",
       "alternativas": [
-        { "id": "A", "texto": "Paciente saudável, sem qualquer comorbidade." },
-        { "id": "B", "texto": "Paciente com comorbidades leves e bem compensadas (ex.: HAS e DM controlados ambulatorialmente)." },
-        { "id": "C", "texto": "Paciente com doença sistêmica grave, descompensada, com risco de vida." },
-        { "id": "D", "texto": "Paciente com patologia cirúrgica que constitui ameaça à vida." },
-        { "id": "E", "texto": "Paciente em morte encefálica para captação de órgãos." }
+        {
+          "id": "A",
+          "texto": "Paciente saudável, sem qualquer comorbidade."
+        },
+        {
+          "id": "B",
+          "texto": "Paciente com comorbidades leves e bem compensadas (ex.: HAS e DM controlados ambulatorialmente)."
+        },
+        {
+          "id": "C",
+          "texto": "Paciente com doença sistêmica grave, descompensada, com risco de vida."
+        },
+        {
+          "id": "D",
+          "texto": "Paciente com patologia cirúrgica que constitui ameaça à vida."
+        },
+        {
+          "id": "E",
+          "texto": "Paciente em morte encefálica para captação de órgãos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **ASA 2** corresponde ao paciente com **comorbidades leves e bem compensadas** ambulatorialmente, como hipertensão e diabetes controlados. ASA 1 é o paciente sem comorbidades, ASA 3 tem doenças sistêmicas mais graves não totalmente compensadas, ASA 4 representa ameaça à vida e ASA 6 é o paciente em morte encefálica.",
@@ -47,60 +95,134 @@
     {
       "id": "Q-05-003",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["corticoide", "medicação contínua", "insuficiência adrenal"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "corticoide",
+        "medicação contínua",
+        "insuficiência adrenal"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Em relação ao manejo perioperatório de medicações de uso contínuo, qual classe NUNCA deve ser suspensa abruptamente em pacientes que a usam cronicamente?",
       "alternativas": [
-        { "id": "A", "texto": "Diuréticos." },
-        { "id": "B", "texto": "Antidiabéticos orais." },
-        { "id": "C", "texto": "Inibidores da ECA (IECA)." },
-        { "id": "D", "texto": "Corticoides." },
-        { "id": "E", "texto": "Anticoagulantes orais." }
+        {
+          "id": "A",
+          "texto": "Diuréticos."
+        },
+        {
+          "id": "B",
+          "texto": "Antidiabéticos orais."
+        },
+        {
+          "id": "C",
+          "texto": "Inibidores da ECA (IECA)."
+        },
+        {
+          "id": "D",
+          "texto": "Corticoides."
+        },
+        {
+          "id": "E",
+          "texto": "Anticoagulantes orais."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "**Corticoides** de uso crônico devem ser **mantidos** no perioperatório pelo risco de **insuficiência adrenal aguda** se suspensos abruptamente. Se o paciente não puder usar via oral, transiciona-se a prednisona para hidrocortisona endovenosa. Diuréticos, IECA, antidiabéticos e anticoagulantes habitualmente são suspensos no perioperatório.",
       "referenciaAula": "Pacientes que usam corticoides cronicamente, se suspende de uma vez, há risco grande de insuficiência adrenal. Esse tipo de medicação deve ser mantido no perioperatório.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1742
     },
     {
       "id": "Q-05-004",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["cirurgia alto risco", "duração", "invasividade"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cirurgia alto risco",
+        "duração",
+        "invasividade"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o conceito de cirurgia de alto risco, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É definida exclusivamente pela idade do paciente operado." },
-        { "id": "B", "texto": "Inclui cirurgias breves, pouco invasivas e com pequena ressecção tecidual." },
-        { "id": "C", "texto": "Envolve duração prolongada, grande extensão e elevada invasividade do procedimento, como cirurgias abertas de aorta, cardíacas e abdominais de urgência." },
-        { "id": "D", "texto": "Refere-se apenas a cirurgias realizadas em hospitais secundários." },
-        { "id": "E", "texto": "Corresponde somente às cirurgias laparoscópicas eletivas." }
+        {
+          "id": "A",
+          "texto": "É definida exclusivamente pela idade do paciente operado."
+        },
+        {
+          "id": "B",
+          "texto": "Inclui cirurgias breves, pouco invasivas e com pequena ressecção tecidual."
+        },
+        {
+          "id": "C",
+          "texto": "Envolve duração prolongada, grande extensão e elevada invasividade do procedimento, como cirurgias abertas de aorta, cardíacas e abdominais de urgência."
+        },
+        {
+          "id": "D",
+          "texto": "Refere-se apenas a cirurgias realizadas em hospitais secundários."
+        },
+        {
+          "id": "E",
+          "texto": "Corresponde somente às cirurgias laparoscópicas eletivas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Cirurgia de alto risco é caracterizada por **duração prolongada**, **grande extensão** e **alta invasividade**. Exemplos clássicos incluem cirurgias abertas de aorta torácica/abdominal, vasculares, cardíacas, transplante hepático e cirurgias abdominais de urgência. Os pacientes submetidos a esses procedimentos costumam ter indicação de pós-operatório em UTI.",
       "referenciaAula": "Cirurgia de alto risco envolve duração da cirurgia, extensão da cirurgia e invasividade. Cirurgias abertas que envolvam aorta, cardíacas e abdominais de urgência são consideradas de alto risco.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 753
     },
     {
       "id": "Q-05-005",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["VO2", "DO2", "disóxia", "estresse cirúrgico"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "VO2",
+        "DO2",
+        "disóxia",
+        "estresse cirúrgico"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "A fisiopatologia que justifica o maior risco de complicações no paciente cirúrgico de alto risco está mais corretamente descrita por:",
       "alternativas": [
-        { "id": "A", "texto": "Redução do consumo de oxigênio tecidual (VO2) por queda da resposta endócrino-metabólica." },
-        { "id": "B", "texto": "Aumento da demanda metabólica (VO2) sem aumento adequado da oferta tecidual de oxigênio (DO2), gerando disóxia." },
-        { "id": "C", "texto": "Redução simultânea de VO2 e DO2 sem repercussão clínica significativa." },
-        { "id": "D", "texto": "Aumento exclusivo da DO2 com queda do VO2 e hipoxemia central." },
-        { "id": "E", "texto": "Manutenção do equilíbrio entre VO2 e DO2 com discreta hiperoxia tecidual." }
+        {
+          "id": "A",
+          "texto": "Redução do consumo de oxigênio tecidual (VO2) por queda da resposta endócrino-metabólica."
+        },
+        {
+          "id": "B",
+          "texto": "Aumento da demanda metabólica (VO2) sem aumento adequado da oferta tecidual de oxigênio (DO2), gerando disóxia."
+        },
+        {
+          "id": "C",
+          "texto": "Redução simultânea de VO2 e DO2 sem repercussão clínica significativa."
+        },
+        {
+          "id": "D",
+          "texto": "Aumento exclusivo da DO2 com queda do VO2 e hipoxemia central."
+        },
+        {
+          "id": "E",
+          "texto": "Manutenção do equilíbrio entre VO2 e DO2 com discreta hiperoxia tecidual."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A resposta **endócrino-metabólica ao estresse cirúrgico** eleva o **VO2** (consumo de O2 tecidual). Pacientes de alto risco têm reserva cardiopulmonar limitada e não conseguem aumentar proporcionalmente a **DO2** (oferta tecidual). O desequilíbrio resulta em **disóxia**, base para complicações cardiovasculares, respiratórias e óbito perioperatório.",
@@ -110,107 +232,235 @@
     {
       "id": "Q-05-006",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["NRS", "avaliação nutricional", "desnutrição"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "NRS",
+        "avaliação nutricional",
+        "desnutrição"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Na avaliação nutricional pré-operatória pelo escore NRS, qual conjunto de variáveis é considerado?",
       "alternativas": [
-        { "id": "A", "texto": "Hemoglobina, leucograma, plaquetas e ferritina." },
-        { "id": "B", "texto": "IMC, perda de peso não intencional nos últimos 3 meses, redução da ingesta na última semana e gravidade da doença/estado geral." },
-        { "id": "C", "texto": "Pressão arterial, frequência cardíaca, diurese e saturação de O2." },
-        { "id": "D", "texto": "Glicemia de jejum, hemoglobina glicada, colesterol total e triglicérides." },
-        { "id": "E", "texto": "Idade, sexo, etnia e status socioeconômico." }
+        {
+          "id": "A",
+          "texto": "Hemoglobina, leucograma, plaquetas e ferritina."
+        },
+        {
+          "id": "B",
+          "texto": "IMC, perda de peso não intencional nos últimos 3 meses, redução da ingesta na última semana e gravidade da doença/estado geral."
+        },
+        {
+          "id": "C",
+          "texto": "Pressão arterial, frequência cardíaca, diurese e saturação de O2."
+        },
+        {
+          "id": "D",
+          "texto": "Glicemia de jejum, hemoglobina glicada, colesterol total e triglicérides."
+        },
+        {
+          "id": "E",
+          "texto": "Idade, sexo, etnia e status socioeconômico."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **NRS** considera quatro variáveis clínicas: **IMC**, **perda de peso não intencional nos últimos 3 meses**, **redução da ingesta alimentar na última semana** e **gravidade da doença/estado geral** (ex.: paciente em UTI). A presença de qualquer critério já caracteriza alto risco nutricional. Avaliação laboratorial complementar inclui albumina, pré-albumina e relação ureia/creatinina.",
       "referenciaAula": "O NRS leva em consideração IMC, perda de peso não intencional nos últimos 3 meses, redução da ingesta na última semana e se o paciente tem doença grave ou estado geral muito ruim.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1502
     },
     {
       "id": "Q-05-007",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["Lee", "risco cardíaco", "cirurgia não cardíaca"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "Lee",
+        "risco cardíaco",
+        "cirurgia não cardíaca"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 68 anos, com histórico de doença coronariana, insuficiência cardíaca compensada e creatinina de 2,3 mg/dL, é avaliado para colectomia eletiva. Qual ferramenta é mais apropriada para estimar o risco cardíaco perioperatório nesse cenário?",
       "alternativas": [
-        { "id": "A", "texto": "Classificação ASA, exclusivamente." },
-        { "id": "B", "texto": "Escore de Lee (Revised Cardiac Risk Index), aplicado a cirurgias não cardíacas." },
-        { "id": "C", "texto": "Critérios de Shoemaker para choque hipovolêmico." },
-        { "id": "D", "texto": "Escore NRS para risco nutricional." },
-        { "id": "E", "texto": "Escala de Glasgow para risco neurológico." }
+        {
+          "id": "A",
+          "texto": "Classificação ASA, exclusivamente."
+        },
+        {
+          "id": "B",
+          "texto": "Escore de Lee (Revised Cardiac Risk Index), aplicado a cirurgias não cardíacas."
+        },
+        {
+          "id": "C",
+          "texto": "Critérios de Shoemaker para choque hipovolêmico."
+        },
+        {
+          "id": "D",
+          "texto": "Escore NRS para risco nutricional."
+        },
+        {
+          "id": "E",
+          "texto": "Escala de Glasgow para risco neurológico."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **escore de Lee** (Revised Cardiac Risk Index) avalia o **risco cardíaco** em pacientes submetidos a **cirurgias não cardíacas**, considerando tipo de cirurgia, doença coronariana, ICC, AVC/AIT, diabetes em insulina e disfunção renal. Cirurgias cardíacas já são consideradas alto risco cardíaco por definição. ASA é avaliação geral; Shoemaker e NRS têm outras finalidades.",
       "referenciaAula": "A classificação de Lee é uma avaliação especificamente do risco cardíaco do paciente que vai ser submetido a uma cirurgia não cardíaca.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1261
     },
     {
       "id": "Q-05-008",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["antihipertensivos", "IECA", "BRA", "perioperatório"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "antihipertensivos",
+        "IECA",
+        "BRA",
+        "perioperatório"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o manejo perioperatório de medicações cardiovasculares de uso contínuo, qual conduta é a mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Suspender betabloqueadores no dia da cirurgia em todo paciente cardiopata." },
-        { "id": "B", "texto": "Manter IECA e BRA na admissão na UTI por reduzirem risco renal." },
-        { "id": "C", "texto": "Manter betabloqueadores no dia da cirurgia; suspender IECA/BRA na admissão na UTI pelo risco de descompensação renal." },
-        { "id": "D", "texto": "Manter diuréticos no dia da cirurgia para evitar hipervolemia." },
-        { "id": "E", "texto": "Manter antidiabéticos orais no dia da cirurgia em pacientes em jejum." }
+        {
+          "id": "A",
+          "texto": "Suspender betabloqueadores no dia da cirurgia em todo paciente cardiopata."
+        },
+        {
+          "id": "B",
+          "texto": "Manter IECA e BRA na admissão na UTI por reduzirem risco renal."
+        },
+        {
+          "id": "C",
+          "texto": "Manter betabloqueadores no dia da cirurgia; suspender IECA/BRA na admissão na UTI pelo risco de descompensação renal."
+        },
+        {
+          "id": "D",
+          "texto": "Manter diuréticos no dia da cirurgia para evitar hipervolemia."
+        },
+        {
+          "id": "E",
+          "texto": "Manter antidiabéticos orais no dia da cirurgia em pacientes em jejum."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Betabloqueadores** devem ser **mantidos**, inclusive no dia da cirurgia, em pacientes cardiopatas crônicos. **IECA/BRA** afetam a hemodinâmica renal e costumam ser **suspensos** na admissão em UTI pelo risco de disfunção renal. Diuréticos são suspensos por risco de hipovolemia/distúrbios eletrolíticos, e antidiabéticos suspensos no dia da cirurgia, com correção por insulina regular.",
       "referenciaAula": "Betabloqueadores devem ser mantidos no dia da cirurgia. IECA e BRA mexem na hemodinâmica renal e são suspensos quando o paciente é admitido na UTI pelo risco de descompensação renal.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1861
     },
     {
       "id": "Q-05-009",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["alto risco", "otimização", "Shoemaker", "admissão UTI"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "alto risco",
+        "otimização",
+        "Shoemaker",
+        "admissão UTI"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente de 74 anos, hipertenso, diabético em insulina, com DPOC moderada e DRC dialítica, foi diagnosticado com adenocarcinoma de esôfago e está programado para esofagectomia (cirurgia sensível ao tempo) em 3 semanas. Qual a abordagem pré-operatória MAIS adequada?",
       "alternativas": [
-        { "id": "A", "texto": "Operar imediatamente sem otimização clínica, pois cirurgias oncológicas são consideradas urgências e não toleram qualquer adiamento." },
-        { "id": "B", "texto": "Classificar como alto risco (paciente comórbido + cirurgia extensa por critérios de Shoemaker), otimizar comorbidades nas semanas pré-operatórias e programar admissão planejada em UTI no pós-operatório." },
-        { "id": "C", "texto": "Reclassificar como ASA 1 e indicar pós-operatório em enfermaria comum, pois o paciente está estável." },
-        { "id": "D", "texto": "Suspender corticoide inalatório do DPOC para reduzir risco de infecção pós-operatória." },
-        { "id": "E", "texto": "Adiar a cirurgia indefinidamente até reversão completa da DRC e da DPOC." }
+        {
+          "id": "A",
+          "texto": "Operar imediatamente sem otimização clínica, pois cirurgias oncológicas são consideradas urgências e não toleram qualquer adiamento."
+        },
+        {
+          "id": "B",
+          "texto": "Classificar como alto risco (paciente comórbido + cirurgia extensa por critérios de Shoemaker), otimizar comorbidades nas semanas pré-operatórias e programar admissão planejada em UTI no pós-operatório."
+        },
+        {
+          "id": "C",
+          "texto": "Reclassificar como ASA 1 e indicar pós-operatório em enfermaria comum, pois o paciente está estável."
+        },
+        {
+          "id": "D",
+          "texto": "Suspender corticoide inalatório do DPOC para reduzir risco de infecção pós-operatória."
+        },
+        {
+          "id": "E",
+          "texto": "Adiar a cirurgia indefinidamente até reversão completa da DRC e da DPOC."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Trata-se de paciente de **alto risco** (comorbidades múltiplas, idoso) submetido a cirurgia **extensa** (esofagectomia) — critérios clássicos de Shoemaker. Como é cirurgia **sensível ao tempo**, não é urgência, permitindo **otimização pré-operatória** (controle glicêmico, pulmonar, nutricional) e **admissão planejada em UTI** no pós. Operar sem otimização ou reclassificar como ASA 1 é inadequado; suspender corticoide do DPOC traz risco de descompensação.",
       "referenciaAula": "Quando é cirurgia eletiva ou sensível ao tempo, a gente pode otimizar o paciente no pré-operatório. Identificar paciente de alto risco permite otimizar pré, intra e pós-operatório.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 2012
     },
     {
       "id": "Q-05-010",
       "aulaOrigem": 5,
-      "blocos": ["C"],
-      "eixos": ["T3"],
-      "tags": ["admissão UTI", "indicação", "alto risco", "anticoagulante"],
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "admissão UTI",
+        "indicação",
+        "alto risco",
+        "anticoagulante"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem de 72 anos, IAM sem supra de ST, coronariopatia multiarterial, hipertenso, diabético insulino-dependente e DRC dialítica, em uso crônico de varfarina e clopidogrel, é indicado para revascularização miocárdica cirúrgica. Qual conjunto de condutas pré-operatórias é o MAIS adequado?",
       "alternativas": [
-        { "id": "A", "texto": "Manter varfarina e clopidogrel até o dia da cirurgia para evitar trombose; pós-operatório em enfermaria de cardiologia." },
-        { "id": "B", "texto": "Suspender varfarina ~3-5 dias e clopidogrel ~5-7 dias antes; identificar como paciente e cirurgia de alto risco; programar admissão planejada em UTI no pós-operatório." },
-        { "id": "C", "texto": "Suspender corticoide inalatório do DPOC concomitante; manter antiagregantes." },
-        { "id": "D", "texto": "Classificar como ASA 2 (comorbidades compensadas) e dispensar admissão em UTI no pós-operatório." },
-        { "id": "E", "texto": "Aplicar escore de Lee para indicar admissão em UTI; manter antiagregantes pela cardiopatia." }
+        {
+          "id": "A",
+          "texto": "Manter varfarina e clopidogrel até o dia da cirurgia para evitar trombose; pós-operatório em enfermaria de cardiologia."
+        },
+        {
+          "id": "B",
+          "texto": "Suspender varfarina ~3-5 dias e clopidogrel ~5-7 dias antes; identificar como paciente e cirurgia de alto risco; programar admissão planejada em UTI no pós-operatório."
+        },
+        {
+          "id": "C",
+          "texto": "Suspender corticoide inalatório do DPOC concomitante; manter antiagregantes."
+        },
+        {
+          "id": "D",
+          "texto": "Classificar como ASA 2 (comorbidades compensadas) e dispensar admissão em UTI no pós-operatório."
+        },
+        {
+          "id": "E",
+          "texto": "Aplicar escore de Lee para indicar admissão em UTI; manter antiagregantes pela cardiopatia."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Anticoagulantes/antiagregantes aumentam risco de sangramento e devem ser suspensos: **varfarina ~3-5 dias** e **clopidogrel ~5-7 dias** antes. O paciente é de **alto risco** (idoso, múltiplas comorbidades, DRC dialítica, coronariopatia multiarterial) submetido a **cirurgia cardíaca** — alto risco por definição —, justificando **admissão planejada em UTI**. ASA 2 é incompatível com esse perfil, e o escore de Lee não se aplica a cirurgias cardíacas.",
       "referenciaAula": "O Marevan deve ser suspenso de 3 a 5 dias antes da cirurgia, e o clopidogrel de 5 a 7 dias antes. Cirurgias cardíacas são alto risco cardíaco por definição, com admissão planejada em UTI.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1953
     }
   ]
 }

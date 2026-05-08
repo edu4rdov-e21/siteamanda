@@ -5,212 +5,458 @@
     {
       "id": "Q-01-001",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["bridas", "etiologia", "causa mais comum"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "bridas",
+        "etiologia",
+        "causa mais comum"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a causa mais comum de obstrução intestinal em adultos?",
       "alternativas": [
-        { "id": "A", "texto": "Tumor colorretal." },
-        { "id": "B", "texto": "Bridas (aderências pós-operatórias)." },
-        { "id": "C", "texto": "Volvo de sigmoide." },
-        { "id": "D", "texto": "Hérnia inguinal encarcerada." },
-        { "id": "E", "texto": "Doença de Crohn." }
+        {
+          "id": "A",
+          "texto": "Tumor colorretal."
+        },
+        {
+          "id": "B",
+          "texto": "Bridas (aderências pós-operatórias)."
+        },
+        {
+          "id": "C",
+          "texto": "Volvo de sigmoide."
+        },
+        {
+          "id": "D",
+          "texto": "Hérnia inguinal encarcerada."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Crohn."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Bridas** (aderências pós-operatórias) são a causa mais comum de obstrução intestinal, principalmente em pacientes com cirurgia abdominal prévia. Os tumores colorretais são a principal causa de obstrução **baixa**, e o volvo de sigmoide é menos frequente. Hérnia encarcerada também causa obstrução, mas é menos comum globalmente.",
       "referenciaAula": "A brida é a causa mais comum de obstrução intestinal. São as bridas, as aderências.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 515
     },
     {
       "id": "Q-01-002",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["sinal do duplo alvo", "invaginação"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "sinal do duplo alvo",
+        "invaginação"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "O \"sinal do duplo alvo\" na tomografia de abdome é característico de qual causa de obstrução intestinal?",
       "alternativas": [
-        { "id": "A", "texto": "Volvo de sigmoide." },
-        { "id": "B", "texto": "Doença diverticular complicada." },
-        { "id": "C", "texto": "Invaginação intestinal." },
-        { "id": "D", "texto": "Bridas pós-operatórias." },
-        { "id": "E", "texto": "Fecaloma." }
+        {
+          "id": "A",
+          "texto": "Volvo de sigmoide."
+        },
+        {
+          "id": "B",
+          "texto": "Doença diverticular complicada."
+        },
+        {
+          "id": "C",
+          "texto": "Invaginação intestinal."
+        },
+        {
+          "id": "D",
+          "texto": "Bridas pós-operatórias."
+        },
+        {
+          "id": "E",
+          "texto": "Fecaloma."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **sinal do duplo alvo** ocorre quando uma alça intestinal \"telescopa\" dentro da outra — característico da **invaginação intestinal**. A causa mais comum em adultos é um pólipo pediculado que serve como cabeça de invaginação. O volvo apresenta sinal do \"grão de café\", e o fecaloma o aspecto em \"miolo de pão\".",
       "referenciaAula": "Esse sinal aqui ele é bem característico, que é o sinal do duplo alvo. É como se tivesse uma alça dentro da outra.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 902
     },
     {
       "id": "Q-01-003",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["volvo", "Chagas", "epidemiologia"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "volvo",
+        "Chagas",
+        "epidemiologia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "No Brasil, qual é a causa mais comum de volvo de sigmoide?",
       "alternativas": [
-        { "id": "A", "texto": "Doença diverticular." },
-        { "id": "B", "texto": "Doença de Chagas (megacólon chagásico)." },
-        { "id": "C", "texto": "Câncer colorretal." },
-        { "id": "D", "texto": "Doença de Crohn." },
-        { "id": "E", "texto": "Constipação crônica idiopática." }
+        {
+          "id": "A",
+          "texto": "Doença diverticular."
+        },
+        {
+          "id": "B",
+          "texto": "Doença de Chagas (megacólon chagásico)."
+        },
+        {
+          "id": "C",
+          "texto": "Câncer colorretal."
+        },
+        {
+          "id": "D",
+          "texto": "Doença de Crohn."
+        },
+        {
+          "id": "E",
+          "texto": "Constipação crônica idiopática."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "No Brasil, a **doença de Chagas** com megacólon chagásico é a principal causa de volvo de sigmoide, por dilatação e alongamento crônico do cólon. O sigmoide é a localização mais comum por ser uma porção móvel do cólon, mas seco e transverso (se móvel) também podem volver.",
       "referenciaAula": "No Brasil, a causa mais comum do Volvo é por doença de Chagas.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1292
     },
     {
       "id": "Q-01-004",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["classificação", "extramural", "intramural", "intraluminal"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "classificação",
+        "extramural",
+        "intramural",
+        "intraluminal"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a classificação topográfica das obstruções intestinais, qual associação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Doença de Crohn — extramural." },
-        { "id": "B", "texto": "Bolo de áscaris — intramural." },
-        { "id": "C", "texto": "Bridas — intraluminal." },
-        { "id": "D", "texto": "Tumor colorretal infiltrando a parede — intramural." },
-        { "id": "E", "texto": "Hérnia inguinal — intramural." }
+        {
+          "id": "A",
+          "texto": "Doença de Crohn — extramural."
+        },
+        {
+          "id": "B",
+          "texto": "Bolo de áscaris — intramural."
+        },
+        {
+          "id": "C",
+          "texto": "Bridas — intraluminal."
+        },
+        {
+          "id": "D",
+          "texto": "Tumor colorretal infiltrando a parede — intramural."
+        },
+        {
+          "id": "E",
+          "texto": "Hérnia inguinal — intramural."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "**Tumor colorretal** que se desenvolve **na parede** da alça é uma causa **intramural** clássica. Bridas e hérnias são extramurais (algo de fora comprimindo). Bolo de áscaris é intraluminal (dentro da luz). Doença de Crohn também é intramural (estenose por inflamação da parede).",
       "referenciaAula": "Algo que se desenvolve na parede do intestino e que vai causar obstrução. Então, os tumores, as doenças inflamatórias, como a doença de Crohn.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 459
     },
     {
       "id": "Q-01-005",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["bridas", "tratamento conservador"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "bridas",
+        "tratamento conservador"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 52 anos, histerectomia há 4 anos, chega com obstrução intestinal por bridas, sem sinais de sofrimento de alça. Qual a conduta inicial mais apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Laparotomia exploradora imediata." },
-        { "id": "B", "texto": "Jejum, sonda nasogástrica, hidratação e correção hidroeletrolítica, com observação por 24-48h." },
-        { "id": "C", "texto": "Antibioticoterapia ampla e dieta líquida." },
-        { "id": "D", "texto": "Colonoscopia descompressiva." },
-        { "id": "E", "texto": "Enema baritado terapêutico." }
+        {
+          "id": "A",
+          "texto": "Laparotomia exploradora imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Jejum, sonda nasogástrica, hidratação e correção hidroeletrolítica, com observação por 24-48h."
+        },
+        {
+          "id": "C",
+          "texto": "Antibioticoterapia ampla e dieta líquida."
+        },
+        {
+          "id": "D",
+          "texto": "Colonoscopia descompressiva."
+        },
+        {
+          "id": "E",
+          "texto": "Enema baritado terapêutico."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Sem sinais de estrangulamento, o tratamento inicial das obstruções por bridas é **conservador**: SNG, jejum, hidratação e correção eletrolítica. A maioria melhora em 24-48h. Cirurgia é indicada apenas se não houver melhora nesse período ou surgirem sinais de sofrimento de alça (dor contínua, febre, taquicardia, leucocitose, lactato alto).",
       "referenciaAula": "Na maior parte das vezes elas melhoram clinicamente, deixando o paciente em jejum, passando sonda nasogástrica. Se não houver melhora em 24, 48 horas, pode ser que esse paciente precise de um procedimento cirúrgico.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 542
     },
     {
       "id": "Q-01-006",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["alta vs baixa", "vômitos", "distensão"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "alta vs baixa",
+        "vômitos",
+        "distensão"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em comparação com obstruções intestinais altas, as obstruções baixas tipicamente apresentam:",
       "alternativas": [
-        { "id": "A", "texto": "Vômitos mais precoces e biliosos, com pouca distensão." },
-        { "id": "B", "texto": "Vômitos mais tardios e às vezes fecaloides, com distensão mais acentuada." },
-        { "id": "C", "texto": "Ausência de dor abdominal." },
-        { "id": "D", "texto": "Diarreia abundante desde o início." },
-        { "id": "E", "texto": "Febre e icterícia precoces." }
+        {
+          "id": "A",
+          "texto": "Vômitos mais precoces e biliosos, com pouca distensão."
+        },
+        {
+          "id": "B",
+          "texto": "Vômitos mais tardios e às vezes fecaloides, com distensão mais acentuada."
+        },
+        {
+          "id": "C",
+          "texto": "Ausência de dor abdominal."
+        },
+        {
+          "id": "D",
+          "texto": "Diarreia abundante desde o início."
+        },
+        {
+          "id": "E",
+          "texto": "Febre e icterícia precoces."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Quanto mais alta a obstrução, mais precoces e biliosos os vômitos**, e menor a distensão (pouco intestino para acumular conteúdo). **Quanto mais baixa, mais tardios os vômitos** (podendo ser fecaloides) e mais acentuada a distensão. Esse padrão é central para a localização clínica.",
       "referenciaAula": "Pacientes com obstrução mais proximal geralmente têm vômitos mais biliosos e mais precoces. Quanto mais alta a obstrução, menor vai ser a distensão. Quanto mais baixa, maior a distensão.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1860
     },
     {
       "id": "Q-01-007",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["volvo sigmoide", "tratamento inicial"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "volvo sigmoide",
+        "tratamento inicial"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Paciente com megacólon chagásico evolui com volvo de sigmoide sem sinais de sofrimento de alça nem perfuração. Qual o tratamento inicial de escolha?",
       "alternativas": [
-        { "id": "A", "texto": "Laparotomia com colectomia total imediata." },
-        { "id": "B", "texto": "Retossigmoidoscopia (ou colonoscopia) descompressiva para desfazer a torção." },
-        { "id": "C", "texto": "Enema opaco terapêutico." },
-        { "id": "D", "texto": "Apenas observação clínica e jejum." },
-        { "id": "E", "texto": "Anti-helmínticos via oral." }
+        {
+          "id": "A",
+          "texto": "Laparotomia com colectomia total imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Retossigmoidoscopia (ou colonoscopia) descompressiva para desfazer a torção."
+        },
+        {
+          "id": "C",
+          "texto": "Enema opaco terapêutico."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas observação clínica e jejum."
+        },
+        {
+          "id": "E",
+          "texto": "Anti-helmínticos via oral."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Sem sinais de sofrimento de alça ou perfuração, o tratamento inicial do **volvo de sigmoide** é a **retossigmoidoscopia descompressiva**, que desfaz a torção e descomprime a alça. A cirurgia eletiva é programada após estabilização. Se houver isquemia ou perfuração, indica-se laparotomia de urgência.",
       "referenciaAula": "No caso do Volvo, que muitas vezes o tratamento é a realização de uma retossigmoidoscopia para desfazer essa torção.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1986
     },
     {
       "id": "Q-01-008",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["íleo paralítico", "diagnóstico de exclusão"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "íleo paralítico",
+        "diagnóstico de exclusão"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o íleo paralítico (adinâmico/funcional), assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É a causa mais comum de obstrução mecânica em adultos." },
-        { "id": "B", "texto": "Tem ponto específico de obstrução identificável em todos os casos." },
-        { "id": "C", "texto": "É um diagnóstico de exclusão, frequentemente associado a pós-operatório e distúrbios hidroeletrolíticos, e geralmente não exige cirurgia." },
-        { "id": "D", "texto": "Tem indicação cirúrgica imediata em todos os pacientes." },
-        { "id": "E", "texto": "Sempre cursa com perfuração intestinal." }
+        {
+          "id": "A",
+          "texto": "É a causa mais comum de obstrução mecânica em adultos."
+        },
+        {
+          "id": "B",
+          "texto": "Tem ponto específico de obstrução identificável em todos os casos."
+        },
+        {
+          "id": "C",
+          "texto": "É um diagnóstico de exclusão, frequentemente associado a pós-operatório e distúrbios hidroeletrolíticos, e geralmente não exige cirurgia."
+        },
+        {
+          "id": "D",
+          "texto": "Tem indicação cirúrgica imediata em todos os pacientes."
+        },
+        {
+          "id": "E",
+          "texto": "Sempre cursa com perfuração intestinal."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **íleo paralítico** é um **diagnóstico de exclusão**: as alças simplesmente não contraem, sem ponto mecânico identificável. Causas típicas são pós-operatório (laparotomia com manipulação de alça) e distúrbios hidroeletrolíticos. O tratamento é clínico — não cirúrgico.",
       "referenciaAula": "O íleo paralítico, adinâmico funcional, nós não identificamos nenhum ponto específico de obstrução, mas simplesmente as alças não contraem. Não é uma conduta cirúrgica.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 360
     },
     {
       "id": "Q-01-009",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["alça fechada", "válvula ileocecal competente"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "alça fechada",
+        "válvula ileocecal competente"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 60 anos, há 5 dias com parada de eliminação de gases e fezes. RX de abdome: cólon distendido, com pouca distensão de alças de delgado e sem nível hidroaéreo significativo no delgado. Tomografia evidencia tumor obstrutivo no cólon transverso. Qual a INTERPRETAÇÃO mais apropriada deste padrão?",
       "alternativas": [
-        { "id": "A", "texto": "Padrão de obstrução alta de delgado, baixo risco de perfuração." },
-        { "id": "B", "texto": "Provável íleo paralítico, com indicação de manejo conservador prolongado." },
-        { "id": "C", "texto": "Obstrução em alça fechada por válvula ileocecal competente, com alto risco iminente de perfuração — exige urgência cirúrgica." },
-        { "id": "D", "texto": "Quadro compatível com fecaloma, conduta com clister glicerinado." },
-        { "id": "E", "texto": "Volvo de sigmoide, indicar retossigmoidoscopia descompressiva." }
+        {
+          "id": "A",
+          "texto": "Padrão de obstrução alta de delgado, baixo risco de perfuração."
+        },
+        {
+          "id": "B",
+          "texto": "Provável íleo paralítico, com indicação de manejo conservador prolongado."
+        },
+        {
+          "id": "C",
+          "texto": "Obstrução em alça fechada por válvula ileocecal competente, com alto risco iminente de perfuração — exige urgência cirúrgica."
+        },
+        {
+          "id": "D",
+          "texto": "Quadro compatível com fecaloma, conduta com clister glicerinado."
+        },
+        {
+          "id": "E",
+          "texto": "Volvo de sigmoide, indicar retossigmoidoscopia descompressiva."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A ausência de distensão de delgado com cólon muito distendido sugere **válvula ileocecal competente** — o gás não reflui para o delgado. Isso configura **obstrução em alça fechada** entre a válvula e o tumor: o conteúdo não tem para onde escapar, e o risco de **perfuração da alça (especialmente do ceco)** é iminente. Indicação de cirurgia de urgência.",
       "referenciaAula": "É uma obstrução que exige urgência, porque é uma obstrução em dois pontos, na válvula ileocecal e na região do tumor. O risco iminente de perfuração da alça é grande.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1621
     },
     {
       "id": "Q-01-010",
       "aulaOrigem": 1,
-      "blocos": ["A"],
-      "eixos": ["T1"],
-      "tags": ["sofrimento de alça", "isquemia", "perfuração"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "sofrimento de alça",
+        "isquemia",
+        "perfuração"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente em manejo conservador de obstrução por bridas há 18 horas evolui com **mudança do padrão da dor** — de cólica intermitente para dor contínua e intensa, taquicardia desproporcional, febre 38,5 °C, leucocitose e lactato 4,5 mmol/L. Qual a interpretação e conduta?",
       "alternativas": [
-        { "id": "A", "texto": "Resposta esperada à SNG; manter conservador por mais 24h." },
-        { "id": "B", "texto": "Sinais de sofrimento de alça (provável isquemia/perfuração); indicação de laparotomia de urgência." },
-        { "id": "C", "texto": "Quadro compatível com íleo paralítico pós-jejum; suspender SNG." },
-        { "id": "D", "texto": "Pneumonia comunitária associada; iniciar apenas antibiótico." },
-        { "id": "E", "texto": "Pielonefrite; solicitar urocultura e iniciar ceftriaxona." }
+        {
+          "id": "A",
+          "texto": "Resposta esperada à SNG; manter conservador por mais 24h."
+        },
+        {
+          "id": "B",
+          "texto": "Sinais de sofrimento de alça (provável isquemia/perfuração); indicação de laparotomia de urgência."
+        },
+        {
+          "id": "C",
+          "texto": "Quadro compatível com íleo paralítico pós-jejum; suspender SNG."
+        },
+        {
+          "id": "D",
+          "texto": "Pneumonia comunitária associada; iniciar apenas antibiótico."
+        },
+        {
+          "id": "E",
+          "texto": "Pielonefrite; solicitar urocultura e iniciar ceftriaxona."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A transição de **dor cólica intermitente para dor contínua**, somada a taquicardia desproporcional, febre, leucocitose e **lactato elevado**, indica **sofrimento de alça com isquemia e/ou perfuração iminente**. Trata-se de uma evolução grave que exige laparotomia de urgência — não há mais espaço para conservadorismo.",
       "referenciaAula": "A dor abdominal é em cólica na tentativa da alça transpor aquela obstrução. Se já tiver perfuração, a dor muda. Ela é uma dor de irritação peritoneal mesmo, contínua.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1860
     }
   ]
 }

@@ -3,6 +3,7 @@ import { Link, Navigate, useNavigate } from 'react-router-dom';
 import { CheckCircle2, RotateCw, XCircle } from 'lucide-react';
 import { Button } from '../components/shared/Button';
 import { Card } from '../components/shared/Card';
+import { VideoMomentButton } from '../components/quiz/VideoMomentButton';
 import { useQuizStore } from '../store/quizStore';
 import { percent } from '../lib/scoring';
 
@@ -97,6 +98,9 @@ export function ResultsPage() {
                 {q.explicacao && (
                   <p className="mt-1 text-slate-600 dark:text-slate-400">{q.explicacao}</p>
                 )}
+                <div className="pt-1">
+                  <VideoMomentButton question={q} variant="compact" />
+                </div>
               </div>
             </Card>
           );

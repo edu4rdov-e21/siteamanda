@@ -5,39 +5,89 @@
     {
       "id": "Q-14-001",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["pneumoperitônio", "diagnóstico", "radiografia"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "pneumoperitônio",
+        "diagnóstico",
+        "radiografia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual achado radiológico é considerado o sinal característico do abdome agudo perfurativo?",
       "alternativas": [
-        { "id": "A", "texto": "Empilhamento de moedas." },
-        { "id": "B", "texto": "Sinal do grão de café." },
-        { "id": "C", "texto": "Pneumoperitônio." },
-        { "id": "D", "texto": "Níveis hidroaéreos múltiplos no delgado." },
-        { "id": "E", "texto": "Apagamento do psoas isolado." }
+        {
+          "id": "A",
+          "texto": "Empilhamento de moedas."
+        },
+        {
+          "id": "B",
+          "texto": "Sinal do grão de café."
+        },
+        {
+          "id": "C",
+          "texto": "Pneumoperitônio."
+        },
+        {
+          "id": "D",
+          "texto": "Níveis hidroaéreos múltiplos no delgado."
+        },
+        {
+          "id": "E",
+          "texto": "Apagamento do psoas isolado."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **pneumoperitônio** (ar livre na cavidade peritoneal) é o achado radiológico mais característico do abdome agudo perfurativo, indicando perfuração de víscera oca. Em muitos casos, apenas a radiografia simples (rotina de abdome agudo) já estabelece a indicação cirúrgica. Os demais sinais correspondem a outros tipos de abdome agudo (obstrutivo).",
       "referenciaAula": "No abdome agudo perfurativo nós vamos ter o pneumoperitônio. Muitas vezes só o radiograma já indica cirurgia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 95
     },
     {
       "id": "Q-14-002",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["rotina de abdome agudo", "incidências", "radiografia"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "rotina de abdome agudo",
+        "incidências",
+        "radiografia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "A chamada \"rotina de abdome agudo\" para investigação de pneumoperitônio inclui quais incidências radiológicas?",
       "alternativas": [
-        { "id": "A", "texto": "Apenas radiografia de abdome em decúbito." },
-        { "id": "B", "texto": "Tórax em ortostase, abdome em decúbito e abdome em ortostase." },
-        { "id": "C", "texto": "Apenas tomografia computadorizada de abdome." },
-        { "id": "D", "texto": "Radiografia de tórax em perfil e ultrassonografia." },
-        { "id": "E", "texto": "Apenas radiografia de abdome em pé." }
+        {
+          "id": "A",
+          "texto": "Apenas radiografia de abdome em decúbito."
+        },
+        {
+          "id": "B",
+          "texto": "Tórax em ortostase, abdome em decúbito e abdome em ortostase."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas tomografia computadorizada de abdome."
+        },
+        {
+          "id": "D",
+          "texto": "Radiografia de tórax em perfil e ultrassonografia."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas radiografia de abdome em pé."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **rotina de abdome agudo** clássica inclui radiografia de **tórax em ortostase**, **abdome em decúbito** e **abdome em ortostase**. Essas incidências permitem identificar o pneumoperitônio (ar entre a cúpula diafragmática e o fígado/baço, por exemplo). A tomografia é complementar quando se busca esclarecer a etiologia ou quando o pneumoperitônio é pequeno.",
@@ -47,102 +97,230 @@
     {
       "id": "Q-14-003",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["peritonite primária", "PBE", "cirrose"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritonite primária",
+        "PBE",
+        "cirrose"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre a peritonite bacteriana primária (PBE), assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "É polimicrobiana e tem indicação cirúrgica imediata." },
-        { "id": "B", "texto": "É a forma mais frequente de peritonite, representando mais de 50% dos casos." },
-        { "id": "C", "texto": "É monomicrobiana, geralmente por germe Gram-negativo, e ocorre em hepatopatas com ascite." },
-        { "id": "D", "texto": "Decorre sempre de perfuração intestinal traumática." },
-        { "id": "E", "texto": "É tratada exclusivamente com laparotomia exploradora." }
+        {
+          "id": "A",
+          "texto": "É polimicrobiana e tem indicação cirúrgica imediata."
+        },
+        {
+          "id": "B",
+          "texto": "É a forma mais frequente de peritonite, representando mais de 50% dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "É monomicrobiana, geralmente por germe Gram-negativo, e ocorre em hepatopatas com ascite."
+        },
+        {
+          "id": "D",
+          "texto": "Decorre sempre de perfuração intestinal traumática."
+        },
+        {
+          "id": "E",
+          "texto": "É tratada exclusivamente com laparotomia exploradora."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **peritonite primária** é pouco frequente (< 1% das peritonites) e tipicamente **monomicrobiana**, com predomínio de Gram-negativos. Ocorre em crianças com nefrose, adultos nefropatas/hepatopatas com ascite e pacientes com colagenoses. Se o líquido ascítico vier polimicrobiano, há grande chance de perfuração intestinal associada (peritonite secundária). O tratamento é clínico (antibioticoterapia).",
       "referenciaAula": "Peritonite primária é monomicrobiana e às custas de germes Gram-negativos. Investiga-se em cirrótico com ascite puncionando o líquido ascítico.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 332
     },
     {
       "id": "Q-14-004",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["peritonite secundária", "asséptica", "química"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritonite secundária",
+        "asséptica",
+        "química"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a classificação das peritonites secundárias, qual situação caracteriza tipicamente uma peritonite secundária ASSÉPTICA (química)?",
       "alternativas": [
-        { "id": "A", "texto": "Perfuração colônica por diverticulite." },
-        { "id": "B", "texto": "Apendicite aguda perfurada." },
-        { "id": "C", "texto": "Extravasamento inicial de suco gástrico, bile, urina ou bário na cavidade." },
-        { "id": "D", "texto": "Disseminação hematogênica de foco respiratório." },
-        { "id": "E", "texto": "Translocação bacteriana em paciente com ascite." }
+        {
+          "id": "A",
+          "texto": "Perfuração colônica por diverticulite."
+        },
+        {
+          "id": "B",
+          "texto": "Apendicite aguda perfurada."
+        },
+        {
+          "id": "C",
+          "texto": "Extravasamento inicial de suco gástrico, bile, urina ou bário na cavidade."
+        },
+        {
+          "id": "D",
+          "texto": "Disseminação hematogênica de foco respiratório."
+        },
+        {
+          "id": "E",
+          "texto": "Translocação bacteriana em paciente com ascite."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **peritonite secundária asséptica (química)** ocorre pelo extravasamento de líquidos orgânicos inicialmente estéreis — **suco gástrico, bile, suco pancreático, urina, sangue** — ou de corpo estranho/bário. Com o passar das horas, ocorre colonização bacteriana e ela pode se tornar séptica. As demais opções são exemplos de peritonite secundária bacteriana ou primária.",
       "referenciaAula": "A peritonite secundária asséptica ocorre por líquidos orgânicos normalmente estéreis: suco gástrico, bile, suco pancreático, urina, sangue. Pode ser também por corpo estranho e bário.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 365
     },
     {
       "id": "Q-14-005",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["úlcera perfurada", "pneumoperitônio pequeno", "etiologia"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "úlcera perfurada",
+        "pneumoperitônio pequeno",
+        "etiologia"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 45 anos, etilista, com dor epigástrica súbita em pontada, abdome em tábua. Radiografia de tórax em ortostase mostra pequeno pneumoperitônio sob a cúpula diafragmática direita. Qual é a etiologia MAIS provável?",
       "alternativas": [
-        { "id": "A", "texto": "Perfuração colônica por diverticulite." },
-        { "id": "B", "texto": "Úlcera péptica gastroduodenal perfurada." },
-        { "id": "C", "texto": "Volvo de sigmoide com perfuração." },
-        { "id": "D", "texto": "Perfuração tumoral do cólon transverso." },
-        { "id": "E", "texto": "Pancreatite aguda necrohemorrágica." }
+        {
+          "id": "A",
+          "texto": "Perfuração colônica por diverticulite."
+        },
+        {
+          "id": "B",
+          "texto": "Úlcera péptica gastroduodenal perfurada."
+        },
+        {
+          "id": "C",
+          "texto": "Volvo de sigmoide com perfuração."
+        },
+        {
+          "id": "D",
+          "texto": "Perfuração tumoral do cólon transverso."
+        },
+        {
+          "id": "E",
+          "texto": "Pancreatite aguda necrohemorrágica."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Um **pneumoperitônio pequeno** em paciente com dor epigástrica súbita é tipicamente associado à **úlcera péptica gastroduodenal perfurada**, pois o estômago e o duodeno contêm pouco ar livre. Já as perfurações **colônicas** geralmente cursam com **pneumoperitônio grande e bilateral**, porque o cólon contém muito ar. Pancreatite não cursa com pneumoperitônio.",
       "referenciaAula": "Pequeno pneumoperitônio do lado direito é comum nas úlceras pépticas gastroduodenais perfuradas, ao passo que grande pneumoperitônio bilateral indica provavelmente perfuração do cólon.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 120
     },
     {
       "id": "Q-14-006",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["peritonite terciária", "reoperação", "fístula"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritonite terciária",
+        "reoperação",
+        "fístula"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Como se define peritonite terciária?",
       "alternativas": [
-        { "id": "A", "texto": "Peritonite monomicrobiana em hepatopatas com ascite." },
-        { "id": "B", "texto": "Peritonite química por extravasamento de bile." },
-        { "id": "C", "texto": "Persistência de infecção intra-abdominal após tratamento clínico-cirúrgico inicial, frequentemente em pacientes reoperados por fístula ou deiscência." },
-        { "id": "D", "texto": "Peritonite causada por contaminação no ato anestésico." },
-        { "id": "E", "texto": "Peritonite associada exclusivamente a trauma penetrante." }
+        {
+          "id": "A",
+          "texto": "Peritonite monomicrobiana em hepatopatas com ascite."
+        },
+        {
+          "id": "B",
+          "texto": "Peritonite química por extravasamento de bile."
+        },
+        {
+          "id": "C",
+          "texto": "Persistência de infecção intra-abdominal após tratamento clínico-cirúrgico inicial, frequentemente em pacientes reoperados por fístula ou deiscência."
+        },
+        {
+          "id": "D",
+          "texto": "Peritonite causada por contaminação no ato anestésico."
+        },
+        {
+          "id": "E",
+          "texto": "Peritonite associada exclusivamente a trauma penetrante."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **peritonite terciária** é um termo relativamente novo que designa a **persistência de infecção intra-abdominal após o tratamento clínico-cirúrgico inicial** da peritonite secundária. É típica de pacientes reoperados várias vezes por fístulas, deiscências de sutura e abscessos persistentes, frequentemente colonizados por germes multirresistentes.",
       "referenciaAula": "Peritonite terciária são aqueles indivíduos que tem persistência de infecção intra-abdominal após tratamento clínico cirúrgico inicial, como o doente reoperado várias vezes por fístula ou deiscência de sutura.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 428
     },
     {
       "id": "Q-14-007",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["peritonite", "exame físico", "irritação peritoneal"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritonite",
+        "exame físico",
+        "irritação peritoneal"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 70 anos, com dor abdominal há 24 horas, febre e calafrios. Ao exame: queda do estado geral, taquicárdica, taquipneica, posição antálgica, abdome distendido com perda da macicez hepática à percussão e ruídos hidroaéreos diminuídos. Qual é a interpretação MAIS provável deste conjunto de achados?",
       "alternativas": [
-        { "id": "A", "texto": "Quadro compatível com íleo paralítico simples, sem indicação cirúrgica." },
-        { "id": "B", "texto": "Peritonite bacteriana com provável pneumoperitônio (perda da macicez hepática) — investigar e indicar cirurgia." },
-        { "id": "C", "texto": "Cólica biliar não complicada." },
-        { "id": "D", "texto": "Gastroenterocolite aguda viral." },
-        { "id": "E", "texto": "Pielonefrite aguda direita." }
+        {
+          "id": "A",
+          "texto": "Quadro compatível com íleo paralítico simples, sem indicação cirúrgica."
+        },
+        {
+          "id": "B",
+          "texto": "Peritonite bacteriana com provável pneumoperitônio (perda da macicez hepática) — investigar e indicar cirurgia."
+        },
+        {
+          "id": "C",
+          "texto": "Cólica biliar não complicada."
+        },
+        {
+          "id": "D",
+          "texto": "Gastroenterocolite aguda viral."
+        },
+        {
+          "id": "E",
+          "texto": "Pielonefrite aguda direita."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O conjunto — toxemia, taquicardia, taquipneia, posição antálgica, distensão, **diminuição de ruídos hidroaéreos** e **perda da macicez hepática à percussão** — é altamente sugestivo de **peritonite bacteriana com pneumoperitônio** (o ar livre interpõe-se entre fígado e parede, abolindo a macicez). Esse achado é clássico de perfuração de víscera oca e exige confirmação radiológica e abordagem cirúrgica.",
@@ -152,60 +330,136 @@
     {
       "id": "Q-14-008",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["preparo pré-operatório", "ressuscitação", "antibiótico"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "preparo pré-operatório",
+        "ressuscitação",
+        "antibiótico"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Paciente com diagnóstico de peritonite bacteriana por úlcera perfurada chega ao pronto-socorro séptico, oligúrico, com K+ de 6,2 mEq/L. Qual a conduta MAIS apropriada antes de levar ao centro cirúrgico?",
       "alternativas": [
-        { "id": "A", "texto": "Levar correndo ao centro cirúrgico, sem perda de tempo com preparo." },
-        { "id": "B", "texto": "Aguardar 24 horas em observação clínica antes de qualquer intervenção." },
-        { "id": "C", "texto": "Realizar reposição volêmica, sondagem vesical e nasogástrica, antibioticoterapia de largo espectro e correção dos distúrbios hidroeletrolíticos, e em seguida operar precocemente." },
-        { "id": "D", "texto": "Iniciar somente antibiótico e dispensar o paciente após melhora clínica, sem cirurgia." },
-        { "id": "E", "texto": "Realizar punção guiada por imagem como tratamento definitivo, evitando a cirurgia." }
+        {
+          "id": "A",
+          "texto": "Levar correndo ao centro cirúrgico, sem perda de tempo com preparo."
+        },
+        {
+          "id": "B",
+          "texto": "Aguardar 24 horas em observação clínica antes de qualquer intervenção."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar reposição volêmica, sondagem vesical e nasogástrica, antibioticoterapia de largo espectro e correção dos distúrbios hidroeletrolíticos, e em seguida operar precocemente."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar somente antibiótico e dispensar o paciente após melhora clínica, sem cirurgia."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar punção guiada por imagem como tratamento definitivo, evitando a cirurgia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Na peritonite bacteriana, o **preparo pré-operatório é fundamental** (não é uma cirurgia de emergência absoluta tipo trauma de grandes vasos): reposição volêmica com cristaloide, sondagem vesical (controle de diurese), nasogástrica (evitar broncoaspiração), antibiótico de largo espectro precoce e **correção dos distúrbios hidroeletrolíticos (não levar paciente com K+ alterado à anestesia)**. Após a estabilização, operar precocemente — sem retardar — porque sem controle do foco a infecção não se resolve.",
       "referenciaAula": "Não pode levar à anestesia um doente com potássio muito alto. Tem que repor, corrigir antes de pensar na cirurgia. Mas corrigiu, melhorou, não pode perder a oportunidade, já levar para a cirurgia.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 991
     },
     {
       "id": "Q-14-009",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["pneumoperitônio grande", "perfuração colônica", "peritonostomia"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "pneumoperitônio grande",
+        "perfuração colônica",
+        "peritonostomia"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 78 anos, com diverticulite, evolui com dor abdominal difusa, abdome em tábua e febre. Radiografia mostra grande pneumoperitônio bilateral. À laparotomia, encontra-se perfuração de cólon sigmoide com peritonite fecal extensa, paciente instável. Qual é a melhor estratégia cirúrgica?",
       "alternativas": [
-        { "id": "A", "texto": "Sutura simples da perfuração sigmoidiana e fechamento primário do abdome." },
-        { "id": "B", "texto": "Apenas drenagem da cavidade, sem ressecção do segmento perfurado." },
-        { "id": "C", "texto": "Ressecção do segmento perfurado com grampeador, lavagem exaustiva da cavidade e tática de controle de danos com peritoneostomia, planejando reabordagem em 48-72h." },
-        { "id": "D", "texto": "Anastomose colorretal primária com proteção por ileostomia, em tempo único." },
-        { "id": "E", "texto": "Apenas antibioticoterapia ampla, sem abordagem cirúrgica." }
+        {
+          "id": "A",
+          "texto": "Sutura simples da perfuração sigmoidiana e fechamento primário do abdome."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas drenagem da cavidade, sem ressecção do segmento perfurado."
+        },
+        {
+          "id": "C",
+          "texto": "Ressecção do segmento perfurado com grampeador, lavagem exaustiva da cavidade e tática de controle de danos com peritoneostomia, planejando reabordagem em 48-72h."
+        },
+        {
+          "id": "D",
+          "texto": "Anastomose colorretal primária com proteção por ileostomia, em tempo único."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas antibioticoterapia ampla, sem abordagem cirúrgica."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Em paciente **instável** com peritonite fecal por perfuração colônica, a aula recomenda **táticas menos agressivas e de menor risco cirúrgico**: ressecar o segmento perfurado, passar o grampeador, **lavar exaustivamente a cavidade** e deixar em **peritoneostomia**, com reabordagem em 48-72h (controle de danos). Sutura primária em peritonite fecal extensa tem alto risco de deiscência, e anastomose primária em paciente instável é contraindicada. O grande pneumoperitônio bilateral é típico de perfuração colônica.",
       "referenciaAula": "Muitas vezes usar táticas menos agressivas e de menor risco cirúrgico. Estudante está péssimo, ressecamos o segmento, passa um grampeador e deixa em peritoneostomia, vai reabordar 48, 72 horas depois.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 780
     },
     {
       "id": "Q-14-010",
       "aulaOrigem": 14,
-      "blocos": ["A"],
-      "eixos": ["T1", "T5"],
-      "tags": ["prognóstico", "fonte de infecção", "tempo de evolução"],
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "prognóstico",
+        "fonte de infecção",
+        "tempo de evolução"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Comparando dois pacientes com peritonite bacteriana secundária, qual cenário apresenta o PIOR prognóstico de acordo com os fatores discutidos na aula?",
       "alternativas": [
-        { "id": "A", "texto": "Adulto jovem hígido, 24 anos, com úlcera duodenal perfurada de 2 horas de evolução." },
-        { "id": "B", "texto": "Idoso de 82 anos, diabético descompensado, em tratamento oncológico, com perfuração de cólon há 48 horas, em choque séptico, oligúrico e com acidose metabólica." },
-        { "id": "C", "texto": "Adulto de 35 anos, sem comorbidades, com apendicite perfurada de 12 horas." },
-        { "id": "D", "texto": "Mulher de 50 anos, hígida, com perfuração gástrica iatrogênica em endoscopia, abordada em 1 hora." },
-        { "id": "E", "texto": "Homem de 40 anos, sem comorbidades, com perfuração de delgado por arma branca de 3 horas." }
+        {
+          "id": "A",
+          "texto": "Adulto jovem hígido, 24 anos, com úlcera duodenal perfurada de 2 horas de evolução."
+        },
+        {
+          "id": "B",
+          "texto": "Idoso de 82 anos, diabético descompensado, em tratamento oncológico, com perfuração de cólon há 48 horas, em choque séptico, oligúrico e com acidose metabólica."
+        },
+        {
+          "id": "C",
+          "texto": "Adulto de 35 anos, sem comorbidades, com apendicite perfurada de 12 horas."
+        },
+        {
+          "id": "D",
+          "texto": "Mulher de 50 anos, hígida, com perfuração gástrica iatrogênica em endoscopia, abordada em 1 hora."
+        },
+        {
+          "id": "E",
+          "texto": "Homem de 40 anos, sem comorbidades, com perfuração de delgado por arma branca de 3 horas."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os fatores de **pior prognóstico** mencionados na aula somam-se neste paciente: **extremos de idade** (idoso), **fonte de infecção colônica** (cólon tem muita bactéria, prognóstico muito pior que estômago/duodeno), **tempo de evolução prolongado** (48h vs 2h faz toda diferença), **doenças associadas/imunossupressão** (diabético descompensado, oncológico) e **sepse avançada com choque, oligúria e acidose**. Cada um desses fatores piora isoladamente o prognóstico; juntos, configuram o pior cenário possível.",

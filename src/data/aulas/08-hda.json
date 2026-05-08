@@ -5,212 +5,472 @@
     {
       "id": "Q-08-001",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["definição", "ângulo de Treitz", "anatomia"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "definição",
+        "ângulo de Treitz",
+        "anatomia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o limite anatômico que define uma hemorragia digestiva como ALTA (HDA)?",
       "alternativas": [
-        { "id": "A", "texto": "Válvula ileocecal." },
-        { "id": "B", "texto": "Ângulo hepático do cólon." },
-        { "id": "C", "texto": "Ligamento de Treitz (ângulo duodenojejunal)." },
-        { "id": "D", "texto": "Esfíncter esofágico inferior." },
-        { "id": "E", "texto": "Piloro." }
+        {
+          "id": "A",
+          "texto": "Válvula ileocecal."
+        },
+        {
+          "id": "B",
+          "texto": "Ângulo hepático do cólon."
+        },
+        {
+          "id": "C",
+          "texto": "Ligamento de Treitz (ângulo duodenojejunal)."
+        },
+        {
+          "id": "D",
+          "texto": "Esfíncter esofágico inferior."
+        },
+        {
+          "id": "E",
+          "texto": "Piloro."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **HDA** é definida como o sangramento oriundo do trato digestivo localizado **acima do ligamento de Treitz**, que separa a quarta porção do duodeno do jejuno. Sangramentos abaixo desse ponto são classificados como hemorragia digestiva baixa (HDB). A válvula ileocecal é o limite entre delgado e cólon, sem relação com a definição de HDA.",
       "referenciaAula": "A definição é o sangramento oriundo do trato digestivo que se localiza acima do ligamento de Treitz.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 38
     },
     {
       "id": "Q-08-002",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["melena", "quadro clínico", "manifestação"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "melena",
+        "quadro clínico",
+        "manifestação"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual a manifestação clínica clássica de hemorragia digestiva alta caracterizada por fezes escuras, pegajosas, com aspecto de \"borra de café\" ou alcatrão?",
       "alternativas": [
-        { "id": "A", "texto": "Hematoquezia." },
-        { "id": "B", "texto": "Enterorragia." },
-        { "id": "C", "texto": "Melena." },
-        { "id": "D", "texto": "Sangue oculto nas fezes." },
-        { "id": "E", "texto": "Disenteria." }
+        {
+          "id": "A",
+          "texto": "Hematoquezia."
+        },
+        {
+          "id": "B",
+          "texto": "Enterorragia."
+        },
+        {
+          "id": "C",
+          "texto": "Melena."
+        },
+        {
+          "id": "D",
+          "texto": "Sangue oculto nas fezes."
+        },
+        {
+          "id": "E",
+          "texto": "Disenteria."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **melena** corresponde à eliminação de sangue **parcialmente digerido** nas fezes, gerando aspecto escuro, pegajoso, similar a alcatrão ou borra de café. A hematoquezia (sangue vermelho vivo) ocorre em apenas 10% das HDA — sendo característica das HDB. A hematêmese é o vômito com sangue, outra manifestação clássica de HDA.",
       "referenciaAula": "A melena é a presença de um sangue parcialmente digerido nas fezes, resultando em fezes escuras e pegajosas, referida como preta, borra de café ou semelhante a alcatrão.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 61
     },
     {
       "id": "Q-08-003",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["úlcera péptica", "etiologia", "AINEs"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "úlcera péptica",
+        "etiologia",
+        "AINEs"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a causa mais comum de hemorragia digestiva alta NÃO varicosa?",
       "alternativas": [
-        { "id": "A", "texto": "Lesão de Dieulafoy." },
-        { "id": "B", "texto": "Síndrome de Mallory-Weiss." },
-        { "id": "C", "texto": "Úlcera péptica." },
-        { "id": "D", "texto": "Variz de esôfago." },
-        { "id": "E", "texto": "Esofagite eosinofílica." }
+        {
+          "id": "A",
+          "texto": "Lesão de Dieulafoy."
+        },
+        {
+          "id": "B",
+          "texto": "Síndrome de Mallory-Weiss."
+        },
+        {
+          "id": "C",
+          "texto": "Úlcera péptica."
+        },
+        {
+          "id": "D",
+          "texto": "Variz de esôfago."
+        },
+        {
+          "id": "E",
+          "texto": "Esofagite eosinofílica."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **úlcera péptica** é a principal causa de HDA não varicosa, frequentemente associada ao uso de **anti-inflamatórios não esteroidais (AINEs)**. As lesões agudas da mucosa, esofagites e a lesão de Dieulafoy são causas menos comuns. As varizes esofagogástricas estão associadas à HDA varicosa, em pacientes com hipertensão portal.",
       "referenciaAula": "A não varicosa se deve principalmente à úlcera péptica. Essas úlceras estão associadas ao uso de anti-inflamatórios não esteroidais na maioria das situações.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 150
     },
     {
       "id": "Q-08-004",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["Forrest", "classificação endoscópica", "ressangramento"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "Forrest",
+        "classificação endoscópica",
+        "ressangramento"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a classificação de Forrest das úlceras pépticas sangrantes, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Forrest IA corresponde à úlcera com fundo limpo e baixo risco de ressangramento." },
-        { "id": "B", "texto": "Forrest IIA corresponde a sangramento ativo em jato." },
-        { "id": "C", "texto": "Forrest IB corresponde a sangramento em babação (porejamento), com alto risco de ressangramento." },
-        { "id": "D", "texto": "Forrest III corresponde a coágulo aderido com risco moderado." },
-        { "id": "E", "texto": "Forrest IIC corresponde a vaso visível não sangrante." }
+        {
+          "id": "A",
+          "texto": "Forrest IA corresponde à úlcera com fundo limpo e baixo risco de ressangramento."
+        },
+        {
+          "id": "B",
+          "texto": "Forrest IIA corresponde a sangramento ativo em jato."
+        },
+        {
+          "id": "C",
+          "texto": "Forrest IB corresponde a sangramento em babação (porejamento), com alto risco de ressangramento."
+        },
+        {
+          "id": "D",
+          "texto": "Forrest III corresponde a coágulo aderido com risco moderado."
+        },
+        {
+          "id": "E",
+          "texto": "Forrest IIC corresponde a vaso visível não sangrante."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "**Forrest IA** = sangramento em jato; **IB** = sangramento em babação/porejamento — ambos com **alto risco de ressangramento**. **IIA** = vaso visível; **IIB** = coágulo aderido; **IIC** = mancha de hematina plana — risco progressivamente menor. **Forrest III** = úlcera com fundo limpo, sem sinais de sangramento, menor risco. A classificação orienta a necessidade de hemostasia endoscópica.",
       "referenciaAula": "Sangramento em jato ou sangramento em porejamento são as úlceras com maior risco de ressangramento. O Forrest 2 é dividido em 2A, 2B e 2C conforme aspecto endoscópico.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 305
     },
     {
       "id": "Q-08-005",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["Glasgow-Blatchford", "score", "estratificação de risco"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "Glasgow-Blatchford",
+        "score",
+        "estratificação de risco"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o score de Glasgow-Blatchford na avaliação inicial da HDA não varicosa, qual afirmação está CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Pontuação igual a zero indica baixo risco, podendo evitar internação." },
-        { "id": "B", "texto": "É calculado apenas após a endoscopia digestiva alta." },
-        { "id": "C", "texto": "Pontuação maior que zero indica baixo risco e alta hospitalar segura." },
-        { "id": "D", "texto": "É utilizado exclusivamente para HDA varicosa." },
-        { "id": "E", "texto": "Substitui a classificação de Forrest no manejo endoscópico." }
+        {
+          "id": "A",
+          "texto": "Pontuação igual a zero indica baixo risco, podendo evitar internação."
+        },
+        {
+          "id": "B",
+          "texto": "É calculado apenas após a endoscopia digestiva alta."
+        },
+        {
+          "id": "C",
+          "texto": "Pontuação maior que zero indica baixo risco e alta hospitalar segura."
+        },
+        {
+          "id": "D",
+          "texto": "É utilizado exclusivamente para HDA varicosa."
+        },
+        {
+          "id": "E",
+          "texto": "Substitui a classificação de Forrest no manejo endoscópico."
+        }
       ],
       "respostaCorreta": "A",
       "explicacao": "O **Glasgow-Blatchford** é uma ferramenta de avaliação **pré-endoscópica** que separa os pacientes conforme a gravidade. Pontuação **zero = baixo risco** (potencial alta segura), enquanto qualquer score **maior que zero** indica internação e maiores cuidados. Difere do escore de Rockall, que utiliza dados endoscópicos e estratifica em baixo (≤2), moderado (3-5) e alto risco (≥6).",
       "referenciaAula": "Pontuação de baixo risco é igual a zero. Um paciente de alto risco que vai merecer internação e mais cuidados é qualquer situação que tenha um score maior que zero.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 245
     },
     {
       "id": "Q-08-006",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["endoscopia", "hemostasia", "ressangramento"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "endoscopia",
+        "hemostasia",
+        "ressangramento"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação ao papel da endoscopia digestiva alta no manejo da HDA não varicosa, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "Tem papel exclusivamente diagnóstico, sem função terapêutica." },
-        { "id": "B", "texto": "Tem caráter diagnóstico e terapêutico, e a hemostasia endoscópica reduz em cerca de 80% o risco de ressangramento." },
-        { "id": "C", "texto": "Está contraindicada em pacientes com instabilidade hemodinâmica em qualquer cenário." },
-        { "id": "D", "texto": "Deve ser realizada apenas após a primeira tentativa cirúrgica falhar." },
-        { "id": "E", "texto": "Não modifica o prognóstico da HDA não varicosa." }
+        {
+          "id": "A",
+          "texto": "Tem papel exclusivamente diagnóstico, sem função terapêutica."
+        },
+        {
+          "id": "B",
+          "texto": "Tem caráter diagnóstico e terapêutico, e a hemostasia endoscópica reduz em cerca de 80% o risco de ressangramento."
+        },
+        {
+          "id": "C",
+          "texto": "Está contraindicada em pacientes com instabilidade hemodinâmica em qualquer cenário."
+        },
+        {
+          "id": "D",
+          "texto": "Deve ser realizada apenas após a primeira tentativa cirúrgica falhar."
+        },
+        {
+          "id": "E",
+          "texto": "Não modifica o prognóstico da HDA não varicosa."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A endoscopia tem **duplo papel** na HDA: diagnóstico (identifica e classifica a lesão pelo Forrest) e terapêutico (escleroterapia, hemoclipes, plasma de argônio). A **hemostasia endoscópica reduz em cerca de 80% a chance de ressangramento**, sendo o pilar do manejo. A maioria das HDA cessa espontaneamente, mas a endoscopia altera o prognóstico nos casos de sangramento ativo.",
       "referenciaAula": "A endoscopia digestiva alta tem tanto um caráter diagnóstico como terapêutico. A hemostasia endoscópica reduz em 80% a chance de ressangramento.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 216
     },
     {
       "id": "Q-08-007",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["balão Sengstaken-Blakemore", "varizes", "tratamento"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "balão Sengstaken-Blakemore",
+        "varizes",
+        "tratamento"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Cirrótico, 58 anos, chega ao pronto-socorro com hematêmese volumosa por variz esofágica. Após reposição volêmica, drogas vasoativas e tentativa de ligadura elástica sem controle do sangramento, qual dispositivo é AMPLAMENTE disponível no Brasil para tamponamento mecânico de emergência?",
       "alternativas": [
-        { "id": "A", "texto": "Balão de Fogarty." },
-        { "id": "B", "texto": "Balão intra-aórtico." },
-        { "id": "C", "texto": "Balão de Sengstaken-Blakemore." },
-        { "id": "D", "texto": "Cateter de Foley." },
-        { "id": "E", "texto": "Stent metálico autoexpansível biliar." }
+        {
+          "id": "A",
+          "texto": "Balão de Fogarty."
+        },
+        {
+          "id": "B",
+          "texto": "Balão intra-aórtico."
+        },
+        {
+          "id": "C",
+          "texto": "Balão de Sengstaken-Blakemore."
+        },
+        {
+          "id": "D",
+          "texto": "Cateter de Foley."
+        },
+        {
+          "id": "E",
+          "texto": "Stent metálico autoexpansível biliar."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **balão de Sengstaken-Blakemore** é um cateter de **três vias** com balão esofágico e balão gástrico, introduzido pelo nariz até o estômago. Quando insuflados, comprimem mecanicamente as varizes interrompendo o sangramento. É amplamente disponível em prontos-socorros do país e salva vidas em sangramento varicoso refratário, servindo como ponte para tratamento definitivo (TIPS, novas sessões endoscópicas).",
       "referenciaAula": "O balão de Sengstaken-Blakemore é amplamente disponível nos prontos-socorros do nosso país. Possui balão esofágico e balão gástrico que comprimem as varizes e fazem interromper o sangramento.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 427
     },
     {
       "id": "Q-08-008",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["TIPS", "hipertensão portal", "endovascular"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "TIPS",
+        "hipertensão portal",
+        "endovascular"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o TIPS (shunt portossistêmico transjugular intra-hepático) no manejo da HDA varicosa, está CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "Estabelece comunicação entre artéria hepática e veia porta, aumentando o fluxo arterial hepático." },
-        { "id": "B", "texto": "Estabelece comunicação artificial entre o sistema venoso porta e o sistema da cava, reduzindo a pressão portal e interrompendo o sangramento." },
-        { "id": "C", "texto": "Consiste em ligadura cirúrgica direta das varizes esofágicas." },
-        { "id": "D", "texto": "É realizado por via endoscópica por meio de hemoclipes." },
-        { "id": "E", "texto": "Está indicado como primeira linha em todas as HDA não varicosas." }
+        {
+          "id": "A",
+          "texto": "Estabelece comunicação entre artéria hepática e veia porta, aumentando o fluxo arterial hepático."
+        },
+        {
+          "id": "B",
+          "texto": "Estabelece comunicação artificial entre o sistema venoso porta e o sistema da cava, reduzindo a pressão portal e interrompendo o sangramento."
+        },
+        {
+          "id": "C",
+          "texto": "Consiste em ligadura cirúrgica direta das varizes esofágicas."
+        },
+        {
+          "id": "D",
+          "texto": "É realizado por via endoscópica por meio de hemoclipes."
+        },
+        {
+          "id": "E",
+          "texto": "Está indicado como primeira linha em todas as HDA não varicosas."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O **TIPS** é uma técnica **endovascular** que cria comunicação artificial entre o sistema venoso da **porta** e o da **cava**, drenando o sangue da circulação portal hipertensa. Isso reduz a pressão portal e interrompe o sangramento varicoso. Requer médico e material especializados, mas apresenta excelentes resultados no controle do sangramento agudo refratário ao tratamento clínico e endoscópico.",
       "referenciaAula": "O TIPS é a comunicação do sistema venoso da cava com o sistema venoso da porta. Diminui a pressão do sistema portal e faz interromper o sangramento das varizes de esôfago.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 483
     },
     {
       "id": "Q-08-009",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["cirurgia de urgência", "rafia", "úlcera"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "cirurgia de urgência",
+        "rafia",
+        "úlcera"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 68 anos, etilista, tabagista, diabético, em uso de AINEs, dá entrada com hematêmese volumosa e choque hipovolêmico. EDA mostra úlcera Forrest IA na parede posterior do duodeno. Após hemostasia endoscópica, ressangra em 12h e nova endoscopia falha em controlar o sangramento mesmo após segunda tentativa. Qual a conduta MAIS apropriada e a técnica cirúrgica de escolha atualmente?",
       "alternativas": [
-        { "id": "A", "texto": "Manter conservador, intensificar IBP em bomba e aguardar nova endoscopia em 48h." },
-        { "id": "B", "texto": "Cirurgia de urgência com gastrectomia subtotal e vagotomia troncular." },
-        { "id": "C", "texto": "Cirurgia de urgência, preferindo técnica menos invasiva como rafia da úlcera ou sutura do vaso sangrante." },
-        { "id": "D", "texto": "TIPS de urgência, pois é a melhor opção para úlcera duodenal sangrante." },
-        { "id": "E", "texto": "Apenas embolização arterial seletiva, contraindicando cirurgia." }
+        {
+          "id": "A",
+          "texto": "Manter conservador, intensificar IBP em bomba e aguardar nova endoscopia em 48h."
+        },
+        {
+          "id": "B",
+          "texto": "Cirurgia de urgência com gastrectomia subtotal e vagotomia troncular."
+        },
+        {
+          "id": "C",
+          "texto": "Cirurgia de urgência, preferindo técnica menos invasiva como rafia da úlcera ou sutura do vaso sangrante."
+        },
+        {
+          "id": "D",
+          "texto": "TIPS de urgência, pois é a melhor opção para úlcera duodenal sangrante."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas embolização arterial seletiva, contraindicando cirurgia."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Trata-se de paciente com **múltiplos fatores agravantes** (idoso, etilista, tabagista, diabético, choque, hematêmese inicial, úlcera Forrest IA em parede posterior do duodeno) e **falha em segunda tentativa endoscópica** — indicação clara de cirurgia de urgência. Atualmente, dada a evolução do tratamento clínico (IBPs) e endoscópico, prefere-se **técnicas menos invasivas como rafia da úlcera ou sutura do vaso sangrante**, em detrimento de gastrectomias, piloroplastias e vagotomias, hoje em desuso. TIPS é técnica para HDA varicosa.",
       "referenciaAula": "Falha numa segunda tentativa de hemostasia endoscópica. Hoje as técnicas cirúrgicas se prefere uma alternativa menos invasiva, como a rafia da úlcera ou sutura do vaso sangrante.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 699
     },
     {
       "id": "Q-08-010",
       "aulaOrigem": 8,
-      "blocos": ["B"],
-      "eixos": ["T2", "T5"],
-      "tags": ["HDA varicosa", "manejo inicial", "antibiótico"],
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "HDA varicosa",
+        "manejo inicial",
+        "antibiótico"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente cirrótico Child-Pugh C, 55 anos, chega ao PS com hematêmese volumosa, PA 80/50 mmHg, FC 130 bpm, palidez, sudorese fria. Após acesso venoso calibroso e reposição volêmica, qual COMBINAÇÃO de medidas farmacológicas iniciais é MAIS apropriada antes da endoscopia?",
       "alternativas": [
-        { "id": "A", "texto": "Apenas inibidor de bomba de prótons em bomba de infusão." },
-        { "id": "B", "texto": "Octreotide + IBP + antibioticoterapia profilática." },
-        { "id": "C", "texto": "Apenas vitamina K e plasma fresco congelado." },
-        { "id": "D", "texto": "Apenas adrenalina sublingual e corticoterapia." },
-        { "id": "E", "texto": "Apenas anti-helmínticos e ácido tranexâmico oral." }
+        {
+          "id": "A",
+          "texto": "Apenas inibidor de bomba de prótons em bomba de infusão."
+        },
+        {
+          "id": "B",
+          "texto": "Octreotide + IBP + antibioticoterapia profilática."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas vitamina K e plasma fresco congelado."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas adrenalina sublingual e corticoterapia."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas anti-helmínticos e ácido tranexâmico oral."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "No manejo da **HDA varicosa**, o tratamento farmacológico inicial inclui **octreotide** (reduz pressão portal por vasoconstrição esplâncnica), **IBP** (até confirmar etiologia varicosa, pois HDA mistas são possíveis) e **antibioticoterapia profilática** — esta última fundamental no cirrótico, pois reduz infecções bacterianas (PBE, ITU, pneumonia) e mortalidade. Apenas IBP é insuficiente em variz; vitamina K e plasma são complementos pontuais; adrenalina sublingual e anti-helmínticos não têm papel.",
       "referenciaAula": "O tratamento da HDA varicosa começa com farmacológico: inibidores de bomba de prótons, octreotide, antibioticoterapia. Grande parte dos pacientes se apresenta com translocação bacteriana espontânea.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 392
     }
   ]
 }

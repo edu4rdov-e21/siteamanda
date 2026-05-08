@@ -5,18 +5,41 @@
     {
       "id": "Q-22-001",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["STUI", "sintomas de esvaziamento", "definição"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "STUI",
+        "sintomas de esvaziamento",
+        "definição"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Sobre os sintomas do trato urinário inferior (STUI/LUTS), qual alternativa apresenta apenas sintomas de ESVAZIAMENTO?",
       "alternativas": [
-        { "id": "A", "texto": "Urgência miccional, polaciúria e noctúria." },
-        { "id": "B", "texto": "Jato urinário fraco, esforço miccional e gotejamento pós-miccional." },
-        { "id": "C", "texto": "Disúria, hematúria macroscópica e febre." },
-        { "id": "D", "texto": "Incontinência de esforço, urgência e enurese." },
-        { "id": "E", "texto": "Dor lombar, hematúria e cólica renal." }
+        {
+          "id": "A",
+          "texto": "Urgência miccional, polaciúria e noctúria."
+        },
+        {
+          "id": "B",
+          "texto": "Jato urinário fraco, esforço miccional e gotejamento pós-miccional."
+        },
+        {
+          "id": "C",
+          "texto": "Disúria, hematúria macroscópica e febre."
+        },
+        {
+          "id": "D",
+          "texto": "Incontinência de esforço, urgência e enurese."
+        },
+        {
+          "id": "E",
+          "texto": "Dor lombar, hematúria e cólica renal."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os sintomas de **esvaziamento** englobam jato urinário fraco, esforço miccional, jato entrecortado, resíduo pós-miccional e gotejamento pós-miccional. Já os sintomas de **armazenamento** são urgência miccional, polaciúria (aumento de frequência) e noctúria. A divisão é fundamental para o raciocínio etiológico das STUI.",
@@ -26,81 +49,179 @@
     {
       "id": "Q-22-002",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["HPB", "zona de transição", "anatomia prostática"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "HPB",
+        "zona de transição",
+        "anatomia prostática"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Em qual zona da próstata ocorre, predominantemente, a hiperplasia prostática benigna (HPB)?",
       "alternativas": [
-        { "id": "A", "texto": "Zona periférica." },
-        { "id": "B", "texto": "Zona central." },
-        { "id": "C", "texto": "Zona de transição (periuretral)." },
-        { "id": "D", "texto": "Estroma fibromuscular anterior." },
-        { "id": "E", "texto": "Cápsula prostática." }
+        {
+          "id": "A",
+          "texto": "Zona periférica."
+        },
+        {
+          "id": "B",
+          "texto": "Zona central."
+        },
+        {
+          "id": "C",
+          "texto": "Zona de transição (periuretral)."
+        },
+        {
+          "id": "D",
+          "texto": "Estroma fibromuscular anterior."
+        },
+        {
+          "id": "E",
+          "texto": "Cápsula prostática."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "A **zona de transição**, que circunda a uretra prostática, é o local onde ocorre a HPB. Por estar adjacente à uretra, gera sintomas obstrutivos precoces. Já o **câncer de próstata** acomete preferencialmente a **zona periférica**, motivo pelo qual costuma ser assintomático no início.",
       "referenciaAula": "A zona de transição é essa área que está ao redor da uretra. É a região mais sujeita à hiperplasia prostática.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 811
     },
     {
       "id": "Q-22-003",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["IPSS", "score de sintomas", "avaliação clínica"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "IPSS",
+        "score de sintomas",
+        "avaliação clínica"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "O International Prostate Symptom Score (IPSS) é utilizado para:",
       "alternativas": [
-        { "id": "A", "texto": "Estadiar metástases ósseas no câncer de próstata." },
-        { "id": "B", "texto": "Diagnosticar prostatite bacteriana aguda." },
-        { "id": "C", "texto": "Graduar a gravidade dos sintomas urinários e direcionar o manejo." },
-        { "id": "D", "texto": "Calcular risco de progressão para câncer de próstata em pacientes com PSA elevado." },
-        { "id": "E", "texto": "Avaliar continência urinária após prostatectomia radical." }
+        {
+          "id": "A",
+          "texto": "Estadiar metástases ósseas no câncer de próstata."
+        },
+        {
+          "id": "B",
+          "texto": "Diagnosticar prostatite bacteriana aguda."
+        },
+        {
+          "id": "C",
+          "texto": "Graduar a gravidade dos sintomas urinários e direcionar o manejo."
+        },
+        {
+          "id": "D",
+          "texto": "Calcular risco de progressão para câncer de próstata em pacientes com PSA elevado."
+        },
+        {
+          "id": "E",
+          "texto": "Avaliar continência urinária após prostatectomia radical."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O **IPSS** é um questionário validado que pontua sete domínios sintomáticos (esforço, jato, frequência, urgência, intermitência, esvaziamento incompleto e noctúria). Permite classificar os sintomas em **leves, moderados ou graves** e guiar a decisão terapêutica entre observação, alfa-bloqueador ou inibidor de 5-alfa-redutase.",
       "referenciaAula": "Existe o score internacional de sintomas prostáticos. Ele ajuda a classificar a gravidade dos sintomas desse paciente.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 337
     },
     {
       "id": "Q-22-004",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["alfa-bloqueador", "tansulosina", "tratamento clínico"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "alfa-bloqueador",
+        "tansulosina",
+        "tratamento clínico"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 65 anos, com IPSS moderado, jato fraco e noctúria duas vezes por noite. Próstata estimada em 35 g ao toque retal, PSA 2,1 ng/mL, sem resíduo pós-miccional significativo. Qual o tratamento clínico inicial mais apropriado?",
       "alternativas": [
-        { "id": "A", "texto": "Iniciar finasterida 5 mg/dia isoladamente." },
-        { "id": "B", "texto": "Iniciar alfa-bloqueador (ex.: doxazosina ou tansulosina)." },
-        { "id": "C", "texto": "Encaminhar imediatamente para ressecção transuretral da próstata (RTU)." },
-        { "id": "D", "texto": "Iniciar antibioticoterapia empírica por 4 semanas." },
-        { "id": "E", "texto": "Indicar prostatectomia simples a céu aberto." }
+        {
+          "id": "A",
+          "texto": "Iniciar finasterida 5 mg/dia isoladamente."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar alfa-bloqueador (ex.: doxazosina ou tansulosina)."
+        },
+        {
+          "id": "C",
+          "texto": "Encaminhar imediatamente para ressecção transuretral da próstata (RTU)."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar antibioticoterapia empírica por 4 semanas."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar prostatectomia simples a céu aberto."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Em sintomas moderados, o tratamento de escolha é o **alfa-bloqueador**, que relaxa a musculatura lisa do colo vesical e da uretra prostática, melhorando o esvaziamento em 10–14 dias. **Finasterida** só é indicada como adjunto em próstatas **acima de 40 g** — neste caso a próstata é menor e a HPB é leve em volume.",
       "referenciaAula": "Paciente com sintoma moderado para cima é candidato a usar alfa-bloqueador. Acima de 40 g, candidato a finasterida.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1086
     },
     {
       "id": "Q-22-005",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["5-alfa-redutase", "finasterida", "PSA"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "5-alfa-redutase",
+        "finasterida",
+        "PSA"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre os inibidores da 5-alfa-redutase (finasterida/dutasterida) no manejo da HPB, é CORRETO afirmar:",
       "alternativas": [
-        { "id": "A", "texto": "Apresentam ação imediata, com melhora dos sintomas em 7–10 dias." },
-        { "id": "B", "texto": "Reduzem o volume prostático em cerca de 30–40% após 6 meses e diminuem o PSA em aproximadamente 50%." },
-        { "id": "C", "texto": "São indicados especialmente em próstatas pequenas (<30 g)." },
-        { "id": "D", "texto": "Atuam relaxando a musculatura lisa do colo vesical." },
-        { "id": "E", "texto": "Aumentam o PSA, devendo ser suspensos antes do rastreamento de câncer." }
+        {
+          "id": "A",
+          "texto": "Apresentam ação imediata, com melhora dos sintomas em 7–10 dias."
+        },
+        {
+          "id": "B",
+          "texto": "Reduzem o volume prostático em cerca de 30–40% após 6 meses e diminuem o PSA em aproximadamente 50%."
+        },
+        {
+          "id": "C",
+          "texto": "São indicados especialmente em próstatas pequenas (<30 g)."
+        },
+        {
+          "id": "D",
+          "texto": "Atuam relaxando a musculatura lisa do colo vesical."
+        },
+        {
+          "id": "E",
+          "texto": "Aumentam o PSA, devendo ser suspensos antes do rastreamento de câncer."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os inibidores da **5-alfa-redutase** bloqueiam a conversão de testosterona em dihidrotestosterona (DHT), reduzindo o estímulo proliferativo prostático. Após cerca de **6 meses**, reduzem o volume da próstata em **30–40%** e o PSA em torno de **50%** — por isso, ao acompanhar PSA em uso crônico, multiplica-se o valor por 2. São indicados em próstatas **>40 g**.",
@@ -110,102 +231,227 @@
     {
       "id": "Q-22-006",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["biópsia prostática", "PSA", "toque retal"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "biópsia prostática",
+        "PSA",
+        "toque retal"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Em relação à indicação de biópsia prostática, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "PSA isolado acima de 2 ng/mL é indicação absoluta de biópsia em qualquer idade." },
-        { "id": "B", "texto": "Toque retal alterado (nódulo, área endurecida ou suspeita) indica biópsia, independentemente do PSA." },
-        { "id": "C", "texto": "Antibioticoterapia empírica para descartar prostatite continua sendo a conduta padrão antes da biópsia." },
-        { "id": "D", "texto": "Relação PSA livre/total elevada (>20%) é altamente sugestiva de câncer." },
-        { "id": "E", "texto": "Biópsia só é indicada após dois exames de imagem positivos." }
+        {
+          "id": "A",
+          "texto": "PSA isolado acima de 2 ng/mL é indicação absoluta de biópsia em qualquer idade."
+        },
+        {
+          "id": "B",
+          "texto": "Toque retal alterado (nódulo, área endurecida ou suspeita) indica biópsia, independentemente do PSA."
+        },
+        {
+          "id": "C",
+          "texto": "Antibioticoterapia empírica para descartar prostatite continua sendo a conduta padrão antes da biópsia."
+        },
+        {
+          "id": "D",
+          "texto": "Relação PSA livre/total elevada (>20%) é altamente sugestiva de câncer."
+        },
+        {
+          "id": "E",
+          "texto": "Biópsia só é indicada após dois exames de imagem positivos."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "**Toque retal alterado equivale a biópsia**, independentemente do valor do PSA — é um princípio clássico. Em geral, biópsia também é indicada com **PSA persistentemente >4 ng/mL** (ou >2,5 em jovens). Relação PSA livre/total **baixa** (≈10–12%) sugere câncer; valores altos sugerem benignidade. O antibiótico empírico pré-biópsia foi abandonado.",
       "referenciaAula": "Todo paciente que tiver toque retal alterado tem indicação de biópsia. Toque é igual a biópsia. Ponto.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 541
     },
     {
       "id": "Q-22-007",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["RTU de próstata", "síndrome pós-RTU", "hiponatremia"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "RTU de próstata",
+        "síndrome pós-RTU",
+        "hiponatremia"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a complicação clássica da ressecção transuretral da próstata (RTU) MONOPOLAR, assinale a alternativa CORRETA:",
       "alternativas": [
-        { "id": "A", "texto": "Pode ocorrer hipovolemia grave por perda do líquido de irrigação para a cavidade peritoneal." },
-        { "id": "B", "texto": "A absorção de soluções não eletrolíticas (água destilada, glicina ou manitol) pode causar hipervolemia com hiponatremia dilucional e alterações neurológicas." },
-        { "id": "C", "texto": "Utiliza-se solução fisiológica como irrigante, sem risco de distúrbios hidroeletrolíticos." },
-        { "id": "D", "texto": "O tempo cirúrgico ideal é >2 horas, para garantir ressecção completa em próstatas grandes." },
-        { "id": "E", "texto": "É indicada para próstatas acima de 100 g como primeira escolha." }
+        {
+          "id": "A",
+          "texto": "Pode ocorrer hipovolemia grave por perda do líquido de irrigação para a cavidade peritoneal."
+        },
+        {
+          "id": "B",
+          "texto": "A absorção de soluções não eletrolíticas (água destilada, glicina ou manitol) pode causar hipervolemia com hiponatremia dilucional e alterações neurológicas."
+        },
+        {
+          "id": "C",
+          "texto": "Utiliza-se solução fisiológica como irrigante, sem risco de distúrbios hidroeletrolíticos."
+        },
+        {
+          "id": "D",
+          "texto": "O tempo cirúrgico ideal é >2 horas, para garantir ressecção completa em próstatas grandes."
+        },
+        {
+          "id": "E",
+          "texto": "É indicada para próstatas acima de 100 g como primeira escolha."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Na RTU **monopolar**, a corrente exige solução **não condutora** (água destilada, glicina ou manitol). Essas soluções são absorvidas pelo leito cruento prostático causando **hipervolemia com hiponatremia dilucional** (a chamada síndrome pós-RTU), com risco de alterações neurológicas. Por isso o tempo é limitado a 40–60 minutos e a próstata indicada é geralmente <60–80 g.",
       "referenciaAula": "Após RTU pode ter hipervolemia com hiponatremia dilucional, e essa hiponatremia pode causar alterações neurológicas. Limitar tempo a 40 minutos a 1 hora.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1328
     },
     {
       "id": "Q-22-008",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["câncer de próstata", "metástase óssea", "estadiamento"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "câncer de próstata",
+        "metástase óssea",
+        "estadiamento"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre o câncer de próstata, qual o principal sítio de metástase à distância e o exame de estadiamento para investigá-lo?",
       "alternativas": [
-        { "id": "A", "texto": "Pulmão; tomografia de tórax." },
-        { "id": "B", "texto": "Fígado; ressonância de abdome superior." },
-        { "id": "C", "texto": "Esqueleto axial (vértebras, coluna, pelve); cintilografia óssea." },
-        { "id": "D", "texto": "Cérebro; ressonância magnética de crânio." },
-        { "id": "E", "texto": "Linfonodos cervicais; PET-CT com FDG." }
+        {
+          "id": "A",
+          "texto": "Pulmão; tomografia de tórax."
+        },
+        {
+          "id": "B",
+          "texto": "Fígado; ressonância de abdome superior."
+        },
+        {
+          "id": "C",
+          "texto": "Esqueleto axial (vértebras, coluna, pelve); cintilografia óssea."
+        },
+        {
+          "id": "D",
+          "texto": "Cérebro; ressonância magnética de crânio."
+        },
+        {
+          "id": "E",
+          "texto": "Linfonodos cervicais; PET-CT com FDG."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O câncer de próstata metastatiza preferencialmente para o **esqueleto axial** (vértebras, coluna, pelve). A **cintilografia óssea** é o exame padrão de estadiamento e não pode ser esquecida. Tomografia de abdome e pelve complementa a avaliação visceral e linfonodal; a ressonância serve para o estadiamento local.",
       "referenciaAula": "O primeiro sítio de metástase no câncer de próstata é osso, esqueleto axial. Cintilografia óssea é o primeiro exame.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1711
     },
     {
       "id": "Q-22-009",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["HPB", "indicação cirúrgica", "complicações", "hidronefrose"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "HPB",
+        "indicação cirúrgica",
+        "complicações",
+        "hidronefrose"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 72 anos, em uso de tansulosina 0,4 mg/dia + finasterida 5 mg/dia há 3 anos por HPB. Refere piora progressiva do jato urinário e dois episódios de retenção urinária aguda nos últimos 6 meses. USG: próstata 95 g com lobo mediano protruso, resíduo pós-miccional 250 mL, hidronefrose bilateral leve. Creatinina 1,8 mg/dL (basal 1,1). Qual a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Manter o tratamento clínico atual e reavaliar em 6 meses." },
-        { "id": "B", "texto": "Substituir a tansulosina por doxazosina e adicionar antibioticoterapia profilática." },
-        { "id": "C", "texto": "Encaminhar à urologia para tratamento cirúrgico — provável prostatectomia simples (suprapúbica/aberta ou enucleação) dada a falha clínica, retenção, hidronefrose e próstata >80–90 g." },
-        { "id": "D", "texto": "Indicar RTU monopolar como primeira escolha, independente do volume prostático." },
-        { "id": "E", "texto": "Solicitar biópsia transretal antes de qualquer outra conduta, pois o PSA deve estar elevado pela próstata volumosa." }
+        {
+          "id": "A",
+          "texto": "Manter o tratamento clínico atual e reavaliar em 6 meses."
+        },
+        {
+          "id": "B",
+          "texto": "Substituir a tansulosina por doxazosina e adicionar antibioticoterapia profilática."
+        },
+        {
+          "id": "C",
+          "texto": "Encaminhar à urologia para tratamento cirúrgico — provável prostatectomia simples (suprapúbica/aberta ou enucleação) dada a falha clínica, retenção, hidronefrose e próstata >80–90 g."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar RTU monopolar como primeira escolha, independente do volume prostático."
+        },
+        {
+          "id": "E",
+          "texto": "Solicitar biópsia transretal antes de qualquer outra conduta, pois o PSA deve estar elevado pela próstata volumosa."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Há **falha do tratamento clínico** somada a **complicações** (retenção urinária recorrente, resíduo elevado, hidronefrose e piora da função renal) — todas indicações **absolutas de cirurgia**. Para próstata **>80–90 g**, a RTU (especialmente monopolar) é limitada pelo risco de síndrome pós-RTU; a opção de escolha é **prostatectomia simples (suprapúbica aberta, laparoscópica/robótica) ou enucleação a laser (HoLEP)**.",
       "referenciaAula": "Paciente refratário ao tratamento, com hidronefrose, piora da função renal, cálculo vesical ou resíduo elevado tem indicação cirúrgica. Acima de 80–90 g, cirurgia aberta.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1170
     },
     {
       "id": "Q-22-010",
       "aulaOrigem": 22,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["câncer de próstata", "Gleason", "risco", "seguimento vigiado"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "câncer de próstata",
+        "Gleason",
+        "risco",
+        "seguimento vigiado"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 68 anos, assintomático, PSA 6,8 ng/mL, toque retal sem alterações. Ressonância multiparamétrica com lesão PI-RADS 3 unilateral. Biópsia: adenocarcinoma acinar Gleason 3+3 (ISUP 1) em 1 fragmento (15% do fragmento), demais fragmentos negativos. Qual a conduta MAIS apropriada para esse paciente?",
       "alternativas": [
-        { "id": "A", "texto": "Prostatectomia radical robótica imediata, com linfadenectomia estendida." },
-        { "id": "B", "texto": "Radioterapia externa associada a hormonioterapia por 24 meses." },
-        { "id": "C", "texto": "Vigilância ativa (seguimento vigiado), com PSA seriado, ressonância anual e rebiopsia de confirmação em ~12 meses." },
-        { "id": "D", "texto": "Hormonioterapia isolada com análogo de LHRH." },
-        { "id": "E", "texto": "Cintilografia óssea seguida de quimioterapia neoadjuvante." }
+        {
+          "id": "A",
+          "texto": "Prostatectomia radical robótica imediata, com linfadenectomia estendida."
+        },
+        {
+          "id": "B",
+          "texto": "Radioterapia externa associada a hormonioterapia por 24 meses."
+        },
+        {
+          "id": "C",
+          "texto": "Vigilância ativa (seguimento vigiado), com PSA seriado, ressonância anual e rebiopsia de confirmação em ~12 meses."
+        },
+        {
+          "id": "D",
+          "texto": "Hormonioterapia isolada com análogo de LHRH."
+        },
+        {
+          "id": "E",
+          "texto": "Cintilografia óssea seguida de quimioterapia neoadjuvante."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Trata-se de doença de **baixo risco** (Gleason 3+3, PSA <10, toque normal). O estudo PROTECT mostrou sobrevida em 15 anos equivalente entre **vigilância ativa, cirurgia e radioterapia** nesse perfil. A conduta de escolha é **seguimento vigiado** com PSA seriado, ressonância anual e biópsia de confirmação em ~12 meses, evitando overtreatment. Hormonioterapia isolada não é tratamento curativo e não está indicada em doença localizada de baixo risco.",

@@ -5,102 +5,225 @@
     {
       "id": "Q-26-001",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["composição", "oxalato de cálcio", "epidemiologia"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "composição",
+        "oxalato de cálcio",
+        "epidemiologia"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é a composição mais frequente dos cálculos renais, correspondendo a aproximadamente 75% dos casos?",
       "alternativas": [
-        { "id": "A", "texto": "Estruvita (fosfato amoníaco-magnesiano)." },
-        { "id": "B", "texto": "Ácido úrico." },
-        { "id": "C", "texto": "Oxalato de cálcio." },
-        { "id": "D", "texto": "Fosfato de cálcio." },
-        { "id": "E", "texto": "Cistina." }
+        {
+          "id": "A",
+          "texto": "Estruvita (fosfato amoníaco-magnesiano)."
+        },
+        {
+          "id": "B",
+          "texto": "Ácido úrico."
+        },
+        {
+          "id": "C",
+          "texto": "Oxalato de cálcio."
+        },
+        {
+          "id": "D",
+          "texto": "Fosfato de cálcio."
+        },
+        {
+          "id": "E",
+          "texto": "Cistina."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Os cálculos de **oxalato de cálcio** correspondem a cerca de **75%** de toda a nefrolitíase. Em segundo lugar, no Brasil, vem a **estruvita** (relacionada a infecção urinária), seguida do **ácido úrico** (8-10%), **fosfato de cálcio** (~5%) e, por último, a **cistina** (rara, ligada à cistinúria, alteração genética).",
       "referenciaAula": "Cálculos de oxalato de cálcio correspondem a 75% da nefrolitíase como um todo. Em segundo lugar vem a estruvita.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 214
     },
     {
       "id": "Q-26-002",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["pontos de impactação", "anatomia", "ureter"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "pontos de impactação",
+        "anatomia",
+        "ureter"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Quais são os três pontos clássicos de impactação de um cálculo durante sua passagem pelo trato urinário?",
       "alternativas": [
-        { "id": "A", "texto": "Pelve renal, hilo renal e meato uretral externo." },
-        { "id": "B", "texto": "Junção ureteropiélica (JUP), cruzamento com vasos ilíacos e junção ureterovesical (JUV)." },
-        { "id": "C", "texto": "Cálice superior, cálice médio e cálice inferior." },
-        { "id": "D", "texto": "Uretra prostática, uretra membranosa e uretra peniana." },
-        { "id": "E", "texto": "Trígono vesical, colo vesical e meato uretral." }
+        {
+          "id": "A",
+          "texto": "Pelve renal, hilo renal e meato uretral externo."
+        },
+        {
+          "id": "B",
+          "texto": "Junção ureteropiélica (JUP), cruzamento com vasos ilíacos e junção ureterovesical (JUV)."
+        },
+        {
+          "id": "C",
+          "texto": "Cálice superior, cálice médio e cálice inferior."
+        },
+        {
+          "id": "D",
+          "texto": "Uretra prostática, uretra membranosa e uretra peniana."
+        },
+        {
+          "id": "E",
+          "texto": "Trígono vesical, colo vesical e meato uretral."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os três pontos clássicos de impactação são: **junção ureteropiélica (JUP)**, **cruzamento do ureter com os vasos ilíacos** e **junção ureterovesical (JUV)**, próxima ao meato ureteral. Embora um cálculo possa parar em qualquer ponto, esses são os locais anatômicos de maior estreitamento.",
       "referenciaAula": "Os três lugares clássicos onde o cálculo pode impactar: junção ureteropiélica, no cruzamento com os vasos ilíacos e na junção ureterovesical.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 280
     },
     {
       "id": "Q-26-003",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["exame padrão-ouro", "tomografia", "diagnóstico por imagem"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "exame padrão-ouro",
+        "tomografia",
+        "diagnóstico por imagem"
+      ],
       "dificuldade": "facil",
       "tipo": "multipla",
       "enunciado": "Qual é o exame de imagem considerado padrão-ouro para o diagnóstico de nefrolitíase?",
       "alternativas": [
-        { "id": "A", "texto": "Radiografia simples de abdome." },
-        { "id": "B", "texto": "Ultrassonografia de rins e vias urinárias." },
-        { "id": "C", "texto": "Urografia excretora." },
-        { "id": "D", "texto": "Tomografia computadorizada de abdome SEM contraste." },
-        { "id": "E", "texto": "Ressonância magnética de abdome com contraste." }
+        {
+          "id": "A",
+          "texto": "Radiografia simples de abdome."
+        },
+        {
+          "id": "B",
+          "texto": "Ultrassonografia de rins e vias urinárias."
+        },
+        {
+          "id": "C",
+          "texto": "Urografia excretora."
+        },
+        {
+          "id": "D",
+          "texto": "Tomografia computadorizada de abdome SEM contraste."
+        },
+        {
+          "id": "E",
+          "texto": "Ressonância magnética de abdome com contraste."
+        }
       ],
       "respostaCorreta": "D",
       "explicacao": "A **tomografia computadorizada de abdome sem contraste** é o **padrão-ouro** para nefrolitíase. Permite avaliar tamanho, localização, densidade do cálculo (em unidades Hounsfield) e a presença de hidronefrose, sem necessidade de jejum ou contraste. A ultrassonografia é boa alternativa, mas tem limitação no ureter médio.",
       "referenciaAula": "O exame padrão padrão-ouro é a tomografia simples de abdômen, não precisa ser contrastada.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 871
     },
     {
       "id": "Q-26-004",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["pielonefrite obstrutiva", "emergência", "drenagem"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "pielonefrite obstrutiva",
+        "emergência",
+        "drenagem"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Mulher, 45 anos, dá entrada com dor lombar à direita, febre 39 °C, calafrios, taquicardia e prostração. TC evidencia cálculo de 8 mm impactado no ureter proximal direito com hidronefrose moderada e leucocitose de 18.000. Qual a conduta MAIS apropriada?",
       "alternativas": [
-        { "id": "A", "texto": "Hidratação vigorosa, analgesia e tansulosina, aguardando eliminação espontânea." },
-        { "id": "B", "texto": "Litotripsia extracorpórea (LECO) imediata para fragmentar o cálculo." },
-        { "id": "C", "texto": "Antibioticoterapia intravenosa associada a drenagem urgente da via urinária (cateter duplo J ou nefrostomia percutânea)." },
-        { "id": "D", "texto": "Ureterolitotripsia flexível com laser na mesma internação." },
-        { "id": "E", "texto": "Apenas observação clínica e analgesia oral por 48 horas." }
+        {
+          "id": "A",
+          "texto": "Hidratação vigorosa, analgesia e tansulosina, aguardando eliminação espontânea."
+        },
+        {
+          "id": "B",
+          "texto": "Litotripsia extracorpórea (LECO) imediata para fragmentar o cálculo."
+        },
+        {
+          "id": "C",
+          "texto": "Antibioticoterapia intravenosa associada a drenagem urgente da via urinária (cateter duplo J ou nefrostomia percutânea)."
+        },
+        {
+          "id": "D",
+          "texto": "Ureterolitotripsia flexível com laser na mesma internação."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas observação clínica e analgesia oral por 48 horas."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Trata-se de **pielonefrite obstrutiva**, uma das emergências urológicas (ao lado da torção testicular), com alta mortalidade por evolução para sepse. O raciocínio é o de **abscesso contido**: deve-se **drenar imediatamente**, seja por cateter duplo J retrógrado ou nefrostomia percutânea, associado à antibioticoterapia. O tratamento definitivo do cálculo é feito em segundo momento.",
       "referenciaAula": "Pielonefrite obstrutiva é uma emergência porque tem alta mortalidade. Na pielonefrite obstrutiva, apenas desobstrução, trata o cálculo no segundo momento.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 484
     },
     {
       "id": "Q-26-005",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["alfabloqueador", "tansulosina", "tratamento clínico"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "alfabloqueador",
+        "tansulosina",
+        "tratamento clínico"
+      ],
       "dificuldade": "media",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 38 anos, com cólica renal por cálculo de 5 mm no ureter distal, sem sinais de infecção e com função renal preservada. Qual a melhor estratégia farmacológica complementar para favorecer a eliminação espontânea?",
       "alternativas": [
-        { "id": "A", "texto": "Hidratação endovenosa vigorosa para 'empurrar' o cálculo." },
-        { "id": "B", "texto": "Alfabloqueador (tansulosina ou doxazosina) para relaxar o ureter distal." },
-        { "id": "C", "texto": "Diurético de alça em dose alta para aumentar o fluxo urinário." },
-        { "id": "D", "texto": "Beta-bloqueador para reduzir o peristaltismo ureteral." },
-        { "id": "E", "texto": "Corticoide sistêmico em dose alta." }
+        {
+          "id": "A",
+          "texto": "Hidratação endovenosa vigorosa para 'empurrar' o cálculo."
+        },
+        {
+          "id": "B",
+          "texto": "Alfabloqueador (tansulosina ou doxazosina) para relaxar o ureter distal."
+        },
+        {
+          "id": "C",
+          "texto": "Diurético de alça em dose alta para aumentar o fluxo urinário."
+        },
+        {
+          "id": "D",
+          "texto": "Beta-bloqueador para reduzir o peristaltismo ureteral."
+        },
+        {
+          "id": "E",
+          "texto": "Corticoide sistêmico em dose alta."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os **alfabloqueadores** (tansulosina, doxazosina) atuam nos receptores alfa-adrenérgicos do ureter, **mais abundantes no ureter distal**, relaxando-o e favorecendo a eliminação espontânea de cálculos médio-distais. A hidratação deve ser **moderada** — hidratação vigorosa em obstrução aumenta a pressão na cápsula renal e piora a dor. Empurrar a pedra com líquidos é uma falácia.",
@@ -110,102 +233,225 @@
     {
       "id": "Q-26-006",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["LECO", "litotripsia extracorpórea", "contraindicações"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "LECO",
+        "litotripsia extracorpórea",
+        "contraindicações"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Sobre a litotripsia extracorpórea por ondas de choque (LECO), assinale a alternativa CORRETA quanto a indicações e contraindicações:",
       "alternativas": [
-        { "id": "A", "texto": "É a primeira escolha para cálculos coraliformes completos." },
-        { "id": "B", "texto": "Indicada para cálculos renais ou ureterais menores que 2 cm e idealmente menos densos (<1000 UH); contraindicada em gestantes, coagulopatias e grande distância pele-cálculo." },
-        { "id": "C", "texto": "Tem indicação preferencial em cálculos do grupamento calicinal inferior com infundíbulo estreito e ângulo fechado." },
-        { "id": "D", "texto": "Pode ser realizada com segurança em gestantes, sem risco para o feto." },
-        { "id": "E", "texto": "É contraindicada em qualquer cálculo ureteral, sendo restrita a cálculos renais." }
+        {
+          "id": "A",
+          "texto": "É a primeira escolha para cálculos coraliformes completos."
+        },
+        {
+          "id": "B",
+          "texto": "Indicada para cálculos renais ou ureterais menores que 2 cm e idealmente menos densos (<1000 UH); contraindicada em gestantes, coagulopatias e grande distância pele-cálculo."
+        },
+        {
+          "id": "C",
+          "texto": "Tem indicação preferencial em cálculos do grupamento calicinal inferior com infundíbulo estreito e ângulo fechado."
+        },
+        {
+          "id": "D",
+          "texto": "Pode ser realizada com segurança em gestantes, sem risco para o feto."
+        },
+        {
+          "id": "E",
+          "texto": "É contraindicada em qualquer cálculo ureteral, sendo restrita a cálculos renais."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "A **LECO** é indicada para cálculos **<2 cm** e idealmente **<1000 unidades Hounsfield** (cálculos mais densos são duros e fragmentam mal). Contraindicações: **gestação** (risco de descolamento placentário), **coagulopatias/anticoagulação**, **grande distância pele-cálculo** (obesidade), **obstrução ureteral distal ao cálculo** e cálculos em **calicinal inferior com infundíbulo estreito** (fragmentos não são eliminados).",
       "referenciaAula": "Cálculos menores que 2 cm e mais moles. Contraindicações: distância pele-cálculo, obstrução ureteral distal, cálculos em calicinal inferior com infundíbulo estreito, coagulopatia e gravidez.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 1953
     },
     {
       "id": "Q-26-007",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["cálculo coraliforme", "estruvita", "infecção"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "cálculo coraliforme",
+        "estruvita",
+        "infecção"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "O cálculo coraliforme, que ocupa todo o sistema coletor renal (pelve e cálices), está classicamente associado a qual composição e a qual fator predisponente?",
       "alternativas": [
-        { "id": "A", "texto": "Ácido úrico, associado à hiperuricosúria e dietas hiperproteicas." },
-        { "id": "B", "texto": "Cistina, associada a alteração genética (cistinúria)." },
-        { "id": "C", "texto": "Estruvita (fosfato amoníaco-magnesiano), associada a infecções urinárias de repetição por germes produtores de urease." },
-        { "id": "D", "texto": "Oxalato de cálcio puro, associado à hipercalciúria idiopática." },
-        { "id": "E", "texto": "Fosfato de cálcio puro, associado a acidose tubular renal." }
+        {
+          "id": "A",
+          "texto": "Ácido úrico, associado à hiperuricosúria e dietas hiperproteicas."
+        },
+        {
+          "id": "B",
+          "texto": "Cistina, associada a alteração genética (cistinúria)."
+        },
+        {
+          "id": "C",
+          "texto": "Estruvita (fosfato amoníaco-magnesiano), associada a infecções urinárias de repetição por germes produtores de urease."
+        },
+        {
+          "id": "D",
+          "texto": "Oxalato de cálcio puro, associado à hipercalciúria idiopática."
+        },
+        {
+          "id": "E",
+          "texto": "Fosfato de cálcio puro, associado a acidose tubular renal."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "O cálculo **coraliforme** clássico é composto por **estruvita (fosfato amoníaco-magnesiano)** e está fortemente associado a **infecções urinárias de repetição** por germes produtores de **urease** (Proteus, Klebsiella), que alcalinizam a urina e favorecem a precipitação. É a segunda composição mais prevalente no Brasil. Sua morfologia ramificada, ocupando todo o sistema coletor, pode ser sugerida já à radiografia simples (achado patognomônico).",
       "referenciaAula": "Estruvita é cálculo de fosfato magnesiano amoníaco, muitas vezes relacionado à infecção. Cálculo coraliforme ocupa todo o sistema coletor.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 246
     },
     {
       "id": "Q-26-008",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["nefrolitotomia percutânea", "cálculo >2cm", "tratamento cirúrgico"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "nefrolitotomia percutânea",
+        "cálculo >2cm",
+        "tratamento cirúrgico"
+      ],
       "dificuldade": "media",
       "tipo": "multipla",
       "enunciado": "Para um cálculo renal não-coraliforme com mais de 2 cm, qual o tratamento de primeira escolha segundo os principais guidelines?",
       "alternativas": [
-        { "id": "A", "texto": "Litotripsia extracorpórea (LECO) em sessões repetidas." },
-        { "id": "B", "texto": "Ureterolitotripsia flexível com laser exclusivamente." },
-        { "id": "C", "texto": "Nefrolitotomia percutânea (NLPC)." },
-        { "id": "D", "texto": "Nefrolitotomia anatrófica aberta de rotina." },
-        { "id": "E", "texto": "Manejo conservador com alfabloqueador e hidratação." }
+        {
+          "id": "A",
+          "texto": "Litotripsia extracorpórea (LECO) em sessões repetidas."
+        },
+        {
+          "id": "B",
+          "texto": "Ureterolitotripsia flexível com laser exclusivamente."
+        },
+        {
+          "id": "C",
+          "texto": "Nefrolitotomia percutânea (NLPC)."
+        },
+        {
+          "id": "D",
+          "texto": "Nefrolitotomia anatrófica aberta de rotina."
+        },
+        {
+          "id": "E",
+          "texto": "Manejo conservador com alfabloqueador e hidratação."
+        }
       ],
       "respostaCorreta": "C",
       "explicacao": "Para cálculos renais **>2 cm**, a **nefrolitotomia percutânea (NLPC)** continua sendo a primeira escolha pelos guidelines. Permite acesso direto pela região lombar e uso de litotridores potentes (ultrassônicos), retirando fragmentos maiores em uma única sessão. A LECO tem baixa eficácia em cálculos volumosos ou densos; a ureterorrenolitotripsia flexível é melhor para cálculos ≤2 cm. A cirurgia aberta é reservada a exceções.",
       "referenciaAula": "Para cálculos maiores que 2 cm, a primeira opção nos guidelines é a nefrolitotomia percutânea.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 2480
     },
     {
       "id": "Q-26-009",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["sintomas", "obstrução", "tamanho do cálculo"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "sintomas",
+        "obstrução",
+        "tamanho do cálculo"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Paciente, 50 anos, faz tomografia por trauma abdominal leve e descobre incidentalmente um cálculo de 1,8 cm no grupamento calicinal inferior do rim direito, sem hidronefrose. Outro paciente, 35 anos, chega ao PS com cólica renal intensa por cálculo de 4 mm impactado em JUV com hidronefrose. Qual interpretação fisiopatológica é a CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "O paciente com cálculo maior tem maior risco de sintomas, pois a intensidade da dor é proporcional ao tamanho do cálculo." },
-        { "id": "B", "texto": "Os sintomas estão diretamente ligados à obstrução (e consequente distensão da cápsula renal), e não ao tamanho do cálculo — um cálculo pequeno impactado pode dar sintomas exuberantes, enquanto um cálculo grande não-obstrutivo pode ser assintomático." },
-        { "id": "C", "texto": "Cálculo calicinal inferior tem indicação cirúrgica de urgência mesmo sem obstrução." },
-        { "id": "D", "texto": "Apenas cálculos maiores que 1 cm são capazes de causar cólica renal verdadeira." },
-        { "id": "E", "texto": "Em cálculos não-obstrutivos, a hidratação vigorosa é a melhor estratégia para mobilizá-los do calicinal inferior." }
+        {
+          "id": "A",
+          "texto": "O paciente com cálculo maior tem maior risco de sintomas, pois a intensidade da dor é proporcional ao tamanho do cálculo."
+        },
+        {
+          "id": "B",
+          "texto": "Os sintomas estão diretamente ligados à obstrução (e consequente distensão da cápsula renal), e não ao tamanho do cálculo — um cálculo pequeno impactado pode dar sintomas exuberantes, enquanto um cálculo grande não-obstrutivo pode ser assintomático."
+        },
+        {
+          "id": "C",
+          "texto": "Cálculo calicinal inferior tem indicação cirúrgica de urgência mesmo sem obstrução."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas cálculos maiores que 1 cm são capazes de causar cólica renal verdadeira."
+        },
+        {
+          "id": "E",
+          "texto": "Em cálculos não-obstrutivos, a hidratação vigorosa é a melhor estratégia para mobilizá-los do calicinal inferior."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "Os sintomas da nefrolitíase **não dependem do tamanho do cálculo**, mas sim da **obstrução** que ele causa e da consequente distensão aguda da cápsula renal. Um cálculo de 4 mm impactado no ureter pode provocar cólica intensa, enquanto um cálculo calicinal de 1,8 cm não-obstrutivo pode ser totalmente assintomático e descoberto como achado de exame. Cálculos calicinais assintomáticos não exigem conduta de urgência — a decisão é ambulatorial e individualizada.",
       "referenciaAula": "Os sintomas estão ligados à obstrução que o cálculo causa e por isso não tem a ver com o tamanho. Um pequeno cálculo impactado pode dar sintomas exuberantes, enquanto um cálculo renal grande não obstrutivo pode não dar sintoma nenhum.",
-      "transversal": false
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 370
     },
     {
       "id": "Q-26-010",
       "aulaOrigem": 26,
-      "blocos": ["H"],
-      "eixos": ["T8"],
-      "tags": ["indicações cirúrgicas urgência", "rim único", "anúria obstrutiva"],
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "indicações cirúrgicas urgência",
+        "rim único",
+        "anúria obstrutiva"
+      ],
       "dificuldade": "dificil",
       "tipo": "caso_clinico",
       "enunciado": "Homem, 62 anos, nefrectomia direita prévia por trauma. Chega ao PS com dor lombar esquerda há 24h, oligoanúria, creatinina 4,2 mg/dL (basal 1,1) e TC mostrando cálculo de 7 mm obstrutivo na JUP esquerda com hidronefrose moderada. Sem febre, sem leucocitose. Qual a conduta CORRETA?",
       "alternativas": [
-        { "id": "A", "texto": "Manejo conservador com analgesia e tansulosina, observação por 48h." },
-        { "id": "B", "texto": "Drenagem urgente da via urinária (duplo J ou nefrostomia percutânea), pois há obstrução de rim único com piora de função renal." },
-        { "id": "C", "texto": "LECO imediata como primeira medida para fragmentar o cálculo." },
-        { "id": "D", "texto": "Hidratação venosa vigorosa para forçar a passagem do cálculo." },
-        { "id": "E", "texto": "Nefrolitotomia anatrófica aberta de urgência." }
+        {
+          "id": "A",
+          "texto": "Manejo conservador com analgesia e tansulosina, observação por 48h."
+        },
+        {
+          "id": "B",
+          "texto": "Drenagem urgente da via urinária (duplo J ou nefrostomia percutânea), pois há obstrução de rim único com piora de função renal."
+        },
+        {
+          "id": "C",
+          "texto": "LECO imediata como primeira medida para fragmentar o cálculo."
+        },
+        {
+          "id": "D",
+          "texto": "Hidratação venosa vigorosa para forçar a passagem do cálculo."
+        },
+        {
+          "id": "E",
+          "texto": "Nefrolitotomia anatrófica aberta de urgência."
+        }
       ],
       "respostaCorreta": "B",
       "explicacao": "O paciente apresenta múltiplos critérios para **cirurgia de urgência**: **rim único anatômico**, **obstrução pós-renal com piora de função renal** (creatinina 1,1 → 4,2) e **oligoanúria**. A conduta correta é a **drenagem imediata** da via urinária por duplo J retrógrado ou nefrostomia percutânea, para preservar o parênquima e a função do único rim. O tratamento definitivo do cálculo (ex.: ureterorrenolitotripsia flexível) é programado em segundo tempo, após estabilização.",

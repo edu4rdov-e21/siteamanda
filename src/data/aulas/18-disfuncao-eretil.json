@@ -326,8 +326,10 @@
       ],
       "respostaCorreta": "A",
       "explicacao": "A aterosclerose é uma **doença sistêmica**, e como a **artéria cavernosa (1-2 mm) é mais fina que a coronária (3-4 mm)**, ela tende a sofrer obstrução clinicamente significativa **antes** da coronária. Por isso, a disfunção erétil precede, em média, **2 a 5 anos** o evento coronariano (infarto), funcionando como **janela de oportunidade** para investigação e prevenção cardiovascular.",
-      "referenciaAula": "A artéria cavernosa tem 1 a 2 mm e a coronária 3 a 4 mm. Como a aterosclerose é sistêmica, obstrui primeiro a cavernosa. A disfunção erétil acontece de 2 a 5 anos antes do paciente obstruir a coronária.",
-      "transversal": false
+      "referenciaAula": "A artéria cavernosa ela tem em torno de 1 a 2 mm e a artéria coronária ela tem em torno de 3 a 4 mm. Se você tem uma aterosclerose, provavelmente o que vai obstruir primeiro é a artéria cavernosa antes da artéria coronária. A disfunção erétil ela acontece geralmente de 2 a 5 anos antes desse paciente obstruir a coronária.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 993
     },
     {
       "id": "Q-18-008",
@@ -467,8 +469,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "A combinação de **iPDE5 com nitratos** é **contraindicação absoluta**: ambos potencializam a via NO/GMPc e podem causar **hipotensão grave e potencialmente fatal**. Nenhum iPDE5 (sildenafil, tadalafil, vardenafil) é seguro nessa combinação. A conduta correta envolve discussão multidisciplinar com o cardiologista para reavaliar a indicação dos nitratos e considerar alternativas terapêuticas (alprostadil intracavernoso, dispositivos de vácuo, prótese), além de manejar fatores de risco e função endotelial.",
-      "referenciaAula": "Os inibidores de fosfodiesterase atuam aumentando o GMP cíclico, mesma via dos nitratos, podendo levar à hipotensão grave quando combinados; daí a importância da avaliação cardiovascular nesses pacientes.",
-      "transversal": false
+      "referenciaAula": "Existe uma enzima que se chama fosfodiesterase, que inativa a guanilato monofosfato cíclica. Quem é o inibidor de fosfodiesterase? Seria o sildenafil, o tadalafil, o vardenafil. Se a gente cuidar adequadamente da nossa saúde, com certeza nós teremos a preservação não somente da ereção, mas de outros fatores bastante importantes, principalmente do ponto de vista cardiovascular.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 1180
     }
   ]
 }

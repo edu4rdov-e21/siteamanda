@@ -457,8 +457,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Dispneia progressiva, **estridor inspiratório** e tosse após intubação/traqueostomia prolongadas, especialmente com **cuff hiperinsuflado**, sugerem fortemente **estenose traqueal pós-intubação/traqueostomia** — complicação tardia clássica decorrente da isquemia da mucosa traqueal. A investigação se faz com **endoscopia de via aérea (broncoscopia/nasofibrolaringoscopia)** e imagem (TC). Asma e refluxo não causam estridor inspiratório fixo, e tumor primário não tem essa cronologia tão bem definida com a história ventilatória.",
-      "referenciaAula": "A colocação da traqueostomia abaixo do balonete ensuflado evita estenose de glote; o tubo com balonete ensuflado por longo tempo poderia causar obstrução.",
-      "transversal": false
+      "referenciaAula": "Aqui nós temos a região da glote e abaixo o balonete que fica ensuflado no tubo que poderá causar uma estenose. E com a colocação de uma traqueostomia para baixo, isso evitará de nós ocasionarmos uma estenose de glotte.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 453
     }
   ]
 }

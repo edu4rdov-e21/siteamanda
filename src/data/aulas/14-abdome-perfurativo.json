@@ -91,8 +91,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **rotina de abdome agudo** clássica inclui radiografia de **tórax em ortostase**, **abdome em decúbito** e **abdome em ortostase**. Essas incidências permitem identificar o pneumoperitônio (ar entre a cúpula diafragmática e o fígado/baço, por exemplo). A tomografia é complementar quando se busca esclarecer a etiologia ou quando o pneumoperitônio é pequeno.",
-      "referenciaAula": "Um exame muito utilizado é o radiograma, que chamamos de rotina de abdome agudo: radiograma do tórax em ortostase, do abdome em decúbito e ortostase.",
-      "transversal": false
+      "referenciaAula": "Um exame que é utilizado muito comumente é o radiograma, que a gente chama de rotina de abdômen agudo. Nesse caso, é um radiograma do tórax em ortostática, do abdômen em decúbito e ortostática.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 63
     },
     {
       "id": "Q-14-003",
@@ -324,8 +326,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O conjunto — toxemia, taquicardia, taquipneia, posição antálgica, distensão, **diminuição de ruídos hidroaéreos** e **perda da macicez hepática à percussão** — é altamente sugestivo de **peritonite bacteriana com pneumoperitônio** (o ar livre interpõe-se entre fígado e parede, abolindo a macicez). Esse achado é clássico de perfuração de víscera oca e exige confirmação radiológica e abordagem cirúrgica.",
-      "referenciaAula": "No exame físico, queda do estado geral, febril, toxemiado, taquicárdico, taquipneico, posição antálgica, distensão abdominal, diminuição/ausência de ruídos hidroaéreos, perda da macicez hepática, irritação peritoneal.",
-      "transversal": false
+      "referenciaAula": "No exame físico, você vê que o indivíduo tá com queda do estado geral, tá febril, toxemiado, taquicárdico, taquipneico, muitas vezes em posição antálgica devido a dor, distensão abdominal, diminuição ausência de ruídos aéreos, perda da macicez hepática, irritação peritoneal.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 571
     },
     {
       "id": "Q-14-008",
@@ -463,8 +467,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Os fatores de **pior prognóstico** mencionados na aula somam-se neste paciente: **extremos de idade** (idoso), **fonte de infecção colônica** (cólon tem muita bactéria, prognóstico muito pior que estômago/duodeno), **tempo de evolução prolongado** (48h vs 2h faz toda diferença), **doenças associadas/imunossupressão** (diabético descompensado, oncológico) e **sepse avançada com choque, oligúria e acidose**. Cada um desses fatores piora isoladamente o prognóstico; juntos, configuram o pior cenário possível.",
-      "referenciaAula": "Fatores de prognóstico ruim: idade nos extremos, origem da perfuração (cólon é mais grave que estômago/duodeno), tempo de evolução, doenças associadas, imunossupressão, diabético descompensado, séptice avançada com acidose, choque e oligúria.",
-      "transversal": false
+      "referenciaAula": "Os extremos de idade são fatores de prognóstico ruim. Uma perfuração de cólon é muito mais grave do que uma perfuração de estômago, duodeno, porque no cólon tem muito mais bactérias. O tempo de evolução faz toda a diferença. Se o doente tem imunossupressão, diabético descompensado, naqueles casos que já tem distúrbios metabólicos importantes, acidose, choque, oligúria, anúria, tudo isso piora o prognóstico do paciente.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 932
     }
   ]
 }

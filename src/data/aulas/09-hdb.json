@@ -366,8 +366,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **colite isquemica** acomete preferencialmente **idosos** com doenca cardiovascular e tipicamente envolve o **colon esquerdo** (areas de menor irrigacao colateral). O quadro caracteristico e **dor abdominal seguida de sangramento misturado as fezes**, frequentemente com diarreia. A diferenciacao com doenca diverticular hemorragica e fundamental: nesta ultima o sangramento e indolor e de grande volume.",
-      "referenciaAula": "A colite isquemica caracteriza-se por uma dor abdominal associada, mais frequente em idosos e no colon esquerdo. Da uma descamacao da mucosa com sangramento.",
-      "transversal": false
+      "referenciaAula": "a colite isquemica, ela se caracteriza por frequentemente por ter uma dor abdominal associada, que ela e isquemia, da uma isquemia intestinal. Essa isquemia faz com que ocorra uma descamacao da mucosa com sangramento. A colite isquemica em pessoas mais idosas e mais frequente no colo esquerdo.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 571
     },
     {
       "id": "Q-09-009",

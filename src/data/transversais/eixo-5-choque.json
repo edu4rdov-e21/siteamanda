@@ -241,8 +241,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "A mudança do padrão de dor associada a **febre, taquicardia, hipotensão e lactato em ascensão** indica **sofrimento de alça com isquemia e/ou perfuração**, gerando peritonite e choque séptico (componente distributivo) somado ao hipovolêmico. A conduta é **ressuscitação volêmica + antibiótico + laparotomia de urgência** — o controle da fonte (aula 14) é tão essencial quanto a otimização da DO2 (aula 04).",
-      "referenciaAula": "Se o paciente tem hiperlactatemia, isso pode sugerir hipoperfusão tecidual. Sinais de sofrimento de alça com isquemia/perfuração indicam laparotomia de urgência.",
-      "transversal": true
+      "referenciaAula": "O lactato ele é um marcador de hipoperfusão tecidual. Então, se o paciente tem uma hiperlactatemia, isso pode sugerir que o paciente tem algum grau de hipoperfusão tecidual e precisa de uma otimização hemodinâmica.",
+      "transversal": true,
+      "videoAulaId": 4,
+      "videoStartSec": 484
     },
     {
       "id": "Q-T5-006",
@@ -384,8 +386,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "As **janelas clínicas de perfusão** integram avaliação neurológica (nível/conteúdo), perfusão periférica (temperatura, enchimento capilar, livedo), **diurese (corte ≈ 0,5 mL/kg/h)** e sinais vitais. O **lactato** é o marcador laboratorial complementar. Pressão arterial isolada é insuficiente — pacientes em choque podem ter PA \"normal\" com hipoperfusão visceral. Esses parâmetros aplicam-se a qualquer etiologia de choque (séptico/hipovolêmico/distributivo).",
-      "referenciaAula": "Janelas de perfusão: parte neurológica, perfusão periférica, diurese, sinais vitais. Lactato como marcador laboratorial de hipoperfusão tecidual.",
-      "transversal": true
+      "referenciaAula": "É importante a parte neurológica, tanto nível quanto conteúdo neurológico. É importante a perfusão periférica. Outra janela de perfusão que a gente utiliza, a diurese. O lactato ele é um marcador de hipoperfusão tecidual.",
+      "transversal": true,
+      "videoAulaId": 4,
+      "videoStartSec": 421
     },
     {
       "id": "Q-T5-009",

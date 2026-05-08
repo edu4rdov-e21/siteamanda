@@ -319,8 +319,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **retossigmoidoscopia** examina apenas reto e sigmoide, mas como cerca de **70% dos tumores colorretais estão acessíveis** nessa porção distal, é uma estratégia útil em rastreamento populacional. Tem preparo mais simples, é mais bem tolerada e pode ser combinada ao teste fecal. Não substitui a colonoscopia diante de teste fecal positivo.",
-      "referenciaAula": "70% dos tumores são acessíveis a uma retossigmoidoscopia, que examina só o reto e o sigmoide. É um exame mais simples, com adesão mais fácil.",
-      "transversal": false
+      "referenciaAula": "70% dos tumores estão são acessíveis a uma retomaticopia que você vai examinar só o reto e o sigmódide, quer dizer, a parte mais distal do do intestino grosso do colon.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 994
     },
     {
       "id": "Q-15-008",

@@ -319,8 +319,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **classificação de Hinchey** estratifica a diverticulite complicada: **I — abscesso pericólico**; **II — abscesso pélvico**; **III — peritonite purulenta**; **IV — peritonite fecal**. Originalmente baseada em achados intraoperatórios, hoje é aplicada por meio de tomografia computadorizada com contraste.",
-      "referenciaAula": "Hinchey I seria abscesso pericólico, estádio II abscesso pélvico, três peritonite purulenta e quatro peritonite fecal.",
-      "transversal": false
+      "referenciaAula": "O rente um estádio um, seria um abesso pericólico, o estádio dois abesso pélvico. E três e quatro seria o peritonite, três peritonite purenta e quatro peritonite fecal.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2762
     },
     {
       "id": "Q-13-008",
@@ -410,8 +412,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O quadro favorece **doença inflamatória pélvica (DIP)**: mulher jovem, sexualmente ativa, febre alta **desde o início**, em **bom estado geral**, com leucorreia, disparenia e dor à mobilização cervical. Diferentemente da apendicite, na DIP a febre é precoce e o paciente não está prostrado/séptico. O tratamento é antibioticoterapia de largo espectro (cobrir gonococo, clamídia, micoplasma, aeróbios e anaeróbios) por no mínimo **14 dias**.",
-      "referenciaAula": "Doença inflamatória pélvica costuma dar febre alta, paciente em bom estado geral, leucorreia, disparenia. Antibiótico de largo espectro, mínimo de tratamento 14 dias.",
-      "transversal": false
+      "referenciaAula": "A diferença aqui que costuma ter febre alta e o paciente tá em bom estado geral. Geralmente essas pacientes têm queixa também de leucorreia, sangramento vaginal, disparinia.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 3097
     },
     {
       "id": "Q-13-010",

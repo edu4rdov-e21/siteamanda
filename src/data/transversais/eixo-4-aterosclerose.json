@@ -285,8 +285,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A tríade **claudicação glútea/coxa bilateral + DE + ausência de pulsos femorais** caracteriza a **síndrome de Leriche** (oclusão da aorta terminal/ilíacas comuns). A DE ocorre porque o hipofluxo aortoilíaco compromete a artéria pudenda interna e o aporte para as cavernosas — exemplificando como a aterosclerose em um leito proximal repercute em múltiplos territórios distais (membros, glúteos, pênis).",
-      "referenciaAula": "A síndrome de Leriche é uma oclusão da aorta terminal, descrita por Leriche, e cursa com claudicação bilateral e impotência.",
-      "transversal": true
+      "referenciaAula": "Quando eu falar de oclusão aortoilíaca, às vezes a aorta oclui. Essa oclusão de aorta foi descrita por um autor chamado Leriche e por isso chama síndrome de Leriche. Ou seja, a síndrome de Leriche é uma oclusão da aorta terminal.",
+      "transversal": true,
+      "videoAulaId": 25,
+      "videoStartSec": 1531
     },
     {
       "id": "Q-T4-007",
@@ -332,8 +334,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Os iPDE-5 **inibem a degradação do GMPc**, prolongando o relaxamento da musculatura lisa cavernosa — mas dependem da geração de NO pelo endotélio. Em pacientes com **disfunção endotelial avançada** (aterosclerose grave, DM mal controlado), há pouco NO produzido e a resposta ao sildenafil é pobre. Isso reforça a DE como expressão da mesma doença endotelial sistêmica que causa DAC. A contraindicação absoluta é o **uso concomitante de nitratos** (não a DAC em si).",
-      "referenciaAula": "O óxido nítrico transforma GTP em GMPc. A fosfodiesterase inativa o GMPc; sildenafil, tadalafil e vardenafil inibem essa enzima. Indivíduos com queda de testosterona ou disfunção endotelial respondem de maneira pobre.",
-      "transversal": true
+      "referenciaAula": "Existe uma enzima que se chama fosfodiesterase, que inativa a guanilato monofosfato cíclica. Quem é o inibidor de fosfodiesterase? São substâncias muito conhecidas do ponto de vista farmacológico, seria o sildenafil, o tadalafil, o vardenafil.",
+      "transversal": true,
+      "videoAulaId": 18,
+      "videoStartSec": 613
     },
     {
       "id": "Q-T4-008",
@@ -377,8 +381,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **diferenciação embolia × trombose** é central no manejo da OAA. **Embolia** (paciente A): início súbito, fonte cardíaca (FA), ausência de doença prévia, contralateral normal, taça invertida, sem colaterais. **Trombose** (paciente B): claudicação prévia, doença bilateral, ponta de lápis com colaterais — manifestação aguda da **aterosclerose sistêmica crônica**. O reconhecimento orienta tratamento (embolectomia vs. revascularização com bypass/endovascular) e prognóstico.",
-      "referenciaAula": "Na embólica há dor aguda, ausência de claudicação prévia, taça invertida, pouca colateral. Na trombótica há piora de sintoma pré-existente, ponta de lápis e colateral desenvolvida.",
-      "transversal": true
+      "referenciaAula": "Na embólica, o sinal da taça invertida e a ausência de circulação ou pouca circulação colateral. Na trombótica, o sinal da ponta de lápis com doença aterosclerótica difusa e bastante circulação colateral.",
+      "transversal": true,
+      "videoAulaId": 11,
+      "videoStartSec": 453
     },
     {
       "id": "Q-T4-009",

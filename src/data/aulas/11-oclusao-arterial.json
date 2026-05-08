@@ -193,8 +193,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **embólica** ocorre em paciente sem doença arterial prévia: dor súbita e intensa, **pouca circulação colateral** e arteriografia com **sinal da taça invertida** (parada abrupta do contraste). A **trombótica** ocorre sobre placa aterosclerótica: piora gradual de claudicação, **colaterais bem desenvolvidas** e **stop em ponta de lápis** com aterosclerose difusa, frequentemente com doença contralateral.",
-      "referenciaAula": "Na embólica a circulação colateral é pouco desenvolvida e há sinal da taça invertida. Na trombótica há circulação colateral bastante desenvolvida e stop em ponta de lápis.",
-      "transversal": false
+      "referenciaAula": "em comparação com a etiologia embólica, a gente vai ter a etiologia trombótica, em que nós temos uma circulação colateral bastante desenvolvida... E a gente vai ter um stop na parede do vaso em ponta de lápis.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 331
     },
     {
       "id": "Q-11-005",
@@ -338,8 +340,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O tratamento clínico inicial inclui **anticoagulação plena**, **aquecimento passivo** (jamais ativo direto, pelo risco de queimadura sobre pele isquêmica), **hidratação EV com diurese-alvo ≈100 mL/h** para prevenir IRA por **rabdomiólise**, dosagem de **CPK** e **ECG** (frequentemente identifica FA ou isquemia), além de acionar a cirurgia vascular.",
-      "referenciaAula": "Anticoagulação plena, aquecimento passivo do membro, exames laboratoriais com CPK e eletrocardiograma, sondagem vesical com hidratação e diurese alvo de 100 mL/h para evitar insuficiência renal aguda por rabdomiólise.",
-      "transversal": false
+      "referenciaAula": "vai consistir então na anticoagulação plena, no aquecimento passivo do membro... Solicitação de exames laboratoriais. sempre pedindo a CPK e eletrocardiograma. A sondagem vesical de demora com hidratação endovenosa com uma diurese alvo de 100 melhora essencialmente para evitar a insuficiência renal aguda por abdomiólise.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 816
     },
     {
       "id": "Q-11-008",

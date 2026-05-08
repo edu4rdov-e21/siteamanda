@@ -181,8 +181,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **maioria das HDAs por úlcera péptica cessa espontaneamente**, e cerca de **90% das HDBs por doença diverticular também param sem intervenção**. Essa característica comum justifica a abordagem inicial conservadora com estabilização hemodinâmica em ambos os cenários. Quando o sangramento persiste ou recidiva, indica-se tratamento endoscópico (HDA), embolização ou cirurgia (HDB refratária).",
-      "referenciaAula": "A maioria das HDs cessam espontaneamente. Felizmente, esse sangramento da doença diverticular cessa espontaneamente em 90% dos casos.",
-      "transversal": true
+      "referenciaAula": "Na doença diverticular, o paciente, na maioria das vezes é assintomático. Ele apresenta um sangramento em grande volume, não tem dor. Felizmente, esse sangramento cessa espontaneamente 90% dos casos.",
+      "transversal": true,
+      "videoAulaId": 9,
+      "videoStartSec": 755
     },
     {
       "id": "Q-T2-005",
@@ -414,8 +416,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "**AINEs** são causa frequente tanto de **HDA por úlcera péptica** quanto de **colite/colopatia por AINE** que sangra (HDB). **Antiagregantes plaquetários e anticoagulantes** potencializam sangramento de qualquer fonte: úlcera, divertículo, angiodisplasia, hemorroida. A combinação de idade avançada + AAS + clopidogrel + AINE é altamente arriscada e deve ser revista. Esses fatores de risco são compartilhados entre HDA e HDB.",
-      "referenciaAula": "Antiinflamatório não hormonal está associado com processo inflamatório, não só gástrico, mas também intestinal. Antiagregantes plaquetários potencializam o sangramento de hemorroidas e angiodisplasias.",
-      "transversal": true
+      "referenciaAula": "O antiinflamatório não hormonal, ele tá associado com o processo inflamatório, não só gástrico, mas também intestinal. Isso pode ser causa de sangramento.",
+      "transversal": true,
+      "videoAulaId": 9,
+      "videoStartSec": 661
     },
     {
       "id": "Q-T2-010",

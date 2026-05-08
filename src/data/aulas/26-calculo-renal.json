@@ -227,8 +227,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Os **alfabloqueadores** (tansulosina, doxazosina) atuam nos receptores alfa-adrenérgicos do ureter, **mais abundantes no ureter distal**, relaxando-o e favorecendo a eliminação espontânea de cálculos médio-distais. A hidratação deve ser **moderada** — hidratação vigorosa em obstrução aumenta a pressão na cápsula renal e piora a dor. Empurrar a pedra com líquidos é uma falácia.",
-      "referenciaAula": "A gente usa alfabloqueador, tansulosina e doxazosina, para relaxar o ureter distal e ver se tem eliminação espontânea de cálculos médio para distal.",
-      "transversal": false
+      "referenciaAula": "Tansulosina e doxazosina são os dois mais conhecidos que vocês vão usar em próstata também, mas que a ideia aqui é relaxar o uretard distal e ver se tem uma eliminação espontânea.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 1350
     },
     {
       "id": "Q-26-006",
@@ -455,8 +457,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O paciente apresenta múltiplos critérios para **cirurgia de urgência**: **rim único anatômico**, **obstrução pós-renal com piora de função renal** (creatinina 1,1 → 4,2) e **oligoanúria**. A conduta correta é a **drenagem imediata** da via urinária por duplo J retrógrado ou nefrostomia percutânea, para preservar o parênquima e a função do único rim. O tratamento definitivo do cálculo (ex.: ureterorrenolitotripsia flexível) é programado em segundo tempo, após estabilização.",
-      "referenciaAula": "Indicações cirúrgicas de urgência incluem piora da função renal por obstrução pós-renal, oligúria/anúria em rim único e cálculo obstrutivo bilateral. A indicação é tratar de urgência.",
-      "transversal": false
+      "referenciaAula": "A piora da função renal por obstrução pós-renal associada ao cálculo. Oligúria, anúria, que seria num cenário de um paciente em rim único. Ou se é um cálculo obstivo bilateral, a indicação é tratá-lo com urgência.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 1485
     }
   ]
 }

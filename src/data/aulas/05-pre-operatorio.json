@@ -89,8 +89,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O **ASA 2** corresponde ao paciente com **comorbidades leves e bem compensadas** ambulatorialmente, como hipertensão e diabetes controlados. ASA 1 é o paciente sem comorbidades, ASA 3 tem doenças sistêmicas mais graves não totalmente compensadas, ASA 4 representa ameaça à vida e ASA 6 é o paciente em morte encefálica.",
-      "referenciaAula": "ASA 2 é o paciente com comorbidades leves e bem compensadas, como hipertensão e diabetes bem controlados ambulatorialmente.",
-      "transversal": false
+      "referenciaAula": "O ASA 2 é aquele paciente que tem comorbidades, mas são comorbidades leves e que estão bem compensadas. Por exemplo, um paciente que tem uma hipertensão, que tem um diabetes",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1110
     },
     {
       "id": "Q-05-003",
@@ -226,8 +228,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A resposta **endócrino-metabólica ao estresse cirúrgico** eleva o **VO2** (consumo de O2 tecidual). Pacientes de alto risco têm reserva cardiopulmonar limitada e não conseguem aumentar proporcionalmente a **DO2** (oferta tecidual). O desequilíbrio resulta em **disóxia**, base para complicações cardiovasculares, respiratórias e óbito perioperatório.",
-      "referenciaAula": "Aumento da demanda de oxigênio (VO2) e o sistema cardiopulmonar não consegue aumentar a DO2; esse desequilíbrio se chama disóxia.",
-      "transversal": false
+      "referenciaAula": "Consequentemente você tem esse quadro que a gente chama de desóxia, que vai ser justamente um desequilíbrio entre a quantidade de oxigênio que o sistema cardiovascular oferta pros tecidos",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 967
     },
     {
       "id": "Q-05-006",

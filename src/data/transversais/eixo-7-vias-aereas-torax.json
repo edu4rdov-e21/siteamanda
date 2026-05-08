@@ -92,8 +92,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Em ventilação mecânica prolongada (>14 dias), a **traqueostomia** facilita aspiração de secreções, protege a via aérea e previne estenose de glote pelo balonete prolongado. O **derrame parapneumônico complicado** mantém indicação de drenagem em selo d'água até resolução do processo infeccioso. As duas condutas são complementares no manejo torácico integrado.",
-      "referenciaAula": "Traqueostomia indicada em ventilação mecânica prolongada; protege via aérea e auxilia aspiração de secreções.",
-      "transversal": true
+      "referenciaAula": "A presença da traqueostomia, ela protege a via aérea e nós podemos aspirar secreções da traqueia.",
+      "transversal": true,
+      "videoAulaId": 12,
+      "videoStartSec": 333
     },
     {
       "id": "Q-T7-003",
@@ -138,8 +140,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Pelos critérios de Light (proteína >3 g/dL, LDH elevado), trata-se de **exsudato linfocítico**, cujos diagnósticos diferenciais principais são **neoplasia e tuberculose**. A citologia oncótica do líquido pleural tem sensibilidade limitada (uma amostra negativa NÃO exclui malignidade). A **videopleuroscopia** alcança acurácia próxima de 100% nos casos de derrame de etiologia indefinida e permite biópsia dirigida. A presença concomitante de nódulo suspeito reforça necessidade de histologia.",
-      "referenciaAula": "Critérios de Light para exsudato; videopleuroscopia indicada quando 20% dos pacientes não obtêm diagnóstico por métodos menos invasivos.",
-      "transversal": true
+      "referenciaAula": "20% dos pacientes que não conseguem o diagnóstico, nós realizamos a videopleuroscopias e aí com acurácia perto de 100%.",
+      "transversal": true,
+      "videoAulaId": 24,
+      "videoStartSec": 936
     },
     {
       "id": "Q-T7-004",
@@ -231,8 +235,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "O quadro descreve **empiema em fase fibrinopurulenta/organização** com pulmão encarcerado. Nesta fase a drenagem fechada é ineficaz porque o espessamento pleural impede a reexpansão. A conduta é **pleuroscopia/videotoracoscopia** para desfazer septações e limpeza mecânica; em fase organizada com fibrose, indica-se **decorticação pleural** (toracotomia). A pleurodese é contraindicada em empiema. A pleurostomia (drenagem aberta) é alternativa quando a pressão atmosférica não consegue colabar mais a cavidade.",
-      "referenciaAula": "Fases do empiema: exsudativa, fibrinopurulenta, organização; pulmão encarcerado requer pleuroscopia ou decorticação.",
-      "transversal": true
+      "referenciaAula": "nós dividimos oema em três fases, na fase exudativa, na fase fibrinopurulenta e uma última fase que é a fase de organização ou de fibrose.",
+      "transversal": true,
+      "videoAulaId": 24,
+      "videoStartSec": 1023
     },
     {
       "id": "Q-T7-006",
@@ -277,8 +283,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Na **traqueostomia temporária** a laringe está íntegra: ocluindo o estoma, o ar passa ao redor da cânula e o paciente fonata. No **traqueostoma definitivo** (após laringectomia total por câncer de laringe/hipofaringe) a laringe foi removida — o paciente respira exclusivamente pelo estoma, e a intubação orotraqueal não atinge a via aérea inferior. A traqueostomia padrão é feita entre o 2º e 3º anéis traqueais.",
-      "referenciaAula": "Traqueostomia entre 2º e 3º anéis traqueais; traqueostoma definitivo após laringectomia total.",
-      "transversal": true
+      "referenciaAula": "essa abertura que na verdade será uma traqueotomia é realizada entre o segundo e terceiro anel traqueal nos adultos.",
+      "transversal": true,
+      "videoAulaId": 12,
+      "videoStartSec": 32
     },
     {
       "id": "Q-T7-007",
@@ -323,8 +331,10 @@
       ],
       "respostaCorreta": "A",
       "explicacao": "Lesões com **SUV >3,5** denotam atividade metabólica intensa e maior risco de malignidade, mas o PET-CT NÃO substitui a histologia (pode estar elevado em infecções/inflamações). Nódulos **parcialmente sólidos** podem corresponder a adenocarcinomas com agressividade variável e requerem confirmação. A biópsia pode ser por broncoscopia (lesões centrais), punção transtorácica (periféricas) ou biópsia excisional por videocirurgia. Não há indicação de drenagem pleural profilática nem traqueostomia para biópsia eletiva.",
-      "referenciaAula": "SUV >3,5 considerado de alta atividade metabólica; videocirurgia desde 1994 permite biópsia excisional minimamente invasiva.",
-      "transversal": true
+      "referenciaAula": "lesões acima de 3,5 são consideradas um eh de atividade metabólica mais intensa e obviamente com um risco maior de lesões eh neoplásicas.",
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 1457
     },
     {
       "id": "Q-T7-008",
@@ -368,8 +378,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "No trauma facial com via aérea impossível por intubação orotraqueal, a **cricotireoidostomia** (perfuração da membrana cricotireoidiana) é o acesso emergencial de eleição — é mais rápida que traqueostomia formal. O **pneumotórax hipertensivo** exige descompressão imediata com toracocentese seguida de drenagem em selo d'água, sem aguardar imagem. Ambos são procedimentos salvadores realizados antes de qualquer exame complementar.",
-      "referenciaAula": "Membrana cricotireoidiana é via de acesso emergencial; pneumotórax hipertensivo é indicação clássica de drenagem.",
-      "transversal": true
+      "referenciaAula": "a membrana cricotireoidiana, que numa emergência para acesso de via aérea, ela é muito importante, por exemplo, num trauma.",
+      "transversal": true,
+      "videoAulaId": 12,
+      "videoStartSec": 126
     },
     {
       "id": "Q-T7-009",
@@ -413,8 +425,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **pressão intrapleural** é negativa (-2 a -1 cmH2O em relação à atmosférica). O **selo d'água** (~2 cm) funciona como válvula unidirecional: permite saída de ar/líquido da cavidade na expiração e impede retorno na inspiração. Uma **complicação comum** é o orifício mais externo do dreno ficar fora do espaço pleural, causando **enfisema subcutâneo** ou perpetuando pneumotórax — identificada por radiografia simples (não requer toracotomia).",
-      "referenciaAula": "Pressão intrapleural -2 a -1 cmH2O; selo d'água atua como válvula unidirecional.",
-      "transversal": true
+      "referenciaAula": "a pressão intraporal negativa, que pode variar de -2 a -1 cm de água em relação à pressão atmosférica.",
+      "transversal": true,
+      "videoAulaId": 24,
+      "videoStartSec": 34
     },
     {
       "id": "Q-T7-010",
@@ -459,8 +473,10 @@
       ],
       "respostaCorreta": "D",
       "explicacao": "Os critérios brasileiros de rastreamento incluem ex/tabagistas com >50 anos e carga tabágica >20 anos-maço. **Lesões em vidro fosco puro** são frequentemente adenocarcinomas in situ ou de baixa agressividade, com curso **indolente** — o seguimento tomográfico seriado é apropriado para detectar mudança de características. O surgimento de **componente sólido** ou crescimento indicam comportamento mais agressivo e justificam biópsia/ressecção. Lobectomia imediata em vidro fosco puro de 12 mm é desproporcional.",
-      "referenciaAula": "Lesões não sólidas (vidro fosco) têm caráter indolente; rastreamento brasileiro indicado em fumantes >50 anos com carga tabágica >20 anos-maço.",
-      "transversal": true
+      "referenciaAula": "considerando os pacientes fumantes, né, com mais de 50 anos, carga tabica pelo menos acima de 28 20 anos masso, né, como critérios de elegibilidade.",
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 2401
     }
   ]
 }

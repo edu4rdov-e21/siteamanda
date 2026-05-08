@@ -43,8 +43,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Os sintomas de **esvaziamento** englobam jato urinário fraco, esforço miccional, jato entrecortado, resíduo pós-miccional e gotejamento pós-miccional. Já os sintomas de **armazenamento** são urgência miccional, polaciúria (aumento de frequência) e noctúria. A divisão é fundamental para o raciocínio etiológico das STUI.",
-      "referenciaAula": "Sintomas de esvaziamento: jato urinário fraco, esforço miccional, jato entrecortado, resíduo e gotejamento pós-miccional.",
-      "transversal": false
+      "referenciaAula": "São justamente, né, o jato urinário fraco, o esforço mixcional, o jato entrecortado, às vezes um resíduo pós-miccional ou um gotejamento pós-miccional. E claramente a gente vai entender que esses sintomas são sintomas de esvaziamento.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 61
     },
     {
       "id": "Q-22-002",
@@ -225,8 +227,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Os inibidores da **5-alfa-redutase** bloqueiam a conversão de testosterona em dihidrotestosterona (DHT), reduzindo o estímulo proliferativo prostático. Após cerca de **6 meses**, reduzem o volume da próstata em **30–40%** e o PSA em torno de **50%** — por isso, ao acompanhar PSA em uso crônico, multiplica-se o valor por 2. São indicados em próstatas **>40 g**.",
-      "referenciaAula": "A finasterida diminui o DHT e a próstata diminui de tamanho em 6 meses, 30 a 40% de volume; o PSA reduz cerca de 50%.",
-      "transversal": false
+      "referenciaAula": "quando a gente dá pro paciente a finasterida, famosa finasterida, a gente diminui o DHT, diminui o estímulo da próstata e a próstata vai diminuir de tamanho. demora 6 meses paraa próstata diminuir. Ela vai diminuir 30, 40% de volume e o PSA vai cair. eu sei que o PSA reduz basicamente 50% com uso de pinasterida ou de tutasterida por mais de 6 meses.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 965
     },
     {
       "id": "Q-22-006",
@@ -455,8 +459,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Trata-se de doença de **baixo risco** (Gleason 3+3, PSA <10, toque normal). O estudo PROTECT mostrou sobrevida em 15 anos equivalente entre **vigilância ativa, cirurgia e radioterapia** nesse perfil. A conduta de escolha é **seguimento vigiado** com PSA seriado, ressonância anual e biópsia de confirmação em ~12 meses, evitando overtreatment. Hormonioterapia isolada não é tratamento curativo e não está indicada em doença localizada de baixo risco.",
-      "referenciaAula": "Paciente Gleason 3+3 com PSA <10 é baixo risco e candidato ao seguimento vigiado. O estudo PROTECT mostrou sobrevida igual entre as três condutas.",
-      "transversal": false
+      "referenciaAula": "a gente vai classificar o paciente que tem só nota três como sendo um baixo risco e normalmente com PSA menor do que 10. saiu um estudo dois anos atrás chamado Protect, que acompanhou os pacientes por 15 anos e os e a sobrevida, ou seja, a expectativa de vida no segmento vigiado, na cirurgia e na radioterapia foi igual.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1625
     }
   ]
 }

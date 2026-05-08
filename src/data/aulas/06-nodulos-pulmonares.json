@@ -285,8 +285,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Lesões puramente em **vidro fosco persistentes** após seguimento curto correspondem tipicamente a **adenocarcinoma in situ**, com preenchimento alveolar por células neoplásicas e comportamento **indolente**. Diferente do vidro fosco inflamatório (visto na COVID), o neoplásico não regride. Já as lesões parcialmente sólidas indicam maior agressividade.",
-      "referenciaAula": "Essas lesões em vidro fosco, neoplasias in situ com preenchimento alveolar por células neoplásicas, têm caráter muito indolente.",
-      "transversal": false
+      "referenciaAula": "Essas lesões não sólidas, também conhecidas como lesões em vidro fosco, são lesões geralmente neoplasias em cito, com preenchimento alveolar. Aqui é o preenchimento alveolar por células neoplásicas. Essas lesões têm um caráter muito indolente.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 732
     },
     {
       "id": "Q-06-007",

@@ -44,8 +44,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O **câncer colorretal** tem rastreamento altamente eficaz porque parte de uma lesão benigna removível (**pólipo adenomatoso**), com história natural longa (5-10 anos até carcinoma). Já o **câncer de pulmão** não tem lesão precursora ressecável análoga; o rastreamento se faz com **TC de baixa dosagem** em fumantes (geralmente >50 anos com carga tabágica significativa), buscando **detecção precoce** de nódulos suspeitos — não prevenção da neoplasia.",
-      "referenciaAula": "Câncer colorretal: rastreamento eficaz por origem em lesões benignas (pólipos). Câncer de pulmão: TC de baixa dosagem em fumantes selecionados como recomendação brasileira.",
-      "transversal": true
+      "referenciaAula": "Aula 15: \"ele tem origem de lesões benignas que se forem removidas, que são os pólips, que são os adenomas\". Aula 06: \"considerando os pacientes fumantes, né, com mais de 50 anos, carga tabica pelo menos acima de 28 20 anos masso\" como critérios para tomografia de baixa dosagem.",
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 2401
     },
     {
       "id": "Q-T6-002",
@@ -88,8 +90,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O **linfonodo sentinela** é a primeira estação de drenagem do tumor. Marca-se a região com **radiofármaco** (mais usado atualmente) ou azul de metileno e identifica-se o linfonodo que primeiro recebe a drenagem linfática. Permite **antecipar a metástase regional antes que se torne clinicamente evidente**. No carcinoma **basocelular** não é indicada porque essa neoplasia praticamente não dá metástase.",
-      "referenciaAula": "Linfonodo sentinela no melanoma: marcação com radiofármaco/azul de metileno, identifica primeira estação de drenagem, antecipa metástase clínica. Basocelular tradicionalmente não gera metástases.",
-      "transversal": true
+      "referenciaAula": "Aula 10: \"marcar a região do tumor ou da cicatriz de retirada prévia com o radiofármaco ou azul de metileno\"; \"essa primeira estação de drenagem se configura no linfonódulo sentinela\". A gente consegue simular o comportamento do tumor antecipadamente a ocorrência da metástase clínica.",
+      "transversal": true,
+      "videoAulaId": 10,
+      "videoStartSec": 814
     },
     {
       "id": "Q-T6-003",
@@ -179,8 +183,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "No **câncer de bexiga**, a divisão crucial é entre **não músculo-invasivo** (Ta, T1) e **músculo-invasivo** (T2+). Tumores não músculo-invasivos são tratados com **RTU + BCG intravesical** conforme risco; já os músculo-invasivos exigem **cistectomia radical** (ou terapia trimodal preservadora). Esse princípio (profundidade de invasão guia conduta) é central no TNM de tumores epiteliais como bexiga, colorretal e bexiga.",
-      "referenciaAula": "Câncer de bexiga: divisão em não músculo-invasivo (Ta/T1) vs músculo-invasivo (T2+). RTU + BCG nos primeiros, cistectomia radical no segundo grupo.",
-      "transversal": true
+      "referenciaAula": "Aula 20: \"a gente divide os tumores de bexiga naqueles não músculo invasivos e nos músculos invasivos\". Tratamento básico do não músculo invasivo: \"Além da RTU, da reecção do tumor, nós vamos fazer o tratamento com BCG intravesical\". No músculo invasivo: \"cistoprostatectomia no homem\".",
+      "transversal": true,
+      "videoAulaId": 20,
+      "videoStartSec": 1022
     },
     {
       "id": "Q-T6-005",
@@ -272,8 +278,10 @@
       ],
       "respostaCorreta": "A",
       "explicacao": "No **câncer de pulmão T1a (≤1 cm)** a sobrevida em 5 anos chega a cerca de **92%**; no **câncer colorretal estadio I**, **~92% de cura**. No **estadio IV**, ambas caem drasticamente (~11% no colorretal). Por isso o **diagnóstico precoce** é prioridade — no pulmão via rastreamento por TC de baixa dose em fumantes, no colorretal via sangue oculto/colonoscopia. A cirurgia citorredutora pode ter papel selecionado em alguns estadios IV (ex.: nefrectomia citorredutora), mas não é regra geral.",
-      "referenciaAula": "Câncer de pulmão T1a até 1 cm: sobrevida 5 anos ~92%. Câncer colorretal estadio I: 92% cura; estadio IV: 11% cura.",
-      "transversal": true
+      "referenciaAula": "Aula 06: \"uma lesão de até 1 cm dentro do parênquma pulmonar, dentro de um lobo pulmonar, nós temos aí uma chance de sobrevida em 5 anos de até 92%\". Aula 15: \"no estadio um, que é o estadio mais inicial, 92% de cura\"; \"No estadio quatro, que é o estadio com metástase, a chance de cura já cai para 11%\".",
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 182
     },
     {
       "id": "Q-T6-007",
@@ -317,8 +325,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "O **PET-CT com 18F-FDG** mensura atividade metabólica. No **seminoma**, é especialmente útil em massa residual >3 cm pós-quimioterapia, diferenciando **doença viável** de **fibrose**. No **nódulo pulmonar**, auxilia em lesões intermediárias (SUV >3,5 indica maior risco de malignidade; <2,5, baixo). NÃO é específico de câncer — **doenças inflamatórias e infecciosas** (tuberculose, fungos) também captam FDG. Não substitui o anatomopatológico.",
-      "referenciaAula": "PET-CT no seminoma: massa residual >3 cm pode necessitar linfadenectomia retroperitoneal, PET-CT diferencia tumor viável de fibrose. Nódulo pulmonar: SUV <2,5 baixa captação, >3,5 alta. Tuberculose/fungos podem captar.",
-      "transversal": true
+      "referenciaAula": "Aula 20: \"se houver massa residual pós-quimioterapia\", \"o exame de PETCT ajuda bastante para saber se aquele aquele tumor que tá no reto peritônio... é uma massa viável, é tumor ou é só eh fibrose?\". Aula 06: \"lesões acima de 3,5 são consideradas um eh de atividade metabólica mais intensa\"; tuberculose e doenças fúngicas também podem captar.",
+      "transversal": true,
+      "videoAulaId": 6,
+      "videoStartSec": 1457
     },
     {
       "id": "Q-T6-008",
@@ -362,8 +372,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "**Margens livres adequadas** são princípio universal em oncologia cirúrgica. No **CEC cutâneo de alto risco em orelha**, a **cirurgia micrográfica de Mohs** garante negatividade microscópica preservando função. No **reto T3 com margem circunferencial ameaçada (≤1 mm)**, indica-se neoadjuvância e excisão total do mesorreto (ETM). No **câncer de bexiga T2 (músculo-invasivo)**, a **cistectomia radical** com linfadenectomia é o padrão-ouro. Margem comprometida correlaciona-se com recidiva local em qualquer tumor.",
-      "referenciaAula": "Cirurgia de Mohs em áreas funcionalmente importantes/alto risco. Câncer de bexiga músculo-invasivo: cistectomia radical (cistoprostatectomia/exenteração) com linfadenectomia pélvica.",
-      "transversal": true
+      "referenciaAula": "Aula 10: \"A cirurgia de MS é uma cirurgia preferencialmente realizada por um cirurgião experiente em áreas de alto risco para no intuito de manter a funcionalidade com a melhor reção anatômica\". Aula 20: \"é a cistoprostatectomia no homem... nós vamos tirar toda a bexiga juntamente com a próstata associado a uma linfadenectomia pélvica\".",
+      "transversal": true,
+      "videoAulaId": 10,
+      "videoStartSec": 401
     },
     {
       "id": "Q-T6-009",

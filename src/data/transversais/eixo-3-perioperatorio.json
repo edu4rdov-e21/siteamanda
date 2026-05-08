@@ -91,8 +91,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "Em cirurgia **eletiva**, fatores de risco modificáveis devem ser otimizados no pré-operatório. **Hiperglicemia mal controlada, tabagismo e obesidade** são fatores diretamente associados a maior incidência de **ISC e pior cicatrização** (pela diminuição da resposta imune inata, hipoperfusão e inflamação crônica). Nutrição parenteral está indicada em desnutrição grave que não tolere via enteral; antibioticoprofilaxia prolongada não tem benefício.",
-      "referenciaAula": "Aulas 05 (avaliação pré-operatória — fatores modificáveis), 03 (controle glicêmico e ISC) e 16 (cicatrização — diabetes, tabagismo, obesidade).",
-      "transversal": true
+      "referenciaAula": "Aula 03 (~08:04): \"presença de diabetes e de hiperglicemia não controlada é um fator extremamente importante para diminuir essa primeira cascata de resposta imune... Situações de imunossupressão como desnutrição, obesidade, uso de corticos ou tabagismo pré-operatório também são fatores de risco para a infecção.\"",
+      "transversal": true,
+      "videoAulaId": 3,
+      "videoStartSec": 484
     },
     {
       "id": "Q-T3-003",
@@ -136,8 +138,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **ASG** é o método clínico padrão para triagem nutricional pré-operatória; pacientes B/C com cirurgia eletiva beneficiam-se de **terapia nutricional por 5–14 dias** antes do procedimento. A cicatrização requer **proteína em todas as fases** (inflamatória, proliferativa, remodelação). O projeto **ACERTO/ERAS** preconiza **abreviação do jejum** (não jejum total), e suplementos com **ômega-3 e arginina** atenuam a inflamação e melhoram a perfusão tecidual.",
-      "referenciaAula": "Aulas 17 (nutrição em cirurgia — ASG, ACERTO, suplementação) e 16 (cicatrização — desnutrição como fator prejudicial).",
-      "transversal": true
+      "referenciaAula": "Aula 17 (~09:38): \"a avaliação subjetiva global... com ela você vai classificar se o paciente é nível A, ou seja, bem nutrido, nível B, se ele tem uma desnutrição moderada e nível C, se ele tem uma desnutrição grave... Essa estratégia nutricional para ser eficaz, ela tem que ser de no mínimo 5 dias, mas a literatura hoje já fala em 10 dias até 14 dias.\"",
+      "transversal": true,
+      "videoAulaId": 17,
+      "videoStartSec": 578
     },
     {
       "id": "Q-T3-004",
@@ -181,8 +185,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "O curativo deve ser mantido por **24–48 horas** (48h é o melhor definido na literatura), pois nesse período já ocorre a **reepitelização inicial** das bordas. Após a remoção, **água e sabão** são suficientes; curativos avançados não mostraram superioridade em feridas simples. **Antibioticoprofilaxia prolongada no pós-operatório não reduz ISC** — a janela de eficácia é o intraoperatório. O ambiente úmido controlado (não seco) favorece a cicatrização.",
-      "referenciaAula": "Aulas 23 (cuidados com a ferida — 48h, água e sabão) e 03 (antibioticoprofilaxia restrita ao intraoperatório).",
-      "transversal": true
+      "referenciaAula": "Aula 23 (~07:03): \"de 24 a 48 horas, esse tempo de 48 horas, ele é o mais bem definido, é um tempo que nós devemos deixar ocluído e depois realizar a remoção desse tipo de curativo. Nessas 48 horas já vai haver ali uma primeira reptilização dessa ferida operatória... a higienização corriqueira com água e sabonete é o suficiente.\"",
+      "transversal": true,
+      "videoAulaId": 23,
+      "videoStartSec": 423
     },
     {
       "id": "Q-T3-005",
@@ -227,8 +233,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "**Hipotermia** (vasoconstrição periférica, redução da chegada de células fagocitárias) e **hipoperfusão** aumentam comprovadamente a incidência de ISC e atrasam a cicatrização. Após **perda > 40% da volemia** ou cirurgia mais longa que a meia-vida da droga, deve-se **repicar a cefazolina (a cada 4h)** para manter concentração tecidual. **Transfusão** é status pró-inflamatório e aumenta o risco. Prolongar profilaxia no pós-operatório é desnecessário e nocivo.",
-      "referenciaAula": "Aulas 03 (normotermia, repique do antibiótico, transfusão como fator de risco), 04 (otimização hemodinâmica) e 16 (perfusão e cicatrização).",
-      "transversal": true
+      "referenciaAula": "Aula 03 (~24:03): \"se o paciente trocou mais de 40% da volemia, eu tenho que fazer um repique da dose, porque senão eu tô repondo sangue, hemoderivados ou soro sem antibiótico, a concentração no antibiótico cai. Se a cirurgia dura mais do que a meia vida da droga, eu devo fazer doses de reforço no intraoperatório. Essas doses devem ser de quatro em 4 horas para cefazolina.\"",
+      "transversal": true,
+      "videoAulaId": 3,
+      "videoStartSec": 1443
     },
     {
       "id": "Q-T3-006",
@@ -272,8 +280,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "O projeto **ACERTO/ERAS** preconiza **alimentação precoce** no pós-operatório: a motilidade do delgado retorna em **6–12 horas**, e o ruído hidroaéreo **não é critério obrigatório** para reintroduzir dieta. A liberação cabe ao cirurgião, conforme a complexidade do procedimento. Nutrição parenteral é reservada quando não se consegue nutrir até o **5º–7º dia** em adulto. Jejum prolongado piora a desmotilidade e aumenta complicações.",
-      "referenciaAula": "Aulas 17 (ACERTO — nutrição precoce, ruído não é mandatório, NPT após 5–7 dias sem via enteral) e 04 (íleo paralítico pós-operatório).",
-      "transversal": true
+      "referenciaAula": "Aula 17 (~28:30): \"o ruído aéreo ele não é tão importante. O importante é sabermos que o intestino delgado depois de uma cirurgia após 6 a 12 horas, você já tem uma motilidade... Quando que eu começo a nutrição parenteral no pós-operatório? quando até o quinto, do quinto ao sétimo dia, eu não consegui dar nutrição oral nem enteral.\"",
+      "transversal": true,
+      "videoAulaId": 17,
+      "videoStartSec": 1710
     },
     {
       "id": "Q-T3-007",
@@ -318,8 +328,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "O quadro caracteriza **ISC incisional** (sinais clássicos: dor, eritema, edema, secreção purulenta, podendo evoluir com **deiscência**). A conduta envolve **abertura da ferida**, **coleta de cultura** e **antibioticoterapia direcionada** — não mais profilática. O **controle glicêmico rigoroso** reduz progressão da infecção e melhora a resposta imune. A deiscência é frequentemente associada à infecção, exigindo vigilância integrada.",
-      "referenciaAula": "Aulas 23 (sinais clínicos de ISC e deiscência), 03 (controle glicêmico e ISC), 04 (manejo de complicação infecciosa pós-operatória) e 16 (diabetes como fator de pior cicatrização).",
-      "transversal": true
+      "referenciaAula": "Aula 23 (~18:08): \"Aqueles sinais clássicos de infecção, como aumento de dor do paciente, aumento do eritema, aumento do edema em volta dessa ferida operatória... drenagem de secreção, que é algo específico, especialmente se for uma secreção purulenta... A própria deiscência, como eu comentei, ela tá relacionada a um processo infeccioso.\"",
+      "transversal": true,
+      "videoAulaId": 23,
+      "videoStartSec": 1088
     },
     {
       "id": "Q-T3-008",
@@ -363,8 +375,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "**Anticoagulantes/antiagregantes** aumentam risco hemorrágico e devem ser suspensos com tempo adequado (varfarina 3–5 dias). **Corticoide crônico nunca deve ser suspenso abruptamente** (risco de insuficiência adrenal) — transicionar para **hidrocortisona EV** se via oral indisponível. **Diuréticos** e **antidiabéticos orais** são suspensos no dia da cirurgia; hiperglicemia é corrigida com **insulina regular**.",
-      "referenciaAula": "Aula 05 (manejo de medicações de uso contínuo no perioperatório — anticoagulantes, corticoide, diuréticos, hipoglicemiantes).",
-      "transversal": true
+      "referenciaAula": "Aula 05 (~28:31): \"aquelas medicações cuja interrupção abrupta seja sabidamente prejudicial, elas devem ser mantidas. Eu acho que aqui o principal exemplo são os corticoides. Pacientes que usam corticoides cronicamente, se você suspende esse corticoide de uma vez, existe um risco muito grande de o paciente fazer uma insuficiência adrenal... o Marevan, que é a varfarina, ela deve ser suspensa ali de três a 5 dias antes da cirurgia.\"",
+      "transversal": true,
+      "videoAulaId": 5,
+      "videoStartSec": 1711
     },
     {
       "id": "Q-T3-009",
@@ -408,8 +422,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A **força tênsil** evolui ao longo da remodelação, atingindo platô em torno de **90 dias** (com refinamento até 1–1,5 ano) e alcançando no máximo **~80%** da força da pele íntegra. Por isso, orienta-se evitar esforços e cargas no pós-operatório, especialmente em laparotomias, para prevenir **deiscência e hérnia incisional**. A retirada de pontos respeita a região (ex.: face mais precoce, MMII mais tardia). Queloide/hipertrófica são cicatrizações **patológicas**, não funcionais.",
-      "referenciaAula": "Aulas 16 (fases de cicatrização, força tênsil máxima ~80%) e 23 (orientações mecânicas pós-operatórias e momento de retirada de pontos por região).",
-      "transversal": true
+      "referenciaAula": "Aula 16 (~13:09): \"para que se atinja esse platô de força tênsil da cicatriz, nós vamos ter um tempo relativamente longo aí de pelo menos aí quase 90 dias... essa cicatriz ela não vai ter a mesma força tênsil da pele sadia... nós vamos chegar mais ou menos aí no máximo a cerca de 80% da força tênsil da pele íntegra.\"",
+      "transversal": true,
+      "videoAulaId": 16,
+      "videoStartSec": 789
     },
     {
       "id": "Q-T3-010",
@@ -454,8 +470,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "O conjunto clínico-laboratorial caracteriza **choque séptico de foco pulmonar (pneumonia nosocomial)** com **síndrome de disfunção de múltiplos órgãos (SDMO)**. A conduta envolve **antibioticoterapia empírica de amplo espectro** (cobrindo Gram-negativos, anaeróbios e Gram-positivos — ex.: piperacilina-tazobactam), **otimização da DO2** (ressuscitação volêmica, droga vasoativa, transfusão se indicada) e monitorização hemodinâmica intensiva. Reconhecimento e tratamento precoces são determinantes do prognóstico.",
-      "referenciaAula": "Aulas 04 (avaliação pós-operatória — complicações, choque, SDMO, antibioticoterapia direcionada) e 03 (infecção em cirurgia — diferença entre profilaxia e tratamento).",
-      "transversal": true
+      "referenciaAula": "Aula 04 (~36:40): \"o paciente que no terceiro pós-operatório de uma cirurgia de revascularização complicou com uma pneumonia nosocomial que evoluiu por um choque séptico de foco pulmonar. Além disso, esse paciente tinha também uma síndrome de disfunções de múltiplos órgãos... a piperacilina tasobactã. É uma penicilina semissintética associada ao inibidor da betactamase, um antibiótico de amplo espectro.\"",
+      "transversal": true,
+      "videoAulaId": 4,
+      "videoStartSec": 2161
     }
   ]
 }

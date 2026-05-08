@@ -177,8 +177,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "A combinação de **mega bexiga + hidronefrose bilateral + oligoidrâmnio + sexo masculino + insuficiência respiratória neonatal** é altamente sugestiva de **válvula de uretra posterior (VUP)**, principal causa de obstrução infravesical no menino. O oligoidrâmnio leva a **hipoplasia pulmonar**, que é a principal causa de óbito perinatal nesses casos. Confirmação por uretrocistografia miccional.",
-      "referenciaAula": "Obstrução infravesical leva a bexiga dilatada, ureteres dilatados, displasia renal, retardo de crescimento, pouco líquido aminiótico e hipoplasia pulmonar — mortalidade perinatal de 70 a 100%.",
-      "transversal": false
+      "referenciaAula": "Então você imagina se intraútero a gente tem uma obstrução infravesical. A bexiga fica dilatada, os retéries ficam dilatados, rins dilatados. Displasia renal, malformação do rim.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 331
     },
     {
       "id": "Q-21-005",

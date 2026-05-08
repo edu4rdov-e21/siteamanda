@@ -422,8 +422,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Câncer de bexiga **músculo invasivo (T2)** não responde a tratamento intravesical. A primeira opção, com intenção curativa, é **cistoprostatectomia radical com linfadenectomia pélvica** (no homem) ou exenteração pélvica anterior (na mulher), **preferencialmente precedida por quimioterapia neoadjuvante**. A trimodal (RTU máxima + RT + QT) é alternativa para preservação de órgão em pacientes inelegíveis para cirurgia. Cistectomia higiênica é paliativa, não curativa.",
-      "referenciaAula": "Na doença músculo invasiva, primeira opção é cistoprostatectomia com linfadenectomia pélvica, podendo associar quimioterapia antes ou depois, de preferência antes.",
-      "transversal": false
+      "referenciaAula": "Como primeira opção, nós vamos fazer uma cirurgia de grande porte, é a cistoprostatectomia no homem, ou seja, nós vamos tirar toda a bexiga juntamente com a próstata associado a uma linfadenectomia pélvica.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1415
     },
     {
       "id": "Q-20-010",

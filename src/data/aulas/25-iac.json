@@ -185,8 +185,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "Na classificação de **Rutherford**, o estágio **0 é assintomático**, **1 claudicação leve**, **2 claudicação moderada**, **3 dor de repouso** e os estágios seguintes correspondem a **lesão trófica pequena** e depois extensa. A dor de repouso já indica isquemia mais grave, com necessidade de avaliação especializada.",
-      "referenciaAula": "Estágio zero o paciente é assintomático; no um, claudicação; no dois, claudicação moderada; no três, dor de repouso; no seguinte, lesão trófica pequena.",
-      "transversal": false
+      "referenciaAula": "No estágio zero o paciente não é sintomático, então ele não está doente. No estágio um ele vai ter claudicação. No estágio dois ele tem uma claudicação alongada, moderada. No estágio três, ele vai ter da doença arterial, dor de repouso. No estágio seguinte, ele vai ter lesão trófica pequena.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 610
     },
     {
       "id": "Q-25-005",

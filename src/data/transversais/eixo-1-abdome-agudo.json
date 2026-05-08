@@ -135,8 +135,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "**Pneumoperitônio** é igual a ar livre na cavidade, ou seja, **abdome agudo perfurativo** até prova em contrário, e em geral indica laparotomia. O **obstrutivo** mostra alças distendidas com **níveis hidroaéreos** (sem ar livre); o **inflamatório** costuma mostrar achados inespecíficos (alça sentinela em FID, espessamento por TC); a **isquemia mesentérica** pode mostrar **pneumatose intestinal** (gás na parede), que é diferente do ar peritoneal. Essa leitura é a base radiológica do diferencial dos 4 abdomes.",
-      "referenciaAula": "Se você tem um radiograma mostrando pneumoperitônio, é laparotomia. No obstrutivo, observamos os níveis hidroaéreos.",
-      "transversal": true
+      "referenciaAula": "No abdômen agudo perfurativo, nós vamos ter o pneumoperitônio. Então, muitas vezes só o radiograma já indica cirurgia. Pode ser complementado com ultrassom, ressonância e principalmente a tomografia.",
+      "transversal": true,
+      "videoAulaId": 14,
+      "videoStartSec": 95
     },
     {
       "id": "Q-T1-004",
@@ -180,8 +182,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "A obstrução intestinal pode **evoluir para isquemia e perfuração** quando há sofrimento de alça. A transição de **dor cólica para dor contínua**, somada a febre, taquicardia desproporcional, leucocitose e lactato elevado, marca essa virada — o paciente deixou de ter um abdome agudo puramente obstrutivo e passou a ter um componente **vascular/perfurativo sobreposto**. Indica laparotomia de urgência, com ressuscitação volêmica concomitante.",
-      "referenciaAula": "Se há prejuízo arterial e represamento venoso, ocorre isquemia e pode haver perfuração com peritonite estercorácea — quadro que exige conduta rápida.",
-      "transversal": true
+      "referenciaAula": "Pode acontecer falta de irrigação arterial e represamento venoso na parede intestinal, causando isquemia e pode acontecer perfuração. Ocorrendo perfuração, o paciente pode evoluir com uma peritonite estercorácia.",
+      "transversal": true,
+      "videoAulaId": 1,
+      "videoStartSec": 213
     },
     {
       "id": "Q-T1-005",
@@ -225,8 +229,10 @@
       ],
       "respostaCorreta": "C",
       "explicacao": "A **invaginação intestinal** é causa típica de **abdome agudo obstrutivo no lactente** (6 m a 2 anos): crises de dor súbita intermitente com palidez/letargia entre elas, evolução para fezes em geleia de morango. **Apendicite** é incomum nessa idade (pico 5-10 anos) e cursa com dor contínua/migratória; **úlcera péptica perfurada** e **isquemia mesentérica embólica** praticamente não ocorrem nessa faixa. A idade pediátrica reorganiza completamente o diferencial.",
-      "referenciaAula": "Em lactente com abdome agudo, apendicite é rara; pensar em invaginação, hérnia encarcerada ou volvo de intestino médio. A dor súbita intermitente sugere algo torcendo e distorcendo.",
-      "transversal": true
+      "referenciaAula": "Se uma criança tiver um quadro de abdômen agudo por volta dos 6 meses de idade, é mais provável que ela tenha uma hérnia encarcerada, uma invaginação, um volvo do intestino médio. Dor súbita intermitente pode significar que alguma coisa tá torcendo e distorcendo dentro da barriga.",
+      "transversal": true,
+      "videoAulaId": 7,
+      "videoStartSec": 216
     },
     {
       "id": "Q-T1-006",
@@ -269,8 +275,10 @@
       ],
       "respostaCorreta": "B",
       "explicacao": "**Diverticulite aguda** é causa frequente de abdome agudo inflamatório no idoso, com dor em **FIE** (sigmoide), febre e plastrão. A **TC com contraste** é o exame de escolha — mostra espessamento do sigmoide, abscesso pericólico e estratifica gravidade (Hinchey). Difere da **apendicite** (jovens, dor periumbilical migrando para **FID**, US frequentemente suficiente em mulheres magras) e da **colecistite** (HCD com Murphy). A localização e a faixa etária são os pivôs do raciocínio.",
-      "referenciaAula": "Se é paciente obesa ou de idade mais avançada com pensamento em diverticulite, melhor já fazer TC com contraste endovenoso.",
-      "transversal": true
+      "referenciaAula": "Se tem um paciente obeso ou se você tem um paciente de uma idade mais avançada, que você tá pensando em outros diagnósticos diferenciais como diverticulite, é melhor já fazer uma tomografia, ressaltando que aqui tem que ser feito tomografia com contraste endovenoso.",
+      "transversal": true,
+      "videoAulaId": 13,
+      "videoStartSec": 1083
     },
     {
       "id": "Q-T1-007",
@@ -458,8 +466,10 @@
       ],
       "respostaCorreta": "A",
       "explicacao": "A **pancreatite aguda** (abdome agudo inflamatório retroperitoneal) explica o quadro: **dor súbita em barra**, irradiação dorsal, vômitos, lipase >3x. A **úlcera péptica perfurada** classicamente teria pneumoperitônio ao RX e dor em facada com rigidez de parede; a **isquemia mesentérica** teria fonte embolígena, dor desproporcional ao exame e lactato muito alto; a **obstrução** teria dor em cólica, parada de eliminação e níveis hidroaéreos. Lipase 10x e padrão da dor selam o diagnóstico.",
-      "referenciaAula": "A tomografia mostrando quadro de pancreatite aguda; a lipase muito elevada e a dor em barra orientam o diferencial entre os abdomes inflamatórios.",
-      "transversal": true
+      "referenciaAula": "Em relação ao quadro clínico, geralmente aquela dor na região epigástrica irradia pro dorso. O diagnóstico é feito com aumento das enzimas amilase e lipase, pode ter algum grau de leucocitose.",
+      "transversal": true,
+      "videoAulaId": 13,
+      "videoStartSec": 2056
     }
   ]
 }

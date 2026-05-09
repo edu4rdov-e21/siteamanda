@@ -472,6 +472,476 @@
       "transversal": false,
       "videoAulaId": 4,
       "videoStartSec": 1416
+    },
+    {
+      "id": "Q-04-011",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "diurese",
+        "janela de perfusão",
+        "perfusão renal"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual valor de DIURESE HORÁRIA é considerado, na aula, como ponto de corte indicativo de perfusão renal adequada na avaliação hemodinâmica clínica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Acima de 0,1 mL/kg/h."
+        },
+        {
+          "id": "B",
+          "texto": "Acima de 0,5 mL/kg/h."
+        },
+        {
+          "id": "C",
+          "texto": "Acima de 2,0 mL/kg/h."
+        },
+        {
+          "id": "D",
+          "texto": "Acima de 5,0 mL/kg/h."
+        },
+        {
+          "id": "E",
+          "texto": "Não há ponto de corte aplicável."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **diurese** é uma janela clínica de perfusão; o ponto de corte mencionado é em torno de **0,5 mL/kg/h**, indicativo de perfusão renal adequada. Valores abaixo sugerem hipoperfusão renal e devem motivar otimização hemodinâmica. (Observação: na transcrição há 'mlh', mas o valor de referência clássico é 0,5 mL/kg/h.)",
+      "referenciaAula": "Outra janela de perfusão que a gente utiliza, a diurese. Aqui o ponto de corte costuma ser mlh.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 453
+    },
+    {
+      "id": "Q-04-012",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "RX de tórax",
+        "exames complementares",
+        "dispositivos"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Na admissão do paciente cirúrgico na UTI, o RAIO X DE TÓRAX é solicitado rotineiramente principalmente para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Diagnosticar embolia pulmonar de forma definitiva."
+        },
+        {
+          "id": "B",
+          "texto": "Substituir a gasometria arterial na avaliação de trocas gasosas."
+        },
+        {
+          "id": "C",
+          "texto": "Avaliar expansão pulmonar, presença de derrame pleural e checar o posicionamento de dispositivos (tubo, cateter venoso central, drenos)."
+        },
+        {
+          "id": "D",
+          "texto": "Calcular o débito cardíaco do paciente."
+        },
+        {
+          "id": "E",
+          "texto": "Quantificar o lactato sérico."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **RX de tórax na admissão** mostra se os pulmões estão expandidos, se há derrame pleural e permite **checar o posicionamento de dispositivos** como tubo orotraqueal, cateter venoso central e drenos. Não é o método de escolha para diagnóstico de TEP nem substitui gasometria, ecografia ou dosagens laboratoriais.",
+      "referenciaAula": "Esse raio X de tórax, ele vai mostrar pra gente se os pulmões estão expandidos, se tem derrame pleural, vai mostrar pra gente também o posicionamento dos dispositivos.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 692
+    },
+    {
+      "id": "Q-04-013",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "compressor pneumático",
+        "tromboprofilaxia mecânica",
+        "contraindicação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em qual situação o COMPRESSOR PNEUMÁTICO INTERMITENTE é particularmente indicado como medida de profilaxia de tromboembolismo venoso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pacientes sem nenhum fator de risco para TEV."
+        },
+        {
+          "id": "B",
+          "texto": "Pacientes que apresentam contraindicação à quimioprofilaxia, como coagulopatia ou sangramento ativo."
+        },
+        {
+          "id": "C",
+          "texto": "Substituir definitivamente a enoxaparina em todos os pacientes cirúrgicos."
+        },
+        {
+          "id": "D",
+          "texto": "Pacientes com infarto agudo do miocárdio em curso, como tratamento."
+        },
+        {
+          "id": "E",
+          "texto": "Pacientes com AVC isquêmico em janela de trombólise."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **compressor pneumático intermitente** comprime de forma cíclica os membros inferiores, reduzindo a estase venosa. Está indicado **principalmente em pacientes com contraindicação à quimioprofilaxia**, como aqueles com coagulopatia ou sangramento aumentado. Não substitui a heparina/enoxaparina nas situações em que estas são possíveis.",
+      "referenciaAula": "É outra intervenção que pode ser realizada, principalmente naqueles pacientes que têm contraindicação à quimioprofilaxia.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 2012
+    },
+    {
+      "id": "Q-04-014",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "taxa de extração de O2",
+        "gasometrias pareadas",
+        "monitorização hemodinâmica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a TAXA DE EXTRAÇÃO DE OXIGÊNIO como ferramenta de avaliação hemodinâmica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É obtida por radiografia de tórax seriada."
+        },
+        {
+          "id": "B",
+          "texto": "É calculada apenas a partir da pressão arterial média."
+        },
+        {
+          "id": "C",
+          "texto": "É obtida por gasometrias pareadas, avaliando a diferença de saturação de oxigênio entre o sangue arterial e o sangue venoso central."
+        },
+        {
+          "id": "D",
+          "texto": "Substitui obrigatoriamente o lactato arterial."
+        },
+        {
+          "id": "E",
+          "texto": "Depende exclusivamente do valor de hemoglobina, sem relação com saturações."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **taxa de extração de oxigênio** é avaliada com **gasometrias pareadas** (uma arterial e uma venosa central), comparando-se a saturação de O2 nos dois compartimentos. Quanto maior a diferença, maior a extração tecidual de O2 — útil para complementar a avaliação hemodinâmica do paciente crítico.",
+      "referenciaAula": "Outro exame que a gente usa na prática clínica para avaliar a hemodinâmica é a taxa de extração, que a gente consegue isso por meio de gasometrias pareadas.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 516
+    },
+    {
+      "id": "Q-04-015",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "ultrassom point-of-care",
+        "débito cardíaco",
+        "monitorização"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual ferramenta tem sido empregada com MAIOR frequência na UTI atualmente para mensurar o débito cardíaco de forma menos invasiva?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cateter de artéria pulmonar de Swan-Ganz, em todos os pacientes."
+        },
+        {
+          "id": "B",
+          "texto": "Ultrassom point-of-care."
+        },
+        {
+          "id": "C",
+          "texto": "Ressonância magnética cardíaca diária."
+        },
+        {
+          "id": "D",
+          "texto": "Cintilografia miocárdica seriada."
+        },
+        {
+          "id": "E",
+          "texto": "Radiografia de tórax em decúbito."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Embora o **cateter de artéria pulmonar** ainda seja eventualmente utilizado, atualmente o **ultrassom point-of-care** é a ferramenta mais empregada para estimar débito cardíaco à beira do leito, com boa acurácia e caráter não invasivo. RM, cintilografia e RX não cumprem esse papel.",
+      "referenciaAula": "O que a gente usa mais para medir o débito cardíaco atualmente é o ultrassom point of care. A gente consegue medir o débito cardíaco com bastante acurácia.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 541
+    },
+    {
+      "id": "Q-04-016",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "tríade de Virchow",
+        "TEV",
+        "fatores de risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A TRÍADE DE VIRCHOW, que descreve fatores de risco para trombose, é composta por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipertensão, dislipidemia e tabagismo."
+        },
+        {
+          "id": "B",
+          "texto": "Estase sanguínea, hipercoagulabilidade e lesão da parede vascular."
+        },
+        {
+          "id": "C",
+          "texto": "Anemia, leucocitose e plaquetopenia."
+        },
+        {
+          "id": "D",
+          "texto": "Hipoxemia, acidose e hipercapnia."
+        },
+        {
+          "id": "E",
+          "texto": "Febre, taquicardia e hipotensão."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **tríade de Virchow** é composta por: **estase sanguínea** (ex.: imobilidade), **hipercoagulabilidade** (ex.: sepse, pós-operatório de grande porte) e **lesão da parede vascular** (ex.: ressecções e suturas vasculares no intra-operatório). Por isso, o paciente cirúrgico é de alto risco para eventos tromboembólicos.",
+      "referenciaAula": "Tríade de Virchow, ela vai descrever fatores de risco que levam ao aumento da chance do paciente fazer trombose. Ela é composta por estase sanguínea, hipercoagulabilidade e lesões da parede vascular.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 1830
+    },
+    {
+      "id": "Q-04-017",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "SAPS 3",
+        "mortalidade predita",
+        "performance UTI"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Por que o cálculo de scores prognósticos como o SAPS 3 é importante na avaliação de PERFORMANCE de uma UTI?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque a mortalidade bruta isolada já permite, sozinha, julgar se a UTI é boa ou ruim."
+        },
+        {
+          "id": "B",
+          "texto": "Porque ele permite estimar a mortalidade predita conforme a gravidade dos pacientes admitidos, possibilitando comparar a mortalidade observada com a esperada."
+        },
+        {
+          "id": "C",
+          "texto": "Porque substitui a passagem de plantão da equipe."
+        },
+        {
+          "id": "D",
+          "texto": "Porque define automaticamente a indicação de antibiótico empírico."
+        },
+        {
+          "id": "E",
+          "texto": "Porque dispensa o uso do SOFA na avaliação seriada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Saber apenas a mortalidade bruta de uma UTI não permite avaliar performance: 20% pode ser alta para uma UTI de baixa gravidade ou baixa para uma de alta gravidade. O **SAPS 3** estima a **mortalidade predita** com base em características basais, motivo de admissão e variáveis fisiológicas, permitindo comparar a mortalidade observada com a esperada para julgar a performance da unidade.",
+      "referenciaAula": "Para mim conseguir fazer essa comparação, eu preciso ter uma ideia de qual que é a mortalidade predita dos pacientes que internam em determinada unidade de terapia intensiva. Essa é a função desses índices prognósticos.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 790
+    },
+    {
+      "id": "Q-04-018",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "íleo paralítico",
+        "complicação gastrointestinal",
+        "cirurgia abdominal"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual complicação GASTROINTESTINAL é particularmente comum no pós-operatório de cirurgias abdominais, caracterizada por redução da peristalse e aumento do tempo de trânsito, com distensão abdominal e dificuldade para receber dieta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doença do refluxo gastroesofágico."
+        },
+        {
+          "id": "B",
+          "texto": "Pancreatite crônica."
+        },
+        {
+          "id": "C",
+          "texto": "Íleo paralítico."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome do intestino irritável."
+        },
+        {
+          "id": "E",
+          "texto": "Hepatite medicamentosa."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **íleo paralítico** é uma complicação frequente de cirurgias abdominais: a **peristalse fica reduzida**, o trânsito intestinal lentifica, o paciente apresenta distensão abdominal e tem dificuldade para receber dieta. Pode ser grave e precisa ser reconhecido e manejado precocemente.",
+      "referenciaAula": "Do trato gastrointestinal, o paciente pode apresentar íleo paralítico. Isso é muito comum, principalmente em cirurgias abdominais. A peristalse fica reduzida, o tempo do trânsito intestinal do paciente fica aumentado, então com isso ele tem dificuldade de receber dietas.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 1661
+    },
+    {
+      "id": "Q-04-019",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "drenos cirúrgicos",
+        "passagem de plantão",
+        "cirurgia cardíaca"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 68 anos é admitido na UTI no pós-operatório imediato de revascularização miocárdica. A equipe cirúrgica passa o caso e informa: 4 pontes (mamária-DA, safena-CD, safena-Mg, safena-Im), tempo de CEC 142 min, tempo de pinçamento 118 min, sangramento estimado 500 mL e múltiplos drenos. Você assume o paciente. Qual é a importância de SABER A LOCALIZAÇÃO desses drenos e qual a conduta IMEDIATA mais coerente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os drenos são apenas decorativos; basta retirá-los na primeira manhã para reduzir desconforto."
+        },
+        {
+          "id": "B",
+          "texto": "Saber a região anatômica que cada dreno está vigiando (ex.: pleural direito/esquerdo, mediastino, pericárdio) é essencial para vigiar sangramento naquele compartimento; conduta imediata: monitorizar débito e aspecto do dreno, alinhando preocupações específicas do cirurgião (ex.: evitar picos pressóricos)."
+        },
+        {
+          "id": "C",
+          "texto": "Os drenos eliminam a necessidade de monitorização hemodinâmica contínua."
+        },
+        {
+          "id": "D",
+          "texto": "Devem ser todos abertos para o ambiente para descompressão imediata."
+        },
+        {
+          "id": "E",
+          "texto": "A localização dos drenos só interessa ao cirurgião e não muda a conduta da UTI."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em cirurgias cardíacas, é frequente o paciente vir com drenos pleurais (direito/esquerdo), mediastinal e pericárdico, cada um **vigiando uma região anatômica** específica para detecção precoce de sangramento. Por isso, a passagem de plantão deve detalhar **localização**, **débito** e **preocupações específicas** do cirurgião (por exemplo, evitar picos pressóricos por risco de sangramento). Isso direciona a vigilância e a tomada de decisão na UTI.",
+      "referenciaAula": "Cirurgias torácicas abdominais, muito frequentemente o paciente vem para UTI com drenos, então a gente precisa saber aonde que esse dreno tá locado, que tipo de região anatômica esse dreno tá vigiando, e alguma preocupação específica que o cirurgião tenha.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 123
+    },
+    {
+      "id": "Q-04-020",
+      "aulaOrigem": 4,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3",
+        "T5"
+      ],
+      "tags": [
+        "complicações neurológicas",
+        "delirium",
+        "AVE pós-operatório"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 75 anos, no 2º pós-operatório de cirurgia abdominal de grande porte, evolui com confusão mental e agitação intermitentes, sem déficit motor focal, sinais vitais estáveis e exames laboratoriais sem alterações novas relevantes. Considerando as complicações NEUROLÓGICAS típicas do paciente cirúrgico crítico, qual é a interpretação MAIS provável e a abordagem inicial mais adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Diagnóstico definitivo de AVC isquêmico; iniciar trombólise sem necessidade de imagem."
+        },
+        {
+          "id": "B",
+          "texto": "Quadro mais provável de delirium pós-operatório (estado confusional agudo com confusão e agitação); investigar e tratar fatores precipitantes (dor, sedação, distúrbios metabólicos, infecção) e manter vigilância para descartar evento vascular cerebral, se surgirem sinais focais."
+        },
+        {
+          "id": "C",
+          "texto": "Iniciar dieta por sonda imediatamente, sem investigação adicional."
+        },
+        {
+          "id": "D",
+          "texto": "Suspender toda monitorização para reduzir estímulos."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar antibioticoterapia de amplo espectro por vontade, sem outros achados infecciosos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Confusão e agitação intermitentes em paciente idoso pós-operatório, sem déficit focal e sem sinais vitais alterados, falam mais a favor de **delirium** (estado confusional agudo descrito como complicação neurológica típica). A abordagem é **investigar e corrigir fatores precipitantes** (dor, sedação, distúrbios metabólicos, infecção) e manter **vigilância** para complicações neurológicas mais graves, como **AVE isquêmico ou hemorrágico**, que também podem ocorrer no pós-operatório. As demais condutas são desproporcionais ou inadequadas.",
+      "referenciaAula": "O paciente pode ter complicações neurológicas, então ele pode evoluir com delirium, por exemplo, que é um estado confusional agudo, o paciente fica confuso, fica agitado. Paciente pode apresentar eventos vasculares cerebrais, tanto isquêmicos quanto hemorrágicos.",
+      "transversal": false,
+      "videoAulaId": 4,
+      "videoStartSec": 1170
     }
   ]
 }

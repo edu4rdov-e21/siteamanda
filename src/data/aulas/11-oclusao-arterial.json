@@ -492,6 +492,497 @@
       "transversal": false,
       "videoAulaId": 11,
       "videoStartSec": 1026
+    },
+    {
+      "id": "Q-11-011",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "incidência",
+        "epidemiologia",
+        "emergência"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da oclusão arterial aguda, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A incidência é desprezível (menos de 1 caso por 100.000 habitantes/ano) e a doença é considerada de baixa morbimortalidade."
+        },
+        {
+          "id": "B",
+          "texto": "A incidência é de 17 casos por 100.000 habitantes/ano e trata-se de doença de elevada morbimortalidade, considerada emergência médica."
+        },
+        {
+          "id": "C",
+          "texto": "É uma doença exclusivamente eletiva, não constituindo emergência médica."
+        },
+        {
+          "id": "D",
+          "texto": "Acomete principalmente crianças e adolescentes, com mortalidade próxima de zero."
+        },
+        {
+          "id": "E",
+          "texto": "Tem incidência superior à da apendicite aguda, sem repercussão sobre a viabilidade do membro."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A oclusão arterial aguda apresenta incidência de **17 casos por 100.000 habitantes/ano** e é uma doença de **elevada morbimortalidade**, sendo considerada uma **emergência médica** que mobiliza o cirurgião vascular fora do horário de plantão (\"o que tira a gente de casa\").",
+      "referenciaAula": "A incidência ela é bastante relevante, são 17 casos por 100.000 habitantes ao ano e é uma doença de elevada morba mortalidade, sendo considerada então uma emergência médica.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 60
+    },
+    {
+      "id": "Q-11-012",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "diagnóstico",
+        "clínico",
+        "exames complementares"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o diagnóstico da oclusão arterial aguda, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É essencialmente laboratorial, dependendo da dosagem de D-dímero para confirmação."
+        },
+        {
+          "id": "B",
+          "texto": "Exige sempre angiotomografia pré-operatória, mesmo que retarde a revascularização."
+        },
+        {
+          "id": "C",
+          "texto": "É essencialmente clínico (anamnese, exame físico e história), e exames complementares só devem ser usados desde que NÃO retardem o tratamento cirúrgico."
+        },
+        {
+          "id": "D",
+          "texto": "Só pode ser firmado após arteriografia, considerada o exame inicial obrigatório."
+        },
+        {
+          "id": "E",
+          "texto": "Depende da biópsia muscular para confirmação da isquemia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O diagnóstico da OAA é **essencialmente clínico**, com base em anamnese, exame físico e história. Exames como **doppler arterial, angiotomografia e arteriografia** (esta o padrão-ouro, porém invasiva) podem auxiliar, mas **só devem ser solicitados se NÃO retardarem o tratamento cirúrgico**. A arteriografia pode inclusive ser feita no intraoperatório.",
+      "referenciaAula": "O diagnóstico da oclusão arterial aguda, ele é essencialmente clínico, então faz parte de anamnese, exame físico, história clínica. E a gente pode utilizar de técnicas para ajudar o nosso diagnóstico desde que elas não retardem o tratamento cirúrgico.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 663
+    },
+    {
+      "id": "Q-11-013",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "embolia paradoxal",
+        "TVP",
+        "shunt cardíaco"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A chamada \"embolia paradoxal\", causa de oclusão arterial aguda, é caracterizada por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trombo formado em aneurisma de aorta abdominal que migra para a artéria renal."
+        },
+        {
+          "id": "B",
+          "texto": "Trombo originado em trombose venosa profunda que migra da circulação venosa para a arterial através de um shunt intracardíaco persistente, causando oclusão arterial aguda."
+        },
+        {
+          "id": "C",
+          "texto": "Embolia gasosa exclusiva de procedimentos endovasculares."
+        },
+        {
+          "id": "D",
+          "texto": "Embolia séptica originada em endocardite tricúspide."
+        },
+        {
+          "id": "E",
+          "texto": "Embolia tumoral por mixoma ventricular esquerdo."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **embolia paradoxal** ocorre quando um trombo da circulação venosa (geralmente uma **TVP**) migra, através de um **shunt intracardíaco persistente** (ex.: forame oval patente), para a circulação arterial, causando OAA. É clássica a associação **TVP + oclusão arterial aguda** no mesmo paciente, achado que deve levantar essa suspeita.",
+      "referenciaAula": "a embolia paradoxal, que é um quadro onde nós temos uma trombose venosa profunda. Esse trombo, ele migra da circulação venosa e pela persistência de um chante intracardíaco, esse embolo ele migra para a circulação arterial e pode causar também um quadro de oclusão arterial aguda.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 182
+    },
+    {
+      "id": "Q-11-014",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "tolerância tecidual",
+        "tempo de isquemia",
+        "endotélio"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a resistência dos tecidos à isquemia e o \"deadline\" para revascularização na oclusão arterial aguda, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O tecido ósseo é o primeiro a sofrer, com lesão irreversível em até 30 minutos de isquemia."
+        },
+        {
+          "id": "B",
+          "texto": "O nervo periférico tolera até 48 horas de isquemia sem alteração de sensibilidade ou motricidade."
+        },
+        {
+          "id": "C",
+          "texto": "Os nervos toleram aproximadamente 1h30 de isquemia (justificando dor e parestesia precoces) e o endotélio tolera até cerca de 6 horas — daí o \"deadline\" clássico de 6 horas para revascularização eficaz."
+        },
+        {
+          "id": "D",
+          "texto": "O endotélio é o tecido mais resistente à isquemia, suportando mais de 24 horas sem sofrimento."
+        },
+        {
+          "id": "E",
+          "texto": "Pele e tecido subcutâneo morrem antes do músculo e do endotélio."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A resistência tecidual à isquemia é desigual: **nervos** ≈ 1h30 (por isso dor e parestesia são precoces), **músculos** algumas horas, **endotélio** até **6 horas** — definindo o **deadline** clássico para revascularização útil. Após esse tempo o próprio endotélio morre e a revascularização perde benefício. Pele, subcutâneo e osso são mais resistentes — quando há lesão de pele, o restante já morreu e o membro tende a ser inviável.",
+      "referenciaAula": "os nervos eles resistem à falta completa de circulação em apenas 1 hora e meia... Depois vem os músculos, os próprios vasos. Então, o próprio endotélio que é até 6 horas. Por isso que o nosso deadline para revascularização 6 horas.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 960
+    },
+    {
+      "id": "Q-11-015",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "diagnóstico diferencial",
+        "flegmasia alba dolens",
+        "TVP"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 52 anos, em pós-operatório recente de cirurgia ginecológica, evolui com **dor e edema importantes em todo o membro inferior esquerdo desde a raiz da coxa**, com **palidez** do membro. À palpação cuidadosa, percebe-se **pulso pedioso presente** e doppler arterial demonstra fluxo audível. O diagnóstico mais provável é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oclusão arterial aguda embólica clássica — indicar embolectomia com Fogarty."
+        },
+        {
+          "id": "B",
+          "texto": "Flegmasia alba dolens: trombose venosa profunda íleo-femoral com edema tão intenso que gera espasmo arterial e palidez, mas o membro mantém fluxo arterial audível — diagnóstico diferencial da OAA."
+        },
+        {
+          "id": "C",
+          "texto": "Síndrome compartimental por trauma fechado — fasciotomia imediata."
+        },
+        {
+          "id": "D",
+          "texto": "Erisipela bolhosa de membro inferior — antibioticoterapia."
+        },
+        {
+          "id": "E",
+          "texto": "Linfedema crônico descompensado — diurético oral."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **flegmasia alba dolens** é uma TVP do **eixo íleo-femoral** com edema tão intenso de todo o membro (desde a raiz da coxa) que causa **compressão e espasmo arterial**, deixando o membro **pálido** — daí o nome \"alba\". Diferentemente da OAA, o membro mantém **fluxo arterial audível** e pulso pedioso. É um importante **diagnóstico diferencial** da OAA. A evolução é a **flegmasia cerulea dolens** (gangrena venosa, frequentemente associada a paraneoplasia).",
+      "referenciaAula": "A flegmaseia é albaadolens, que é uma trombose venosa profunda... uma trombose do eixo ilíacoofemoral... A compressão por esse edema intenso é o que leva um espasmo arterial e o membro ele fica pálido. Por isso que ela é chamada de uma flegmase albadolines. Mas o paciente tem um membro bem perfundido, ela tem um som arterial.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 722
+    },
+    {
+      "id": "Q-11-016",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "síndrome do dedo azul",
+        "aterembolismo",
+        "etiologia embólica"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 70 anos com aneurisma de aorta abdominal conhecido apresenta, subitamente, **lesões cianóticas dolorosas em pontas de pododáctilos** bilaterais, com pulsos pediosos presentes e bem palpáveis. O quadro é mais compatível com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oclusão arterial aguda femoropoplítea — indicar embolectomia com Fogarty."
+        },
+        {
+          "id": "B",
+          "texto": "Síndrome do dedo azul (\"blue toe syndrome\"): aterembolismo por pequenos cristais de colesterol ou pequenos fragmentos de trombo que ocluem microartérias da circulação distal (pontas de dedos)."
+        },
+        {
+          "id": "C",
+          "texto": "Síndrome de Raynaud primária."
+        },
+        {
+          "id": "D",
+          "texto": "Tromboangeíte obliterante (Buerger) em paciente não-tabagista."
+        },
+        {
+          "id": "E",
+          "texto": "Vasculite por crioglobulinemia secundária a HCV."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **síndrome do dedo azul** é o quadro clássico de **aterembolismo**: pequenos **cristais de colesterol** ou **fragmentos de trombo** (frequentemente desprendidos de placas em aorta ou aneurismas) ocluem **microartérias da circulação distal**, causando lesões cianóticas dolorosas em pontas de dedos com **pulsos preservados** — pois as artérias maiores permanecem pérvias. Faz parte das causas embólicas não cardíacas da OAA.",
+      "referenciaAula": "a síndrome do dedo azul, que é um clássico, quadro clássico de aterriembolismo. Então, pequenos cristais de colesterol que podem ou pequenos pedaços de trombo que podem ebolizar e ocluir microartérias de circulação distal, como ponta de dedos.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 212
+    },
+    {
+      "id": "Q-11-017",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "trombose",
+        "trombofilia",
+        "SAAF"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quando se investiga oclusão arterial aguda de etiologia trombótica em paciente jovem, sem aterosclerose evidente, qual é a principal vasculite/trombofilia que deve ser ATIVAMENTE considerada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doença de Kawasaki."
+        },
+        {
+          "id": "B",
+          "texto": "Síndrome do anticorpo antifosfolípide (SAAF)."
+        },
+        {
+          "id": "C",
+          "texto": "Púrpura de Henoch-Schönlein."
+        },
+        {
+          "id": "D",
+          "texto": "Arterite temporal de células gigantes."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Behçet com lesões orais isoladas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **síndrome do anticorpo antifosfolípide (SAAF)** é a **principal trombofilia/vasculite** associada à oclusão arterial aguda, sobretudo em jovens sem outros fatores. Cursa com tromboses arteriais e venosas recorrentes e perdas gestacionais. Outras causas trombóticas mencionadas na aula incluem **aterosclerose** (a mais frequente), **dissecção de aorta**, **aprisionamento de poplítea**, **doença cística adventicial** e **causas iatrogênicas** pós-cateterismo.",
+      "referenciaAula": "Quando a gente pensa em oclusão arterial aguda, a principal vasculite ou trombofilia associada é a síndrome do anticorpo antifosfolípide.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 300
+    },
+    {
+      "id": "Q-11-018",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "isquemia-reperfusão",
+        "hipercalemia",
+        "parada cardiorrespiratória"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a síndrome de isquemia e reperfusão após revascularização na oclusão arterial aguda, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não tem repercussão sistêmica, restringindo-se ao membro revascularizado."
+        },
+        {
+          "id": "B",
+          "texto": "É decorrente da liberação de mioglobina, cálcio, potássio, radicais livres e cardiopressores no leito sistêmico, podendo causar acidose metabólica, hipercalemia, hipotensão, arritmia e até parada cardiorrespiratória."
+        },
+        {
+          "id": "C",
+          "texto": "É praticamente impossível de ocorrer se o tempo de isquemia for inferior a 24 horas."
+        },
+        {
+          "id": "D",
+          "texto": "Sua única manifestação é a febre nas primeiras 48 horas."
+        },
+        {
+          "id": "E",
+          "texto": "Tem como tratamento exclusivo a transfusão de plasma fresco congelado."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A síndrome de **isquemia-reperfusão** resulta da liberação maciça de **mioglobina, K+, cálcio, radicais livres** e cardiopressores ao restabelecer-se o fluxo sobre tecido isquêmico. As consequências sistêmicas incluem **acidose metabólica, hipercalemia, hipotensão, arritmia** e mesmo **parada cardiorrespiratória**, além de **IRA** por necrose tubular (depósito de mioglobina nos glomérulos). Por isso, em pacientes com isquemia muito prolongada, a amputação primária pode salvar a vida.",
+      "referenciaAula": "essa lesão, ela vai liberar então radicais livres como mioglobina, cálcio, potássio e cardiopressores, levando a dose metabólica, hipercalemia. E alguns pacientes após a revascularização do membro em decorrência da síndrome de isquemia e reperfusão, podem apresentar hipotensão, arritmia, inclusive parada cardiorrespiratória.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 936
+    },
+    {
+      "id": "Q-11-019",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "Rutherford",
+        "exame físico",
+        "cianose fixa"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Em paciente com oclusão arterial aguda em membro inferior, qual achado de exame físico permite diferenciar Rutherford IIB (cianose NÃO fixa, membro ameaçado mas viável) de Rutherford III (membro inviável)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Presença de qualquer grau de palidez no membro afetado."
+        },
+        {
+          "id": "B",
+          "texto": "Frequência cardíaca acima de 100 bpm."
+        },
+        {
+          "id": "C",
+          "texto": "Cianose FIXA (que não responde à digitopressão / sem sinal de perfusão), associada a anestesia profunda, paralisia e rigidez articular — caracterizam o Rutherford III; no IIB ainda há \"cianose não fixa\" com perfusão lentificada porém presente."
+        },
+        {
+          "id": "D",
+          "texto": "Pressão arterial sistólica abaixo de 120 mmHg."
+        },
+        {
+          "id": "E",
+          "texto": "Presença de pulso poplíteo bilateral palpável."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A diferença-chave é a **fixidez da cianose** e a presença de **rigidez articular / paralisia / anestesia profunda**. No **IIB**, a perfusão é lentificada porém presente — \"cianose **não** fixa\" — e o membro ainda é **viável** se revascularizado a tempo (emergência). No **III**, a cianose é **fixa**, há rigidez articular, pé caído e ausência de motricidade — o membro é **inviável** e a conduta é **amputação primária**.",
+      "referenciaAula": "um membro ainda com uma perfusão bastante lentificada, que é um quadro que a gente chama de cienose não fixa, típico do 2B. E no membro inferior esquerdo, um paciente com cenose fixa, não tem resposta à perfusão, não tem mais perfusão. E vocês podem observar o pé já caído. Esse membro é inviável.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 603
+    },
+    {
+      "id": "Q-11-020",
+      "aulaOrigem": 11,
+      "blocos": [
+        "F",
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T4",
+        "T5"
+      ],
+      "tags": [
+        "IRA",
+        "rabdomiólise",
+        "necrose tubular",
+        "pós-operatório"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 60 anos, no 2º DPO de embolectomia femoral por OAA com 7 horas de isquemia, evolui com **oligúria, urina escurecida (\"cor de Coca-Cola\"), creatinina em ascensão e CPK elevada**. Qual o mecanismo fisiopatológico mais provável e a conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Glomerulonefrite pós-infecciosa — corticoterapia em pulso."
+        },
+        {
+          "id": "B",
+          "texto": "Insuficiência renal aguda por necrose tubular aguda devido ao depósito de mioglobina nos glomérulos (rabdomiólise intensa pós-isquemia/reperfusão); manter hidratação vigorosa, vigiar função renal e considerar diálise se necessário."
+        },
+        {
+          "id": "C",
+          "texto": "IRA pré-renal exclusivamente por desidratação leve — apenas restringir líquidos."
+        },
+        {
+          "id": "D",
+          "texto": "Nefropatia por IECA — apenas suspender medicação."
+        },
+        {
+          "id": "E",
+          "texto": "Pielonefrite obstrutiva — antibioticoterapia empírica e nefrostomia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Após revascularização de membro com isquemia prolongada, ocorre **rabdomiólise intensa** com liberação de **mioglobina**, que precipita nos glomérulos causando **necrose tubular aguda**. O quadro típico é oligúria, urina escurecida, CPK elevada e creatinina em ascensão. A conduta passa por **hidratação vigorosa** (já iniciada no pré-op com diurese-alvo ≈100 mL/h), **vigilância da função renal** e, se necessário, **diálise** no pós-operatório.",
+      "referenciaAula": "esses pacientes eles acabam evoluindo também com uma insuficiência renal aguda no pós-operatório, principalmente por necrose tobular aguda por depósito da hemoglobina noslomérulos, pela rabidomiólise intensa. Então esses pacientes eles precisam ficar bastante hidratados, como a gente orientou, e vigiar a função renal, podendo evoluir inclusive paraa diálise nesse pós-operatório.",
+      "transversal": false,
+      "videoAulaId": 11,
+      "videoStartSec": 991
     }
   ]
 }

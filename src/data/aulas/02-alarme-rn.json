@@ -444,6 +444,456 @@
       "transversal": false,
       "videoAulaId": 2,
       "videoStartSec": 1838
+    },
+    {
+      "id": "Q-02-011",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "atresia de esôfago",
+        "raio X simples",
+        "ar no abdome",
+        "fístula traqueoesofágica"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em RN com suspeita de atresia de esôfago, o raio X simples permite diferenciar a presença ou não de fístula traqueoesofágica. Qual achado radiológico sugere a presença de fístula entre o coto distal do esôfago e a traqueia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Abdome completamente sem ar (abdome \"branco\")."
+        },
+        {
+          "id": "B",
+          "texto": "Presença de ar no abdome, povoando todo o trato digestivo."
+        },
+        {
+          "id": "C",
+          "texto": "Sinal da dupla bolha sem ar distal."
+        },
+        {
+          "id": "D",
+          "texto": "Pneumoperitônio em hemicúpula direita."
+        },
+        {
+          "id": "E",
+          "texto": "Múltiplos níveis hidroaéreos com edema de alças."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Quando há **fístula traqueoesofágica** (tipo C, o mais comum), o ar inspirado passa da **traqueia → fístula → coto distal do esôfago → estômago**, povoando todo o abdome ao raio X. Já na atresia **sem fístula** (tipo A), o coto distal está fechado e o **abdome aparece \"branco\"** (sem ar). Essa diferenciação radiológica simples orienta a suspeita do subtipo anatômico antes da cirurgia.",
+      "referenciaAula": "Numa criança que tem atresia de esôfago com fístula, ela vai ter ar no abdômen. Porque o ar ele vem pela traqueia, vai pela fístula e vai pro estômago e povoa todo o abdômen.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 153
+    },
+    {
+      "id": "Q-02-012",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "atresia de esôfago",
+        "técnica cirúrgica",
+        "triângulo auscultatório",
+        "anastomose"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a técnica cirúrgica clássica para a correção da atresia de esôfago tipo C?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Esofagectomia total com tubo gástrico."
+        },
+        {
+          "id": "B",
+          "texto": "Toracotomia pelo triângulo auscultatório, ligadura da fístula traqueoesofágica e anastomose término-terminal dos cotos."
+        },
+        {
+          "id": "C",
+          "texto": "Substituição esofágica por interposição colônica de rotina."
+        },
+        {
+          "id": "D",
+          "texto": "Gastrostomia exclusiva sem abordagem torácica."
+        },
+        {
+          "id": "E",
+          "texto": "Esofagostomia cervical e nutrição parenteral total prolongada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A correção clássica da atresia de esôfago tipo C é feita por **toracotomia pelo triângulo auscultatório** (acesso lateral), com **ligadura da fístula traqueoesofágica** e **anastomose término-terminal** entre os cotos proximal e distal do esôfago, restabelecendo o trânsito. Substituição esofágica e esofagostomia cervical ficam reservadas a casos selecionados (long gap, atresia pura tipo A).",
+      "referenciaAula": "Faz uma incisão aqui no triângulo auscultatório, acessa o coto proximal e a fístula. Então você liga a fístula que tava para traqueia e faz a anastomose término-terminal.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 214
+    },
+    {
+      "id": "Q-02-013",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "vômito bilioso",
+        "obstrução intestinal",
+        "sinal de alarme",
+        "raciocínio clínico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual a interpretação clínica MAIS apropriada de um vômito bilioso em recém-nascido?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Achado fisiológico, sem necessidade de investigação."
+        },
+        {
+          "id": "B",
+          "texto": "Sempre indica refluxo gastroesofágico fisiológico do RN."
+        },
+        {
+          "id": "C",
+          "texto": "Sinal de alerta para obstrução do trato gastrointestinal (alta ou baixa), além de sepse, exigindo investigação."
+        },
+        {
+          "id": "D",
+          "texto": "Indica exclusivamente estenose hipertrófica de piloro."
+        },
+        {
+          "id": "E",
+          "texto": "É sempre causado por erro alimentar materno e se resolve com troca de fórmula."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Vômito bilioso em RN nunca é fisiológico**: sempre acende um sinal de alerta para **obstrução do trato gastrointestinal** (alta — ex.: atresia duodenal — ou baixa — ex.: atresia de íleo, íleo meconial, Hirschsprung, ânus imperfurado) ou para quadros sépticos. Estenose hipertrófica de piloro cursa com vômitos **NÃO biliosos** (acima da papila de Vater). A presença ou não de distensão abdominal ajuda a localizar a obstrução.",
+      "referenciaAula": "Sempre que tiver vômito bilioso, você tem que pensar em alguma coisa que tá acontecendo. Vômito bilioso sempre acende alerta pra gente, um sinal de alerta de obstrução.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 244
+    },
+    {
+      "id": "Q-02-014",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "atresia de duodeno",
+        "duodenoduodenostomia",
+        "técnica cirúrgica",
+        "bypass"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a técnica cirúrgica utilizada para correção da atresia de duodeno, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Realiza-se ressecção ampla do segmento atrésico com gastrojejunostomia em Y de Roux."
+        },
+        {
+          "id": "B",
+          "texto": "Faz-se incisão transversal no duodeno dilatado e longitudinal no duodeno distal não dilatado, anastomosando ambas as incisões em um bypass por cima da atresia."
+        },
+        {
+          "id": "C",
+          "texto": "Indica-se piloroplastia a Heineke-Mikulicz."
+        },
+        {
+          "id": "D",
+          "texto": "Trata-se com dilatação endoscópica seriada sem cirurgia."
+        },
+        {
+          "id": "E",
+          "texto": "Realiza-se duodenectomia total com reconstrução por interposição jejunal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A correção clássica da **atresia duodenal** é a **duodenoduodenostomia em diamante**: incisão **transversal** no segmento dilatado (proximal) e **longitudinal** no segmento não dilatado (distal), com anastomose entre ambas — um **bypass por cima da atresia**, sem ressecar o segmento. Isso reconstrói o trânsito sem comprometer a vascularização ou estruturas adjacentes (papila de Vater).",
+      "referenciaAula": "Você faz a incisão no duodeno dilatado e no duodeno que não está dilatado. Aqui você faz transversal e aqui longitudinal e faz a anastomose dessas duas incisões por cima da atresia, fazendo um bypass da atresia.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 420
+    },
+    {
+      "id": "Q-02-015",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "atresia de íleo",
+        "raio X",
+        "obstrução baixa",
+        "anastomose espatulada"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "RN com 24 horas apresenta vômitos biliosos, distensão abdominal generalizada e ausência de eliminação de mecônio. Raio X mostra múltiplas alças distendidas com vários níveis hidroaéreos e ausência de ar no reto. Em laparotomia, identifica-se segmento atrésico no íleo, com cólon fino (de desuso) distalmente e alça ileal proximal dilatada. Qual a conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ileostomia em dupla boca com lavagens de N-acetilcisteína."
+        },
+        {
+          "id": "B",
+          "texto": "Ressecção do segmento atrésico, espatulação da alça fina distal e anastomose término-terminal."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas colostomia em dupla boca em quadrante inferior direito."
+        },
+        {
+          "id": "D",
+          "texto": "Enema opaco terapêutico sem cirurgia."
+        },
+        {
+          "id": "E",
+          "texto": "Cirurgia de Duhamel com abaixamento do cólon."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **atresia de íleo**, o achado intraoperatório é alça proximal **dilatada**, segmento atrésico e cólon distal **fino (de desuso)**. A conduta é **ressecar o segmento atrésico**, **espatular a alça fina distal** (incisão longitudinal para aumentar a boca anastomótica) e fazer **anastomose término-terminal**, restabelecendo o trânsito em um tempo cirúrgico único. Ileostomia em dupla boca com lavagens é a conduta para **íleo meconial**, não para atresia de íleo.",
+      "referenciaAula": "A atresia tá aqui. O segmento tá atrésico. O cólon tá todo fininho pra frente. O cólon é o de desuso e a alça ileal tá dilatada. Você vai fazer a ressecção disso aqui e na parte que tá fina você faz uma incisão para espatular e aumentar a área de anastomose e faz uma anastomose término-terminal.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 544
+    },
+    {
+      "id": "Q-02-016",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "doença de Hirschsprung",
+        "enema opaco",
+        "zona de transição",
+        "diagnóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual exame de imagem é considerado patognomônico, junto ao quadro clínico, para o diagnóstico de doença de Hirschsprung em RN?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tomografia abdominal com contraste oral."
+        },
+        {
+          "id": "B",
+          "texto": "Cintilografia com tecnécio-99m."
+        },
+        {
+          "id": "C",
+          "texto": "Enema opaco evidenciando zona/cone de transição (segmento distal fino transitando para segmento proximal dilatado)."
+        },
+        {
+          "id": "D",
+          "texto": "Ultrassonografia abdominal com Doppler."
+        },
+        {
+          "id": "E",
+          "texto": "Ressonância magnética da pelve."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **enema opaco** é o exame de escolha para investigação inicial: introduz-se contraste pelo reto e identifica-se a **zona (ou cone) de transição** — segmento distal aganglionar **fino** transitando abruptamente para segmento proximal **dilatado** (com inervação preservada). Esse achado, **somado ao quadro clínico** (distensão, ausência de mecônio, saída explosiva ao toque retal), é **patognomônico**. A confirmação histopatológica é por biópsia retal mostrando ausência de células ganglionares.",
+      "referenciaAula": "É através do exame chama enema opaco. Você introduz uma sondinha e injeta contraste pelo reto. Essa zona de transição ou cone de transição com o quadro clínico é patognomônico de doença de Hirschsprung.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 815
+    },
+    {
+      "id": "Q-02-017",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "doença de Hirschsprung",
+        "tratamento cirúrgico",
+        "Duhamel",
+        "De La Torre-Mondragón"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento cirúrgico da doença de Hirschsprung, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A única técnica disponível é a colostomia definitiva, sem reconstrução de trânsito."
+        },
+        {
+          "id": "B",
+          "texto": "A cirurgia de Duhamel envolve abaixar o cólon sadio por trás do reto e na frente do sacro, geralmente após colostomia prévia e em torno do primeiro ano de vida; alternativa moderna é a técnica de De La Torre-Mondragón, abordagem totalmente transanal sem colostomia, após lavagens iniciais."
+        },
+        {
+          "id": "C",
+          "texto": "A cirurgia obrigatoriamente requer ressecção do segmento dilatado proximal, preservando o retossigmoide."
+        },
+        {
+          "id": "D",
+          "texto": "O tratamento é exclusivamente clínico com lavagens intestinais e laxantes por toda a vida."
+        },
+        {
+          "id": "E",
+          "texto": "A cirurgia é contraindicada antes dos 5 anos de idade."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Há duas estratégias principais: (1) **colostomia inicial** seguida, por volta de **6 meses a 1 ano**, de **cirurgia de Duhamel** — abaixamento do cólon sadio **por trás do reto e na frente do sacro**; (2) **técnica de De La Torre-Mondragón** — abaixamento **totalmente transanal**, sem colostomia, precedido de lavagens intestinais para esvaziar o megacólon. Em ambas, retira-se o segmento aganglionar e abaixa-se o segmento sadio.",
+      "referenciaAula": "Você pode fazer a cirurgia de abaixamento do cólon, é a cirurgia de Duhamel, aquela parte que tá boa, você abaixa por trás do reto na frente do sacro. Você pode fazer essa cirurgia aqui que chama de La Torre-Mondragón, que ele faz a cirurgia de abaixamento totalmente por dentro do ânus, sem colostomia.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 872
+    },
+    {
+      "id": "Q-02-018",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "ânus imperfurado",
+        "malformação anorretal",
+        "colostomia em dupla boca",
+        "fístula urinária"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "RN do sexo masculino apresenta distensão abdominal e ausência de eliminação de mecônio; ao exame, identifica-se ausência do orifício anal. Suspeita-se de malformação anorretal (ânus imperfurado) com possível fístula para o trato urinário. Qual a conduta cirúrgica inicial mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ileostomia em dupla boca."
+        },
+        {
+          "id": "B",
+          "texto": "Colostomia em dupla boca com bocas separadas (para que as fezes não passem pela fístula urinária)."
+        },
+        {
+          "id": "C",
+          "texto": "Anoplastia primária imediata sem colostomia."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas dilatações anais com vela de Hegar."
+        },
+        {
+          "id": "E",
+          "texto": "Conduta clínica com enemas evacuatórios e antibiótico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **malformação anorretal** com possível fístula para a uretra/bexiga, a conduta inicial padrão é **colostomia em dupla boca com bocas separadas**: separar a boca proximal (que elimina fezes) da distal **impede que as fezes passem pela fístula** e causem **infecção urinária**. A correção definitiva (anorretoplastia sagital posterior — cirurgia de Peña) é realizada em segundo tempo, identificando o complexo esfincteriano por estimulação elétrica.",
+      "referenciaAula": "A grande maioria das vezes a gente faz uma colostomia em dupla boca separadas. Se aqui tem uma fístula pro trato urinário, se eu deixar passando fezes, ela vai ter infecção urinária. Então eu separo: a fezes sai por aqui e não vai para lá.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1025
+    },
+    {
+      "id": "Q-02-019",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "ânus imperfurado",
+        "cirurgia de Peña",
+        "anorretoplastia sagital posterior",
+        "continência fecal"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "A cirurgia de Peña (anorretoplastia sagital posterior) revolucionou o tratamento das malformações anorretais. Qual a base anatômico-cirúrgica que justifica seus excelentes resultados de continência fecal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É realizada por via abdominal aberta com a criança em decúbito dorsal, dispensando identificação dos grupos musculares esfincterianos."
+        },
+        {
+          "id": "B",
+          "texto": "Aborda a região sagital posterior na linha média com a criança em decúbito ventral (de bruço); usa estimulador elétrico para identificar os grupos musculares esfincterianos, libera o reto, liga a fístula urinária e posiciona o reto exatamente no centro do complexo esfincteriano identificado."
+        },
+        {
+          "id": "C",
+          "texto": "Realiza apenas anastomose colorretal laparoscópica sem aproximação muscular."
+        },
+        {
+          "id": "D",
+          "texto": "Indica-se exclusivamente em meninas e dispensa colostomia prévia."
+        },
+        {
+          "id": "E",
+          "texto": "Substitui o ânus por um reservatório ileal contínuo (bolsa em J)."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Alberto Peña desenvolveu a **anorretoplastia sagital posterior**: a criança fica **em decúbito ventral**, faz-se **incisão na linha média sagital posterior** (entre os grupos musculares esfincterianos), e o **estimulador elétrico** identifica precisamente os feixes musculares (que ficam afastados lateralmente). Identificado o reto/cólon ectópico, **liga-se a fístula urinária** (próstata/bexiga) e **posiciona-se o reto no centro do complexo esfincteriano**, suturando o complexo muscular ao redor. Essa técnica anatômica explica o excepcional grau de continência fecal pós-operatório (na ausência de malformações associadas como atresia de sacro ou espinha bífida).",
+      "referenciaAula": "Ele abre a parte sagital posterior com a criança de bruço e vai identificar esse cólon. Ele consegue identificar com estimulador eletrônico os grupos musculares. Vai ligar aquela fístula que teria para próstata ou pra bexiga e vai colocá-lo no local que estaria o esfíncter que ele identificou.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1085
+    },
+    {
+      "id": "Q-02-020",
+      "aulaOrigem": 2,
+      "blocos": [
+        "D"
+      ],
+      "eixos": [],
+      "tags": [
+        "hérnia diafragmática congênita",
+        "ressonância fetal",
+        "índice tórax-cefálico",
+        "indicação de intervenção fetal"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Gestante apresenta ultrassom obstétrico com alças intestinais no tórax fetal, sugestivo de hérnia diafragmática congênita à esquerda. A equipe considera intervenção fetal com oclusão traqueal por balão. Quais critérios anatômicos/imagem são utilizados para indicar essa intervenção fetal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas a presença da hérnia ao ultrassom indica intervenção, independentemente de outros fatores."
+        },
+        {
+          "id": "B",
+          "texto": "Ressonância fetal demonstrando ascensão hepática para o tórax e índice tórax-cefálico (relação pulmão-cabeça) desfavorável, indicando alto risco de óbito pós-natal sem intervenção."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas a idade materna acima de 35 anos justifica intervenção fetal."
+        },
+        {
+          "id": "D",
+          "texto": "Cariótipo fetal alterado é critério único para indicação da oclusão traqueal."
+        },
+        {
+          "id": "E",
+          "texto": "Sexo fetal masculino e polidrâmnio isolado são suficientes para indicação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A indicação de **oclusão traqueal fetal com balão** é seletiva. Pesa-se a gravidade prevista no pós-natal por critérios objetivos: (1) **ascensão hepática (\"liver up\")** para o tórax, considerada marcador de pior prognóstico; (2) **índice tórax-cefálico (lung-to-head ratio, LHR)** — relação entre área pulmonar contralateral e perímetro cefálico — quando desfavorável, prediz alta mortalidade sem intervenção. O balão é colocado por volta da **24ª semana** e retirado por volta da **28ª**, retendo muco pulmonar e estimulando crescimento pulmonar fetal.",
+      "referenciaAula": "Se um pedaço do fígado tá para cima, se tem um índice que chama índice tórax-cefálico, que são medidas que fala assim, ó, esse daqui vale a pena fazer uma intervenção fetal, porque se não fizer, depois que nascer ele vai morrer.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1591
     }
   ]
 }

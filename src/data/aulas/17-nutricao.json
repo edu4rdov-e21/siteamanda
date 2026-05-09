@@ -463,6 +463,474 @@
       "transversal": false,
       "videoAulaId": 17,
       "videoStartSec": 300
+    },
+    {
+      "id": "Q-17-011",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ASG",
+        "perda de peso",
+        "perguntas indiretas"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Durante a aplicação da Avaliação Subjetiva Global (ASG), o paciente não sabe quantificar a perda de peso. Qual estratégia indireta é recomendada para inferir essa perda?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Solicitar dosagem imediata de albumina e pré-albumina."
+        },
+        {
+          "id": "B",
+          "texto": "Perguntar se ele está tendo que apertar mais o cinto da calça ou se as roupas estão ficando largas."
+        },
+        {
+          "id": "C",
+          "texto": "Pesar o paciente uma única vez e assumir que perdeu peso."
+        },
+        {
+          "id": "D",
+          "texto": "Realizar bioimpedância obrigatoriamente antes da entrevista."
+        },
+        {
+          "id": "E",
+          "texto": "Considerar apenas o IMC atual, sem questionar o histórico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **ASG é subjetiva** e usa perguntas indiretas para inferir perda de peso quando o paciente não sabe quantificar. Perguntar se está **apertando mais o cinto** ou se as **roupas estão ficando largas** são indícios práticos e clinicamente úteis. Não exige exames laboratoriais nem equipamentos para sua aplicação.",
+      "referenciaAula": "Por exemplo, você tá tendo que apertar mais o cinto da calça, as suas roupas estão ficando largas, isso é indício que ele tem perdido o peso.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 634
+    },
+    {
+      "id": "Q-17-012",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "citocinas",
+        "IL-1",
+        "IL-6",
+        "PCR"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais são as principais citocinas pró-inflamatórias liberadas após uma agressão cirúrgica de grande porte, que desencadeiam a resposta neuroendócrina catabólica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "IL-4, IL-10 e TGF-beta."
+        },
+        {
+          "id": "B",
+          "texto": "Insulina, GH e IGF-1."
+        },
+        {
+          "id": "C",
+          "texto": "Interleucina 1, interleucina 6 e proteína C reativa."
+        },
+        {
+          "id": "D",
+          "texto": "Imunoglobulinas A, G e M."
+        },
+        {
+          "id": "E",
+          "texto": "Calcitonina, paratormônio e tireoglobulina."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A agressão cirúrgica gera estresse oxidativo e libera **substâncias pró-inflamatórias: IL-1, IL-6 e PCR**. Estas citocinas estimulam a resposta neuroendócrina, ativando a liberação de hormônios contrarreguladores (adrenalina, cortisol, glucagon) e desencadeando o estado catabólico.",
+      "referenciaAula": "Então vocês estão vendo em azul, né, aumento da interlocina 1, da interlocina 6, da proteína C reativa.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 152
+    },
+    {
+      "id": "Q-17-013",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ASG",
+        "exame físico",
+        "edema sacral"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Ao procurar edema em um paciente acamado, durante a avaliação nutricional, qual a região anatômica preferencial para o exame?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Membros inferiores (tornozelos)."
+        },
+        {
+          "id": "B",
+          "texto": "Região sacral."
+        },
+        {
+          "id": "C",
+          "texto": "Pálpebras superiores."
+        },
+        {
+          "id": "D",
+          "texto": "Região cervical posterior."
+        },
+        {
+          "id": "E",
+          "texto": "Região palmar."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em paciente **deitado/acamado**, o edema gravitacional acumula-se na **região sacral**, e não nos membros inferiores. Por isso, é nessa região que se deve procurar edema, especialmente no contexto de avaliação nutricional, pois pode ser um sinal de **hipoalbuminemia** (baixa reserva proteica).",
+      "referenciaAula": "Lembrando vocês que quando você for procurar edema num paciente deitado, você tem que procurar na região sacral e não no membro inferior.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 845
+    },
+    {
+      "id": "Q-17-014",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "dieta polimérica",
+        "sonda enteral",
+        "início de dieta"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o início da dieta enteral por sonda no paciente cirúrgico, qual a conduta CORRETA quanto ao tipo e velocidade inicial?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iniciar dieta oligomérica (proteína quebrada) em volume pleno (100 mL/h)."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar dieta polimérica (proteína intacta) com 20 mL/h e aumentar gradativamente."
+        },
+        {
+          "id": "C",
+          "texto": "Iniciar dieta elementar com aminoácidos livres em bolus de 500 mL."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar diretamente com nutrição parenteral concomitante."
+        },
+        {
+          "id": "E",
+          "texto": "Aguardar 7 dias antes de iniciar qualquer dieta."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A dieta inicial por sonda é **polimérica (proteína intacta)** e iniciada com volume baixo (~**20 mL/h**), com **aumento gradativo** conforme tolerância. Dietas oligoméricas (proteína quebrada) são reservadas para situações de má absorção. Iniciar em volume pleno aumenta o risco de distensão e intolerância.",
+      "referenciaAula": "Polimérica seria uma com a proteína intacta. Quando a gente fala oligomérica, óleo pouco, proteína quebrada. Então, no caso, uma proteína intacta, a gente começa com uma quantidade relativamente pequena, né? é 20 ml/h e vai aumentando gradativamente.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1292
+    },
+    {
+      "id": "Q-17-015",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "íleo pós-operatório",
+        "ACERTO",
+        "deambulação",
+        "opioides"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais medidas pós-operatórias do projeto ACERTO ajudam a EVITAR a desmotilidade gastrointestinal (íleo) e favorecer a recuperação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrecarga de volume, opioides em altas doses e repouso prolongado no leito."
+        },
+        {
+          "id": "B",
+          "texto": "Hidratação adequada (sem sobrecarga), correção de distúrbios hidroeletrolíticos, deambulação precoce e uso parcimonioso de sedativos/opioides."
+        },
+        {
+          "id": "C",
+          "texto": "Jejum absoluto até o 7º dia e aguardar ruídos hidroaéreos vigorosos."
+        },
+        {
+          "id": "D",
+          "texto": "Suspender qualquer drenagem para evitar perdas eletrolíticas."
+        },
+        {
+          "id": "E",
+          "texto": "Manter paciente sedado para evitar dor pós-operatória."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Para evitar **íleo pós-operatório**, o ACERTO recomenda: evitar **sobrecarga de volume** (que causa edema do íleo), corrigir **distúrbios hidroeletrolíticos e ácido-básicos**, repor adequadamente perdas por **drenagens**, **deambulação precoce** (melhora motilidade do delgado e evita constipação) e **uso parcimonioso de sedativos/opioides** (que pioram a função GI).",
+      "referenciaAula": "sobrecarga de volume para evitar edema do hío, eh, evitar distúrbo eletrolítico, hidroeletrolítico, ácido básico, então, manter o paciente adequadamente hidratado, não desidratado e não hiperhidratado.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1593
+    },
+    {
+      "id": "Q-17-016",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "suplemento hiperproteico",
+        "valor energético total",
+        "proteína"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o conteúdo proteico de um suplemento nutricional considerado hiperproteico, indicado no pré-operatório de pacientes desnutridos, qual a faixa percentual da proteína em relação ao valor energético total (VET)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cerca de 5%."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 10%."
+        },
+        {
+          "id": "C",
+          "texto": "Entre 20 e 25%."
+        },
+        {
+          "id": "D",
+          "texto": "Entre 50 e 60%."
+        },
+        {
+          "id": "E",
+          "texto": "Acima de 80%."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Um suplemento **hiperproteico** apresenta a proteína correspondendo a aproximadamente **20 a 25% do valor energético total (VET)**. Esses suplementos podem ser enriquecidos com imunonutrientes (ômega-3 e arginina) e são utilizados na reorientação da via oral durante a terapia nutricional pré-operatória.",
+      "referenciaAula": "esses determinados elementos, além da quantidade proteica grande, né, a quantidade, a proteína correspondendo aí a mais ou menos 20 a 25% do valor energético total da substância.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1081
+    },
+    {
+      "id": "Q-17-017",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "abreviação de jejum",
+        "Mendelson",
+        "pneumonia aspirativa",
+        "ACERTO"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 52 anos será submetido a colecistectomia eletiva amanhã às 10h. O anestesista questiona se o paciente deve permanecer em jejum absoluto pelo risco de pneumonia aspirativa descrito por Mendelson em 1946. Qual a conduta mais apropriada segundo o projeto ACERTO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Manter jejum absoluto desde a noite anterior, sem qualquer ingestão."
+        },
+        {
+          "id": "B",
+          "texto": "Permitir refeição sólida 4 horas antes da cirurgia."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar abreviação do jejum com solução de maltodextrina a 12,5% — 400 mL na noite anterior e 200 mL até 2 horas antes da cirurgia, pois reduz catabolismo sem aumentar risco descrito por Mendelson."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar nutrição parenteral preventiva 24 horas antes."
+        },
+        {
+          "id": "E",
+          "texto": "Prescrever dieta líquida completa até o momento da indução anestésica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O conceito clássico de **Mendelson (1946)** sobre risco de aspiração com estômago cheio levou ao jejum absoluto prolongado. Atualmente, o **projeto ACERTO** preconiza a **abreviação de jejum** com **maltodextrina 12,5%** (12,5 g em 100 mL de água): **400 mL na noite anterior e 200 mL até 2 horas antes** da cirurgia. Reduz catabolismo, resistência insulínica e desconforto, sem aumentar risco de pneumonia aspirativa.",
+      "referenciaAula": "Eh, esse isso vem do do de conhecimentos desde 1946, né, Cim Menelson. No entanto, atualmente não se deixa o paciente em jejum total. A gente faz uma solução com autodestrina, quer dizer, um açúcar a 12,5%, 12,5 g de motodestrina em 100 ml de água e dá 400 ml na noite anterior à cirurgia e 200 ml em 2 horas antes da cirurgia.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1475
+    },
+    {
+      "id": "Q-17-018",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "radiografia",
+        "posicionamento de sonda",
+        "duodeno",
+        "jejuno"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente em pós-operatório de cirurgia abdominal apresenta gastroparesia. O cirurgião opta por avançar a sonda nasoenteral além do estômago. Ao avaliar a radiografia para confirmar a posição, qual o trajeto anatômico esperado da sonda até o jejuno?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sonda passa diretamente para a esquerda, sem cruzar a coluna, terminando no duodeno."
+        },
+        {
+          "id": "B",
+          "texto": "Sonda faz curvatura para a direita (estômago), depois para a esquerda (duodeno) e cruza a coluna fazendo um novo S, terminando no jejuno."
+        },
+        {
+          "id": "C",
+          "texto": "Sonda deve estar enrolada no fundo gástrico em todos os casos."
+        },
+        {
+          "id": "D",
+          "texto": "A radiografia é dispensável; a confirmação é apenas clínica."
+        },
+        {
+          "id": "E",
+          "texto": "Sonda em jejuno aparece como linha reta vertical, sem curvaturas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na radiografia, a sonda corretamente posicionada no jejuno mostra: **curvatura para a direita** (curvatura do estômago), depois **curvatura para a esquerda** (duodeno), depois **cruza a coluna** e faz um **novo S**, indicando posição em jejuno. É importante **acompanhar com os dedos o trajeto da sonda**, pois um estômago alongado pode dar a falsa impressão de progressão. A radiografia é fundamental.",
+      "referenciaAula": "Então eu tô vendo a uma curvatura para a direita de quem olha. Eu tô desenhando a curvatura do estômago. Ela tá em verde. Na seta alaranjada eu tô vendo uma curvatura já depois da primeira curvatura da direita, uma curvatura para a esquerda. E aí eu estou vendo de quem olha, né? Esquerda de quem olha. Eu estou vendo dodeno. Depois que cruza a coluna e faz um outro S, como se fosse um um outro S, a sonda tá no jejum.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1322
+    },
+    {
+      "id": "Q-17-019",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ômega-3",
+        "ômega-6",
+        "dessaturase",
+        "elongase",
+        "imunonutrição"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o mecanismo bioquímico que justifica o uso de ômega-3 em suplementos imunonutrientes no pré-operatório, qual afirmação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ômega-3 é um anti-inflamatório clássico que bloqueia diretamente a ciclooxigenase, equivalente aos AINEs."
+        },
+        {
+          "id": "B",
+          "texto": "A primeira dupla ligação a partir do radical metila no terceiro carbono caracteriza o ômega-3, que compete com o ômega-6 nas vias das dessaturases e elongases, atenuando a formação final do ômega-6 efetivo (pró-inflamatório)."
+        },
+        {
+          "id": "C",
+          "texto": "O ômega-3 é obtido principalmente do óleo de soja, enquanto o ômega-6 vem do óleo de peixe."
+        },
+        {
+          "id": "D",
+          "texto": "Ômega-3 e ômega-6 não compartilham vias metabólicas, sendo independentes."
+        },
+        {
+          "id": "E",
+          "texto": "Os lipídios poli-insaturados não têm efeito fisiológico além da reserva energética."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A partir do radical **metila**, conta-se o carbono: a primeira dupla ligação no **3º carbono = ômega-3**; no **6º carbono = ômega-6**. Os lipídios são processados pelas **dessaturases (abrem cadeia)** e **elongases (alongam)**. Como **as vias do ômega-3 e ômega-6 competem** pelas mesmas enzimas, suplementar ômega-3 (óleo de peixe) **atenua a formação do ômega-6 efetivo** (do óleo de soja, mais pró-inflamatório). Não é anti-inflamatório clássico — é uma **competição metabólica** que atenua a resposta inflamatória.",
+      "referenciaAula": "Então, se vocês olharem esse slide, a partir de um radical metila, você vai contando o carbono. Quando a primeira dupla ligação aparecer no terceiro carbono, ele é ômega6. Quando a primeira dupla ligação aparecer no sexto carbono, ele é ômega 6. E o ômega6, a linhagem do ômega6, que é aquele que a gente obtém, por exemplo, quando você come óleo de soja, ele ativa mais a via inflamatória do que do ômega3, que e, por exemplo, a gente obtém quando come óleo de peixe.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 1142
+    },
+    {
+      "id": "Q-17-020",
+      "aulaOrigem": 17,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "carnitina aciltransferase",
+        "lisina",
+        "metionina",
+        "lipídio",
+        "fisiopatologia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Na fisiopatologia da resposta metabólica à grande cirurgia, por que o organismo NÃO consegue aproveitar adequadamente o lipídio como fonte energética, mesmo havendo reserva de gordura corporal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque o cortisol bloqueia diretamente a lipase pancreática, impedindo absorção intestinal."
+        },
+        {
+          "id": "B",
+          "texto": "Porque a hiperinsulinemia inibe completamente a lipólise periférica, sem qualquer relação com aminoácidos."
+        },
+        {
+          "id": "C",
+          "texto": "Porque o estímulo da malonil-coenzima A leva à inibição da carnitina aciltransferase, e a carnitina (formada por lisina e metionina) tem seus aminoácidos desviados para a síntese de substâncias inflamatórias."
+        },
+        {
+          "id": "D",
+          "texto": "Porque o glucagon ativa a beta-oxidação em excesso, esgotando o substrato lipídico em poucas horas."
+        },
+        {
+          "id": "E",
+          "texto": "Porque o ômega-3 endógeno bloqueia a oxidação dos lipídios circulantes."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Apesar do aumento da insulina, há **estímulo da malonil-CoA**, que **inibe a carnitina aciltransferase** — enzima essencial para o transporte de ácidos graxos para a mitocôndria (beta-oxidação). Adicionalmente, a **carnitina é formada por lisina e metionina**, aminoácidos que estão sendo **desviados para a síntese de substâncias inflamatórias**. Resultado: lipídios não são adequadamente aproveitados, sobrando apenas a **proteína como fonte energética** (proteólise muscular).",
+      "referenciaAula": "Há uma inibição da carnitina cetiltransferase. Por quê? A carnitina é uma proteína eh formada pela lisina e meteonina e o teu organismo tá usando eh eh proteína para formar substância inflamatória e dessa maneira eu não aproveito o lipídio.",
+      "transversal": false,
+      "videoAulaId": 17,
+      "videoStartSec": 249
     }
   ]
 }

@@ -471,6 +471,476 @@
       "transversal": false,
       "videoAulaId": 7,
       "videoStartSec": 2044
+    },
+    {
+      "id": "Q-07-011",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "COVID-19",
+        "diagnóstico diferencial",
+        "dor abdominal"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Após a epidemia de COVID-19, qual afirmativa é CORRETA sobre a dor abdominal na criança?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "COVID-19 não tem qualquer relação com dor abdominal pediátrica."
+        },
+        {
+          "id": "B",
+          "texto": "COVID-19 passou a ser uma causa frequente de dor abdominal na criança, ampliando os diagnósticos diferenciais."
+        },
+        {
+          "id": "C",
+          "texto": "COVID-19 só causa dor abdominal em adultos imunossuprimidos."
+        },
+        {
+          "id": "D",
+          "texto": "Toda criança com dor abdominal deve receber antiviral empírico."
+        },
+        {
+          "id": "E",
+          "texto": "A pandemia eliminou a apendicite como diagnóstico diferencial principal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **COVID-19** tornou-se uma **causa frequente de dor abdominal na criança**, contribuindo para aumentar o número de diagnósticos diferenciais a serem considerados na avaliação inicial. O raciocínio clínico segue os mesmos princípios — distinguir dor que preocupa, descartar causas cirúrgicas e identificar sinais de alarme.",
+      "referenciaAula": "Lembrar sempre hoje em dia também depois da epidemia de COVID que COVID é uma causa frequente de dor abdominal na criança, que só vai aumentar um pouquinho o número de diagnósticos diferenciais.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 154
+    },
+    {
+      "id": "Q-07-012",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "anamnese",
+        "hábito intestinal",
+        "Hirschsprung"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em uma criança com quadro de abdome agudo obstrutivo, qual antecedente da anamnese sugere doença de Hirschsprung (megacolo congênito)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "História prévia de constipação intestinal."
+        },
+        {
+          "id": "B",
+          "texto": "Diarreia crônica com perda de peso."
+        },
+        {
+          "id": "C",
+          "texto": "Vômitos não biliosos repetidos desde o nascimento."
+        },
+        {
+          "id": "D",
+          "texto": "História familiar de litíase renal."
+        },
+        {
+          "id": "E",
+          "texto": "Uso recente de antibióticos."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **doença de Hirschsprung** (agangliose da porção terminal do intestino) cursa com **constipação crônica** que pode evoluir para **obstrução intestinal aguda**. Por isso, a história de criança previamente constipada que chega com abdome agudo obstrutivo deve levantar a suspeita.",
+      "referenciaAula": "A doença de porega colo congênito, normalmente é uma criança que vem com quadro de abdômen agudo, mas antes ela já tinha uma história de ser constipada.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 423
+    },
+    {
+      "id": "Q-07-013",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "vacinação",
+        "rotavírus",
+        "invaginação intestinal"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual a relação descrita entre vacinação e dor abdominal aguda na infância?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A vacina BCG predispõe à apendicite."
+        },
+        {
+          "id": "B",
+          "texto": "A vacinação contra rotavírus parece predispor à ocorrência de invaginação intestinal."
+        },
+        {
+          "id": "C",
+          "texto": "Vacinas de rotina são contraindicadas em crianças com dor abdominal recorrente."
+        },
+        {
+          "id": "D",
+          "texto": "A tríplice viral causa estenose hipertrófica do piloro."
+        },
+        {
+          "id": "E",
+          "texto": "A vacina contra hepatite B aumenta o risco de divertículo de Meckel."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **vacinação contra rotavírus** está descrita como possível fator predisponente à **invaginação intestinal** em lactentes, sendo um dado relevante na anamnese complementar. Isso não contraindica a vacina, mas reforça a vigilância clínica para sinais de invaginação.",
+      "referenciaAula": "Parece que a vacinação contra a rotavírus predispõe a ocorrência de invaginação intestinal.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 480
+    },
+    {
+      "id": "Q-07-014",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "exame físico",
+        "peritonite",
+        "percussão abdominal"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a pesquisa de sinais de peritonite na criança, qual conduta é particularmente útil para localizar a dor enquanto se mantém o vínculo com o paciente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aplicar descompressão brusca repetidamente em todos os quadrantes."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar percussão do abdome enquanto se conversa com a criança."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar tomografia antes de qualquer manobra semiológica."
+        },
+        {
+          "id": "D",
+          "texto": "Apertar fortemente o abdome com as duas mãos para confirmar peritonite."
+        },
+        {
+          "id": "E",
+          "texto": "Usar somente a ausculta abdominal, evitando palpação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **percussão do abdome** é uma manobra valiosa em pediatria: enquanto se conversa com a criança, ela ajuda a **localizar a dor** sem a agressividade da descompressão brusca. Em apendicite, por exemplo, permite avaliar se a dor está restrita à fossa ilíaca direita ou tem repercussão difusa, sem comprometer o vínculo médico-paciente.",
+      "referenciaAula": "A percussão do abdômen, enquanto a gente conversa com a criança, ajuda muitas vezes a gente a localizar a dor.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 696
+    },
+    {
+      "id": "Q-07-015",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "ultrassonografia",
+        "operador-dependente",
+        "apendicite"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Menina de 9 anos chega com dor em fossa ilíaca direita, descompressão brusca dolorosa, febre e vômitos. O ultrassonografista de plantão (sem experiência pediátrica) relata exame normal. Qual a conduta MAIS apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Liberar a criança, pois o ultrassom afastou apendicite."
+        },
+        {
+          "id": "B",
+          "texto": "Confiar mais no exame físico do que no ultrassom e prosseguir com avaliação cirúrgica."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar tomografia computadorizada com contraste oral imediatamente."
+        },
+        {
+          "id": "D",
+          "texto": "Repetir o ultrassom a cada 2 horas pelas próximas 12 horas."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar antibiótico oral e reavaliar em 48 horas em ambulatório."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **ultrassom é operador-dependente**: na ausência de um ultrassonografista experiente em pediatria, um exame normal pode significar apenas que a patologia não foi visualizada. Diante de **exame físico altamente sugestivo** (descompressão brusca dolorosa, febre, vômitos), deve-se **confiar no exame físico** e prosseguir com avaliação cirúrgica.",
+      "referenciaAula": "Se você tem um exame físico sugestivo, por exemplo, de uma apendicite com descompressão brusca na fossa ilíaca direita, com febre, com vômitos, e vê o ultrassonografista e fala que tá tudo normal, confie mais no seu exame físico do que no ultrassom.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1173
+    },
+    {
+      "id": "Q-07-016",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "divertículo de Meckel",
+        "diagnóstico diferencial",
+        "apresentação atípica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o divertículo de Meckel como causa de abdome agudo na infância, qual característica auxilia a suspeita diagnóstica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sempre se manifesta como apendicite típica em crianças de 8 a 10 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Pode mimetizar várias patologias, mas geralmente algo na apresentação 'não bate' com o quadro típico (ex.: parece apendicite em criança de 2 anos ou invaginação em criança de 3 a 4 anos)."
+        },
+        {
+          "id": "C",
+          "texto": "É exclusivo de adolescentes do sexo feminino."
+        },
+        {
+          "id": "D",
+          "texto": "Causa apenas diarreia crônica, nunca abdome agudo."
+        },
+        {
+          "id": "E",
+          "texto": "Só pode ser diagnosticado por tomografia com contraste."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **divertículo de Meckel** é uma estrutura embrionária que pode causar **diverticulite, volvo, hérnia interna ou ser sede de invaginação**. A pista clínica é justamente a **apresentação atípica**: parece apendicite, mas em criança de 2 anos (faixa etária incomum); parece invaginação, mas em criança de 3-4 anos (fora do pico habitual de 6 meses).",
+      "referenciaAula": "Ele parece uma apendicite, mas era uma criança de 2 anos em que ele não é comum. Ele parece uma invaginação intestinal, mas é numa criança de três ou 4 anos quando a invaginação ocorre aos 6 meses de idade. Então ele pode mimetizar vários quadros, mas normalmente tem alguma coisa que não bate.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1730
+    },
+    {
+      "id": "Q-07-017",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "maus tratos",
+        "negligência",
+        "corpo estranho"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a investigação de maus tratos como causa de dor abdominal na criança, qual afirmativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Maus tratos restringem-se exclusivamente a situações de espancamento físico."
+        },
+        {
+          "id": "B",
+          "texto": "Maus tratos incluem negligência, como nos casos de criança que ingere corpo estranho (moeda, objetos)."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas equimoses configuram suspeita de maus tratos."
+        },
+        {
+          "id": "D",
+          "texto": "Não há relação entre maus tratos e quadros de dor abdominal."
+        },
+        {
+          "id": "E",
+          "texto": "Fraturas múltiplas não devem ser pesquisadas em casos de dor abdominal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Maus tratos** devem ser ativamente pesquisados em crianças com **quadros recorrentes de dor abdominal ou obstrução**, sobretudo se há **fraturas de costelas, equimoses** ou outras sequelas. Importante lembrar que **negligência também é maus tratos** — crianças que ingeriram corpo estranho (moedas, objetos) podem se enquadrar nesse contexto.",
+      "referenciaAula": "Lembrar que maus tratos não é só espancamento, maus tratos são negligência também. Então, criança que engoliu uma moeda, engoliu alguma coisa, corpo estranho, presença de corpo estranho também são coisas de maus tratos.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1833
+    },
+    {
+      "id": "Q-07-018",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "radiologia neonatal",
+        "distribuição gasosa",
+        "lactente"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Ao avaliar a radiografia simples de abdome em um recém-nascido, qual achado é considerado NORMAL e por quê?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ausência total de ar no intestino delgado, igual ao padrão da criança escolar."
+        },
+        {
+          "id": "B",
+          "texto": "Ar presente apenas no estômago, sem distribuição em alças delgadas."
+        },
+        {
+          "id": "C",
+          "texto": "Quantidade muito maior de ar com todas as alças do delgado contendo ar, porque o recém-nascido deglute muito ar enquanto mama."
+        },
+        {
+          "id": "D",
+          "texto": "Pneumoperitônio difuso é fisiológico no neonato."
+        },
+        {
+          "id": "E",
+          "texto": "Níveis hidroaéreos múltiplos no andar superior são esperados."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "No **recém-nascido e lactente pequeno**, o padrão radiológico normal **difere** do escolar: como deglute muito ar durante a mamada, o **normal é ter ar em todo o delgado**, com maior volume gasoso. O reconhecimento desse padrão evita interpretar como anormal uma distribuição gasosa fisiologicamente abundante; o que sugere obstrução são **alças dilatadas em pequena quantidade** e **níveis hidroaéreos**.",
+      "referenciaAula": "No recém-nascido, como ele deglute muito ar enquanto mama, o normal não é igual ao normal na criança de 5 anos de idade. O normal é que haja uma quantidade muito maior de ar e que todas as alças tenham ar, porque a criança engole muito.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 911
+    },
+    {
+      "id": "Q-07-019",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "tomografia computadorizada",
+        "radiação",
+        "uso excepcional"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o uso de tomografia computadorizada (TC) na investigação de abdome agudo na criança, qual afirmativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deve ser exame de primeira escolha pela alta acurácia."
+        },
+        {
+          "id": "B",
+          "texto": "Não há risco oncológico associado à radiação em pediatria."
+        },
+        {
+          "id": "C",
+          "texto": "Há relatos de adultos jovens desenvolvendo câncer após mais de duas TC durante a faixa etária pediátrica; seu uso na urgência deve ser excepcional, reservado a trauma ou situações em que o diagnóstico não foi alcançado."
+        },
+        {
+          "id": "D",
+          "texto": "Deve ser solicitada de rotina para todo caso de suspeita de apendicite."
+        },
+        {
+          "id": "E",
+          "texto": "Substitui o exame físico em crianças irritadas."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **TC** tem maior acurácia, mas a **carga de radiação** em pediatria é elevada e cumulativa. Existem relatos de **adultos jovens com câncer** após mais de **duas TCs** na infância. Por isso, na urgência, seu uso deve ser **excepcional** — reservado a **trauma** ou situações em que ultrassom e exame físico não esclareceram o diagnóstico. Em apendicite, exame físico e ultrassom são geralmente suficientes.",
+      "referenciaAula": "A quantidade de radiação a que você submete uma criança com uma tomografia é muito alta e já existem relatos de crianças, adultos, jovens desenvolvendo algum tipo de câncer quando tem mais do que duas tomografias durante a faixa etária pediátrica. Então, na urgência a gente deixa para ser utilizado em trauma ou em situações em que tá tudo esgotado e a gente não tem ainda um diagnóstico.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1208
+    },
+    {
+      "id": "Q-07-020",
+      "aulaOrigem": 7,
+      "blocos": [
+        "D",
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "indicação cirúrgica",
+        "sinais de alarme",
+        "vômitos fecaloides"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Menino de 7 anos em observação por dor abdominal evolui com piora progressiva da dor, vômitos fecaloides, distensão abdominal acentuada e sinais de peritonite, sem diagnóstico definido. Qual a conduta MAIS apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Manter analgesia e reavaliar em 24 horas."
+        },
+        {
+          "id": "B",
+          "texto": "Acionar avaliação cirúrgica imediata, pois há sinais clássicos de patologia cirúrgica (dor severa em piora, vômitos biliosos/fecaloides, sinais de peritonite, distensão acentuada) — situação em que é melhor discutir com o cirurgião do que deixar passar uma condição potencialmente fatal."
+        },
+        {
+          "id": "C",
+          "texto": "Solicitar trânsito intestinal contrastado por via oral antes de qualquer conduta."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar dieta líquida por via oral e observar resposta."
+        },
+        {
+          "id": "E",
+          "texto": "Administrar laxativo e reavaliar após evacuação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **gatilhos para acionar o cirurgião** incluem: **dor severa ou crescente**, **dor súbita intermitente** com deterioração clínica, **vômitos biliosos ou fecaloides**, **sinais de peritonite**, **distensão abdominal acentuada** e **sangramento intraperitoneal/retal**. Quando a dor é intensa, a causa não está clara ou se suspeita de origem cirúrgica, é mais seguro **discutir com o cirurgião** do que arriscar deixar passar uma condição potencialmente fatal.",
+      "referenciaAula": "Quando que nós vamos chamar o cirurgião? Dor severa ou que aumenta, principalmente se ela for desse tipo, dor abdominal intermitente e súbita, acompanhada de sinais de deterioração clínica, presença de vômitos biliosos ou fecaloides, sinais de peritonite, distensão abdominal acentuada, sinais de sangramento intraperitoneal ou retal.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 2102
     }
   ]
 }

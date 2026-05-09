@@ -464,6 +464,471 @@
       "transversal": false,
       "videoAulaId": 16,
       "videoStartSec": 482
+    },
+    {
+      "id": "Q-16-011",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "histologia da pele",
+        "derme",
+        "plexo dérmico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em qual camada da pele se localizam as fibras elásticas, fibras colágenas, os elementos glandulares e o plexo dérmico, estrutura de especial importância para o processo de cicatrização?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Epiderme, na camada córnea."
+        },
+        {
+          "id": "B",
+          "texto": "Epiderme, na camada basal."
+        },
+        {
+          "id": "C",
+          "texto": "Derme."
+        },
+        {
+          "id": "D",
+          "texto": "Hipoderme exclusivamente."
+        },
+        {
+          "id": "E",
+          "texto": "Tecido celular subcutâneo profundo."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A pele divide-se em **epiderme** (onde se localizam os queratinócitos) e **derme** — esta última é a camada de especial interesse na cicatrização, pois nela se localizam as **fibras elásticas, fibras colágenas, elementos glandulares e o plexo dérmico**. O plexo dérmico é a rede vascular que nutre a pele e cuja integridade é essencial à cicatrização (sua lesão pela radioterapia, por exemplo, prejudica a evolução cicatricial).",
+      "referenciaAula": "a derme, que é uma camada de especial interesse para nós, onde vão se localizar as fibras elásticas, fibras colágenas, as as os elementos glandulares da pele e o plexo dérmico, que é importante paraa cicatrização.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 122
+    },
+    {
+      "id": "Q-16-012",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "definição de ferida",
+        "etiologias",
+        "conceito"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Como é conceituada \"ferida\", do ponto de vista que dá origem ao processo de cicatrização?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas as soluções de continuidade da pele causadas por trauma mecânico."
+        },
+        {
+          "id": "B",
+          "texto": "Qualquer violação da estrutura tecidual, que pode ocorrer em qualquer tecido e ser decorrente de trauma físico, mecânico, térmico, lesão cirúrgica ou por radiação."
+        },
+        {
+          "id": "C",
+          "texto": "Somente as lesões cirúrgicas com incisão programada."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas lesões com sangramento ativo na pele."
+        },
+        {
+          "id": "E",
+          "texto": "Lesões exclusivamente epidérmicas, sem comprometimento da derme."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A definição é ampla: ferida é **qualquer violação da estrutura tecidual**, que pode envolver **qualquer tecido** (não apenas a pele) e ser decorrente de **trauma físico, mecânico ou térmico** de diferentes etiologias — incluindo lesão traumática, lesão/incisão cirúrgica e lesão por radiação. Todas elas desencadeiam o processo de cicatrização. A pele é usada como exemplo didático, mas o processo se dá de maneira semelhante em todos os tecidos.",
+      "referenciaAula": "O que nós vamos conceituar como ferida, que vai dar então origem a esse processo de cicatrização, vai ser qualquer violação da estrutura tecidual que pode ser de qualquer tecido.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 172
+    },
+    {
+      "id": "Q-16-013",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "neutrófilo",
+        "fase inflamatória",
+        "desbridamento"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a função primária do neutrófilo, primeiro tipo celular atraído à ferida na fase inflamatória?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Produção e secreção de fibras colágenas para fibroplasia."
+        },
+        {
+          "id": "B",
+          "texto": "Limpeza e desbridamento, com remoção de patógenos, debris e tecido desvitalizado."
+        },
+        {
+          "id": "C",
+          "texto": "Brotamento neovascular do tecido de granulação."
+        },
+        {
+          "id": "D",
+          "texto": "Diferenciação em miofibroblastos contráteis."
+        },
+        {
+          "id": "E",
+          "texto": "Hidroxilação da prolina e da lisina no fígado."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **neutrófilo** é o primeiro tipo celular atraído à lesão e atua na **limpeza e desbridamento**, removendo patógenos, debris e tecido desvitalizado, preparando o leito para o processo cicatricial subsequente. A produção de colágeno cabe aos fibroblastos, a contração aos miofibroblastos, a neovascularização ocorre no tecido de granulação e a hidroxilação dos aminoácidos do colágeno acontece no fígado.",
+      "referenciaAula": "o primeiro tipo celular que vai ser atraído para essa lesão vão ser os neutrófilos, que vão fazer então a limpeza, o desbridamento, a remoção não só de patógenos, como de debrizes, como de tecido desvitalizado dessa região.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 301
+    },
+    {
+      "id": "Q-16-014",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "permeabilidade vascular",
+        "vasodilatação",
+        "quimiotaxia",
+        "fase inflamatória"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais fenômenos compõem a cascata bioquímica desencadeada na fase inflamatória inicial, permitindo a tração e passagem das células fagocitárias para os tecidos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vasoconstrição arteriolar prolongada, redução da permeabilidade e bloqueio quimiotático."
+        },
+        {
+          "id": "B",
+          "texto": "Aumento da permeabilidade vascular, vasodilatação e quimiotaxia."
+        },
+        {
+          "id": "C",
+          "texto": "Apoptose precoce dos fibroblastos e degradação do plexo dérmico."
+        },
+        {
+          "id": "D",
+          "texto": "Hidroxilação extra-hepática do colágeno e contração imediata da ferida."
+        },
+        {
+          "id": "E",
+          "texto": "Secreção massiva de metaloproteinases pelos miofibroblastos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na fase inflamatória, é desencadeada uma extensa cascata bioquímica com diversos sinalizadores que provoca, em primeiro momento, **aumento da permeabilidade vascular, vasodilatação e quimiotaxia**. Esses fenômenos viabilizam a tração e a passagem das células fagocitárias (inicialmente neutrófilos e, depois, macrófagos) para o sítio da lesão. Vasoconstrição prolongada, apoptose precoce de fibroblastos e ação de metaloproteinases não correspondem a esta etapa.",
+      "referenciaAula": "vão desencadear que tipo de fenômeno? O aumento da permeabilidade vascular, a vasodilatação e a quimiotaxia no primeiro momento, né? Esses fenômenos, então, vão cinar com a tração e a passagem de células fagocitárias pros tecidos.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 271
+    },
+    {
+      "id": "Q-16-015",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "estrutura do colágeno",
+        "aminoácidos",
+        "tripla cadeia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a molécula de colágeno, depositada pelos fibroblastos durante a fibroplasia, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tem estrutura monomérica linear e é composta predominantemente por aminoácidos sulfurados."
+        },
+        {
+          "id": "B",
+          "texto": "Apresenta estrutura em tripla cadeia (tripla hélice), com aminoácidos específicos como glicina, hidroxiprolina e hidroxilisina participando da sua constituição."
+        },
+        {
+          "id": "C",
+          "texto": "É secretado exclusivamente pelos queratinócitos da camada basal."
+        },
+        {
+          "id": "D",
+          "texto": "Sua síntese independe de cofatores e ocorre dentro do próprio leito da ferida."
+        },
+        {
+          "id": "E",
+          "texto": "Inicia-se já organizado em fibras paralelas maduras, sem fase desorganizada prévia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O colágeno apresenta **estrutura em tripla cadeia (tripla hélice)** e tem aminoácidos específicos participando da sua constituição, como **glicina, hidroxiprolina e hidroxilisina**. A hidroxilação desses aminoácidos ocorre no fígado e exige cofatores (vitamina C e ferro). Inicialmente é depositado um colágeno mais **desorganizado**, que progressivamente é substituído por colágeno mais organizado durante a remodelação. É secretado pelos fibroblastos, não por queratinócitos.",
+      "referenciaAula": "O colágeno, relembrando, ele é uma molécula com uma estrutura em tripla cadeia e que tem alguns aminoácidos específicos que participam então da constituição dessa cadeia, como por exemplo, a glicina, a hidroxiprolina, hidroxilisina.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 429
+    },
+    {
+      "id": "Q-16-016",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fase proliferativa",
+        "fibroplasia",
+        "contração",
+        "epitelização",
+        "granulação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais são os quatro fenômenos que ocorrem em paralelo durante a fase proliferativa da cicatrização?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hemostasia, vasodilatação, quimiotaxia e desbridamento."
+        },
+        {
+          "id": "B",
+          "texto": "Fibroplasia, contração, epitelização e granulação."
+        },
+        {
+          "id": "C",
+          "texto": "Apoptose, inflamação, necrose e reepitelização."
+        },
+        {
+          "id": "D",
+          "texto": "Hidroxilação, glicosilação, polimerização e calcificação."
+        },
+        {
+          "id": "E",
+          "texto": "Síntese, degradação, remodelação e maturação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na fase proliferativa, ocorrem **quatro fenômenos em paralelo**: **fibroplasia** (deposição de matriz extracelular e colágeno pelos fibroblastos), **contração** (mediada por miofibroblastos), **epitelização** (a partir das bordas e dos anexos cutâneos) e **granulação** (formação de tecido de granulação por neovasos e matriz frouxa). Os fenômenos de hemostasia, vasodilatação e quimiotaxia ocorrem na fase inflamatória; síntese e degradação balanceadas caracterizam a fase de remodelação.",
+      "referenciaAula": "nós podemos elencar principalmente quatro eh quatro fenômenos que vão acontecer em paralelo. Então a fibroplasia, a contração, a epiterização e a granulação.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 390
+    },
+    {
+      "id": "Q-16-017",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fase de remodelação",
+        "metaloproteinases",
+        "ligações cruzadas",
+        "colágeno"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual é o mecanismo bioquímico fundamental que caracteriza a fase de remodelação (maturação) e melhora progressivamente a qualidade e a força tênsil da cicatriz?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Síntese exclusiva de colágeno, sem qualquer degradação concomitante."
+        },
+        {
+          "id": "B",
+          "texto": "Balanço entre síntese e degradação de colágeno (mediada por metaloproteinases), com formação de ligações cruzadas covalentes entre as triplas hélices, conferindo maior força tênsil."
+        },
+        {
+          "id": "C",
+          "texto": "Substituição completa do colágeno por elastina pura nas primeiras 72 horas."
+        },
+        {
+          "id": "D",
+          "texto": "Ação predominante dos neutrófilos sobre o tecido de granulação."
+        },
+        {
+          "id": "E",
+          "texto": "Reepitelização contínua a partir da gordura subcutânea."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A fase de remodelação caracteriza-se pelo **balanço entre síntese e degradação de colágeno**, sendo a degradação mediada pelas **metaloproteinases**. À medida que novo colágeno é depositado, formam-se **ligações cruzadas (covalentes)** entre as triplas hélices, o que aumenta progressivamente a **força tênsil** da cicatriz. Esse processo é longo (platô em torno de 90 dias), e a cicatriz alcança no máximo cerca de 80% da força da pele íntegra.",
+      "referenciaAula": "Esse processo vai ser vai ser mediado, né, pelas metaloproteinadas, enzimas, então que vão degradar esse colágeno. E o colágeno que vai sendo novamente depositado, ele vai sendo melhorado através de ligações cruzadas entre as cadeias de colágeno.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 693
+    },
+    {
+      "id": "Q-16-018",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "evolução clínica da cicatriz",
+        "remodelação",
+        "aspecto estético"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente vítima de mordedura canina foi submetido a tratamento cirúrgico das lesões. Aos 30 dias de pós-operatório apresenta cicatrizes avermelhadas e edemaciadas. Sobre a evolução esperada nos próximos meses até cerca de 1 a 1,5 ano, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Espera-se piora progressiva do aspecto, com aumento do eritema e do volume da cicatriz indefinidamente."
+        },
+        {
+          "id": "B",
+          "texto": "Espera-se redução da vascularização, redução do edema, cicatrizes mais planas, mais macias, com coloração mais clara e melhor resultado estético, em processo que se conclui em pelo menos 1 a 1,5 ano."
+        },
+        {
+          "id": "C",
+          "texto": "A cicatriz atinge 100% da força tênsil da pele íntegra em até 30 dias."
+        },
+        {
+          "id": "D",
+          "texto": "Toda cicatriz com 30 dias avermelhada deve ser considerada queloide e ressecada de imediato."
+        },
+        {
+          "id": "E",
+          "texto": "Cicatrizes evoluem sem nenhuma alteração de cor ou textura ao longo do tempo."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Cicatrizes mais jovens (até cerca de 12 semanas) são mais avermelhadas/rosadas, no auge da fase inflamatória/início da proliferativa. Com a remodelação, há **diminuição da vascularização, da proliferação epidérmica e da resposta imune**, levando a cicatriz mais clara, plana, macia, com melhor aspecto estético. Esse processo é longo, concluindo-se em pelo menos **1 a 1,5 ano**. A força tênsil máxima fica ao redor de 80% da pele íntegra. Cor avermelhada precoce isolada não define queloide.",
+      "referenciaAula": "principalmente uma diminuição da vascularização, uma diminuição da da velocidade de proliferação dessas células epidérmicas e da resposta imune da cicatriz. Essa cicatriz ela vai tendendo a ficar com uma coloração mais clara, vai ficar uma cicatriz mais plana, mais macia e consequentemente até com um melhor resultado estético final após esse processo de remodelação, que vai se concluir aí pelo menos um ano a 1 ano e meio após o início da cicatrização.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 850
+    },
+    {
+      "id": "Q-16-019",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fatores prejudiciais",
+        "oligoelementos",
+        "desnutrição",
+        "obesidade"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com IMC 41 kg/m², desnutrição proteico-calórica associada e dieta pobre em vitaminas A, B, C, E, cobre, ferro e zinco evolui com cicatrização lentificada após laparotomia. Qual afirmativa integra CORRETAMENTE os mecanismos pelos quais esses fatores prejudicam a cicatrização?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas a desnutrição interfere; obesidade e oligoelementos não têm relação com cicatrização."
+        },
+        {
+          "id": "B",
+          "texto": "A desnutrição priva o organismo de substrato para o processo cicatricial; o paciente obeso apresenta alterações inflamatórias que prejudicam a cicatrização; e a carência de oligoelementos (vitaminas A, B, C, E, cobre, ferro, zinco) compromete a reprodução de moléculas de DNA, a secreção de colágeno e o transporte de oxigênio (ferro como carreador na hemoglobina)."
+        },
+        {
+          "id": "C",
+          "texto": "Obesidade acelera a fase proliferativa, gerando cicatrização ideal mais rápida."
+        },
+        {
+          "id": "D",
+          "texto": "Vitamina C atua exclusivamente na coagulação, sem papel no colágeno."
+        },
+        {
+          "id": "E",
+          "texto": "Ferro participa apenas da apoptose celular dos miofibroblastos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **desnutrição proteico-calórica** priva o organismo do substrato necessário à cicatrização. A **obesidade** está associada a alterações inflamatórias crônicas que também prejudicam o processo cicatricial. A **carência de oligoelementos** (vitaminas A, B, C, E, cobre, ferro, zinco) compromete a reprodução de moléculas de DNA, a secreção de colágeno e o transporte de oxigênio — o **ferro**, em particular, participa da produção de hemoglobina, atuando como carreador de oxigênio aos tecidos.",
+      "referenciaAula": "A carência de ólegoelementos também vai ser um fator importante. Então, vitaminas A, B, C, E, cobre, ferro, zinco, isso aqui vão ser tudo cofatores que vão participar não só da da reprodução de moléculas de DNA, da secreção de colágeno, né? O ferro vai vai participar da produção da hemoglobina, então, como carreador de oxigênio.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 1022
+    },
+    {
+      "id": "Q-16-020",
+      "aulaOrigem": 16,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cicatriz x pele íntegra",
+        "estrutura dérmica",
+        "remodelação"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Após acompanhar um paciente por 18 meses no pós-operatório, um residente questiona se a cicatriz formada possui estrutura idêntica à da pele íntegra. Qual resposta está CORRETA, considerando o produto final do processo cicatricial?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sim, após 1 ano e meio a cicatriz mimetiza perfeitamente a estrutura da pele íntegra, recuperando 100% da força tênsil."
+        },
+        {
+          "id": "B",
+          "texto": "Não — a cicatriz não mimetiza perfeitamente a estrutura da pele íntegra: a interface derme-epiderme e a estrutura papilar/reticular da derme não são totalmente reproduzidas, pele normal e cicatriz são tecidos diferentes com comportamentos diferentes, e a força tênsil atinge no máximo cerca de 80% da pele íntegra."
+        },
+        {
+          "id": "C",
+          "texto": "A cicatriz é um tecido idêntico à epiderme original, sem qualquer participação dérmica."
+        },
+        {
+          "id": "D",
+          "texto": "A cicatriz só difere da pele íntegra quando há queloide; nas demais situações é histologicamente idêntica."
+        },
+        {
+          "id": "E",
+          "texto": "Toda cicatriz mantém os mesmos anexos cutâneos (folículos pilosos, glândulas) na mesma densidade da pele íntegra."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A cicatriz **não mimetiza perfeitamente a estrutura da pele íntegra**. A pele tem estrutura específica de derme (papilar e reticular) e interface derme-epiderme que **não consegue ser totalmente reproduzida** durante a cicatrização. Pele normal e cicatriz são tecidos diferentes, com comportamentos diferentes. Além disso, a força tênsil máxima atingida é cerca de **80% da pele íntegra**, mesmo após o processo de remodelação completo. Essa noção é fundamental no aconselhamento e seguimento dos pacientes.",
+      "referenciaAula": "essa cicatriz, ela então não vai ser uma um tecido que vai mimetizar perfeitamente a estrutura da pele íntegra. a pele tem toda essa estrutura da derme, papilar, reticular, né, as a a essa interface entre adérme e epiderme, essa estrutura, ela não vai conseguir ser totalmente reproduzida. pele normal e cicatriz não tem a mesma estrutura. elas vão ser tecidos diferentes, com comportamentos diferentes.",
+      "transversal": false,
+      "videoAulaId": 16,
+      "videoStartSec": 948
     }
   ]
 }

@@ -462,6 +462,467 @@
       "transversal": false,
       "videoAulaId": 19,
       "videoStartSec": 815
+    },
+    {
+      "id": "Q-19-011",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "embriologia",
+        "testículo",
+        "desenvolvimento"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a formação e o desenvolvimento do testículo, assinale a alternativa CORRETA segundo a aula:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O testículo só se forma após o nascimento, em torno do sexto mês de vida."
+        },
+        {
+          "id": "B",
+          "texto": "A formação do testículo se inicia por volta da 12ª semana intraútero, com primeiro crescimento na fase perinatal nos primeiros seis meses."
+        },
+        {
+          "id": "C",
+          "texto": "O testículo já atinge volume adulto no momento do nascimento."
+        },
+        {
+          "id": "D",
+          "texto": "A produção espermática se inicia já no período perinatal."
+        },
+        {
+          "id": "E",
+          "texto": "A formação testicular ocorre apenas a partir da puberdade."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O testículo começa sua formação por volta da **12ª semana intraútero**, tem seu **primeiro crescimento na fase perinatal** (primeiros seis meses) e permanece com volume diminuído até a **puberdade**, quando atinge o volume considerado normal e está adequadamente preparado para a **produção espermática e hormonal**.",
+      "referenciaAula": "É importante eu lembrar desde quando nós temos aqui a formação do nosso órgão produtor de testosterona, o testículo, que começa lá nas primeiras semanas, por volta da 12ª semana infraútero, que vai ter o seu primeiro crescimento na fase perinatal, nos primeiros seis meses.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 64
+    },
+    {
+      "id": "Q-19-012",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "epidemiologia",
+        "tendência secular",
+        "testosterona"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Conforme apresentado na aula, qual a tendência observada em estudos sobre os níveis de testosterona em indivíduos jovens nas últimas décadas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aumento progressivo dos níveis de testosterona nos jovens."
+        },
+        {
+          "id": "B",
+          "texto": "Os níveis permanecem estáveis há décadas."
+        },
+        {
+          "id": "C",
+          "texto": "Declínio natural da produção de testosterona com o passar dos anos."
+        },
+        {
+          "id": "D",
+          "texto": "Variação aleatória sem padrão definido."
+        },
+        {
+          "id": "E",
+          "texto": "Os níveis caem apenas após os 50 anos, sem alteração nos jovens."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A aula destaca como **sintoma dos dias atuais** a observação, em estudos avaliando níveis de testosterona em **indivíduos jovens**, de um **declínio natural** desta produção **com o passar dos anos**. Esse achado epidemiológico é importante para entender o contexto em que o hipogonadismo vem sendo cada vez mais investigado.",
+      "referenciaAula": "Esse é um slide que eu gosto de mostrar muito porque é um sintoma dos dias atuais. Ou seja, aqui nós temos um estudo que foi realizado avaliando os níveis de testosterona dos indivíduos jovens. E o que nós estamos vendo com o passar dos anos, um declínio natural desta produção de testosterona.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 191
+    },
+    {
+      "id": "Q-19-013",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "prevalência",
+        "epidemiologia",
+        "idade"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a prevalência do hipogonadismo na população masculina, segundo dados apresentados na aula:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A prevalência média geral é em torno de 12,3% e tende a triplicar ao redor dos 70-80 anos."
+        },
+        {
+          "id": "B",
+          "texto": "A prevalência média geral é inferior a 1% na população masculina."
+        },
+        {
+          "id": "C",
+          "texto": "A prevalência diminui com a idade, sendo rara após os 70 anos."
+        },
+        {
+          "id": "D",
+          "texto": "Acomete cerca de 50% dos homens em qualquer faixa etária."
+        },
+        {
+          "id": "E",
+          "texto": "Não há relação entre prevalência e níveis de testosterona."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **média geral de prevalência** gira em torno de **12,3%**. Quando estratificada por idade, observa-se que esse valor pode **triplicar ao redor dos 70-80 anos**. Além disso, **quanto mais baixa a testosterona**, maior a incidência/prevalência observada — o que reforça a importância de avaliar o eixo hormonal em homens idosos sintomáticos.",
+      "referenciaAula": "Gira em torno de 12.3%. Porém, hora que eu vou comparar isso com a minha idade, eu vejo que nós vamos aumentando, chegando até triplicar ao redor dos 70, 80 anos. Quanto mais baixa a testosterona, a gente vai vendo a essa incidência, prevalência também aumentar.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 513
+    },
+    {
+      "id": "Q-19-014",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "ponto de corte",
+        "sociedades",
+        "comparativo"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os pontos de corte de testosterona total adotados pelas diferentes sociedades, conforme apresentado na aula, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Endocrinologia americana 345, urologia americana 200, europeia 300."
+        },
+        {
+          "id": "B",
+          "texto": "Endocrinologia americana 200, urologia americana 300, europeia 345."
+        },
+        {
+          "id": "C",
+          "texto": "Todas as sociedades adotam o mesmo ponto de corte de 250 ng/dL."
+        },
+        {
+          "id": "D",
+          "texto": "Não existem diferenças entre sociedades, todas seguem 400 ng/dL."
+        },
+        {
+          "id": "E",
+          "texto": "A europeia adota 200 e as americanas 300."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As sociedades **não têm uma definição padrão** do que é déficit de testosterona. A **Associação Americana de Endocrinologia** adota **200**, a **Associação Americana de Urologia** adota **300** e a **europeia** adota **345**. A aula segue a referência da urologia americana — **abaixo de 300 ng/dL**.",
+      "referenciaAula": "Associação Americana de Endocrinologia 200, enquanto que a Associação Americana de Urologia 300, a europeia 345, nós aqui seguimos a americana. Então pra gente o nível de corte da testosterona é abaixo de 300.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 247
+    },
+    {
+      "id": "Q-19-015",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "diagnóstico diferencial",
+        "depressão",
+        "hipotireoidismo"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 52 anos refere fadiga, queda de motivação, baixa concentração, ganho de peso e humor deprimido. Qual a abordagem CORRETA segundo o raciocínio apresentado na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iniciar testosterona empiricamente, pois os sintomas são patognomônicos de hipogonadismo."
+        },
+        {
+          "id": "B",
+          "texto": "Considerar diagnósticos diferenciais que cursam com sintomas semelhantes — como depressão e hipotireoidismo — pois podem mimetizar o quadro."
+        },
+        {
+          "id": "C",
+          "texto": "Excluir hipogonadismo por já existir diagnóstico de depressão presumida."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar biópsia testicular como primeira conduta."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar antidepressivo sem investigar nada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Sintomas como **fadiga, queda de motivação, baixa concentração, perda de desempenho físico, distúrbios do sono, depressão** podem estar presentes no hipogonadismo, mas se sobrepõem a outras patologias — em especial **depressão** e **hipotireoidismo**, que também cursam com queda de rendimento, baixa estima e ganho de peso. É fundamental considerar esses diferenciais antes de atribuir tudo ao eixo androgênico.",
+      "referenciaAula": "Nós podemos ter outros sintomas associados, como uma fadiga, uma queda da minha motivação, uma baixa concentração, perda de desempenho físico, distúrbios do sono. Nós temos outras patologias que podem ser muito parecidas, por exemplo, a própria depressão, o hipotiroidismo, que também pode estar associado a essa queda de rendimento, essa baixa estima, ganho de peso.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 451
+    },
+    {
+      "id": "Q-19-016",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "reposição oral",
+        "reposição nasal",
+        "meia-vida",
+        "adesão"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as apresentações oral e nasal de testosterona, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Têm meia-vida longa e exigem apenas uma dose semanal."
+        },
+        {
+          "id": "B",
+          "texto": "São apresentações de meia-vida muito curta, exigindo de duas a três doses por dia, o que pode ser fator de não adesão ao tratamento."
+        },
+        {
+          "id": "C",
+          "texto": "São aplicadas apenas trimestralmente."
+        },
+        {
+          "id": "D",
+          "texto": "Liberam testosterona lentamente por cerca de 6 meses."
+        },
+        {
+          "id": "E",
+          "texto": "São injetáveis subdérmicos com liberação contínua."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As formas **oral e nasal** têm **meia-vida muito curta**, exigindo o uso de **duas a três vezes por dia**. Esse esquema posológico pode ser um **fator de não adesão** ao tratamento para algumas pessoas. O inconveniente da oral é justamente a frequência diária de tomadas, e o mesmo se aplica à apresentação nasal.",
+      "referenciaAula": "A apresentação oral, ela também é uma apresentação diária com várias doses por dia. Então, o inconveniente da oral é que você tem que tomar de duas a três vezes por dia. Da mesma maneira da nasal. Essas formas de reposição, elas têm uma meia vida muito curta. Então eu necessito tanto na oral quanto na nasal de uso de duas a três vezes por dia, o que para algumas pessoas pode ser um fator aí de não aderência ao tratamento.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 604
+    },
+    {
+      "id": "Q-19-017",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "injetável de ação rápida",
+        "farmacocinética",
+        "picos"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quanto às formas injetáveis de testosterona descritas na aula, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A apresentação injetável de ação rápida é aplicada uma vez ao ano."
+        },
+        {
+          "id": "B",
+          "texto": "Existem basicamente dois tipos: ação rápida (em torno de 2 a 3 semanas) e longa duração (a cada 3 meses), sendo as injetáveis as mais populares e acessíveis."
+        },
+        {
+          "id": "C",
+          "texto": "Não são consideradas formas populares ou acessíveis."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas a forma de longa duração existe no mercado brasileiro."
+        },
+        {
+          "id": "E",
+          "texto": "A forma de ação rápida tem meia-vida superior à de longa duração."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As **medicações injetáveis** são **as mais populares e mais acessíveis**. Existem **basicamente dois tipos**: a **de ação rápida**, com aplicação em torno de **2 a 3 semanas**, e a **de longa duração**, aplicada a **cada 3 meses**. A de longa duração mantém os níveis fisiológicos melhor representados, enquanto a de ação rápida cursa com **picos e quedas**.",
+      "referenciaAula": "Com relação às medicações injetáveis, são as mais populares, são as mais acessíveis. E nós temos basicamente dois tipos, uma de ação mais rápida, que a gente considera em torno aí de duas a três semanas de aplicação, e uma de maior duração, que vai ser uma aplicação a cada 3 meses.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 634
+    },
+    {
+      "id": "Q-19-018",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "inibidor da aromatase",
+        "mecanismo",
+        "fertilidade"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o mecanismo dos inibidores da aromatase no contexto do tratamento do hipogonadismo em pacientes com desejo de fertilidade, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Inibem a recaptação de estrogênio a nível hipotalâmico, sendo idênticos ao citrato de clomifeno."
+        },
+        {
+          "id": "B",
+          "texto": "Bloqueiam diretamente as células de Leydig, reduzindo a produção testicular."
+        },
+        {
+          "id": "C",
+          "texto": "Impedem a transformação da testosterona em estradiol, reduzindo o feedback negativo central."
+        },
+        {
+          "id": "D",
+          "texto": "Atuam diretamente sobre a hipófise estimulando a produção de prolactina."
+        },
+        {
+          "id": "E",
+          "texto": "Promovem aromatização periférica de andrógenos em estrogênios."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Os **inibidores da aromatase** atuam **impedindo a transformação da testosterona em estradiol** — bloqueando, portanto, a etapa que gera o **feedback negativo** central. Já o **citrato de clomifeno** age inibindo a **recaptação do estrogênio a nível hipotalâmico**. Ambas as estratégias, junto com hCG e FSH recombinante, são alternativas à testosterona exógena em pacientes com desejo de paternidade.",
+      "referenciaAula": "Os inibidores da aromatase que vão impedir a transformação da testosterona em estradiol e por fim fazer o feedback negativo. Citrato de clomifeno que vai causar a inibição da recaptação do estrogênio a nível hipotalâmico.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 756
+    },
+    {
+      "id": "Q-19-019",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "implante intradérmico",
+        "reposição",
+        "longa duração"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 60 anos, diagnóstico confirmado de hipogonadismo, sem desejo de paternidade, refere baixa adesão a esquemas diários e prefere a menor frequência possível de aplicação. Qual estratégia de reposição se ajusta melhor ao perfil, segundo o que foi descrito na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gel transdérmico de aplicação diária."
+        },
+        {
+          "id": "B",
+          "texto": "Apresentação oral, duas a três vezes ao dia."
+        },
+        {
+          "id": "C",
+          "texto": "Apresentação nasal, duas a três vezes ao dia."
+        },
+        {
+          "id": "D",
+          "texto": "Implante intradérmico, com liberação lenta no decorrer de cerca de 6 meses, sem necessidade de reposição diária, semanal ou trimestral."
+        },
+        {
+          "id": "E",
+          "texto": "hCG semanal e citrato de clomifeno diário."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "O **implante intradérmico** libera testosterona **lentamente no decorrer de cerca de 6 meses**, eliminando a necessidade de reposições **diárias, semanais ou trimestrais**. É uma alternativa adequada ao paciente que **não deseja fertilidade** e busca **menor frequência de aplicação**, com melhor adesão. As estratégias com hCG e clomifeno são reservadas a quem deseja preservar fertilidade.",
+      "referenciaAula": "Nós também temos os implantes intradérmicos, onde o intuito disso é fazer com que a gente tenha um implante intradérmico e essa liberação vai ocorrer lentamente no decorrer aí de em torno de 6 meses. Então, não haveria a necessidade de ficar repondo, refazendo o tratamento, seja diário, seja semanal ou até trimestral.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 666
+    },
+    {
+      "id": "Q-19-020",
+      "aulaOrigem": 19,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "riscos e benefícios",
+        "considerações finais",
+        "individualização"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 65 anos com diagnóstico clínico-laboratorial de hipogonadismo discute com o médico iniciar reposição de testosterona. Qual conduta MELHOR reflete as considerações finais apresentadas na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iniciar imediatamente reposição com testosterona injetável de ação rápida sem investigar comorbidades."
+        },
+        {
+          "id": "B",
+          "texto": "Definir se é hipogonadismo primário ou secundário, individualizar o tratamento e avaliar riscos e benefícios, lembrando que toda droga assumida pelo organismo possui efeitos colaterais."
+        },
+        {
+          "id": "C",
+          "texto": "Tratar todos os pacientes acima de 60 anos da mesma forma, com gel diário."
+        },
+        {
+          "id": "D",
+          "texto": "Não tratar, pois pacientes idosos não toleram reposição em nenhuma circunstância."
+        },
+        {
+          "id": "E",
+          "texto": "Indicar somente sildenafila, sem qualquer reposição hormonal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As **considerações finais** da aula reforçam três pilares: (1) o diagnóstico é **clínico e laboratorial**; (2) é fundamental **diferenciar primário ou secundário**, pois isso direciona o **tratamento individualizado**; e (3) **avaliar riscos e benefícios** — toda droga injetada e assumida pelo organismo tem **efeitos colaterais**, e a decisão deve ser baseada nessa avaliação criteriosa.",
+      "referenciaAula": "Diferenciar se ele é primário ou secundário, porque o meu tratamento vai ser em cima disso. É muito importante que eu tenha a definição do tipo de hipogonadismo que eu tenho para que eu consiga fazer um tratamento individualizado. Avaliar os riscos e benefícios. Toda vez que a gente faz um tratamento de reposição, qualquer droga que seja injetada e assumida pelo nosso organismo, ela tem os seus efeitos colaterais e eu tenho que basear muito isso na minha avaliação.",
+      "transversal": false,
+      "videoAulaId": 19,
+      "videoStartSec": 815
     }
   ]
 }

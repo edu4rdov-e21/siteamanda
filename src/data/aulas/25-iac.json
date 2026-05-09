@@ -472,6 +472,477 @@
       "transversal": false,
       "videoAulaId": 25,
       "videoStartSec": 1446
+    },
+    {
+      "id": "Q-25-011",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "epidemiologia",
+        "prevalência",
+        "idade"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da doença arterial periférica (DAP) por aterosclerose, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A prevalência mundial é de cerca de 1% e diminui com o avançar da idade."
+        },
+        {
+          "id": "B",
+          "texto": "Acomete cerca de 10% da população mundial e aproximadamente 20% das pessoas com mais de 70 anos, com predileção pelo sexo masculino na sexta e sétima décadas."
+        },
+        {
+          "id": "C",
+          "texto": "É mais frequente em mulheres jovens e raramente atinge idosos."
+        },
+        {
+          "id": "D",
+          "texto": "É uma doença em queda epidemiológica nas últimas décadas."
+        },
+        {
+          "id": "E",
+          "texto": "Não tem associação demonstrada com diabetes mellitus."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A DAP afeta cerca de **10% da população mundial** e até **20% dos indivíduos com mais de 70 anos**, com predileção pelo **sexo masculino** na sexta e sétima décadas e piora em diabéticos. O risco aumenta cerca de **2 vezes a cada 10 anos** após os 50. É uma doença em ascensão epidemiológica, não em queda.",
+      "referenciaAula": "10% da população mundial vai ter aterosclerose, então vai ter doença arteriereal periférica e 20% das pessoas de com mais de 70 anos vão ter doença ateroscleródtica. Ela tem uma predileção pelos séculos masculinos na sexta, sétima idade de vida.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 63
+    },
+    {
+      "id": "Q-25-012",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "distribuição clínica",
+        "claudicação",
+        "gangrena"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quanto à distribuição das manifestações clínicas iniciais da insuficiência arterial crônica, qual é a estimativa CORRETA segundo a apresentação dos pacientes?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "100% apresentam gangrena ao diagnóstico."
+        },
+        {
+          "id": "B",
+          "texto": "70% apresentam claudicação, 20% dor de repouso e 10% gangrena."
+        },
+        {
+          "id": "C",
+          "texto": "10% claudicação, 70% dor de repouso, 20% gangrena."
+        },
+        {
+          "id": "D",
+          "texto": "50% são assintomáticos para sempre, sem progressão possível."
+        },
+        {
+          "id": "E",
+          "texto": "Todos os pacientes evoluem obrigatoriamente para amputação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A apresentação clínica clássica da DAP segue a proporção: **70% claudicação, 20% dor de repouso e 10% gangrena**. A claudicação é o sintoma mais comum e marca o estágio inicial sintomático; dor de repouso e gangrena indicam doença avançada (isquemia crítica).",
+      "referenciaAula": "70% dos pacientes vão apresentar claudicação e 20% é dor de repouso e 10% gangrena.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 93
+    },
+    {
+      "id": "Q-25-013",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "estenose crítica",
+        "fisiopatologia",
+        "hemodinâmica"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o conceito de estenose crítica na fisiopatologia da DAP, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Considera-se estenose crítica qualquer redução luminal acima de 10%."
+        },
+        {
+          "id": "B",
+          "texto": "A estenose crítica corresponde a 50% ou mais de obstrução da luz arterial."
+        },
+        {
+          "id": "C",
+          "texto": "Estenoses inferiores a 50% sempre causam dor de repouso."
+        },
+        {
+          "id": "D",
+          "texto": "Estenose crítica é definida apenas pela presença de calcificação na placa."
+        },
+        {
+          "id": "E",
+          "texto": "Não existe relação entre grau de estenose e sintomas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **grau crítico de estenose** ocorre quando há **50% ou mais** de obstrução luminal — a partir desse limiar surge repercussão hemodinâmica significativa. Como a proliferação celular não cessa, sem controle dos fatores de risco os sintomas progridem. O fluxo é proporcional à pressão e inversamente proporcional à resistência periférica.",
+      "referenciaAula": "À medida que as placas vão crescendo, nós vamos ter um grau crítico de estenose. E esse grau crítico significa quando nós temos 50% ou mais de doença arterial.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 397
+    },
+    {
+      "id": "Q-25-014",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "tabagismo",
+        "óxido nítrico",
+        "radicais livres"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quanto ao mecanismo pelo qual o tabagismo agrava a doença arterial obstrutiva crônica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aumenta a síntese de óxido nítrico, melhorando a vasodilatação."
+        },
+        {
+          "id": "B",
+          "texto": "Reduz a síntese de óxido nítrico, aumenta a formação de radicais livres e promove vasoconstrição periférica, dificultando o desenvolvimento de circulação colateral."
+        },
+        {
+          "id": "C",
+          "texto": "É inerte sobre a parede vascular e age apenas pelo aumento da pressão pulmonar."
+        },
+        {
+          "id": "D",
+          "texto": "Atua somente em fumantes ativos; o tabagismo passivo é irrelevante."
+        },
+        {
+          "id": "E",
+          "texto": "Reduz a viscosidade sanguínea e protege contra trombose."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O tabagismo causa **redução da síntese de óxido nítrico** (perda de vasodilatação endotelial), **formação de radicais livres** e **vasoconstrição periférica**, elevando a resistência periférica e dificultando a formação de circulação colateral. O risco é cerca de **9 vezes maior** após os 45 anos, e o tabagismo passivo também deve ser evitado.",
+      "referenciaAula": "Os pacientes que tem o hábito de tabagismo, eles têm síntese de óxido nítrico menor, tem formação de radicais livres e estes também vão ser fatores importantes para piorar e para aumentar o risco da aterosclerose.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 221
+    },
+    {
+      "id": "Q-25-015",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "exames complementares",
+        "doppler",
+        "ecodoppler"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os exames complementares na avaliação da insuficiência arterial crônica, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O doppler permite medir as pressões em coxa alta, coxa baixa, perna alta e perna baixa, em diferentes segmentos do membro."
+        },
+        {
+          "id": "B",
+          "texto": "A angiorressonância subestima as estenoses e por isso é a primeira escolha."
+        },
+        {
+          "id": "C",
+          "texto": "A arteriografia é hoje rotineiramente diagnóstica, sem papel intraoperatório."
+        },
+        {
+          "id": "D",
+          "texto": "A angiotomografia não permite reconstrução tridimensional dos vasos."
+        },
+        {
+          "id": "E",
+          "texto": "O ecodoppler não permite avaliação pré- e pós-operatória do fluxo."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "O **doppler** mede pressões segmentares (coxa alta, coxa baixa, perna alta, perna baixa). O **ecodoppler** fornece imagem, fluxo e escala de cinza para avaliação de placas, sendo útil pré e pós-operatório. A **angiorressonância magnifica/aumenta a estenose** (deve ser usada com cuidado). A **angiotomografia** é amplamente utilizada para doenças aortoilíacas e torácicas, com reconstrução 3D. A **arteriografia** hoje é mais usada para programação operatória ou intraoperatória.",
+      "referenciaAula": "O dopler, você consegue medir as pressões eh em coxa alta, coxa baixa, perna alta e perna baixa. Então, nos diferentes segmentos do membro.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 812
+    },
+    {
+      "id": "Q-25-016",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "tromboangeíte",
+        "Buerger",
+        "infrapatelar"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 32 anos, fumante pesado desde a adolescência, refere dor em pés e mãos, com pequenas lesões isquêmicas em pododáctilos. Pulsos femorais e poplíteos palpáveis, mas pulsos pediosos e tibiais posteriores ausentes. AngioTC mostra artérias infrageniculares ocluídas, sem placas ateromatosas calcificadas significativas. Qual o diagnóstico mais provável e qual a principal limitação terapêutica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aterosclerose clássica; a indicação imediata é endarterectomia aortoilíaca."
+        },
+        {
+          "id": "B",
+          "texto": "Tromboangeíte obliterante (doença de Buerger); o comprometimento de artérias pequenas infrageniculares frequentemente impede a revascularização cirúrgica."
+        },
+        {
+          "id": "C",
+          "texto": "Embolia cardíaca aguda; trombólise em até 6 horas."
+        },
+        {
+          "id": "D",
+          "texto": "Insuficiência venosa crônica; escleroterapia."
+        },
+        {
+          "id": "E",
+          "texto": "Síndrome de Leriche; kissing stents."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **tromboangeíte obliterante (doença de Buerger)** é típica do **paciente fumante**, acomete **artérias pequenas abaixo do joelho** (infrageniculares) e poupa pulsos proximais. A grande limitação é a **ausência de leito distal viável** para anastomose ou angioplastia, frequentemente inviabilizando o tratamento revascularizador — restando o controle clínico (cessação imediata do tabagismo) e, em casos extremos, amputação.",
+      "referenciaAula": "Um paciente que tem tromboíte, que é a doença do paciente fumante, ele tem comprometimento em artérias pequenas, abaixo do joelho. Às vezes ele tem todos os palpáveis, mas artérias infrageniculares são artérias ocluídas e às vezes não é possível você fazer o tratamento.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 944
+    },
+    {
+      "id": "Q-25-017",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "tempo de enchimento venoso",
+        "exame físico",
+        "isquemia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação aos sinais de exame físico que indicam doença arterial grave, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tempo de enchimento venoso maior que 10 segundos é normal e não tem significado clínico."
+        },
+        {
+          "id": "B",
+          "texto": "Tempo de enchimento venoso maior que 10 segundos indica doença arterial grave, pois sem chegada de sangue pela artéria não há saída pelo retorno venoso."
+        },
+        {
+          "id": "C",
+          "texto": "Frêmito e sopro estão sempre presentes em qualquer estágio da DAP."
+        },
+        {
+          "id": "D",
+          "texto": "Membro pálido e frio é sinal típico de insuficiência venosa, não arterial."
+        },
+        {
+          "id": "E",
+          "texto": "A atrofia muscular por desuso é exclusiva de doenças neurológicas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Um **tempo de enchimento venoso superior a 10 segundos** caracteriza **doença arterial grave** — sem entrada de sangue arterial não há retorno venoso. **Frêmito e sopro** dependem de gradiente de pressão alto e podem não aparecer. **Palidez e diminuição de temperatura** são sinais arteriais (falta de circulação que dá cor e calor). A **atrofia muscular por desuso** ocorre porque o paciente deixa de andar pela dor.",
+      "referenciaAula": "Importante, o tempo de enchimento venoso, ele tem, se ele é maior que 10 segundos, nós já estamos com uma doença arterial grave, não chega sangue pela artéria e não vai sair o sangue pela veia para fazer o retorno venoso.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 728
+    },
+    {
+      "id": "Q-25-018",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "fibrinolítico",
+        "trombose sobre placa",
+        "tempo"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o uso de fibrinolítico em paciente com doença arterial crônica que ocluiu sobre uma placa ateromatosa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O fibrinolítico pode ser utilizado a qualquer momento, independentemente do tempo de oclusão."
+        },
+        {
+          "id": "B",
+          "texto": "É indicado apenas após 30 dias da oclusão, quando o trombo está organizado."
+        },
+        {
+          "id": "C",
+          "texto": "Deve ser usado preferencialmente antes de 14 dias, antes que o trombo se transforme em fibra colágena/elástica; após esse prazo perde eficácia."
+        },
+        {
+          "id": "D",
+          "texto": "Substitui completamente a indicação cirúrgica em qualquer paciente."
+        },
+        {
+          "id": "E",
+          "texto": "Está contraindicado em qualquer paciente com placa ateromatosa."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **fibrinolítico** é útil para tentar desobstrução de **trombose sobre placa** (oclusão crônica agudizada), mas a janela é **antes de 14 dias** — após esse período o trombo se organiza em fibra colágena/elástica e perde a sensibilidade ao agente. Após desobstrução, define-se se basta o fibrinolítico ou se há necessidade de conduta cirúrgica adicional.",
+      "referenciaAula": "Você usa fibrinolítico para utiliza para vir essa desobstrução e ver se é só uma desobstrução com fibrineolítico ou se a gente precisa tomar mais uma conduta cirúrgica. Lembrando que a utilização de fibrinolítico é antes de 14 dias.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 1360
+    },
+    {
+      "id": "Q-25-019",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "enxerto extra-anatômico",
+        "axilofemoral",
+        "alto risco"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 75 anos, cardiopata grave e pneumopata, com oclusão aortoilíaca extensa e isquemia crítica de membros inferiores. A equipe avalia que abrir o abdômen para reconstrução aortobifemoral aumentaria muito o risco de complicações respiratórias e cardiovasculares. Qual estratégia cirúrgica é a mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Endarterectomia aortoilíaca aberta com aceso transperitoneal mediano, mesmo com o risco elevado."
+        },
+        {
+          "id": "B",
+          "texto": "Enxerto extra-anatômico (ex.: axilofemoral / axilo-bifemoral) com prótese, evitando abertura abdominal e reduzindo complicações em pacientes de alto risco."
+        },
+        {
+          "id": "C",
+          "texto": "Aguardar evolução clínica sem nenhuma intervenção, apenas com analgesia."
+        },
+        {
+          "id": "D",
+          "texto": "Trombólise sistêmica isolada, indefinidamente."
+        },
+        {
+          "id": "E",
+          "texto": "Amputação primária bilateral sem tentativa de revascularização."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em pacientes de **alto risco cirúrgico** (cardiopata, pneumopata) com doença aortoilíaca, indicam-se **enxertos extra-anatômicos** — como **axilofemoral** ou **axilo-bifemoral** — que evitam a abertura abdominal e seu pós-operatório tormentoso. Usa-se prótese, com a ressalva de que **infecção é limitante** para próteses. O enxerto **fêmoro-femoral cruzado** é alternativa para oclusão ilíaca unilateral.",
+      "referenciaAula": "Quando o paciente é um paciente de muito risco, é um paciente cardiopata, pneumopata, eu sei que ele vai ter tanto problema para no pós-operatório, então eu posso fazer os enxertos extraanatômicos. Então, eu não abro a barriga porque aumenta o risco de complicações.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 1710
+    },
+    {
+      "id": "Q-25-020",
+      "aulaOrigem": 25,
+      "blocos": [
+        "F"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "veia safena",
+        "in situ",
+        "invertida",
+        "ex vivo"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as técnicas de utilização da veia safena interna como substituto arterial em pontes de membros inferiores, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A safena invertida exige ressecção valvar antes da anastomose; a safena in situ é retirada do leito; a ex vivo permanece no membro do paciente."
+        },
+        {
+          "id": "B",
+          "texto": "Na safena in situ, a veia não é retirada do seu leito: anastomosa-se a parte mais grossa na artéria, faz-se destruição valvular e realiza-se a anastomose distal em poplítea ou em artérias da perna."
+        },
+        {
+          "id": "C",
+          "texto": "Na safena ex vivo, a veia jamais é retirada do leito do paciente."
+        },
+        {
+          "id": "D",
+          "texto": "A safena invertida só pode ser usada com prótese de Dacron associada."
+        },
+        {
+          "id": "E",
+          "texto": "Veias cefálica e basílica são contraindicadas em qualquer cenário de revascularização."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **safena in situ** a veia permanece no leito, anastomosa-se a porção proximal (mais calibrosa) na artéria, faz-se **destruição valvular** e realiza-se a anastomose distal (poplítea ou artérias da perna) — técnica útil quando se transpõe articulação. Na **safena ex vivo**, a veia é retirada, devalvulada na mesa e recolocada. Na **safena invertida**, a veia é retirada e invertida (a porção distal vira proximal) para que as válvulas não atrapalhem o fluxo. **Veias cefálica e basílica** podem ser usadas; prótese é a última opção.",
+      "referenciaAula": "Nós podemos usar a safene em cito, que ou exvivo, que você não tira a safena do seu leito, anastomosa, a parte mais grossa da via na artéria faz uma destruição valvular e vai fazer fazer a anastomose distal onde é possível ou em poplitea ou em em artérias de perna.",
+      "transversal": false,
+      "videoAulaId": 25,
+      "videoStartSec": 1987
     }
   ]
 }

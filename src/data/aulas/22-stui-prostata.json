@@ -463,6 +463,470 @@
       "transversal": false,
       "videoAulaId": 22,
       "videoStartSec": 1625
+    },
+    {
+      "id": "Q-22-011",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "STUI",
+        "armazenamento",
+        "epidemiologia",
+        "Brasil LUTS"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os sintomas de ARMAZENAMENTO do trato urinário inferior, qual alternativa lista CORRETAMENTE os três principais?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jato fraco, esforço miccional e gotejamento pós-miccional."
+        },
+        {
+          "id": "B",
+          "texto": "Urgência miccional, polaciúria (aumento da frequência) e noctúria."
+        },
+        {
+          "id": "C",
+          "texto": "Hematúria, disúria e febre."
+        },
+        {
+          "id": "D",
+          "texto": "Incontinência de esforço, dor pélvica e cólica renal."
+        },
+        {
+          "id": "E",
+          "texto": "Resíduo pós-miccional, jato entrecortado e enurese."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os sintomas de **armazenamento** refletem a dificuldade da bexiga em armazenar urina, frequentemente por aumento de sensibilidade (infecção, cálculo, alteração neurológica, bexiga hiperativa) ou por obstrução crônica que evolui com hiperatividade detrusora. São eles: **urgência miccional, polaciúria e noctúria**. O estudo Brasil LUTS mostrou que esses sintomas atingem 60% dos pacientes acima de 40 anos e quase 80% acima de 70 anos.",
+      "referenciaAula": "Quais são os principais sintomas de armazenamento? justamente a urgência mixcional, o aumento da frequência urinária ou polaciúria, a noctúria.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 122
+    },
+    {
+      "id": "Q-22-012",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "STUI",
+        "diagnóstico diferencial",
+        "estenose de uretra",
+        "bexiga hiperativa"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as causas de sintomas do trato urinário inferior (STUI), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "STUI são exclusivos da hiperplasia prostática benigna em homens acima de 50 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Estenose de uretra, tumor uretral, sling apertado em mulheres, infecção urinária, cálculo vesical e bexiga hiperativa também causam STUI."
+        },
+        {
+          "id": "C",
+          "texto": "Diabetes não tem relação com bexiga hiperativa."
+        },
+        {
+          "id": "D",
+          "texto": "A obstrução crônica nunca evolui com sintomas de armazenamento."
+        },
+        {
+          "id": "E",
+          "texto": "O termo prostatismo é o mais correto, pois todo STUI vem da próstata."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os STUI têm **múltiplas causas** além da HPB: estenose/tumor de uretra (obstrução do canal), sling muito apertado em mulheres (obstrução iatrogênica), infecção urinária e cálculo vesical (irritação), bexiga hiperativa (causas neurológicas, diabetes, obstrução crônica). É justamente por isso que o termo **STUI/LUTS** é preferível a 'prostatismo' — esse último sugere erroneamente que todos os sintomas vêm da próstata.",
+      "referenciaAula": "a estenose de uretra é uma causa importante. A gente pode ter um tumor na uretra. A gente pode ter uma mulher que tenha feito uma cirurgia de sling, e, esse sling ficou um pouco apertado e tá comprimindo. uma infecção urinária vai irritar aqui a bexiga, um cálculo vesical ou uma bexiga hiperativa.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 211
+    },
+    {
+      "id": "Q-22-013",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "lobo mediano",
+        "ultrassom",
+        "preditor de resposta"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em um paciente com STUI, a presença de LOBO MEDIANO prostático protruso para a bexiga (visualizado em ultrassonografia) é importante porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Indica câncer de próstata, sendo necessária biópsia imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Causa obstrução mecânica do esvaziamento vesical e é preditor de MÁ resposta ao tratamento clínico."
+        },
+        {
+          "id": "C",
+          "texto": "Não interfere no esvaziamento, sendo apenas um achado anatômico irrelevante."
+        },
+        {
+          "id": "D",
+          "texto": "Contraindica formalmente o uso de alfa-bloqueadores."
+        },
+        {
+          "id": "E",
+          "texto": "É exclusivamente diagnosticado por ressonância multiparamétrica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **lobo mediano** que cresce para dentro da bexiga gera **obstrução mecânica** ao esvaziamento, atuando como mecanismo valvular. Sua identificação no ultrassom é fundamental porque é **preditor de má resposta ao tratamento clínico** (alfa-bloqueador e finasterida). Pacientes com lobo mediano protruso tendem a falhar com medicação e migrar mais cedo para conduta cirúrgica.",
+      "referenciaAula": "tem aqui um lobo mediano. Esse lobo mediano está crescendo dentro da bexiga e isso vai causar uma obstrução mecânica importante para o esvaziamento. E isso é um preditor de má resposta ao tratamento clínico.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 451
+    },
+    {
+      "id": "Q-22-014",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "ressonância multiparamétrica",
+        "biópsia",
+        "PI-RADS"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o papel da ressonância magnética multiparamétrica da próstata na investigação atual, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deve ser solicitada apenas após duas biópsias prostáticas negativas, conforme conduta clássica."
+        },
+        {
+          "id": "B",
+          "texto": "Substitui a biópsia, pois é capaz de fazer o diagnóstico definitivo de adenocarcinoma prostático."
+        },
+        {
+          "id": "C",
+          "texto": "Hoje é recomendada ANTES da biópsia (quando disponível), em pacientes com indicação de biópsia, para evitar biópsias desnecessárias e direcionar a coleta de fragmentos."
+        },
+        {
+          "id": "D",
+          "texto": "Deve ser solicitada para todos os homens acima de 50 anos como rastreamento populacional."
+        },
+        {
+          "id": "E",
+          "texto": "É contraindicada em pacientes com PSA acima de 10 ng/mL."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A conduta evoluiu: antigamente a ressonância era reservada para pacientes com biópsias prévias negativas. **Hoje, sempre que disponível**, deve ser feita **antes da biópsia** em pacientes com indicação (toque alterado ou PSA persistentemente elevado). Vantagens: evita biópsias desnecessárias (lesões PI-RADS 1-2), localiza o nódulo, avalia extensão extracapsular e direciona a biópsia para áreas suspeitas, aumentando a sensibilidade.",
+      "referenciaAula": "uma das formas que nós temos de evitar biópsias desnecessárias, de evitar de submeter o paciente a um exame desnecessário, é realizar a ressonância multiparamétrica da próstata antes da biópsia. hoje sempre que a gente tiver uma ressonância disponível, nós vamos fazer ressonância antes da biópsia.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 481
+    },
+    {
+      "id": "Q-22-015",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "biópsia transretal",
+        "fragmentos",
+        "técnica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a técnica padrão da biópsia prostática transretal sistemática (sextante ampliada), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Coleta-se um único fragmento da área mais suspeita ao toque."
+        },
+        {
+          "id": "B",
+          "texto": "Divide-se a próstata em direita e esquerda × base, médio e ápice, coletando cerca de 12 fragmentos para amostrar a glândula inteira, com fragmentos adicionais (2-3) na área do nódulo."
+        },
+        {
+          "id": "C",
+          "texto": "São coletados fragmentos apenas da zona periférica, ignorando a zona de transição."
+        },
+        {
+          "id": "D",
+          "texto": "Não é necessário amostrar áreas sem nódulo visível à imagem."
+        },
+        {
+          "id": "E",
+          "texto": "A biópsia é feita por punção única, transvesical."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A biópsia prostática é **sextante ampliada**: divide-se a próstata em **direita/esquerda** × **base/médio/ápice**, coletando 2 fragmentos por região (~12 fragmentos no total). A amostragem ampla é essencial porque o tumor de próstata é frequentemente **multifocal**. Áreas suspeitas (nódulo no toque ou lesão PI-RADS 4-5) recebem **2-3 fragmentos adicionais** para aumentar a sensibilidade diagnóstica.",
+      "referenciaAula": "A gente vai dividir a prósta em direita e esquerda e base, médio e ápice e vai colher dois fragmentos de cada área. Então são 12 fragmentos sempre da próstata toda. aquela área onde tem o nódulo, a gente vai colher duas, três amostras a mais para aumentar a nossa sensibilidade da biópsia.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 600
+    },
+    {
+      "id": "Q-22-016",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "Gleason",
+        "ISUP",
+        "prognóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o escore de Gleason no câncer de próstata, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Soma de duas notas referentes às arquiteturas glandulares mais frequentes; Gleason 3+4 e 4+3 têm o mesmo prognóstico, pois ambos somam 7."
+        },
+        {
+          "id": "B",
+          "texto": "É o achado anatomopatológico com MAIOR correlação com sobrevida entre todos os tumores; Gleason 3+3 (ISUP 1) é considerado de baixo risco e Gleason 4+3 tem prognóstico pior que 3+4."
+        },
+        {
+          "id": "C",
+          "texto": "Varia de 0 a 5 e basta a nota mais alta para definir o grupo de risco."
+        },
+        {
+          "id": "D",
+          "texto": "Gleason 9 e 10 são considerados de baixo risco quando o PSA é menor que 10 ng/mL."
+        },
+        {
+          "id": "E",
+          "texto": "É calculado pela soma do estádio T, PSA e idade do paciente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O Gleason atribui notas de **1 a 5** à arquitetura glandular; o escore final é a **soma das duas notas mais frequentes** (primária + secundária). É o achado patológico com **maior correlação prognóstica** entre todos os tumores. Pontos importantes: **3+3 (ISUP 1)** é praticamente benigno (baixo risco); **3+4 ≠ 4+3** (este último tem mais padrão 4 dominante e prognóstico pior); somatórias **≥8** são alto risco.",
+      "referenciaAula": "De todos os tumores que vocês vão estudar na vida, o tumor cuja cujo achado da biópsia tem mais relação com o prognóstico é o câncer de próstata. eu sei que o 4 + 3 tem um prognóstico já um tanto pior. Qualquer somatória que denota oito vai piorar mais ainda o prognóstico.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1560
+    },
+    {
+      "id": "Q-22-017",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "câncer de próstata",
+        "infecção urinária no homem",
+        "urgência"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 62 anos, comparece à UPA com disúria, polaciúria, febre baixa e urocultura positiva para E. coli. Refere que é a segunda infecção urinária no último ano. Nega comorbidades, nunca passou em urologista, não realizou PSA. Qual a conduta MAIS adequada além de tratar a infecção?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tranquilizar o paciente: ITU em homem é fisiológica e não requer investigação."
+        },
+        {
+          "id": "B",
+          "texto": "Indicar profilaxia antibiótica contínua por 6 meses, sem necessidade de avaliação adicional."
+        },
+        {
+          "id": "C",
+          "texto": "Tratar a ITU e orientar o paciente a procurar UBS/urologia para investigação de hiperplasia/alteração prostática (ultrassom, PSA, exame físico), pois ITU em homem NÃO é considerada normal e deve sempre levantar suspeita de patologia prostática/obstrutiva."
+        },
+        {
+          "id": "D",
+          "texto": "Solicitar imediatamente cintilografia óssea para descartar metástases."
+        },
+        {
+          "id": "E",
+          "texto": "Encaminhar diretamente para RTU empírica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Diferentemente das mulheres (até 2 ITU/ano são consideradas dentro da faixa esperada), **ITU em homens NÃO é fisiológica** e deve sempre motivar investigação de causa subjacente — **patologia prostática (HPB com retenção/resíduo), obstrução, cálculo vesical**. O papel do médico na urgência é tratar a infecção e **orientar o seguimento ambulatorial** (ultrassom, PSA, função renal).",
+      "referenciaAula": "homem com infecção urinária não é uma coisa esperada. A gente espera que as mulheres tenham infecção. Mas homem que começa ter infecção, vocês devem sempre lembrar da próstata. cabe a você orientar o paciente. Olha, infecção não é comum, pode ser uma hiperplasia.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 3132
+    },
+    {
+      "id": "Q-22-018",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "câncer de próstata",
+        "risco intermediário",
+        "hormonioterapia",
+        "radioterapia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento do câncer de próstata localizado, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cirurgia (prostatectomia radical) e radioterapia apresentam desfechos de sobrevida diferentes — a cirurgia é sempre superior."
+        },
+        {
+          "id": "B",
+          "texto": "Cirurgia e radioterapia apresentam sobrevida equivalente; pacientes de risco intermediário tratados com radioterapia recebem hormonioterapia adjuvante por aproximadamente 6 meses, enquanto os de alto risco recebem por cerca de 24 meses."
+        },
+        {
+          "id": "C",
+          "texto": "Hormonioterapia adjuvante é indicada apenas para pacientes de baixo risco."
+        },
+        {
+          "id": "D",
+          "texto": "Radioterapia não causa incontinência nem cistite e tem perfil de complicações desprezível."
+        },
+        {
+          "id": "E",
+          "texto": "Pacientes idosos com más condições clínicas têm preferência por cirurgia robótica em vez de radioterapia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Diferente dos demais tumores, **cirurgia e radioterapia têm sobrevida equivalente** no câncer de próstata localizado. Pacientes mais jovens com boa condição clínica tendem à cirurgia (melhor anatomopatológico, menos hormonioterapia); pacientes com pior condição tendem à radioterapia. **Hormonioterapia adjuvante**: ~**6 meses** no risco intermediário e ~**24 meses** no alto risco. Causa castração com queda de testosterona, perda de potência, perda de massa muscular e aumento de risco cardiovascular.",
+      "referenciaAula": "Cirurgia e radioterapia tem o mesmo prognóstico em termos de sobrevida. Paciente de risco moderado para cima, ele vai ganhar hormonioterapia. por 6 meses no risco moderado e por 24 meses no alto risco.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 1861
+    },
+    {
+      "id": "Q-22-019",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "screening",
+        "câncer de próstata",
+        "novembro azul",
+        "controvérsia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o rastreamento (screening) do câncer de próstata, considerando a evolução das recomendações, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O USPSTF americano nunca recomendou contra o rastreamento; somente a Sociedade Brasileira de Urologia se opôs ao screening."
+        },
+        {
+          "id": "B",
+          "texto": "Em 2012, o USPSTF recomendou NÃO fazer o rastreamento, mas observou-se aumento de doença localmente avançada e metastática nos anos seguintes; desde 2018 o USPSTF voltou a recomendar discutir riscos/benefícios. A Sociedade Brasileira de Urologia mantém recomendação de screening (PSA + toque) em homens acima de 50 anos."
+        },
+        {
+          "id": "C",
+          "texto": "O screening só deve ser feito em homens com sintomas urinários."
+        },
+        {
+          "id": "D",
+          "texto": "O Papanicolau é tão invasivo quanto o toque retal, motivo pelo qual o screening prostático foi descontinuado."
+        },
+        {
+          "id": "E",
+          "texto": "Atualmente diagnosticamos no Brasil menos de 1% de tumores metastáticos ao diagnóstico, comprovando o sucesso do screening."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Histórico do screening: o **USPSTF** recomendou em **2008** suspender PSA acima de 75 anos; em **2012** recomendou NÃO fazer screening; após observar aumento de casos avançados e metastáticos, em **2018** voltou a recomendar discussão individualizada de riscos/benefícios. A **Sociedade Brasileira de Urologia** sempre manteve recomendação de screening em homens acima de 50 anos. Hoje no Brasil, ainda diagnosticamos **5% metastáticos e 15% localmente avançados** ao diagnóstico — situações em parte evitáveis com screening.",
+      "referenciaAula": "O Tesk Force americano que faz todas as recomendações lá nos anos de 2008 recomendaram segurar o PSA acima de 75 anos. em 2012, eles recomendaram não fazer. desde 2018, os Estados Unidos voltou atrás e continua seguindo a recomendação sobre fazer o screening. Hoje nós fazemos no Brasil diagnóstico de 5% dos tumores metastáticos.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 2856
+    },
+    {
+      "id": "Q-22-020",
+      "aulaOrigem": 22,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "prostatectomia radical",
+        "feixes neurovasculares",
+        "preservação"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 58 anos, hígido, sexualmente ativo, diagnóstico de adenocarcinoma de próstata Gleason 3+3 (ISUP 1) à esquerda, PSA 5,2 ng/mL, ressonância sem extensão extracapsular. Optou por prostatectomia radical robótica. Sobre a estratégia cirúrgica em relação aos FEIXES NEUROVASCULARES, qual é a conduta mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ressecar agressivamente os feixes neurovasculares bilateralmente, pois a preservação aumenta significativamente o risco de margens positivas em qualquer cenário."
+        },
+        {
+          "id": "B",
+          "texto": "Tentar preservar os feixes neurovasculares ao máximo, pois o paciente tem doença de baixo risco; a abordagem pode ser assimétrica (preservação total do lado contralateral ao tumor e parcial ou ressecção do lado acometido conforme a extensão), visando manter potência sexual e continência."
+        },
+        {
+          "id": "C",
+          "texto": "Os feixes neurovasculares não têm relação com continência ou potência sexual."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar radioterapia, pois feixes neurovasculares nunca podem ser preservados em prostatectomia radical."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar prostatectomia simples (suprapúbica) para preservar os feixes."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **feixes neurovasculares**, localizados póstero-laterais à próstata, são responsáveis pela **continência urinária e potência sexual**. Em doenças de **baixo risco** sem extensão extracapsular, prioriza-se preservação máxima, com dissecção próxima à cápsula prostática. A abordagem pode ser **assimétrica**: lado com tumor recebe margem mais ampla (preservação parcial ou ressecção); lado oposto, preservação total. Em doença de alto risco com extensão extracapsular, o feixe é levado junto para garantir margem oncológica.",
+      "referenciaAula": "logo embaixo da próstata, dos dois lados embaixo da próstata, a gente vai ter feixes nervosos e vasculares. Esses feixes estão relacionados à continência urinária e à potência sexual. Às vezes eu tenho uma doença do lado direito, lado direito eu preservo menos. lado esquerdo, eu preservo 100%.",
+      "transversal": false,
+      "videoAulaId": 22,
+      "videoStartSec": 2348
     }
   ]
 }

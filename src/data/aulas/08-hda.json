@@ -471,6 +471,476 @@
       "transversal": false,
       "videoAulaId": 8,
       "videoStartSec": 392
+    },
+    {
+      "id": "Q-08-011",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "hematêmese",
+        "quadro clínico",
+        "manifestação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual manifestação clínica chama mais atenção e é caracterizada pela presença de sangue no vômito na hemorragia digestiva alta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Melena."
+        },
+        {
+          "id": "B",
+          "texto": "Hematoquezia."
+        },
+        {
+          "id": "C",
+          "texto": "Hematêmese."
+        },
+        {
+          "id": "D",
+          "texto": "Sialorreia."
+        },
+        {
+          "id": "E",
+          "texto": "Hemoptise."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **hematêmese** é a primeira manifestação que chama atenção na HDA, definida como a **presença de sangue no vômito**. Pode aparecer como sangue vivo (sangramento ativo recente) ou em borra de café (sangue parcialmente digerido pelo ácido gástrico). Não confundir com **hemoptise** (sangue oriundo da via aérea, eliminado pela tosse), nem com melena (fezes escuras) ou hematoquezia (sangue vivo nas fezes).",
+      "referenciaAula": "A primeira coisa que se chama atenção é hematêmese, que significa a presença de sangue no vômito.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 61
+    },
+    {
+      "id": "Q-08-012",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "hematoquezia",
+        "epidemiologia",
+        "HDA"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Aproximadamente qual percentual das hemorragias digestivas altas pode se apresentar com hematoquezia (sangue vermelho vivo nas fezes)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cerca de 10%."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 50%."
+        },
+        {
+          "id": "C",
+          "texto": "Cerca de 90%."
+        },
+        {
+          "id": "D",
+          "texto": "100% dos casos."
+        },
+        {
+          "id": "E",
+          "texto": "Praticamente 0%, pois é exclusiva da HDB."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Embora a hematoquezia seja típica das hemorragias digestivas baixas (que respondem por cerca de 90% dos casos), aproximadamente **10% das HDA** podem se apresentar com hematoquezia, geralmente em sangramentos volumosos com trânsito intestinal acelerado. Essa apresentação aponta para gravidade do sangramento e exige avaliação endoscópica precoce.",
+      "referenciaAula": "Apenas 10% das hemorragias digestivas altas apresentam hematoquezia. Todas as outras hematoquezias são oriundas de hemorragia digestiva abaixo, 90%.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 61
+    },
+    {
+      "id": "Q-08-013",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "anemia",
+        "apresentação crônica",
+        "quadro clínico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Na apresentação CRÔNICA da hemorragia digestiva alta, qual achado clínico-laboratorial mais se destaca?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Choque hipovolêmico com taquicardia e taquipneia."
+        },
+        {
+          "id": "B",
+          "texto": "Anemia, com fraqueza, palidez e falta de apetite."
+        },
+        {
+          "id": "C",
+          "texto": "Hematêmese volumosa em jato."
+        },
+        {
+          "id": "D",
+          "texto": "Hematoquezia franca."
+        },
+        {
+          "id": "E",
+          "texto": "Hipertensão arterial grave."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na apresentação **crônica** da HDA, o sangramento é lento e progressivo, levando à **anemia** (redução de glóbulos vermelhos ou diminuição da hemoglobina). Os principais sintomas são **fraqueza, palidez e falta de apetite**. Já na apresentação aguda predomina o choque hipovolêmico com palidez cutânea, sudorese fria, pulso filiforme, taquicardia e taquipneia.",
+      "referenciaAula": "Quando ele apresenta uma apresentação crônica, o que se destaca é a anemia. Os principais sintomas da anemia, fraqueza, palidez, falta de apetite.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 94
+    },
+    {
+      "id": "Q-08-014",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "Rockall",
+        "score",
+        "estratificação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o escore de Rockall na avaliação de pacientes com HDA não varicosa, assinale a alternativa CORRETA quanto à estratificação de risco:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Baixo risco ≤2; moderado risco 3 a 5; alto risco ≥6."
+        },
+        {
+          "id": "B",
+          "texto": "Baixo risco 0; alto risco qualquer pontuação maior que zero."
+        },
+        {
+          "id": "C",
+          "texto": "Baixo risco ≥6; alto risco ≤2."
+        },
+        {
+          "id": "D",
+          "texto": "Substitui a classificação de Forrest na avaliação endoscópica."
+        },
+        {
+          "id": "E",
+          "texto": "Aplica-se exclusivamente à HDA varicosa."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "O **escore de Rockall** estratifica o paciente com HDA não varicosa em três categorias de risco: **baixo risco (≤2 pontos)**, **moderado risco (3 a 5 pontos)** e **alto risco (≥6 pontos)**. Diferente do Glasgow-Blatchford (pré-endoscópico), o Rockall incorpora também dados endoscópicos. Não substitui a classificação de Forrest, que descreve o aspecto endoscópico da úlcera.",
+      "referenciaAula": "O de baixo risco tem pontuação menor ou igual a dois, o de moderado risco de três a 5 e de alto risco maior ou igual a seis.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 272
+    },
+    {
+      "id": "Q-08-015",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "técnicas endoscópicas",
+        "hemoclipes",
+        "argônio"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais técnicas endoscópicas são empregadas para controle de sangramento na HDA não varicosa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas escleroterapia com adrenalina."
+        },
+        {
+          "id": "B",
+          "texto": "Escleroterapia, hemoclipes e plasma de argônio."
+        },
+        {
+          "id": "C",
+          "texto": "TIPS e shunt esplenorrenal."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas balão de Sengstaken-Blakemore."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas ligadura elástica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Para HDA **não varicosa**, as principais técnicas endoscópicas incluem **escleroterapia, hemoclipes e plasma (laser) de argônio**. A ligadura elástica e o balão de Sengstaken-Blakemore são reservados para HDA varicosa. O TIPS é endovascular, indicado em sangramento varicoso refratário. Essas técnicas, associadas ao IBP, controlam a maioria dos sangramentos sem necessidade de cirurgia.",
+      "referenciaAula": "Eu coloquei aí a escleroterapia, hemoclipes, o uso do laser de argônio. Existem técnicas endovasculares que se baseia na embolização do vaso sangrante.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 544
+    },
+    {
+      "id": "Q-08-016",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "embolização",
+        "endovascular",
+        "vaso sangrante"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação às técnicas endovasculares no manejo da HDA não varicosa, qual é o seu princípio terapêutico?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Comunicação artificial entre cava e porta para reduzir hipertensão portal."
+        },
+        {
+          "id": "B",
+          "texto": "Embolização do vaso sangrante que está alimentando a úlcera."
+        },
+        {
+          "id": "C",
+          "texto": "Tamponamento mecânico com balão esofágico-gástrico."
+        },
+        {
+          "id": "D",
+          "texto": "Ligadura elástica das varizes esofágicas."
+        },
+        {
+          "id": "E",
+          "texto": "Ressecção gástrica com vagotomia troncular."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Nas técnicas endovasculares para HDA **não varicosa**, o princípio é a **embolização seletiva do vaso sangrante** que alimenta a úlcera, interrompendo o aporte sanguíneo à lesão. Difere do TIPS, que é endovascular para HDA varicosa (criação de comunicação portossistêmica). É opção em casos de falha endoscópica antes da cirurgia, especialmente em pacientes de alto risco cirúrgico.",
+      "referenciaAula": "Existem técnicas endovasculares que se baseia na embolização do vaso sangrante, que tá alimentando aquela úlcera que tá sangrando.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 544
+    },
+    {
+      "id": "Q-08-017",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "fatores de risco",
+        "ressangramento",
+        "topografia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais características topográficas das úlceras pépticas estão associadas a MAIOR risco de ressangramento e podem indicar tratamento cirúrgico de urgência?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Úlceras na parede anterior do antro gástrico."
+        },
+        {
+          "id": "B",
+          "texto": "Úlceras na parede posterior do duodeno e maiores na pequena curvatura gástrica."
+        },
+        {
+          "id": "C",
+          "texto": "Úlceras pequenas na grande curvatura."
+        },
+        {
+          "id": "D",
+          "texto": "Úlceras esofágicas distais."
+        },
+        {
+          "id": "E",
+          "texto": "Úlceras na cárdia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As úlceras localizadas na **parede posterior do duodeno** (próximas à artéria gastroduodenal) e as **úlceras maiores na pequena curvatura gástrica** (próximas à artéria gástrica esquerda) apresentam **maior risco de ressangramento** por relação anatômica com vasos calibrosos, sendo frequentemente alvos de tratamento cirúrgico de urgência. Outros fatores agravantes incluem hematêmese inicial, choque, idade avançada, etilismo, tabagismo e diabetes.",
+      "referenciaAula": "As úlceras que estão na parede posterior do duodeno, maiores ou na pequena curvatura gástrica também maiores, tem maior risco de ressangramento e geralmente são alvos de tratamento cirúrgico na urgência.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 601
+    },
+    {
+      "id": "Q-08-018",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "indicações cirúrgicas",
+        "urgência",
+        "volemia"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 72 anos, em uso crônico de AINE, dá entrada com hematêmese há 6h. EDA evidenciou úlcera duodenal Forrest IB tratada com escleroterapia + hemoclipes. Mantém sangramento ativo persistente apesar de ressuscitação volêmica vigorosa, com perda estimada superior a 50% da volemia. Qual critério a seguir JUSTIFICA a indicação de tratamento cirúrgico de urgência?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Idade avançada isoladamente."
+        },
+        {
+          "id": "B",
+          "texto": "Hemorragia grave persistente sem resposta às medidas de ressuscitação volêmica e perda estimada superior a 50% da volemia."
+        },
+        {
+          "id": "C",
+          "texto": "Uso crônico de AINE."
+        },
+        {
+          "id": "D",
+          "texto": "Presença isolada de hematêmese."
+        },
+        {
+          "id": "E",
+          "texto": "Forrest IB sempre é cirúrgico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os critérios para cirurgia de urgência na HDA não varicosa incluem: **hemorragia grave sem resposta à ressuscitação volêmica**, sangramento persistente, **perda estimada superior a 50% da volemia**, falha em segunda tentativa de hemostasia endoscópica e presença de perfuração ou obstrução associadas. Idade, AINE e hematêmese isolada são fatores agravantes, mas não indicam cirurgia per se. Forrest IB requer hemostasia endoscópica como primeira linha.",
+      "referenciaAula": "A hemorragia geralmente é grave, não teve respostas, medidas de ressuscitação volêmica. Às vezes a perda estimada de sangramento foi maior do 50% da volemia do paciente.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 637
+    },
+    {
+      "id": "Q-08-019",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "ligadura elástica",
+        "varizes",
+        "endoscopia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente cirrótico, 60 anos, apresenta HDA por variz esofágica. Após estabilização e início de octreotide + IBP + ceftriaxona, é submetido à endoscopia. Quais são as opções terapêuticas ENDOSCÓPICAS específicas para o controle do sangramento varicoso citadas na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hemoclipes e plasma de argônio."
+        },
+        {
+          "id": "B",
+          "texto": "Ligadura elástica, uso do cianoacrilato (histoacryl) e balão de Sengstaken-Blakemore."
+        },
+        {
+          "id": "C",
+          "texto": "Escleroterapia com adrenalina e laser de argônio."
+        },
+        {
+          "id": "D",
+          "texto": "TIPS e embolização seletiva."
+        },
+        {
+          "id": "E",
+          "texto": "Vagotomia e piloroplastia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Para HDA **varicosa**, o componente endoscópico do tratamento baseia-se em **ligadura elástica** (varizes esofágicas), **uso do cianoacrilato/histoacryl** (especialmente para varizes gástricas) e **balão de Sengstaken-Blakemore** (tamponamento mecânico em sangramentos refratários). Hemoclipes, escleroterapia com adrenalina e plasma de argônio são típicos da HDA não varicosa. TIPS é endovascular; vagotomia/piloroplastia são cirúrgicas e em desuso.",
+      "referenciaAula": "Tem o componente endoscópico do tratamento que se baseia em ligadura elástica, uso do histoacryl e o balão de Sengstaken-Blakemore.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 392
+    },
+    {
+      "id": "Q-08-020",
+      "aulaOrigem": 8,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2",
+        "T5"
+      ],
+      "tags": [
+        "objetivos cirúrgicos",
+        "considerações finais",
+        "urgência"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Quais são os principais OBJETIVOS da cirurgia de urgência na hemorragia digestiva alta após falha terapêutica clínica e endoscópica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas controlar o sangramento, sem outras metas."
+        },
+        {
+          "id": "B",
+          "texto": "Controle do sangramento, tratar definitivamente a doença, diminuir mortalidade, diminuir taxa de ressangramento e evitar sequelas futuras."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar gastrectomia total profilática em todos os pacientes."
+        },
+        {
+          "id": "D",
+          "texto": "Substituir o tratamento clínico de IBP no pós-operatório."
+        },
+        {
+          "id": "E",
+          "texto": "Erradicar o H. pylori intraoperatoriamente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os objetivos da cirurgia de urgência na HDA são: **controle do sangramento**, **tratar definitivamente a doença** (com ressecção, se necessário), **diminuir a taxa de mortalidade**, **diminuir a taxa de ressangramento** e **evitar sequelas futuras** ao paciente. Lembrar que a cirurgia ocorre após falha do tratamento clínico ou endoscópico, e não substitui IBP no pós-operatório nem erradica H. pylori intraoperatoriamente.",
+      "referenciaAula": "Controle do sangramento, tratar definitivamente a doença, se for possível, com alguma ressecção, diminuir a taxa de mortalidade, diminuir a taxa de ressangramento e evitar sequelas para esse paciente no futuro.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 754
     }
   ]
 }

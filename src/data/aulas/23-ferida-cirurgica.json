@@ -464,6 +464,476 @@
       "transversal": false,
       "videoAulaId": 23,
       "videoStartSec": 1058
+    },
+    {
+      "id": "Q-23-011",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "pré-operatório",
+        "otimização clínica",
+        "tabagismo",
+        "comorbidades"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o cuidado com a ferida operatória no pré-operatório de cirurgias eletivas, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O cuidado com a ferida operatória só se inicia após a realização do procedimento."
+        },
+        {
+          "id": "B",
+          "texto": "O cuidado se inicia já na programação da cirurgia, com trabalho do status clínico, orientação à cessação do tabagismo, compensação de comorbidades, otimização de medicações, controle de peso e avaliação nutricional."
+        },
+        {
+          "id": "C",
+          "texto": "O tabagismo não tem repercussão direta na evolução das feridas operatórias."
+        },
+        {
+          "id": "D",
+          "texto": "A avaliação nutricional só deve ser realizada em cirurgias de urgência."
+        },
+        {
+          "id": "E",
+          "texto": "O controle de peso é irrelevante para o resultado das feridas operatórias eletivas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O cuidado com a ferida operatória **se inicia já na programação da cirurgia**, especialmente em cirurgias eletivas. Trabalhar o **status clínico do paciente**, orientar **cessação do tabagismo**, promover **compensação de comorbidades**, **otimizar uso de medicações**, **controle de peso** e **avaliação nutricional** são aspectos com **repercussão direta** no resultado e na evolução das feridas operatórias.",
+      "referenciaAula": "Trabalhar o status clínico do paciente, orientar a sensação do tabagismo, orientar e tentar promover a compensação de comorbidades, o melhorar o uso de medicações, otimizar o uso de algumas medicações que o paciente utilize, controle de peso, avaliação nutricional, são todos os aspectos muito importantes que a gente tem que trabalhar no pré-operatório, especialmente de cirurgias eletivas, claro, e que vão ter uma repercussão direta no resultado e na evolução dessas feridas operatórias.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 98
+    },
+    {
+      "id": "Q-23-012",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "técnica cirúrgica",
+        "fechamento por planos",
+        "tensão",
+        "intraoperatório"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os fatores intraoperatórios que influenciam o desfecho da ferida operatória, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A técnica cirúrgica não tem relação com a evolução cicatricial."
+        },
+        {
+          "id": "B",
+          "texto": "O manejo cuidadoso dos tecidos, a técnica atraumática, o fechamento por planos e a redução de tensão impactam positivamente o desfecho da ferida."
+        },
+        {
+          "id": "C",
+          "texto": "Maior tensão na sutura sempre melhora a coaptação das bordas."
+        },
+        {
+          "id": "D",
+          "texto": "O fechamento em plano único é sempre superior ao fechamento por planos."
+        },
+        {
+          "id": "E",
+          "texto": "A manipulação intensa dos tecidos favorece a cicatrização."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Durante o intraoperatório, fatores como **manejo cuidadoso dos tecidos**, **técnica atraumática**, **fechamento por planos** e **redução de tensão** impactam positivamente o desfecho da ferida. Tensão excessiva, manipulação traumática e fechamento inadequado prejudicam a evolução cicatricial.",
+      "referenciaAula": "Seja pelo próprio manejo cuidadoso dos tecidos durante a manipulação cirúrgica, seja pela técnica de fechamento, quando nós estamos pensando principalmente na questão da pele. Então, realizar uma técnica atraumática com fechamento por planos, com redução de tensão. Então, tudo isso vai ter também um impacto positivo na no desfecho da ferida operatória.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 155
+    },
+    {
+      "id": "Q-23-013",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "curativo simples",
+        "camada absortiva",
+        "gaze",
+        "fixação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O curativo tradicional simples utilizado rotineiramente no pós-operatório imediato é composto tipicamente por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas filme transparente sem camada absortiva."
+        },
+        {
+          "id": "B",
+          "texto": "Camada absortiva (compressa de gaze) fixada por faixa de algodão ou fita adesiva."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas hidrogel sem fixação."
+        },
+        {
+          "id": "D",
+          "texto": "Curativo de pressão negativa de uso obrigatório em todas as cirurgias limpas."
+        },
+        {
+          "id": "E",
+          "texto": "Alginato de cálcio aplicado diretamente sobre a sutura."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **curativo tradicional simples** é composto por uma **camada absortiva** (comumente a **compressa de gaze**), fixada por **faixa de algodão ou fita adesiva**. É o curativo mais básico, realizável em qualquer ambiente. Curativos avançados (hidrogel, hidrocoloides, alginatos, pressão negativa) existem mas não têm benefício claro em feridas operatórias convencionais.",
+      "referenciaAula": "O tipo de curativo mais simples, mais tradicional que nós vamos realizar é aquele que é composto por uma camada absortiva, né, que comumente nós vamos utilizar aí a compressa de gase. E essa camada vai ser fixa por algum mecanismo que pode ser ou uma faixa de algodão ou uma fita adesiva para poder manter esse curativo no local.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 330
+    },
+    {
+      "id": "Q-23-014",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "curativos avançados",
+        "hidrocoloide",
+        "alginato",
+        "evidência"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os curativos avançados (hidrogel, hidrocoloides, alginatos, filmes transparentes) em feridas operatórias incisionais de cirurgias classe 1 ou 2, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Devem ser utilizados rotineiramente em todas as cirurgias eletivas por superioridade comprovada."
+        },
+        {
+          "id": "B",
+          "texto": "Têm funções específicas e podem ser benéficos em feridas mais complexas, mas não há evidência de benefício claro em relação aos curativos simples nas feridas operatórias convencionais; o curativo de pressão negativa tem evidência apenas em casos específicos."
+        },
+        {
+          "id": "C",
+          "texto": "São contraindicados em qualquer tipo de ferida operatória."
+        },
+        {
+          "id": "D",
+          "texto": "Devem substituir obrigatoriamente o curativo simples no pós-operatório imediato."
+        },
+        {
+          "id": "E",
+          "texto": "Reduzem em mais de 50% o risco de infecção em qualquer ferida cirúrgica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em feridas operatórias mais convencionais (incisionais classe 1 ou 2), **não há evidência de benefício claro dos curativos avançados** em relação aos curativos simples, do ponto de vista de prevenção de infecção. Esses materiais (hidrogel, hidrocoloides, alginatos, filmes) podem ser benéficos em **feridas mais complexas**. O **curativo de pressão negativa** tem evidência **apenas em casos específicos**.",
+      "referenciaAula": "Podem ter benefícios em determinados tipos de feridas mais complexas, mas que nessa ferida operatória mais convencional que nós estamos comentando, não há evidência de um benefício claro desses curativos avançados em relação aos curativos simples. Bem como apenas uma evidência de uso de curativo de pressão negativa em alguns casos específicos.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 392
+    },
+    {
+      "id": "Q-23-015",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "trauma de partes moles",
+        "queimadura",
+        "antibioticoprofilaxia",
+        "descontaminação tópica"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente atendido em pronto-socorro após laceração extensa em membro inferior por queda em via pública. Após sutura primária da lesão, qual a conduta mais apropriada com relação à antibioticoprofilaxia e ao cuidado local?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iniciar antibioticoprofilaxia estendida por 7 dias para todos os casos de trauma de partes moles."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar boa descontaminação tópica da ferida; não está indicada antibioticoprofilaxia estendida em traumas de partes moles, suturas ou queimaduras."
+        },
+        {
+          "id": "C",
+          "texto": "A descontaminação tópica é desnecessária se for realizada sutura primária."
+        },
+        {
+          "id": "D",
+          "texto": "Antibioticoprofilaxia oral por 14 dias é mandatória em qualquer queimadura."
+        },
+        {
+          "id": "E",
+          "texto": "Substituir a descontaminação tópica por antibioticoterapia sistêmica prolongada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em **traumas de partes moles** (suturas) ou **queimaduras**, **não é indicada antibioticoprofilaxia estendida**. O essencial é realizar uma **boa descontaminação tópica** da ferida, especialmente no momento inicial, junto com o procedimento de reparo ou curativo. Não há evidência de superioridade da antibioticoprofilaxia prolongada nesses pacientes.",
+      "referenciaAula": "Na questão de trauma de partes moles, onde nós vamos realizar suturas, por exemplo, ou lesões como queimaduras, também não é indicada a realização de antibiótico e profilaxia estendida. É importantíssimo realizar sim uma boa descontaminação tópica dessas feridas. Mas não existe evidência da superioridade de uso de antibióticoprofilaxia prolongada nesses pacientes.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 661
+    },
+    {
+      "id": "Q-23-016",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "sutura intradérmica",
+        "grampos cirúrgicos",
+        "fios absorvíveis",
+        "métodos alternativos"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre métodos alternativos à sutura externa convencional com fio não absorvível para síntese cutânea, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Suturas intradérmicas com fios absorvíveis dispensam a remoção posterior dos pontos."
+        },
+        {
+          "id": "B",
+          "texto": "Os grampos cirúrgicos são amplamente utilizados no Brasil e dispensam dispositivo específico para retirada."
+        },
+        {
+          "id": "C",
+          "texto": "As suturas intradérmicas exigem retirada cuidadosa em todos os casos."
+        },
+        {
+          "id": "D",
+          "texto": "O nylon e o polipropileno são fios absorvíveis comumente usados em suturas externas."
+        },
+        {
+          "id": "E",
+          "texto": "Não existem alternativas à sutura externa convencional para síntese cutânea."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "As **suturas intradérmicas**, frequentemente realizadas com **pontos absorvíveis**, **dispensam a retirada posterior**, sendo amplamente utilizadas em cirurgia plástica. Os **grampos cirúrgicos** existem como alternativa, mas no **Brasil são pouco utilizados** e exigem **dispositivo específico** para sua retirada. **Nylon e polipropileno** são materiais **não absorvíveis** usados em suturas externas tradicionais.",
+      "referenciaAula": "Nós, por exemplo, na cirurgia plástica utilizamos com frequência as suturas intradérmicas que não precisam ser removidas depois. Frequentemente a gente faz isso com pontos absorvíveis. Porém, existem outros métodos alternativos, como os próprios grampos cirúrgicos, que aqui no Brasil são pouco utilizados, mas que também podem ser usados para síntese cutânea e que exigem dispositivos específicos.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 811
+    },
+    {
+      "id": "Q-23-017",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "força tênil",
+        "remodelação",
+        "colágeno",
+        "limitação mecânica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a recomendação de cuidado mecânico (limitação de atividades) após retirada dos pontos e a evolução da força tênil da cicatriz, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A força tênil da cicatriz se estabiliza em 24 horas após a sutura."
+        },
+        {
+          "id": "B",
+          "texto": "Existe controvérsia e evidência incompleta na literatura, mas em geral recomenda-se algum tipo de limitação adaptada à experiência do cirurgião e ao tipo de procedimento, lembrando que a ferida ganha força tênil progressivamente com o tempo pela remodelação do colágeno."
+        },
+        {
+          "id": "C",
+          "texto": "Há recomendação universal e bem definida na literatura sobre o tipo exato de restrição mecânica."
+        },
+        {
+          "id": "D",
+          "texto": "A força tênil diminui ao longo do tempo após a sutura."
+        },
+        {
+          "id": "E",
+          "texto": "Não há necessidade de qualquer limitação mecânica em qualquer cirurgia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A literatura tem **controvérsia e evidência incompleta** sobre limitação mecânica pós-operatória, sem **recomendação universal**. De modo geral, recomenda-se **algum tipo de limitação**, **adaptada pela experiência do cirurgião**, ao tipo de cirurgia e às condições do paciente. A ferida cirúrgica vai **ganhando força tênil com o tempo**, por **remodelação e melhora da qualidade do colágeno**.",
+      "referenciaAula": "Existe uma controvérsia grande e uma evidência muito incompleta. Existem poucos trabalhos que avaliaram isso. Não existe uma recomendação universal nesse sentido. Essas recomendações vão ter que ser adaptadas pela experiência do cirurgião. Toda a ferida cirúrgica, ela vai tendo um aumento de força tênil com o tempo, que é uma coisa óbvia do ponto de vista de remodelação desse colágeno, de melhora da qualidade desse colágeno na ferida operatória.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 903
+    },
+    {
+      "id": "Q-23-018",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cicatriz",
+        "reepitelização",
+        "evolução temporal",
+        "maturação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a transição entre ferida operatória e cicatriz e a evolução temporal esperada da cicatriz normal, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A cicatriz já está completamente madura aos 30 dias do pós-operatório."
+        },
+        {
+          "id": "B",
+          "texto": "A reepitelização ocorre tipicamente em torno de 7 a 14 dias, momento em que se passa a falar em cicatriz; aos 3 meses pode haver auge do eritema (fase proliferativa) e a maturação é processo de longo prazo."
+        },
+        {
+          "id": "C",
+          "texto": "O eritema da cicatriz é máximo no 1º mês e diminui linearmente a partir daí."
+        },
+        {
+          "id": "D",
+          "texto": "Cicatrizes normais nunca apresentam aumento transitório de eritema durante a evolução."
+        },
+        {
+          "id": "E",
+          "texto": "A reepitelização ocorre em até 24 horas após a cirurgia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Considera-se que com a **reepitelização** (em torno de **7 a 14 dias**) passa-se a falar em **cicatriz**. A evolução é de **longo prazo**: ao 1 mês há eritema evidente; **aos 3 meses pode haver aumento do eritema** (auge da fase proliferativa, prestes a iniciar a remodelação); progressivamente o eritema e o edema diminuem, a cicatriz se torna mais clara, macia e plana, podendo ter resultado bem maduro em torno de **2 anos e meio**.",
+      "referenciaAula": "Com esse restabelecimento da cobertura cutânea, que vai acontecer ali em torno de 7 a 14 dias, nós passamos então a falar em cicatriz. Aos 3 meses, nós podemos observar inclusive um aumento desse eritema. Essa cicatriz, ela tá no auge daquela fase proliferativa já para iniciar o processo de remodelação. Esse resultado tem 2 anos e meio de evolução, mas mostrando uma cicatriz já bem mais clara, com uma cor semelhante a da pele ao redor, uma cicatriz macia e mais plana.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 1205
+    },
+    {
+      "id": "Q-23-019",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "radiação ultravioleta",
+        "UVA",
+        "UVB",
+        "fotoproteção"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os efeitos da radiação ultravioleta sobre a ferida operatória/cicatriz, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A UVA é mais abundante que a UVB e penetra menos profundamente na pele."
+        },
+        {
+          "id": "B",
+          "texto": "A radiação UV não interfere em nenhum processo da cicatrização."
+        },
+        {
+          "id": "C",
+          "texto": "A UVB é a mais abundante, embora penetre menos na pele; a UVA penetra mais profundamente; a radiação UV promove aumento de radicais livres/espécies reativas de oxigênio, dano ao DNA, aumento de resposta inflamatória, estímulo à pigmentação e diminuição da migração de queratinócitos."
+        },
+        {
+          "id": "D",
+          "texto": "A radiação UV apenas causa hiperpigmentação, sem efeitos celulares relevantes na cicatrização."
+        },
+        {
+          "id": "E",
+          "texto": "Tanto UVA quanto UVB têm penetração idêntica na pele e efeitos sobrepostos."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **UVB é a mais abundante**, embora **penetre menos na pele**; a **UVA penetra mais profundamente**. A radiação UV provoca **aumento de radicais livres/espécies reativas de oxigênio**, **dano ao DNA**, **aumento da resposta inflamatória**, **estímulo à pigmentação** e **diminuição da migração de queratinócitos** — todos efeitos deletérios à cicatrização, justificando que a **prevenção da exposição solar seja a principal medida** profilática para a cicatriz.",
+      "referenciaAula": "A radiação UVB, ela é a mais abundante, embora seja que penetre menos na pele. A o VA ela penetra mais profundamente na pele. Vai acontecer um aumento de radicais livres, de espécies reativas de oxigênio nessa pele por causa da incidência de radiação travioleta. Isso vai promover dano ao DNA, um aumento de resposta inflamatória nessa ferida operatória, o estímulo à pigmentação, uma diminuição da migração de queratinócitos.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 1359
+    },
+    {
+      "id": "Q-23-020",
+      "aulaOrigem": 23,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "silicone tópico",
+        "mecanismo de ação",
+        "hidratação",
+        "cicatriz"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente em pós-operatório de abdominoplastia, 30 dias após o procedimento, com ferida reepitelizada, retorna em consulta para iniciar cuidados com a cicatriz. O cirurgião opta por iniciar produto à base de silicone tópico (gel ou fita autoadesiva). Sobre o mecanismo de ação do silicone, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O silicone age exclusivamente por absorção sistêmica e ação anti-inflamatória central."
+        },
+        {
+          "id": "B",
+          "texto": "O mecanismo exato não é totalmente compreendido, mas postula-se ação por aumento da hidratação da cicatriz, oclusão, alteração da tensão de oxigênio sobre a superfície e alterações eletrostáticas; apesar da incerteza mecanística, diversos estudos demonstram efeito benéfico na evolução da cicatriz."
+        },
+        {
+          "id": "C",
+          "texto": "O silicone tem mecanismo bem definido por bloqueio direto da síntese de colágeno."
+        },
+        {
+          "id": "D",
+          "texto": "Não há qualquer evidência de benefício do silicone na evolução cicatricial."
+        },
+        {
+          "id": "E",
+          "texto": "Atua exclusivamente como filtro solar de amplo espectro."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **mecanismo exato do silicone não é totalmente compreendido**. Postulam-se mecanismos como **aumento da hidratação da cicatriz**, **oclusão**, **alteração da tensão de oxigênio** sobre a superfície e **alterações eletrostáticas**. Apesar dessa incerteza mecanística, **diversos estudos demonstram efeito benéfico** do silicone na evolução e maturação da cicatriz, motivo pelo qual é amplamente utilizado nas formas de **gel** ou **fitas autoadesivas**.",
+      "referenciaAula": "O mecanismo exato da ação do silicone, ele não é totalmente compreendido, mas se postula que pelo aumento da hidratação da cicatriz, o próprio processo de oclusão e alteração ali da tensão de oxigênio sobre a superfície da cicatriz pode ter algum tipo de efeito. Mesmo alterações eletrostáticas da superfície ali vão poder mexer nesses processos celulares. Mas enfim, embora não se conheça precisamente o efeito do silicone, nós sabemos por diversos estudos que ele tem um papel benéfico nessa evolução da cicatriz.",
+      "transversal": false,
+      "videoAulaId": 23,
+      "videoStartSec": 1442
     }
   ]
 }

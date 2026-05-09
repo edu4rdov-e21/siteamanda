@@ -464,6 +464,466 @@
       "transversal": false,
       "videoAulaId": 9,
       "videoStartSec": 2071
+    },
+    {
+      "id": "Q-09-011",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "enterorragia",
+        "terminologia",
+        "sangue vivo"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a terminologia 'enterorragia' e o termo leigo 'sangue vivo', assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Enterorragia significa sangramento intestinal de qualquer origem; 'sangue vivo' e termo leigo que nao deve ser usado, sendo o termo correto hematoquezia."
+        },
+        {
+          "id": "B",
+          "texto": "Enterorragia significa exclusivamente sangramento gastrico."
+        },
+        {
+          "id": "C",
+          "texto": "'Sangue vivo' e o termo cientificamente correto, equivalente a melena."
+        },
+        {
+          "id": "D",
+          "texto": "Enterorragia e sinonimo de sangramento obscuro."
+        },
+        {
+          "id": "E",
+          "texto": "Enterorragia so pode ser usada para sangramentos do reto."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "**Enterorragia** e qualquer sangramento intestinal e geralmente ocorre em volume maior, podendo se manifestar tanto em segmentos proximais quanto distais. O termo leigo **'sangue vivo'** nao deve ser usado em meio medico (nao existe sangue 'vivo' nem 'morto'); o termo tecnico correspondente e **hematoquezia**.",
+      "referenciaAula": "Enterorragia e o sangramento do intestino. Qualquer sangramento intestinal a gente denomina enterorragia. Sangue vivo e um termo leigo que nao existe sangue vivo nem sangue morto. Entao, hematoquesia e o termo correto.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 91
+    },
+    {
+      "id": "Q-09-012",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "epidemiologia",
+        "incidencia",
+        "letalidade"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da hemorragia digestiva baixa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A incidencia anual e de aproximadamente 500 casos por 100.000 habitantes."
+        },
+        {
+          "id": "B",
+          "texto": "A letalidade global e proxima de 50%."
+        },
+        {
+          "id": "C",
+          "texto": "A incidencia varia entre 20 e 80 casos por 100.000 e a letalidade pode chegar a 8%, especialmente em pacientes ja internados em condicao critica."
+        },
+        {
+          "id": "D",
+          "texto": "Pacientes ambulatoriais sem comorbidade tem mortalidade equivalente aos internados em UTI."
+        },
+        {
+          "id": "E",
+          "texto": "A letalidade nao depende do contexto clinico do paciente."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A incidencia descrita e de **20 a 80 casos por 100.000 habitantes** (variando conforme o levantamento) e a letalidade pode chegar a **8%**, mas ela e **fortemente influenciada pelo contexto**: pacientes ja **internados em condicao critica** apresentam letalidade significativamente maior. Em geral, a HDB raramente leva a instabilidade tao importante a ponto de provocar mortalidade elevada em pacientes previamente higidos.",
+      "referenciaAula": "a incidencia ela e ao redor disso entre 20 e 80 casos por 100.000, dependendo da caso do tipo de levantamento que e feito, tem uma letalidade que chega a 8%, mas principalmente em pessoas que estao internadas.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 273
+    },
+    {
+      "id": "Q-09-013",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "fissura anal",
+        "diagnostico diferencial",
+        "dor"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual e a principal caracteristica clinica que diferencia o sangramento da FISSURA anal do sangramento da doenca hemorroidaria?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A fissura cursa com sangramento de volume maior e indolor."
+        },
+        {
+          "id": "B",
+          "texto": "A fissura cursa com sangramento de volume menor, porem ACOMPANHADO DE DOR, enquanto a hemorroida tipicamente nao dói (exceto se trombosada)."
+        },
+        {
+          "id": "C",
+          "texto": "Tanto fissura quanto hemorroida cursam classicamente com dor intensa."
+        },
+        {
+          "id": "D",
+          "texto": "A fissura e indolor e a hemorroida cursa sempre com dor intensa."
+        },
+        {
+          "id": "E",
+          "texto": "A fissura provoca sangramento misturado as fezes, ja a hemorroida nunca sangra."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **fissura anal**, o sangramento e de **menor volume porem com DOR** (a fissura dói durante e apos a evacuacao). Ja a **doenca hemorroidaria** classicamente cursa com sangramento vermelho vivo apos evacuacao **sem dor**, exceto quando a hemorroida esta inflamada ou trombosada. Esse contraste clinico e essencial no diagnostico diferencial das doencas orificiais.",
+      "referenciaAula": "Se voce tiver uma uma fissura no canal anal, o sangramento e um volume menor, mas e e acompanhado por dor. A hemorroida normalmente nao doi. So se ela tiver inflamada com uma trombose, mas normalmente ela nao doi.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 781
+    },
+    {
+      "id": "Q-09-014",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "doenca diverticular",
+        "fisiopatologia",
+        "vasos penetrantes"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fisiopatologia do sangramento na doenca diverticular dos colons, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O sangramento ocorre porque uma venula superficial sangra para a cavidade peritoneal."
+        },
+        {
+          "id": "B",
+          "texto": "O diverticulo se forma onde os vasos penetrantes atravessam a camada muscular; sobre o diverticulo ha sempre uma arteriola que pode romper e sangrar arterialmente para dentro do lume intestinal, sendo mais comum no colon direito."
+        },
+        {
+          "id": "C",
+          "texto": "O sangramento decorre de invasao tumoral da arteria mesenterica."
+        },
+        {
+          "id": "D",
+          "texto": "O sangramento e tipicamente venoso, de baixa pressao e pequeno volume."
+        },
+        {
+          "id": "E",
+          "texto": "Os diverticulos so sangram quando estao infectados (diverticulite)."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O diverticulo se forma exatamente nos pontos onde os **vasos penetrantes** (arteriola e venula) atravessam a camada muscular, criando um locus minoris resistentiae. Sobre o diverticulo ha sempre uma **arteriola** que pode romper e provocar sangramento **arterial para dentro do lume**, explicando o grande volume tipico. E mais comum no **colon direito**. Cabe lembrar que a hemorragia diverticular ocorre tipicamente **sem sinais de diverticulite** associada.",
+      "referenciaAula": "Em cima do diverticulo sempre tem uma arteriula, que e o vaso que era o vaso penetrante na parede. E essa arteriula em cima, ela rompe e sangra sempre pra dentro do lume. Normalmente e mais comum um sangramento do colon direito.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 966
+    },
+    {
+      "id": "Q-09-015",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "antiagregantes",
+        "anticoagulantes",
+        "fator de risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 76 anos, em uso cronico de AAS e clopidogrel apos AVC, com diagnostico previo de doenca hemorroidaria, apresenta aumento da frequencia e do volume dos sangramentos anais. Qual a melhor explicacao para esse padrao?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os antiagregantes plaquetarios e anticoagulantes nao influenciam sangramentos por hemorroidas ou angiodisplasias."
+        },
+        {
+          "id": "B",
+          "texto": "O uso de antiagregantes e anticoagulantes potencializa e aumenta a frequencia e o volume de sangramento em portadores de hemorroidas e em lesoes vasculares (ex.: angiodisplasias), sendo um fator de risco relevante em idosos."
+        },
+        {
+          "id": "C",
+          "texto": "O quadro indica obrigatoriamente recidiva tumoral oculta."
+        },
+        {
+          "id": "D",
+          "texto": "A unica conduta possivel e suspender definitivamente os antiagregantes sem reavaliacao do risco cardiovascular."
+        },
+        {
+          "id": "E",
+          "texto": "Idosos sangram menos que jovens com o uso desses medicamentos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O uso de **AAS, clopidogrel e anticoagulantes** e bastante frequente em idosos para prevencao secundaria (AVC, FA etc.) e atua como **fator agravante**: potencializa o volume e a frequencia de sangramento em pacientes com hemorroidas e em **lesoes vasculares** como angiodisplasias. Isso explica por que muitas vezes a hemorroida que sangrava pouco passa a sangrar de forma mais expressiva apos o inicio dessas medicacoes.",
+      "referenciaAula": "a gente ve hoje em dia pessoas que associam o uso de clopidogrel, acido acetilsalicilico, qualquer anticoagulante, portadoras de hemorroida, que chegam a ter um sangramento mais expressivo por causa que o uso do medicamento potencializa, aumenta o volume do sangramento, a frequencia.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 1146
+    },
+    {
+      "id": "Q-09-016",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "transfusao",
+        "manejo inicial",
+        "hemoglobina"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a estrategia de transfusao no manejo inicial da hemorragia digestiva baixa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Toda hemorragia digestiva baixa exige transfusao imediata, independentemente da hemoglobina."
+        },
+        {
+          "id": "B",
+          "texto": "A transfusao sempre reduz o sangramento e nao aumenta morbidade."
+        },
+        {
+          "id": "C",
+          "texto": "Hoje em dia, com hemoglobina menor que 7 g/dL muitas vezes nao se transfunde, desde que o paciente estabilize, pois a transfusao se associa a morbidade e pode aumentar o sangramento (discrasia sanguinea); transfunde-se conforme criterios e condicao clinica (ex.: cardiopatia)."
+        },
+        {
+          "id": "D",
+          "texto": "O alvo de hemoglobina recomendado para todos os pacientes e maior que 12 g/dL."
+        },
+        {
+          "id": "E",
+          "texto": "Cristaloides nao devem ser usados na estabilizacao inicial."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A estrategia atual e **restritiva**: hemoglobina **<7 g/dL** muitas vezes **nao e transfundida** se o paciente estabiliza com cristaloides, pois a transfusao traz **morbidade**, pode contribuir para **discrasia sanguinea** e aumentar o sangramento. Os criterios sao individualizados: pacientes com **cardiopatia** ou que nao toleram hemoglobina mais baixa podem necessitar transfusao em niveis um pouco maiores.",
+      "referenciaAula": "hoje em dia, hemoglobina menor que sete muitas vezes nao transfunde. Se paciente consegue estabilizar a menos que ele tenha uma condicao clinica que precise, uma cardiopatia. A transfusao ela e associada a morbidade, ela pode aumentar a quantidade de sangramento.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 1680
+    },
+    {
+      "id": "Q-09-017",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "toque retal",
+        "exame fisico",
+        "ambulatorio"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Em consulta ambulatorial de rotina, paciente assintomatico submetido a toque retal apresenta sangue na luva. Qual a interpretacao e conduta MAIS adequadas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "E um achado normal e nao requer investigacao adicional."
+        },
+        {
+          "id": "B",
+          "texto": "Sangue na luva ao toque retal NAO deve ser interpretado como sangramento orificial; corresponde tipicamente a sangramento secundario (polipo, tumor ou outra lesao) e requer investigacao."
+        },
+        {
+          "id": "C",
+          "texto": "Indica obrigatoriamente fissura anal aguda."
+        },
+        {
+          "id": "D",
+          "texto": "Significa sempre hemorroida, sem necessidade de exames."
+        },
+        {
+          "id": "E",
+          "texto": "Indica que o exame foi mal-realizado e deve ser desconsiderado."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **toque retal** e parte essencial da avaliacao ambulatorial. **Sangue na luva** em paciente em consulta de rotina **nao deve ser atribuido a doenca orificial**: trata-se de sangramento secundario que pode corresponder a um **polipo**, **tumor** ou outra lesao colorretal, exigindo investigacao com colonoscopia. Atribuir sangramento a 'so hemorroida' sem investigar e um erro classico.",
+      "referenciaAula": "quando voce tem no toque, o paciente ta numa consulta de rotina ambulatorial, voce faz o toque, tem sangue, a gente tem que pensar em nao e orificial. O sangue na luva nao e o deve ser um sangramento secundario, e um polipo ou um tumor ou alguma outra lesao.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 1594
+    },
+    {
+      "id": "Q-09-018",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "neoplasia colorretal",
+        "sangue misturado",
+        "diagnostico diferencial"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 64 anos, refere sangramento intermitente ha cerca de 5 meses, com sangue MISTURADO as fezes, afilamento das fezes, dor abdominal em colica e perda de peso. Qual a hipotese diagnostica MAIS provavel e como diferencia-la do sangramento orificial?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doenca hemorroidaria, pois o sangramento e intermitente."
+        },
+        {
+          "id": "B",
+          "texto": "Neoplasia colorretal: o sangue vem MISTURADO as fezes, com alteracao do habito intestinal, afilamento das fezes, dor em colica e emagrecimento, diferentemente do sangramento orificial que e percebido apenas na higiene ou como gotejamento APOS evacuacao."
+        },
+        {
+          "id": "C",
+          "texto": "Colite isquemica, pois ha dor abdominal."
+        },
+        {
+          "id": "D",
+          "texto": "Lesao actinica, mesmo sem antecedente de radioterapia."
+        },
+        {
+          "id": "E",
+          "texto": "Doenca diverticular, pelo perfil etario."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro e classico de **neoplasia colorretal**: lesao que cresce para o lume reduzindo-o, levando a **alteracao do habito intestinal, afilamento das fezes, dor em colica, emagrecimento** e sangue **misturado as fezes**. Isso a diferencia do **sangramento orificial** (hemorroida), em que o sangue e percebido na **higiene** ou como **gotejamento APOS evacuacao**, sem alteracao do habito ou perda de peso. Em paciente nessa faixa etaria, e essencial afastar neoplasia.",
+      "referenciaAula": "Sangramento orificial, a diferenca e que o paciente percebe na hora de fazer a higiene, gotejamento apos evacuacao. E o sangramento da neoplasia do cancer e um sangramento tambem intermitente, o volume nao e tao grande, mas ele e misturado nas fezes.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 426
+    },
+    {
+      "id": "Q-09-019",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "embolizacao",
+        "complicacoes",
+        "ressangramento"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tratamento por EMBOLIZACAO durante a angiotomografia/arteriografia em hemorragia digestiva baixa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apresenta sucesso de 80-90%, risco de ressangramento de 15 a 40% e pode estar associada a complicacoes como perfuracao ou isquemia segmentar; depende da disponibilidade de equipamento, bomba de infusao e radiologista dedicado, o que limita seu uso fora de horario comercial mesmo em hospitais terciarios."
+        },
+        {
+          "id": "B",
+          "texto": "Apresenta sucesso proximo de 100% e nao tem complicacoes."
+        },
+        {
+          "id": "C",
+          "texto": "Esta amplamente disponivel em todos os servicos de pronto-socorro do pais, a qualquer hora."
+        },
+        {
+          "id": "D",
+          "texto": "Nao oferece risco de isquemia ou perfuracao, pois e um procedimento nao invasivo."
+        },
+        {
+          "id": "E",
+          "texto": "Tem indicacao apenas no sangramento do delgado, nunca no colon."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **embolizacao** durante angiotomografia/arteriografia tem **sucesso de 80-90%** mas com **risco de ressangramento de 15-40%** e pode causar **complicacoes** como perfuracao e isquemia do segmento embolizado. A grande limitacao pratica e a **disponibilidade**: requer equipamento, bomba de infusao e radiologista dedicado. A noite ou em fins de semana, mesmo em hospitais terciarios, frequentemente nao se dispoe da equipe completa para realizar o procedimento.",
+      "referenciaAula": "voce fazendo, tendo a oportunidade de fazer embolizacao, o sucesso ta entre 80 e 90%, o risco de ressangramento 15 a 40%. E a embolizacao pode estar associada com algum grau de complicacao, por exemplo, uma perfuracao, levar um segmento de isquemia.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 1861
+    },
+    {
+      "id": "Q-09-020",
+      "aulaOrigem": 9,
+      "blocos": [
+        "B"
+      ],
+      "eixos": [
+        "T2"
+      ],
+      "tags": [
+        "ureia creatinina",
+        "sangramento proximal",
+        "endoscopia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 70 anos, chega com hematoquezia volumosa. Exames laboratoriais mostram relacao ureia/creatinina = 42. Qual a interpretacao correta e qual exame deve ser priorizado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Relacao maior que 30 fala A FAVOR de origem PROXIMAL do sangramento (sangue no tubo digestivo proximal aumenta a ureia); deve-se priorizar a endoscopia digestiva alta para afastar fonte alta, inclusive tumor de fundo gastrico."
+        },
+        {
+          "id": "B",
+          "texto": "Relacao maior que 30 indica certamente origem distal; deve-se ir direto a colonoscopia."
+        },
+        {
+          "id": "C",
+          "texto": "A relacao ureia/creatinina nao tem valor na diferenciacao entre sangramento alto e baixo."
+        },
+        {
+          "id": "D",
+          "texto": "Esse achado descarta totalmente a necessidade de EDA."
+        },
+        {
+          "id": "E",
+          "texto": "Significa apenas desidratacao e nao tem relacao com o sitio do sangramento."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **relacao ureia/creatinina >30** sugere fortemente origem **PROXIMAL** do sangramento: o sangue no tubo digestivo proximal e digerido e absorvido, **aumentando a ureia serica** sem alteracao proporcional da creatinina. Mesmo na hematoquezia volumosa, sangramentos altos volumosos podem se manifestar como hematoquezia. Por isso, em HDB com instabilidade ou achado laboratorial sugestivo, **prioriza-se a endoscopia digestiva alta** (que tambem permite identificar tumores de fundo gastrico, causa importante de anemia).",
+      "referenciaAula": "se faz hoje, muitas vezes na vigencia de sangramento maior a relacao ureia creatinina. E quando e maior que 30 fala a favor de sangramento proximal. Porque o sangue no tubo digestivo proximal aumenta a quantidade de ureia no sangue.",
+      "transversal": false,
+      "videoAulaId": 9,
+      "videoStartSec": 1772
     }
   ]
 }

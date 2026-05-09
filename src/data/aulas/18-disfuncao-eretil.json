@@ -473,6 +473,483 @@
       "transversal": false,
       "videoAulaId": 18,
       "videoStartSec": 1180
+    },
+    {
+      "id": "Q-18-011",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "tipos de ereção",
+        "psicogênica",
+        "reflexa",
+        "arco reflexo"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os tipos de ereção descritos na fisiologia peniana, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Existe apenas um tipo de ereção, mediado pelo simpático toracolombar."
+        },
+        {
+          "id": "B",
+          "texto": "Há dois tipos: a ereção mediada por estímulos do sistema nervoso central superior (visual, auditivo, cognitivo) e a reflexa, que ocorre por arco a nível de S2-S4."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas estímulos táteis genitais são capazes de gerar ereção."
+        },
+        {
+          "id": "D",
+          "texto": "Estímulos cognitivos não participam da fisiologia da ereção."
+        },
+        {
+          "id": "E",
+          "texto": "A ereção reflexa ocorre por arco em nível de T11-L2."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Existem **dois tipos de ereção**: (1) a **psicogênica**, desencadeada por estímulos visuais, auditivos ou cognitivos do sistema nervoso central superior; e (2) a **reflexa**, mediada por um arco reflexo em nível de **S2-S4** (parassimpático sacral), provocada principalmente por estímulos táteis. Ambas convergem na liberação de NO e relaxamento da musculatura lisa cavernosa.",
+      "referenciaAula": "Esse estímulo, ele pode ser visual, ele pode ser auditivo, ele pode ser cognitivo e, inclusive pode ser tátil. Então, nós teríamos dois tipos de ereção. Então, uma ereção, eh, que seriam com esses estímulos eh do sistema nervoso central superior, visual, auditivo, cognitivo, e o outro que seria um arco reflexo, que seria ali a nível de S2, S4.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 96
+    },
+    {
+      "id": "Q-18-012",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "anatomia peniana",
+        "artérias helicinas",
+        "sinusoides"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a microvasculatura responsável pelo enchimento do corpo cavernoso, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Da artéria cavernosa saem centenas a milhares de pequenas artérias chamadas helicinas, que alimentam os espaços sinusoides."
+        },
+        {
+          "id": "B",
+          "texto": "As artérias helicinas se originam diretamente da aorta abdominal."
+        },
+        {
+          "id": "C",
+          "texto": "Os sinusoides são alimentados diretamente pelas veias emissárias."
+        },
+        {
+          "id": "D",
+          "texto": "O corpo esponjoso é o principal local de enchimento sanguíneo durante a ereção."
+        },
+        {
+          "id": "E",
+          "texto": "Não existe musculatura lisa nas paredes das artérias helicinas."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "No centro de cada corpo cavernoso passa uma **artéria cavernosa**, da qual emergem **centenas a milhares de artérias helicinas**, que por sua vez alimentam os **espaços sinusoides**. Tanto a parede da artéria cavernosa quanto da artéria helicina e dos sinusoides apresentam **musculatura lisa**, cujo relaxamento é o evento central do enchimento e ereção.",
+      "referenciaAula": "Dessas artérias cavernosas saem centenas a milhares de pequenas artérias chamados elicinas, que vão a alimentar com sangue espaços sinusoides. Tanto na parede da artéria cavernosa, quanto da artéria elicina, quanto dos sinusoides, nós temos musculatura lisa.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 210
+    },
+    {
+      "id": "Q-18-013",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "flacidez",
+        "hemodinâmica",
+        "veias emissárias"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o estado de flacidez peniana, qual descrição hemodinâmica está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A artéria cavernosa está dilatada e os sinusoides totalmente abertos."
+        },
+        {
+          "id": "B",
+          "texto": "A artéria cavernosa apresenta calibre reduzido, a artéria helicina está praticamente fechada e os sinusoides virtualmente fechados; o pouco sangue que chega retorna pelas veias emissárias abertas."
+        },
+        {
+          "id": "C",
+          "texto": "Predomina o tônus parassimpático, mantendo as veias colabadas."
+        },
+        {
+          "id": "D",
+          "texto": "Há liberação contínua de óxido nítrico endotelial mantendo o relaxamento."
+        },
+        {
+          "id": "E",
+          "texto": "A túnica albugínea está colabada, comprimindo as veias emissárias."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **flacidez** predomina o tônus **simpático**, mantendo a musculatura lisa contraída: a artéria cavernosa tem calibre reduzido, as artérias helicinas estão praticamente fechadas e os sinusoides virtualmente vazios. Como o corpo cavernoso não está distendido, as **veias emissárias permanecem abertas**, permitindo o retorno do pequeno volume de sangue que chega ao órgão.",
+      "referenciaAula": "No estado de flacidez essa artéria, ela tem um calibre reduzido, a artéria elicina, ela praticamente está fechada e os sinusoides, eles estão virtualmente fechados. E essas veias que estão em azul, elas estão abertas. Então, o pouco de sangue que chega no corpo cavernoso, ele acaba voltando para o corpo através dessas veias que são chamadas de veias emissárias.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 300
+    },
+    {
+      "id": "Q-18-014",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "detumescência",
+        "ejaculação",
+        "simpático"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a perda da ereção (detumescência) após o orgasmo, qual é o mecanismo descrito?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Esgotamento dos estoques de ATP na musculatura lisa cavernosa."
+        },
+        {
+          "id": "B",
+          "texto": "Ocorre contração da musculatura lisa, com liberação das veias emissárias e perda da ereção, evento associado ao orgasmo e à ejaculação."
+        },
+        {
+          "id": "C",
+          "texto": "Aumento súbito da liberação de óxido nítrico endotelial."
+        },
+        {
+          "id": "D",
+          "texto": "Redução abrupta da pressão arterial sistêmica que diminui o aporte arterial."
+        },
+        {
+          "id": "E",
+          "texto": "Acúmulo brusco de GMP cíclico nos sinusoides."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **detumescência** após o orgasmo decorre da **contração da musculatura lisa cavernosa** mediada pelo **simpático (T11-L2)**, que reduz o calibre das artérias e dos sinusoides. Com a redução do diâmetro do corpo cavernoso, as **veias emissárias se descomprimem (são liberadas)** e o sangue retorna ao sistema venoso, levando à perda da ereção.",
+      "referenciaAula": "Quando ele tiver o orgasmo e a ejaculação, ocorre então uma contração da musculatura lisa, e libera essas veias, então o indivíduo acaba perdendo a ereção.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 392
+    },
+    {
+      "id": "Q-18-015",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "AMP cíclico",
+        "PGE1",
+        "VIP",
+        "vias alternativas"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Além da via clássica do óxido nítrico/GMPc, existem vias alternativas de relaxamento da musculatura lisa cavernosa. Qual descrição está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A via do AMP cíclico, ativada por substâncias como prostaglandina E1 e polipeptídeo intestinal vasoativo (VIP), também leva ao empobrecimento de cálcio citoplasmático e ao desacoplamento actina-miosina."
+        },
+        {
+          "id": "B",
+          "texto": "Não existem vias alternativas; toda ereção depende exclusivamente do GMP cíclico."
+        },
+        {
+          "id": "C",
+          "texto": "A prostaglandina E1 atua aumentando o cálcio intracelular."
+        },
+        {
+          "id": "D",
+          "texto": "O AMP cíclico é convertido diretamente em GMP cíclico para gerar relaxamento."
+        },
+        {
+          "id": "E",
+          "texto": "O VIP funciona como agonista adrenérgico nas células musculares lisas cavernosas."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Existe uma **via paralela** ao GMPc: o **AMP cíclico**, gerado a partir do ATP por fosforilação. Substâncias como **prostaglandina E1 (PGE1)** e **polipeptídeo intestinal vasoativo (VIP)** ativam essa via, levando ao mesmo desfecho — **redução do cálcio intracelular** e desacoplamento actina-miosina. Essa via fundamenta o uso clínico do **alprostadil** (PGE1 sintética) como terapia intracavernosa em pacientes que não respondem aos iPDE5.",
+      "referenciaAula": "Existem outras vias de relaxamento que seria, por exemplo, através do AMP cíclico, na qual o ATP ele recebe uma fosforilização e acaba se transformando em AMP cíclico, mas acaba tendo o mesmo mecanismo, ou seja, empobrecendo o citoplasma de cálcio. Outras drogas podem levar a esse relaxamento. Então, por exemplo, a prostaglandina E1, o polipeptídeo vaso intestinal.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 544
+    },
+    {
+      "id": "Q-18-016",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "actina",
+        "miosina",
+        "ATP",
+        "biologia molecular"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a dinâmica molecular do sistema actina-miosina nas células musculares lisas do corpo cavernoso, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A contração consome ATP, mas o relaxamento ocorre passivamente, sem gasto energético."
+        },
+        {
+          "id": "B",
+          "texto": "Tanto a contração quanto o relaxamento da musculatura lisa consomem energia, com transformação de ATP em ADP e fosfato inorgânico, sendo o relaxamento marcado pelo desacoplamento das cabeças de miosina da actina."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas o GMP cíclico afeta o sistema actina-miosina, não havendo participação do cálcio."
+        },
+        {
+          "id": "D",
+          "texto": "A musculatura lisa cavernosa apresenta sarcômeros bem definidos, à semelhança da musculatura estriada."
+        },
+        {
+          "id": "E",
+          "texto": "O desacoplamento actina-miosina depende do aumento do cálcio intracelular."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A musculatura lisa cavernosa **não possui sarcômeros**: apresenta filamentos de actina ancorados em corpos densos com miosina interposta. Na contração, as **cabeças de miosina** se ligam à actina e dobram, encurtando a fibra. No relaxamento, ocorre o **desacoplamento** dessas cabeças. Importante: **ambos os processos consomem ATP**, com transformação em ADP e fosfato inorgânico — o relaxamento não é um evento passivo.",
+      "referenciaAula": "Tanto o relaxamento quanto a contração consomem energia, ou seja, o ATP se transforma em ADP mais um fosfato inorgânico.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 693
+    },
+    {
+      "id": "Q-18-017",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "DE psicogênica",
+        "anamnese",
+        "depressão",
+        "ansiedade"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 34 anos relata início súbito de disfunção erétil há 3 meses, coincidindo com separação conjugal e quadro depressivo. Mantém ereções matinais espontâneas e durante masturbação. Qual a abordagem mais apropriada nesta situação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Solicitar imediatamente Doppler peniano e cavernosometria, pois o quadro é claramente vasculogênico."
+        },
+        {
+          "id": "B",
+          "texto": "Conversar com o paciente e, de preferência, com a parceira; abordar fatores psicossociais (depressão, ansiedade, conflitos sociais), pois esses elementos podem por si só causar queda do perfil erétil."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar prótese peniana imediatamente."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar reposição de testosterona empiricamente."
+        },
+        {
+          "id": "E",
+          "texto": "Encaminhar para investigação cardiológica completa antes de qualquer outra conduta."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro é altamente sugestivo de **DE psicogênica**: paciente jovem, início súbito ligado a evento estressor, com **preservação de ereções matinais e em automasturbação** (sinal cardinal de integridade neurovascular). A disfunção erétil tem forte componente **psicossocial**: depressão, ansiedade, conflitos conjugais. A abordagem inclui ouvir paciente e parceira, sem partir para investigação invasiva ou tratamentos drásticos como primeira linha.",
+      "referenciaAula": "A disfunção erétil, ela é um fator, uma doença que tem muito a ver com a parte psicossocial. Então, se o indivíduo tem depressão, se ele tem ansiedade, se ele tem algum problema do ponto de vista social, se ele brigou com a parceira dele, tudo isso pode levar a uma queda do perfil herétil desse paciente. Então, é muito importante nós conversarmos com o paciente e de preferência também com a sua parceira.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 725
+    },
+    {
+      "id": "Q-18-018",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "DE neurogênica",
+        "diabetes",
+        "esclerose múltipla",
+        "AVC"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 60 anos com diabetes mellitus de longa data e mau controle glicêmico apresenta disfunção erétil progressiva. Refere também perda parcial da sensibilidade dos pés. Qual o mecanismo fisiopatológico predominante e quais outras condições compartilham esse mesmo mecanismo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lesão do estímulo neural antes que ele chegue ao órgão efetor (corpos cavernosos), mecanismo presente também na esclerose múltipla, no AVC e em cirurgias que lesam os feixes neurovasculares — como neuropatia autonômica diabética."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas hipogonadismo, com mecanismo exclusivamente hormonal."
+        },
+        {
+          "id": "C",
+          "texto": "Trombose das veias emissárias, condição típica do diabetes."
+        },
+        {
+          "id": "D",
+          "texto": "Doença de Peyronie associada ao diabetes."
+        },
+        {
+          "id": "E",
+          "texto": "Atrofia testicular pelo diabetes, sem componente neural."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "O diabetes leva à **neuropatia autonômica**, lesando as fibras que conduzem o estímulo erétil até o corpo cavernoso. Sem o estímulo, **não há liberação de óxido nítrico** e a cascata de relaxamento não ocorre. O mesmo mecanismo de lesão neural ocorre em **esclerose múltipla**, **acidente vascular cerebral** e em cirurgias que lesam os nervinhos (como prostatectomia radical). Por isso, esses pacientes podem responder mal aos iPDE5, que dependem de estímulo neural intacto.",
+      "referenciaAula": "Você tem que ter o estímulo e esse estímulo tem que chegar ao órgão efetor, que no caso em questão seria os corpos cavernosos. Se você tem alguma lesão, obviamente esse estímulo não chega lá, não vai liberar óxido nítrico. Então, doenças como diabetes méicos, que leva à neuropatia autonômica, esclerose múltipla, acidente vascular cerebral, até mesmo cirurgias que levam a lesão desses nervinhos, podem causar a disfunção herétil.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 759
+    },
+    {
+      "id": "Q-18-019",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "fatores de risco",
+        "aterosclerose",
+        "estilo de vida",
+        "prevenção"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os fatores de risco que levam à aterosclerose e, por consequência, à disfunção erétil de origem vasculogênica, qual conjunto está CORRETAMENTE listado conforme apresentado na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas tabagismo e diabetes; os demais fatores não têm relação com DE."
+        },
+        {
+          "id": "B",
+          "texto": "Tabagismo, estresse, obesidade, dieta rica em carboidratos simples, diabetes, sedentarismo e histórico familiar cardiovascular — os mesmos fatores de risco da doença coronariana."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas histórico familiar; os demais fatores são modificáveis e não relevantes."
+        },
+        {
+          "id": "D",
+          "texto": "Hipotireoidismo, hiperprolactinemia e deficiência de zinco."
+        },
+        {
+          "id": "E",
+          "texto": "Excesso de exercício físico e dieta hiperproteica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A aterosclerose é desencadeada pelo conjunto de **fatores de risco compartilhados com a doença coronariana**: **tabagismo, estresse, obesidade, dieta rica em carboidratos simples, diabetes, sedentarismo e histórico familiar cardiovascular**. O controle desses fatores tem impacto duplo — preserva a função endotelial cavernosa (e portanto a ereção) e reduz risco coronariano. Daí o aforismo: cuidar da saúde cardiovascular é cuidar também da função erétil.",
+      "referenciaAula": "E o que que leva a aterosclerose? São os mesmos fatores de risco para a doença coronariana. Então, seria o quê? Tabagismo, estress, obesidade, dieta muito rica em carboidratos simples, diabetes, sedentarismo e até mesmo do ponto de vista genético, que seria um histórico familiar cardiovascular.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 965
+    },
+    {
+      "id": "Q-18-020",
+      "aulaOrigem": 18,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T4",
+        "T8"
+      ],
+      "tags": [
+        "disfunção endotelial",
+        "óxido nítrico",
+        "aterosclerose",
+        "fisiopatologia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a relação entre disfunção endotelial, óxido nítrico e aterosclerose no contexto da disfunção erétil, qual sequência fisiopatológica está CORRETAMENTE descrita?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Disfunção endotelial leva à diminuição do óxido nítrico, predomínio da contração (contrário à ereção); o estágio final da disfunção endotelial é a aterosclerose, com destruição do endotélio."
+        },
+        {
+          "id": "B",
+          "texto": "Disfunção endotelial aumenta a produção de óxido nítrico e leva a ereções involuntárias."
+        },
+        {
+          "id": "C",
+          "texto": "A aterosclerose precede e causa diretamente a disfunção endotelial."
+        },
+        {
+          "id": "D",
+          "texto": "O óxido nítrico é produzido pela musculatura lisa cavernosa, não pelo endotélio."
+        },
+        {
+          "id": "E",
+          "texto": "A disfunção endotelial não interfere na fisiologia da ereção."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "O endotélio é uma das principais fontes de **óxido nítrico** para o corpo cavernoso. Quando ocorre **disfunção endotelial**, há **queda da produção de NO**, predominando a **contração** da musculatura lisa — estado contrário à ereção. O **estágio final** desse processo é a **aterosclerose**, com destruição efetiva do endotélio e instalação de placas que reduzem o fluxo arterial. Por isso, preservar o endotélio é central na fisiopatologia e no tratamento da DE vasculogênica.",
+      "referenciaAula": "Quando você tem uma disfunção endotelial, você vai ter uma diminuição desse óxido nítrico. E o óxido nítrico é que é responsável pelo relaxamento, se você não o tendo, você vai ficar com a contração, e que isso aí seria contrário à ereção. E o final da disfunção endotelial acaba sendo então a aterosclerose. Então você acaba destruindo o endotélio.",
+      "transversal": false,
+      "videoAulaId": 18,
+      "videoStartSec": 877
     }
   ]
 }

@@ -461,6 +461,466 @@
       "transversal": false,
       "videoAulaId": 12,
       "videoStartSec": 453
+    },
+    {
+      "id": "Q-12-011",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "anatomia",
+        "traqueia",
+        "dimensões"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais são, aproximadamente, o comprimento e o número de anéis da traqueia no adulto, conforme a anatomia revisada na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cerca de 5 a 8 cm e 6 a 8 anéis traqueais."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 15 a 20 cm e 14 a 16 anéis traqueais."
+        },
+        {
+          "id": "C",
+          "texto": "Cerca de 25 a 30 cm e 20 a 24 anéis traqueais."
+        },
+        {
+          "id": "D",
+          "texto": "Cerca de 30 a 35 cm e 30 a 32 anéis traqueais."
+        },
+        {
+          "id": "E",
+          "texto": "Cerca de 8 a 10 cm e 4 a 6 anéis traqueais."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O conhecimento das **dimensões da traqueia** é essencial para entender o sítio adequado da traqueostomia (entre 2º e 3º anel) e os limites para a colocação da cânula. No adulto, a traqueia mede em torno de **15 a 20 cm** de comprimento e possui aproximadamente **14 a 16 anéis cartilaginosos**, estendendo-se da cricoide à carina.",
+      "referenciaAula": "E a traqueia no adulto, ela tem cerca de 15 a 20 cm, 14 a 16 anéis.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 97
+    },
+    {
+      "id": "Q-12-012",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "história",
+        "difteria",
+        "obstrução de via aérea"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a evolução histórica da traqueostomia apresentada na aula, qual doença infecciosa foi importante motor para sua disseminação a partir de 1832, por causar óbito por obstrução de via aérea?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tuberculose pulmonar."
+        },
+        {
+          "id": "B",
+          "texto": "Difteria."
+        },
+        {
+          "id": "C",
+          "texto": "Coqueluche."
+        },
+        {
+          "id": "D",
+          "texto": "Sarampo."
+        },
+        {
+          "id": "E",
+          "texto": "Febre tifoide."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A traqueostomia tem registros desde a antiguidade (Egito), mas se popularizou cirurgicamente a partir de **1832** com os surtos de **difteria**, doença que produzia membranas faríngeas e obstrução de via aérea levando a óbito. Em 1871, von Bergmann (Lemburgo) realizou a primeira traqueostomia em humanos sob anestesia geral, e a partir de 1980 surgiram as técnicas percutâneas.",
+      "referenciaAula": "Mas a partir de 1832 é que foi muito utilizado quando ocorreram casos de difiteria que era a causa de óbito por obstrução de via aérea.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 181
+    },
+    {
+      "id": "Q-12-013",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "cânula metálica",
+        "cânula interna",
+        "manejo"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as cânulas metálicas de traqueostomia, assinale a alternativa CORRETA quanto ao seu desenho e manejo:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Possuem balonete (cuff) integrado para uso em ventilação mecânica."
+        },
+        {
+          "id": "B",
+          "texto": "Possuem uma cânula interna removível, útil quando o paciente apresenta obstrução, e um anel com fissura que evita que saia inadvertidamente."
+        },
+        {
+          "id": "C",
+          "texto": "São descartáveis, de uso único, e geralmente utilizadas no perioperatório imediato."
+        },
+        {
+          "id": "D",
+          "texto": "Causam mais danos à mucosa traqueal do que as cânulas plásticas/silicone."
+        },
+        {
+          "id": "E",
+          "texto": "São indicadas exclusivamente em pacientes pediátricos ventilados."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A cânula **metálica** geralmente NÃO possui cuff e é utilizada quando se consegue **substituir** a plástica em pacientes mais estáveis (traqueostomias de longa duração). Possui uma **cânula interna removível** (útil para limpeza e quando há obstrução por secreção) e um **anel com fissura** que, ao ser girado, trava a cânula no pescoço evitando saída inadvertida. As cânulas de silicone causam menos dano à mucosa.",
+      "referenciaAula": "Vejam que essa é uma cânula interna que é colocada dentro dela. Se o paciente tiver obstrução, nós retiramos a mesma. Vejam que ela tem um anel com uma fissura aqui que serve para não sair facilmente a cânula.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 602
+    },
+    {
+      "id": "Q-12-014",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "técnica cirúrgica",
+        "passo a passo",
+        "balonete"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Antes de inserir a cânula de traqueostomia na via aérea do paciente, qual é o passo preparatório descrito na aula que NÃO deve ser omitido?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Insuflar o balonete ao máximo para garantir vedação imediata após a inserção."
+        },
+        {
+          "id": "B",
+          "texto": "Aplicar gel anestésico tópico em toda a parede interna da traqueia."
+        },
+        {
+          "id": "C",
+          "texto": "Testar o balonete (verificando se não está furado), murchá-lo totalmente e aplicar xilocaína para deslizamento sem rotura."
+        },
+        {
+          "id": "D",
+          "texto": "Aquecer a cânula a 60 °C para reduzir reflexo de tosse."
+        },
+        {
+          "id": "E",
+          "texto": "Lubrificar apenas o trocáter com solução salina, evitando qualquer anestésico local."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O preparo descrito envolve **testar o balonete** (insuflando-o para confirmar integridade e ausência de furos), em seguida **murchá-lo totalmente** para permitir a passagem pela traqueotomia sem resistência, e aplicar **xilocaína** como lubrificante para deslizamento e proteção contra rotura do balonete na inserção. Insuflá-lo ao máximo antes da inserção impede a passagem; aquecimento e omissão de lubrificação não fazem parte do procedimento.",
+      "referenciaAula": "Primeira coisa, nós testamos o balonete, né, para ver se ele não está furado, se não tem nenhum problema com ele. Murchamos totalmente ele para a penetração dentro da traqueia. Sempre colocamos uma xilocaína para que deslize possamos causar uma rotura desse balonete.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 720
+    },
+    {
+      "id": "Q-12-015",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "anatomia de referência",
+        "palpação",
+        "técnica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Durante a traqueostomia cirúrgica aberta, qual é a sequência correta de pontos de referência palpados/medidos para localizar o sítio adequado de abertura da traqueia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Palpar a fúrcula esternal e contar os anéis a partir dela em direção cranial."
+        },
+        {
+          "id": "B",
+          "texto": "Palpar a cartilagem cricoide com o dedo, medir o primeiro e o segundo anel traqueal e abrir entre o 2º e o 3º anel com bisturi."
+        },
+        {
+          "id": "C",
+          "texto": "Palpar diretamente o osso hioide e abrir 1 cm abaixo dele."
+        },
+        {
+          "id": "D",
+          "texto": "Não é necessário palpar referências anatômicas; basta abrir no centro do pescoço."
+        },
+        {
+          "id": "E",
+          "texto": "Palpar a membrana cricotireoidiana e fazer a abertura sobre ela."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A técnica padrão envolve **palpar a cartilagem cricoide** como referência cranial, **identificar o 1º e o 2º anel traqueal** caudais a ela, e fazer a abertura com bisturi **entre o 2º e o 3º anel**. Esta sequência evita que se faça a abertura muito alta (sobre o 1º anel ou cricoide, com risco de estenose subglótica) ou muito baixa (próxima à carina/tronco braquiocefálico).",
+      "referenciaAula": "Com o dedo, nós vamos sentir a cartilagem clicide. Medimos primeiro e segundo anel traqueal e vamos fazer entre o segundo terceiro anel a abertura com o bisturi.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 782
+    },
+    {
+      "id": "Q-12-016",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "anestesia local",
+        "tumor obstrutivo",
+        "indicação técnica"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 72 anos, tabagista crônico, é admitido com dispneia importante e estridor por volumoso tumor obstrutivo de laringe, com estenose de ambas as pregas vocais. A intubação orotraqueal é considerada inviável. Qual conduta é a mais apropriada para garantir a via aérea?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Realizar traqueostomia cirúrgica sob anestesia geral, com indução venosa rápida e bloqueador neuromuscular."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar traqueostomia cirúrgica sob anestesia local, marcando entre cartilagem tireoide, cricoide e fúrcula esternal, dada a obstrução tumoral que impede passagem do tubo orotraqueal."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar máscara laríngea como primeira escolha, sem necessidade de procedimento cirúrgico."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar corticoide endovenoso e adrenalina nebulizada como tentativa de reduzir a obstrução tumoral."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar laringectomia total de urgência no mesmo tempo cirúrgico, sem traqueostomia prévia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Quando há **obstrução tumoral ou estenose bilateral de pregas vocais** e a intubação orotraqueal é inviável, a traqueostomia pode (e deve) ser feita **sob anestesia local**, pois a indução de anestesia geral poderia agravar a obstrução com perda de via aérea. Marcam-se as referências anatômicas (cartilagem tireoide, cricoide, fúrcula esternal), faz-se anestesia local, abertura com bisturi e progressão até a traqueia.",
+      "referenciaAula": "Essa foto mostra bem com anestesia local. Quando é que nós fazemos isso? Quando o paciente tem uma obstrução por um tumor, por exemplo, nós não vamos conseguir passar um tubo endo traqueal, porque existe, por exemplo, uma obstrução por câncer aqui ou existe uma estenose em prega vocal, nas duas pregas vocais.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 846
+    },
+    {
+      "id": "Q-12-017",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "fixação",
+        "cadarço",
+        "cuidados pós-operatórios"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Após inserir a cânula de traqueostomia e retirar o trocáter, qual é a finalidade de passar um cadarço pelos orifícios laterais da cânula e amarrá-lo ao redor do pescoço?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Selar a interface traqueia-cânula, dispensando o uso do balonete."
+        },
+        {
+          "id": "B",
+          "texto": "Reduzir a pressão venosa cervical, prevenindo edema."
+        },
+        {
+          "id": "C",
+          "texto": "Fixar a cânula à pele e ao pescoço, evitando que ela saia inadvertidamente."
+        },
+        {
+          "id": "D",
+          "texto": "Servir como condutor para a cânula interna metálica."
+        },
+        {
+          "id": "E",
+          "texto": "Permitir a passagem de medicamentos tópicos para a traqueia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **cadarço cervical**, passado pelos dois **orifícios laterais** da cânula, tem a função de **fixá-la** ao pescoço do paciente, impedindo que ela seja retirada inadvertidamente (por tosse, mobilização, agitação). É um dispositivo distinto do **cuff**, que sela a interface traqueia-cânula. Ambos são complementares e ambos costumam ser empregados em pacientes ventilados.",
+      "referenciaAula": "E agora nós vamos fixar na pele através de um cadarço para que a cânula não venha sair inadvertidamente.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 816
+    },
+    {
+      "id": "Q-12-018",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "equipe multidisciplinar",
+        "reabilitação",
+        "decanulação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o manejo do paciente traqueostomizado e a possibilidade de retirada da cânula (decanulação), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A decanulação depende exclusivamente da decisão do cirurgião responsável, sem participação de outros profissionais."
+        },
+        {
+          "id": "B",
+          "texto": "Em traqueostomias temporárias, é necessária equipe multidisciplinar (cirurgião, enfermagem, fonoterapeutas, fisioterapeutas) para melhora da retirada de secreção e eventual retirada do traqueostoma."
+        },
+        {
+          "id": "C",
+          "texto": "Pacientes laringectomizados são candidatos rotineiros à decanulação após cicatrização."
+        },
+        {
+          "id": "D",
+          "texto": "A fisioterapia é contraindicada em traqueostomizados pelo risco de descanulação acidental."
+        },
+        {
+          "id": "E",
+          "texto": "A fonoterapia só é indicada após a remoção definitiva da cânula."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O paciente traqueostomizado se beneficia de **equipe multidisciplinar**: cirurgião (procedimento e seguimento), enfermagem (cuidados, curativos, aspiração), **fonoterapeutas** (treino de fala e deglutição, válvulas de fala) e **fisioterapeutas** (mobilização de secreções, desmame ventilatório). Em traqueostomias temporárias o objetivo é justamente facilitar essa reabilitação para chegar à **decanulação**. Pacientes laringectomizados têm estoma definitivo e não decanulam.",
+      "referenciaAula": "E tudo isso nós vamos necessitar de uma equipe multidisciplinar, além do cirurgião, da enfermagem, de fonoterapeutas, de fisioterapeutas. Tudo isso daí para melhora da retirada de secreção, de melhora, no caso de uma pneumonia, de a eliminação da mesma. E com isso nós vamos retirar o traqueostoma temporário.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 428
+    },
+    {
+      "id": "Q-12-019",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "choque anafilático",
+        "obstrução glótica",
+        "indicação"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 38 anos, picada por inseto, evolui em poucos minutos com edema importante de face, língua e laringe, com obstrução respiratória progressiva por edema das pregas vocais, sem resposta inicial a adrenalina IM. Qual o mecanismo fisiopatológico que justifica a indicação de acesso cirúrgico de via aérea, conforme discutido na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Broncoespasmo distal, exigindo acesso cirúrgico em vias aéreas inferiores."
+        },
+        {
+          "id": "B",
+          "texto": "Edema laríngeo do choque anafilático produz obstrução nas pregas vocais, impedindo o paciente de respirar e justificando acesso cirúrgico de via aérea."
+        },
+        {
+          "id": "C",
+          "texto": "Acúmulo de secreção brônquica espessa, indicação clássica de aspiração por broncoscopia rígida."
+        },
+        {
+          "id": "D",
+          "texto": "Pneumotórax hipertensivo, exigindo punção no segundo espaço intercostal."
+        },
+        {
+          "id": "E",
+          "texto": "Aspiração de corpo estranho, exigindo manobra de Heimlich antes de qualquer intervenção cirúrgica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "No **choque anafilático**, ocorre **edema das pregas vocais** com obstrução supraglótica/glótica que pode tornar a respiração impossível. Quando a intubação orotraqueal é inviável e a adrenalina não reverte rapidamente o edema, o **acesso cirúrgico de via aérea** (cricotireoidostomia de emergência ou traqueostomia) é indicado. A obstrução é nas pregas vocais, não em vias inferiores, e o mecanismo é o edema mediado por histamina, não broncoespasmo isolado.",
+      "referenciaAula": "Obstrução das vias aéreas superiores, quando existe tumor na laringe, quando existe um edema em que, por exemplo, um choque anafilático que o indivíduo não consegue respirar. Por quê? Porque houve uma obstrução nas pregas vocais.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 257
+    },
+    {
+      "id": "Q-12-020",
+      "aulaOrigem": 12,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "bócio mergulhante",
+        "fisiopatologia da aspiração",
+        "compressão extrínseca"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente apresentada na aula: mulher idosa com bócio volumoso evoluindo com pneumonia aspirativa, intubação prolongada e necessidade de traqueostomia. Qual o mecanismo fisiopatológico que liga o bócio à pneumonia que motivou sua internação na UTI?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipertireoidismo descompensado, com tempestade tireotóxica e edema pulmonar cardiogênico."
+        },
+        {
+          "id": "B",
+          "texto": "Compressão direta do parênquima pulmonar pelo bócio mergulhante."
+        },
+        {
+          "id": "C",
+          "texto": "Aspiração causada pelo bócio que empurrou a laringe e o esôfago, levando a pneumonia, intubação prolongada e necessidade de traqueostomia."
+        },
+        {
+          "id": "D",
+          "texto": "Embolia pulmonar séptica originada de tireoidite supurativa."
+        },
+        {
+          "id": "E",
+          "texto": "Reação imunológica à tireoglobulina aumentada com pneumonite intersticial."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O caso apresentado mostra que o **bócio volumoso comprimiu e deslocou a laringe e o esôfago**, prejudicando a deglutição segura e levando a **aspiração de conteúdo orofaríngeo**, com consequente pneumonia aspirativa. A gravidade exigiu intubação orotraqueal prolongada e, posteriormente, traqueostomia. O tratamento definitivo combinou **ressecção do bócio** (para liberar o acesso à traqueia) e **traqueostomia temporária**, sendo possível decanulação posterior com retorno à respiração normal.",
+      "referenciaAula": "Essa paciente tinha um grande bóciilo, aumento da tireoide e ela teve um problema de aspiração devido a esse bócio ter empurrado a laringe, empurrado o esôfago. E ela necessitou ser entubada por causa de pneumonia e ficou muito tempo na UTI.",
+      "transversal": false,
+      "videoAulaId": 12,
+      "videoStartSec": 992
     }
   ]
 }

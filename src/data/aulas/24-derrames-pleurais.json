@@ -462,6 +462,466 @@
       "transversal": false,
       "videoAulaId": 24,
       "videoStartSec": 840
+    },
+    {
+      "id": "Q-24-011",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "objetivos",
+        "drenagem torácica",
+        "fístula aérea"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Entre os objetivos da drenagem torácica, qual das alternativas a seguir NÃO é considerada um objetivo legítimo do procedimento?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quantificar o volume de drenagem e identificar o tipo de líquido (pus, linfa, sangue)."
+        },
+        {
+          "id": "B",
+          "texto": "Permitir a reexpansão pulmonar e restabelecer a função cardiorrespiratória."
+        },
+        {
+          "id": "C",
+          "texto": "Eliminar o desvio de mediastino em determinados casos."
+        },
+        {
+          "id": "D",
+          "texto": "Identificar fístulas aéreas pelo padrão de borbulhamento."
+        },
+        {
+          "id": "E",
+          "texto": "Substituir indefinidamente o tratamento farmacológico da doença pulmonar de base."
+        }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Os **objetivos legítimos** da drenagem torácica são: drenar sangue, fluidos e gases; permitir **reexpansão pulmonar**; restabelecer função cardiorrespiratória; eliminar desvio de mediastino; **quantificar volume**; **identificar o tipo de líquido**; e **identificar fístulas aéreas**. A drenagem é um procedimento adjuvante e nunca substitui o tratamento da doença de base.",
+      "referenciaAula": "Os objetivos da drenagem torácica serão drenar efetivamente sangue, fluidos e gases da cavidade, permitir a reexpansão pulmonar, restabelecer a função cardiorrespiratória e, em alguns casos, eliminar o desvio de mediastino. Outros objetivos seriam quantificar o volume de drenagem, identificar o tipo de líquido drenado, seja pus, seja linfa, seja sangue, seja qualquer outro tipo de líquido espesso, e identificar fístulas aéreas.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 68
+    },
+    {
+      "id": "Q-24-012",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "contraindicações",
+        "drenagem",
+        "relativas"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A respeito das contraindicações da drenagem pleural, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A presença de pneumotórax hipertensivo é uma contraindicação absoluta."
+        },
+        {
+          "id": "B",
+          "texto": "Não existem contraindicações absolutas; existem apenas contraindicações relativas, como aderências pleurais, distúrbios de coagulação, bolhas gigantes e atelectasia importante."
+        },
+        {
+          "id": "C",
+          "texto": "Pacientes com insuficiência cardíaca não podem ser drenados em hipótese alguma."
+        },
+        {
+          "id": "D",
+          "texto": "Idade avançada constitui contraindicação absoluta."
+        },
+        {
+          "id": "E",
+          "texto": "A drenagem é absolutamente contraindicada em pacientes com derrame neoplásico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Não existem contraindicações absolutas** à drenagem torácica — todos os pacientes podem ser drenados. As contraindicações são apenas **relativas**: aderências pleurais entre pleura visceral e parietal, distúrbios de coagulação, bolhas gigantes e atelectasia pulmonar muito importante. Nessas situações, a drenagem deve ser realizada com cuidado redobrado, mas não está proibida.",
+      "referenciaAula": "Contraindicações da drenagem absolutas não existem. Todos os pacientes podem ser drenados, mas existem contraindicações relativas. Presença de aderências pleurais entre a pleura visceral e parietal, pacientes com distúrbios de coagulação, pacientes com bolhas gigantes e pacientes com uma atelectasia pulmonar muito importante.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 185
+    },
+    {
+      "id": "Q-24-013",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "toracocentese",
+        "complicações",
+        "pneumotórax iatrogênico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a toracocentese (punção pleural diagnóstica), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pode ser realizada em qualquer derrame, independente do volume, e não tem complicações relevantes."
+        },
+        {
+          "id": "B",
+          "texto": "Tem indicação somente em derrames maiores que 5 cm e nunca causa pneumotórax."
+        },
+        {
+          "id": "C",
+          "texto": "Pode ser realizada sempre que houver derrame > 1 cm; tem rendimento diagnóstico de 50–87% e o pneumotórax iatrogênico ocorre em 3 a 19% dos casos."
+        },
+        {
+          "id": "D",
+          "texto": "É contraindicada em todos os derrames de origem neoplásica."
+        },
+        {
+          "id": "E",
+          "texto": "Substitui sempre a drenagem pleural, sendo desnecessário o uso de dreno."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A toracocentese é **útil em ~92% dos pacientes** e firma diagnóstico em **50 a 87%** dos casos, conforme a patologia. Pode ser feita sempre que o derrame for **maior que 1 cm**. Suas contraindicações são distúrbios de coagulação e anticoagulação plena. A complicação mais relevante é o **pneumotórax iatrogênico**, que ocorre em **3 a 19%** dos procedimentos.",
+      "referenciaAula": "Ela pode ser realizada sempre que o paciente apresenta um derrame pleural maior que 1 cm. E as suas contraindicações são distúrbios de coagulação, paciente anticoagulado totalmente e a toracocentese pode apresentar uma complicação importante que é o pneumotórax que acontece de 3 a 19% das vezes que fazemos a toracocentese.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 515
+    },
+    {
+      "id": "Q-24-014",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "selo d'água",
+        "frasco coletor",
+        "válvula unidirecional"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o sistema de drenagem pleural fechado em selo d'água, qual a função da coluna de aproximadamente 2 cm de água no frasco coletor?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Servir como medida de pH do líquido pleural drenado."
+        },
+        {
+          "id": "B",
+          "texto": "Funcionar como válvula unidirecional, impedindo a entrada de ar na cavidade pleural."
+        },
+        {
+          "id": "C",
+          "texto": "Aplicar pressão positiva contínua na cavidade pleural."
+        },
+        {
+          "id": "D",
+          "texto": "Esterilizar o líquido pleural antes do descarte."
+        },
+        {
+          "id": "E",
+          "texto": "Reduzir o atrito entre o dreno e a pleura visceral."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A coluna de **aproximadamente 2 cm de água** no frasco coletor atua como **válvula unidirecional**: permite a saída de ar/líquido da cavidade pleural mas **impede a entrada de ar** quando a pressão intrapleural se torna mais negativa na inspiração. Esse mecanismo simples é o que torna o sistema seguro e justifica a configuração do dreno conectado ao intermediário e à extensão até o frasco.",
+      "referenciaAula": "Do frasco coletor existe um tubo que vai ficar mergulhado num selo de água, mais ou menos 2 cm. E isso vai permitir que essa quantidade de água funcione como uma válvula, impedindo a entrada de ar dentro da cavidade pleural.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 126
+    },
+    {
+      "id": "Q-24-015",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "complicações",
+        "lesão de víscera abdominal",
+        "diafragma"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido à drenagem torácica em hemitórax direito, com inserção em ponto **excessivamente baixo na parede torácica**, evolui com saída de conteúdo bilioso pelo dreno e dor abdominal. Qual é a complicação mais provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Empiema pleural agudo."
+        },
+        {
+          "id": "B",
+          "texto": "Pneumotórax hipertensivo recidivado."
+        },
+        {
+          "id": "C",
+          "texto": "Lesão de víscera abdominal por dreno colocado abaixo do diafragma."
+        },
+        {
+          "id": "D",
+          "texto": "Neurite intercostal isolada."
+        },
+        {
+          "id": "E",
+          "texto": "Lesão do nervo frênico."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A inserção do dreno **abaixo do diafragma** pode causar **lesão de vísceras abdominais** (fígado, vesícula, alças intestinais). O quadro de saída de conteúdo bilioso compatível com lesão hepática/biliar confirma a complicação. Por isso, a definição correta do espaço intercostal e a palpação do espaço antes da introdução do dreno são fundamentais.",
+      "referenciaAula": "Outras complicações possíveis, lesões de vísceras abdominais, quando o dreno é colocado abaixo do diafragma, a presença de enfisema subcutâneo pelo ar saindo ao redor do dreno e a infecção da cavidade pleural que vai ser o empiema.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 313
+    },
+    {
+      "id": "Q-24-016",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "derrame subpulmonar",
+        "decúbito lateral",
+        "diagnóstico radiológico"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente apresenta RX de tórax sugerindo elevação da base do pulmão direito, mas sem sinais clínicos de paralisia diafragmática. Para esclarecer suspeita de **derrame subpulmonar**, qual é o exame complementar simples mais apropriado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Realizar RX de tórax em decúbito lateral, demonstrando líquido correndo pela superfície lateral do tórax."
+        },
+        {
+          "id": "B",
+          "texto": "Solicitar ressonância magnética torácica de imediato."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar broncoscopia diagnóstica."
+        },
+        {
+          "id": "D",
+          "texto": "Realizar pleuroscopia diagnóstica em centro cirúrgico."
+        },
+        {
+          "id": "E",
+          "texto": "Solicitar arteriografia pulmonar."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "No **derrame subpulmonar**, o líquido fica preso entre o diafragma e a base pulmonar, mimetizando elevação diafragmática no RX em PA. O **decúbito lateral com raios horizontais** mobiliza o líquido e o demonstra correndo pela superfície lateral do tórax — exame **simples, barato e diagnóstico**. Métodos mais sofisticados (TC, USG) também podem ser usados, mas o decúbito lateral é o passo lógico inicial.",
+      "referenciaAula": "Aqui um paciente com um raio X de tórax mostrando uma elevação, o que parece ser uma elevação da base do pulmão direito, mas não é a custa da elevação do diafragma. Ele apresentava um derrame subpulmonar. Quando para esclarecer esse quadro, a gente faz um decúbito lateral, onde mostra o líquido correndo em toda a superfície lateral aqui do tórax esquerdo.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 450
+    },
+    {
+      "id": "Q-24-017",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "agulha de Cope",
+        "biópsia pleural",
+        "tuberculose"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A biópsia pleural cega com **agulha de Cope** está particularmente indicada em qual cenário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pneumotórax espontâneo primário em jovens."
+        },
+        {
+          "id": "B",
+          "texto": "Hemotórax traumático em politraumatizado."
+        },
+        {
+          "id": "C",
+          "texto": "Doença pleural difusa, como câncer pleural ou tuberculose."
+        },
+        {
+          "id": "D",
+          "texto": "Derrame transudato por insuficiência cardíaca."
+        },
+        {
+          "id": "E",
+          "texto": "Pneumotórax hipertensivo, como medida inicial de descompressão."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **agulha de Cope** é uma agulha metálica com chanfradura na ponta que permite biópsia **cega** da pleura parietal. Está indicada em **doenças pleurais difusas**, com destaque para **câncer e tuberculose pleural** — situações em que a alta probabilidade de envolvimento difuso da pleura aumenta a chance de fragmento positivo sem necessidade de visão direta.",
+      "referenciaAula": "Um outro jeito de fazer o diagnóstico das doenças pleurais é a retirada de uma biópsia cega da pleura parietal que a gente realiza com a agulha de Cope. Ela está indicada naqueles pacientes que têm uma doença difusa na cavidade pleural, como câncer ou tuberculose.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 574
+    },
+    {
+      "id": "Q-24-018",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "videopleuroscopia",
+        "diagnóstico",
+        "acurácia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o papel da **videopleuroscopia** na investigação do derrame pleural, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É um exame de primeira linha, que substitui a toracocentese em todos os pacientes."
+        },
+        {
+          "id": "B",
+          "texto": "É reservada aos cerca de 20% dos pacientes em que os exames anteriores não fecham diagnóstico, com acurácia próxima a 100%."
+        },
+        {
+          "id": "C",
+          "texto": "Tem acurácia inferior à da agulha de Cope."
+        },
+        {
+          "id": "D",
+          "texto": "É contraindicada em qualquer paciente com suspeita de neoplasia pleural."
+        },
+        {
+          "id": "E",
+          "texto": "É equivalente à toracotomia em invasividade e tempo de internação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **videopleuroscopia** permite visualização direta da cavidade pleural e biópsia dirigida. É indicada nos **~20% dos pacientes** em que toracocentese e biópsia cega não fecham diagnóstico, atingindo **acurácia próxima a 100%**. A toracotomia diagnóstica raramente é necessária após pleuroscopia.",
+      "referenciaAula": "20% dos pacientes que não conseguem o diagnóstico, nós realizamos a videopleuroscopia e aí com acurácia perto de 100%. A toracotomia propriamente dita raramente é necessária.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 936
+    },
+    {
+      "id": "Q-24-019",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "empiema",
+        "etiologia",
+        "fonte de infecção"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Quanto à etiologia do empiema pleural, qual das afirmações está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É quase sempre primário, sem foco infeccioso identificável."
+        },
+        {
+          "id": "B",
+          "texto": "É hematogênico em mais de 50% dos casos de septicemia."
+        },
+        {
+          "id": "C",
+          "texto": "Geralmente é secundário a infecções (pulmonar, mediastinal, parede torácica, abscesso subfrênico ou cervical) ou inoculação direta após drenagem, toracocentese, cirurgia ou trauma penetrante; o empiema hematogênico é menos comum (<15% dos pacientes com septicemia)."
+        },
+        {
+          "id": "D",
+          "texto": "Não pode ocorrer após procedimentos cirúrgicos torácicos."
+        },
+        {
+          "id": "E",
+          "texto": "Lesões por arma branca ou de fogo nunca evoluem para empiema."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O empiema é **geralmente secundário** a infecções de vizinhança — mais comumente pulmonar, mas também mediastinal, da parede torácica, abscesso subfrênico ou cervical (que pode descer pelo mediastino). Outra via é a **inoculação direta**: drenagem, toracocentese, cirurgia ou ferimentos penetrantes (arma branca/fogo). O empiema **hematogênico é menos comum**, ocorrendo em menos de 15% dos pacientes com septicemia.",
+      "referenciaAula": "Geralmente o empiema é secundário. Há uma infecção, geralmente uma infecção a mais comum uma infecção de pulmão, mas pode ser também uma infecção mediastinal da parede torácica, um abscesso subfrênico ou até um abscesso cervical. Existe também de inoculação direta no espaço pleural, geralmente após drenagem ou toracocentese, após procedimentos cirúrgicos ou lesões penetrantes. Empiema hematogênico é menos comum, menos que 15% dos pacientes com septicemia cursam com empiema.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 968
+    },
+    {
+      "id": "Q-24-020",
+      "aulaOrigem": 24,
+      "blocos": [
+        "E"
+      ],
+      "eixos": [
+        "T7"
+      ],
+      "tags": [
+        "drenagem aberta",
+        "pleurostomia",
+        "empiema crônico"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com empiema crônico já drenado em selo d'água por vários dias mantém cavidade residual com espessamento pleural importante. A equipe opta por **drenagem aberta com pleurostomia** (ressecção de 1–2 fragmentos costais e abertura na cavidade pleural no ponto mais inferior, justa-diafragmático). Qual é o pré-requisito anatômico para que esse procedimento seja seguro?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que o pulmão esteja completamente reexpandido e a pleura seja fina."
+        },
+        {
+          "id": "B",
+          "texto": "Que já exista espessamento pleural suficiente para que a pressão atmosférica não consiga mais colabar o pulmão."
+        },
+        {
+          "id": "C",
+          "texto": "Que o paciente tenha pneumotórax hipertensivo associado."
+        },
+        {
+          "id": "D",
+          "texto": "Que haja fístula broncopleural de alto débito."
+        },
+        {
+          "id": "E",
+          "texto": "Que o paciente esteja anticoagulado plenamente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **pleurostomia (drenagem aberta)** consiste em ressecar 1–2 fragmentos costais e abrir a cavidade no ponto mais baixo, justa-diafragmático. **Só pode ser feita** em pacientes que já têm **espessamento pleural** suficiente para que a pressão atmosférica não colabe mais o pulmão — caso contrário, abrir a cavidade ao ambiente causaria pneumotórax e colapso pulmonar imediato. É a situação típica do empiema na fase fibrinopurulenta avançada ou de organização.",
+      "referenciaAula": "Aqui um outro tipo de drenagem aberta que a gente chama de pleurostomia, onde nós ressecamos um a dois fragmentos de costela e fazemos uma abertura na cavidade pleural no ponto mais baixo e mais inferior possível, justa diafragmático. Isso drena muito bem a cavidade pleural e só pode ser feito isso daí naquele paciente que já tem o espessamento pleural, que a pressão atmosférica não consegue colabar mais esse pulmão.",
+      "transversal": false,
+      "videoAulaId": 24,
+      "videoStartSec": 1298
     }
   ]
 }

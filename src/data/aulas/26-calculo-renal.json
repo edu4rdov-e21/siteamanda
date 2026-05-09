@@ -461,6 +461,466 @@
       "transversal": false,
       "videoAulaId": 26,
       "videoStartSec": 1485
+    },
+    {
+      "id": "Q-26-011",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "epidemiologia",
+        "prevalência",
+        "faixa etária"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da nefrolitíase, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Predomina em mulheres na proporção de 2:1, com pico entre 60 e 80 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Acomete cerca de 10% da população, com prevalência de 2 homens para cada mulher e faixa etária mais acometida entre 30 e 50 anos."
+        },
+        {
+          "id": "C",
+          "texto": "Corresponde a menos de 0,1% das internações hospitalares e tem baixa recorrência."
+        },
+        {
+          "id": "D",
+          "texto": "É exclusiva de adultos, não havendo casos descritos em pediatria ou idosos."
+        },
+        {
+          "id": "E",
+          "texto": "É mais prevalente no inverno do que no verão."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Cerca de **10% da população** é acometida por cálculos renais, com prevalência de **2 homens para 1 mulher** e pico entre **30 e 50 anos** (população economicamente ativa). Corresponde a cerca de **1% das internações hospitalares** e tem **alta recorrência**, especialmente sem mudança de hábitos. Existe sazonalidade — é mais prevalente no verão (mais calor, desidratação).",
+      "referenciaAula": "Existe uma prevalência de dois homens para uma mulher. A faixa etária mais acometida são pacientes entre 30 e 50 anos. Cerca de 10% da população é acometida por cálculos renais. Corresponde a 1% das internações hospitalares.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 34
+    },
+    {
+      "id": "Q-26-012",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "distúrbios metabólicos",
+        "hipercalciúria",
+        "hipocitratúria"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais são os distúrbios metabólicos primários mais preponderantes na gênese da nefrolitíase, segundo a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipocalciúria, hipouricosúria, hiperoxalúria e hipercitratúria."
+        },
+        {
+          "id": "B",
+          "texto": "Hipercalciúria, hiperuricosúria, cistinúria, hiperoxalúria e hipocitratúria."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas hipercalciúria e hiperuricosúria."
+        },
+        {
+          "id": "D",
+          "texto": "Hipernatremia, hipocalemia e hipomagnesemia plasmáticas."
+        },
+        {
+          "id": "E",
+          "texto": "Acidose metabólica isolada e alcalose respiratória."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os distúrbios metabólicos essenciais relacionados à nefrolitíase são: **hipercalciúria**, **hiperuricosúria**, **cistinúria**, **hiperoxalúria** e **hipocitratúria**. O citrato é um inibidor natural da formação de cálculos, e sua deficiência (hipocitratúria) é fator de risco. A investigação metabólica inclui urina de 24h (cálcio, oxalato, citrato, ácido úrico) e exames séricos (cálcio, potássio, ácido úrico, ureia, creatinina).",
+      "referenciaAula": "Existem esses distúrbios metabólicos essenciais, hipercalciúria, hiperuricosúria, citinúria, hiperoxalúria e hipocitratúria, como fatores mais preponderantes.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 159
+    },
+    {
+      "id": "Q-26-013",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "radiopacidade",
+        "raio X",
+        "diagnóstico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o uso da radiografia simples de abdome no diagnóstico de nefrolitíase, qual a porcentagem aproximada dos cálculos renoureterais que são radiopacos e podem ser identificados nesse exame?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cerca de 30%."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 50%."
+        },
+        {
+          "id": "C",
+          "texto": "Cerca de 90%."
+        },
+        {
+          "id": "D",
+          "texto": "100% — todos os cálculos são radiopacos."
+        },
+        {
+          "id": "E",
+          "texto": "Nenhum cálculo é visualizado em radiografia simples."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Cerca de **90% dos cálculos renoureterais são radiopacos** e podem ser identificados em radiografia simples de abdome. Os 10% restantes (principalmente cálculos de **ácido úrico**) são radiotransparentes. Apesar da menor sensibilidade comparada à TC, o raio X simples pode ser útil em cenários com recursos limitados, especialmente para identificar cálculos na topografia renal, no trajeto do psoas ou na pequena bacia.",
+      "referenciaAula": "90% dos cálculos reno ureterais são radiopacos. Então, se a gente souber olhar as radiopacidades nos exames eh na topografia de rim próxima da 12ª 11ª eh arcos costais e se a gente souber olhar na no trajeto do Pessoas até a pequena bacia onde o uret entra na bexiga, a gente pode fazer o diagnóstico de um cálculo radioopaco.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 781
+    },
+    {
+      "id": "Q-26-014",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "cólica renal",
+        "irradiação",
+        "sintomas"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 42 anos, dá entrada com dor lombar à esquerda de forte intensidade, irradiando para flanco, fossa ilíaca e região escrotal homolateral, associada a náuseas e disúria com polaciúria. Sobre a apresentação clínica clássica da cólica renal, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A irradiação para a região genital (escroto nos homens, grandes lábios nas mulheres) descarta nefrolitíase e sugere torção testicular."
+        },
+        {
+          "id": "B",
+          "texto": "Disúria e polaciúria são sintomas que cursam mais com cálculos distais (próximos ao túnel intramural e meato ureteral) e podem confundir com infecção urinária."
+        },
+        {
+          "id": "C",
+          "texto": "Náuseas e vômitos são incompatíveis com cólica renal e indicam abdome agudo cirúrgico."
+        },
+        {
+          "id": "D",
+          "texto": "Hematúria descarta o diagnóstico de cólica renal."
+        },
+        {
+          "id": "E",
+          "texto": "Cálculos de ureter proximal cursam tipicamente com disúria e polaciúria."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Disúria e polaciúria** são típicas de cálculos no **ureter distal**, próximos ao túnel intramural e ao meato ureteral, antes de cair na bexiga, e podem **confundir com infecção urinária**. A dor da cólica renal pode irradiar de posterior para anterior (flanco, fossa ilíaca) e até para a região genital (escroto/grandes lábios). Náusea, vômito e hematúria (micro ou macroscópica) podem acompanhar o quadro por irrigação esplâncnica compartilhada.",
+      "referenciaAula": "Pode ter desura e polaciura, que costuma cursar mais com os cálculos destais. Então, quando os cálculos chegam no uretri distal, próxima ao túnel intramural e ao eh ao meato ureteral, antes de cair na bexiga, ele pode cursar então com bastante desúria, irritação, polaciúria, frequência aumentada e confundir até com quadro de infecção urinária.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 420
+    },
+    {
+      "id": "Q-26-015",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "Jordano",
+        "exame físico",
+        "punhopercussão"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o sinal de Jordano (punhopercussão lombar) na avaliação do paciente com suspeita de nefrolitíase, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É patognomônico de pielonefrite obstrutiva e dispensa exames complementares."
+        },
+        {
+          "id": "B",
+          "texto": "É realizado com pancadas vigorosas para induzir hematúria diagnóstica."
+        },
+        {
+          "id": "C",
+          "texto": "Não é patognomônico, podendo ser positivo na cólica renal pela própria dilatação da cápsula renal secundária à obstrução; deve ser feito com punhopercussão (não pancada) e classificado como positivo se a dor não for compatível com dor muscular."
+        },
+        {
+          "id": "D",
+          "texto": "Quando negativo, exclui completamente o diagnóstico de cálculo renal."
+        },
+        {
+          "id": "E",
+          "texto": "Só pode ser pesquisado em pacientes com febre."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **sinal de Jordano não é patognomônico** de pielonefrite — pode ser **positivo na cólica renal** simples pela distensão da cápsula renal secundária à obstrução. Deve ser realizado como **punhopercussão** (não pancada) e considerado positivo quando a dor é desproporcional/incompatível com dor muscular. É um sinal de apoio, não definitivo.",
+      "referenciaAula": "O jordano não é patognomônico, ele pode estar presente pela própria obstrução, pela própria dilatação da cápsula renal secundária, uma obstrução. O Jordano não é para dar uma pancada nas costas do paciente, mas um exame, uma punhopercussão que se está dolorosa e não compatível com uma dor muscular, a gente tem que classificar como Jordano positivo.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 544
+    },
+    {
+      "id": "Q-26-016",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "ultrassom",
+        "limitação",
+        "ureter médio"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual é a principal limitação técnica da ultrassonografia na avaliação de cálculos do trato urinário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não detecta hidronefrose."
+        },
+        {
+          "id": "B",
+          "texto": "Não consegue avaliar a junção ureteropiélica nem o ureter proximal."
+        },
+        {
+          "id": "C",
+          "texto": "Tem grande gap na avaliação do ureter médio, principalmente em pacientes obesos com interposição de alças intestinais."
+        },
+        {
+          "id": "D",
+          "texto": "Necessita de contraste iodado para avaliação adequada."
+        },
+        {
+          "id": "E",
+          "texto": "Tem desempenho pior que a radiografia simples para qualquer segmento do ureter."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A grande limitação do ultrassom é a avaliação do **ureter médio**, principalmente em **pacientes obesos com interposição de alças intestinais**. O ultrassom avalia bem a JUP, o ureter proximal e, com bexiga cheia, a JUV. Quando não se identifica o cálculo, a avaliação do **jato ureteral** na bexiga pode sugerir obstrução (ausência unilateral de jato + hidronefrose). Os cálculos formam imagem hiperecogênica com **sombra acústica posterior**.",
+      "referenciaAula": "Qual é o grande gap do ultrassom? É no uret médio, principalmente em pacientes obesos com interposição de alças. a gente perde um pouco a avaliação do ureter médio.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 853
+    },
+    {
+      "id": "Q-26-017",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "hidratação",
+        "fisiopatologia",
+        "cápsula renal"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Estudante de medicina sugere oferecer 3 litros de soro fisiológico endovenoso em bolus a um paciente com cólica renal por cálculo ureteral obstrutivo, com o argumento de \"empurrar a pedra\". Por que essa conduta está ERRADA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hidratação vigorosa em paciente obstruído faz o rim filtrar mais e aumenta a distensão da cápsula renal, piorando a dor — a hidratação deve ser moderada; \"empurrar a pedra\" com líquidos é uma falácia."
+        },
+        {
+          "id": "B",
+          "texto": "Está correta — quanto maior o volume de soro, mais rápida a eliminação do cálculo."
+        },
+        {
+          "id": "C",
+          "texto": "Está errada apenas porque o soro fisiológico forma cálculos de cloreto de sódio."
+        },
+        {
+          "id": "D",
+          "texto": "Está errada porque a hidratação aumenta a osmolaridade sérica."
+        },
+        {
+          "id": "E",
+          "texto": "Está correta apenas se associada a beta-bloqueador."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Em um paciente com **obstrução**, hidratar vigorosamente faz o rim filtrar mais e **aumenta a distensão da cápsula renal**, piorando a dor. A hidratação deve ser **moderada**, não vigorosa. A ideia de \"empurrar a pedra\" com volume de líquidos é uma **falácia** que não deve ser ensinada. O tratamento clínico inclui analgesia (anti-inflamatório, opioide se necessário), antiemético e alfabloqueador para cálculos médio-distais.",
+      "referenciaAula": "Imagina que se ele tá com cólica, a fisiopatologia é que ele tem uma obstrução, em algum ponto ele está obstruído. Então, se a gente pegar esse paciente e fizer um excesso de hidratação, aquele rim vai filtrar mais e a distensão da cápsula renal vai aumentar ainda mais, porque ele tá obstruído, a gente aumentou a sobrecarga. Isso é uma falácia, vocês não podem ter esse conceito.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 1263
+    },
+    {
+      "id": "Q-26-018",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "ureterolitotripsia flexível",
+        "cálculo renal",
+        "≤2 cm"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Para cálculos renais (em JUP ou em qualquer grupamento calicinal) menores ou iguais a 2 cm, qual é o tratamento endurológico mais feito e mais resolutivo, segundo a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ureterolitotripsia semirrígida com aparelho de 30 cm."
+        },
+        {
+          "id": "B",
+          "texto": "Ureterorrenolitotripsia flexível com laser, por via retrógrada."
+        },
+        {
+          "id": "C",
+          "texto": "Nefrolitotomia anatrófica aberta."
+        },
+        {
+          "id": "D",
+          "texto": "Pielolitotomia laparoscópica."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas observação clínica, independentemente do tamanho."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Para cálculos renais **≤2 cm** (na JUP ou em qualquer grupamento calicinal), o tratamento endurológico mais feito e resolutivo é a **ureterorrenolitotripsia flexível com laser**, feita por via retrógrada (entra pela uretra, sobe no ureter e chega ao rim). O aparelho semirrígido só alcança ureter distal/médio. A NLPC é reservada para cálculos >2 cm. A anatrófica é exceção (coraliforme completo).",
+      "referenciaAula": "A flexível é feito então para cálculos em jup, então na junção ureteropiélica aqui do rim ou em cálculos calicinais. A grande indicação aqui para vocês saberem, seriam cálculos menores ou iguais a 2 cm. Isso eventualmente pode ser perguntado porque é o tratamento mais feito e mais resolutivo eh para cálculos menores que 2 cm.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 2405
+    },
+    {
+      "id": "Q-26-019",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "nefrolitotomia anatrófica",
+        "linha de Brödel",
+        "cálculo coraliforme"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a nefrolitotomia anatrófica, indicada em casos excepcionais como cálculo coraliforme completo, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É a primeira escolha de rotina para qualquer cálculo coraliforme, por ser pouco mórbida."
+        },
+        {
+          "id": "B",
+          "texto": "Consiste em incisão na linha de Brödel — uma linha relativamente avascular na região cortical convexa posterior do rim, que minimiza a lesão de artérias segmentares; é cirurgia aberta, mórbida, e pode-se clampear e resfriar o rim para isquemia fria."
+        },
+        {
+          "id": "C",
+          "texto": "É feita exclusivamente por via laparoscópica, sem necessidade de lombotomia."
+        },
+        {
+          "id": "D",
+          "texto": "Dispensa a abordagem de qualquer grupamento calicinal."
+        },
+        {
+          "id": "E",
+          "texto": "É indicada apenas para cálculos ureterais distais."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **nefrolitotomia anatrófica** é cirurgia de **exceção**, hoje indicada principalmente em cálculo **coraliforme completo** quando o paciente deseja resolver em uma só cirurgia. Faz-se **lombotomia**, dissecção da gerota e incisão na **linha de Brödel** — linha relativamente avascular na região convexa posterior do rim (a vascularização vem da artéria renal com 1 segmento posterior e ~4 ramos anteriores). Pode-se **clampear e resfriar (isquemia fria)** o rim para preservar parênquima. É cirurgia mórbida, com impacto na cicatrização renal.",
+      "referenciaAula": "A linha de bródel é uma linha a vascular na região cortical do rim. a vascularização do rim, ela vem da artéria renal, ela se divide com um segmento posterior e normalmente quatro ramos anteriores. E lá atrás, na parte mais convexa do rim, é um lugar que tem é pouco vascularizado. A gente pode até resfriar o rim, colocar gelo para evitar aí uma lesão tecitual do rim, uma isquemia eh eh quente. Então a gente faz uma isquemia fria.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 2649
+    },
+    {
+      "id": "Q-26-020",
+      "aulaOrigem": 26,
+      "blocos": [
+        "H"
+      ],
+      "eixos": [
+        "T8"
+      ],
+      "tags": [
+        "hidronefrose",
+        "tempo de obstrução",
+        "função renal"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 55 anos, refere lombalgia esquerda intermitente há cerca de 5 semanas, sem febre, sem oligúria, com função renal preservada. TC mostra cálculo de 9 mm em ureter proximal esquerdo com hidronefrose moderada-acentuada. Qual o raciocínio CORRETO em relação ao tempo de obstrução e indicação cirúrgica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hidronefrose discreta é igual a moderada/acentuada na decisão cirúrgica — o tempo de obstrução é irrelevante."
+        },
+        {
+          "id": "B",
+          "texto": "A hidronefrose discreta é a primeira resposta do rim à obstrução; já uma hidronefrose moderada-acentuada num quadro mais arrastado merece atenção, porque há um número \"meio mágico\" de cerca de 3 a 4 semanas (até 1 mês) em que o rim pode permanecer obstruído sem prejuízo significativo da função — após isso, há indicação mais firme de tratamento."
+        },
+        {
+          "id": "C",
+          "texto": "Pode-se aguardar 6 meses sem qualquer prejuízo da função renal."
+        },
+        {
+          "id": "D",
+          "texto": "A indicação cirúrgica depende exclusivamente da presença de febre."
+        },
+        {
+          "id": "E",
+          "texto": "A presença de hidronefrose acentuada arrastada contraindica qualquer tratamento cirúrgico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **hidronefrose discreta** é a primeira resposta do rim à obstrução, e por si só não justifica cirurgia em todo paciente agudo. Já uma **hidronefrose moderada/acentuada num quadro arrastado** merece atenção redobrada — segundo alguns estudos, o rim pode permanecer obstruído por cerca de **3 semanas a 1 mês** sem prejuízo significativo da função; após esse \"número mágico\", o risco de comprometimento renal definitivo aumenta, justificando indicação cirúrgica mais firme. A decisão exige julgamento clínico individualizado.",
+      "referenciaAula": "Hidronefrose moderada para acentuada. Por que que eu coloquei isso? Porque a hidronefrose discreta é a primeira resposta do rim em dilatar. Numa endonefrose mais moderada, mais acentuada, que já denote um quadro mais arrastado, a gente também tem que ter um limite que existe um número meio mágico, de acordo com alguns estudos, eh, três semanas, um mês que o rim pode ficar obstruído sem ter uma sem prejudicar a função renal propriamente dita.",
+      "transversal": false,
+      "videoAulaId": 26,
+      "videoStartSec": 1445
     }
   ]
 }

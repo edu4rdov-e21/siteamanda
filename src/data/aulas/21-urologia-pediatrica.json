@@ -453,6 +453,460 @@
       "transversal": false,
       "videoAulaId": 21,
       "videoStartSec": 1565
+    },
+    {
+      "id": "Q-21-011",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "hidronefrose pré-natal",
+        "história natural",
+        "evolução transitória"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as hidronefroses detectadas em ultrassonografia pré-natal, qual afirmativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Praticamente 100% das hidronefroses pré-natais são patológicas e exigem cirurgia precoce."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 50% das hidronefroses pequenas (menores de 10 mm intraútero) são transitórias, mas algumas classificadas como transitórias podem evoluir como patológicas e lesar o rim."
+        },
+        {
+          "id": "C",
+          "texto": "Toda hidronefrose menor que 10 mm pode receber alta sem qualquer seguimento."
+        },
+        {
+          "id": "D",
+          "texto": "Hidronefrose pré-natal nunca se associa à infecção urinária pós-natal."
+        },
+        {
+          "id": "E",
+          "texto": "A hidronefrose pré-natal só pode ser identificada após o nascimento, com ressonância."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Aproximadamente **50% das hidronefroses pequenas (<10 mm) intraútero são transitórias**, porém parte delas é erroneamente rotulada como transitória e na verdade evoluirá com obstrução, dilatação progressiva e **perda de parênquima renal**. Por isso o seguimento pós-natal com ultrassom é fundamental — o objetivo central da uropediatria é a **preservação renal**.",
+      "referenciaAula": "Normalmente 50% das hidronefroses pequenas, menores de 10 mm intraútero, são transitórias. Esse é um grande problema, porque às vezes são classificadas como transitória e na verdade elas são patológicas, elas vão desenvolver obstruções, dilatações e vão lesar rim.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 220
+    },
+    {
+      "id": "Q-21-012",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "antibiótico profilático",
+        "hidronefrose",
+        "berçário"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação à profilaxia antibiótica nas crianças com hidronefrose diagnosticada no pré-natal, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não há indicação de antibiótico profilático nessas crianças."
+        },
+        {
+          "id": "B",
+          "texto": "A profilaxia é feita com dose plena de antibiótico, igual à dose de tratamento."
+        },
+        {
+          "id": "C",
+          "texto": "Inicia-se ainda no berçário com 1/4 da dose de tratamento, todos os dias, para evitar a maior parte das infecções urinárias, embora não previna 100% dos episódios."
+        },
+        {
+          "id": "D",
+          "texto": "A profilaxia substitui a necessidade de ultrassom e cintilografia."
+        },
+        {
+          "id": "E",
+          "texto": "A profilaxia só é iniciada após o primeiro episódio de ITU febril."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Toda criança com hidronefrose diagnosticada no pré-natal é mantida em **antibiótico profilático desde o berçário**, em dose correspondente a **1/4 da dose de tratamento**, uma vez ao dia. A profilaxia **não previne 100%** das ITUs (postite, retenção urinária etc.), mas reduz substancialmente os episódios. Ela complementa, e não substitui, a investigação por imagem (US, cintilografia, uretrocistografia).",
+      "referenciaAula": "25 1/4 da dose eh do antibiótico eh dose tratamento. Então, 1/4 da dose todo dia para que a gente consiga evitar a maior parte das infecções urinárias. Eu não consigo evitar 100%.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 813
+    },
+    {
+      "id": "Q-21-013",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "uretrocele",
+        "duplicação do sistema",
+        "rim multicístico"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Entre as hidronefroses patológicas que podem destruir o rim, está descrita a doença multicística renal. Sobre essa entidade, é CORRETO afirmar que se trata de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rins displásicos, que não se formaram adequadamente."
+        },
+        {
+          "id": "B",
+          "texto": "Cálculo coraliforme bilateral congênito."
+        },
+        {
+          "id": "C",
+          "texto": "Tumor renal benigno autolimitado."
+        },
+        {
+          "id": "D",
+          "texto": "Refluxo vesicoureteral exclusivamente unilateral."
+        },
+        {
+          "id": "E",
+          "texto": "Estenose isolada da junção ureterovesical."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "O **rim multicístico displásico** é uma forma de hidronefrose patológica em que o rim é **displásico, ou seja, não se formou adequadamente** durante a embriogênese. Outras causas patológicas incluem **refluxo vesicoureteral, ureterocele/duplicação do sistema e válvula de uretra posterior**, todas potencialmente lesivas ao parênquima renal.",
+      "referenciaAula": "Pode ser doença multicística, que é o rim multicístico. São rins displásicos, são rins que não se formaram adequadamente.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 301
+    },
+    {
+      "id": "Q-21-014",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "cirurgia fetal",
+        "derivação vesicoaminiótica",
+        "VUP"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Gestante de 24 semanas com feto masculino apresentando obstrução infravesical, mega bexiga e líquido amniótico ainda presente, mas em diminuição, com dosagem de beta-2 microglobulina alterada na bioquímica urinária fetal. Qual é a melhor conduta nesse cenário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aguardar até o termo, sem qualquer intervenção, pois cirurgia fetal não tem indicação nessa situação."
+        },
+        {
+          "id": "B",
+          "texto": "Indicar terapia fetal (cateter de derivação vesicoaminiótica ou cirurgia fetal), pois há sinais de perda de proteína e líquido amniótico em redução, e a intervenção melhora a sobrevida do feto."
+        },
+        {
+          "id": "C",
+          "texto": "Programar nefrectomia bilateral fetal por laparoscopia."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar parto imediato com 24 semanas, independentemente da maturidade pulmonar."
+        },
+        {
+          "id": "E",
+          "texto": "Nenhuma intervenção fetal está disponível para obstrução infravesical."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **terapia fetal (derivação vesicoaminiótica ou cirurgia fetal)** está indicada em fetos com **obstrução infravesical, líquido amniótico ainda aceitável mas em diminuição** e marcadores bioquímicos (como **beta-2 microglobulina**) sugerindo perda de função tubular. A intervenção visa **melhorar sobrevida** (principal causa de óbito perinatal é a hipoplasia pulmonar), embora o rim possivelmente já esteja lesado pela displasia e nefrogênese comprometida.",
+      "referenciaAula": "Eu eu doso, eu posso dosar eh eh bioquímica urinária, eu posso dosar uma proteína, que é uma beta2 microglobulina, e vê que ele já tá perdendo proteína. Então esses fetos, a gente faz uma classificação e esses fetos com líquido aminiótico ainda presente em diminuição candidatos a à terapia fetal, que pode ser um catéter.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 463
+    },
+    {
+      "id": "Q-21-015",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "JUP",
+        "vaso polar",
+        "vascular hitch",
+        "pieloplastia"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 5 anos com obstrução da junção pieloureteral apresenta, na avaliação intraoperatória laparoscópica, um vaso polar inferior cruzando o ureter no ponto da obstrução, sem alteração intrínseca da JUP. Qual é a alternativa cirúrgica conservadora possível nesse cenário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nefrectomia, pois a presença de vaso polar inviabiliza qualquer cirurgia conservadora."
+        },
+        {
+          "id": "B",
+          "texto": "Vesicostomia."
+        },
+        {
+          "id": "C",
+          "texto": "Vascular hitch — mobilização do vaso polar, sem ressecar a JUP, em situações selecionadas. Caso contrário, pieloplastia com anastomose por cima do vaso."
+        },
+        {
+          "id": "D",
+          "texto": "Reimplante ureteral antirrefluxo."
+        },
+        {
+          "id": "E",
+          "texto": "Ureterostomia cutânea definitiva."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Quando a obstrução da JUP é causada por **vaso polar** que cruza o ureter, em casos selecionados pode-se fazer a **vascular hitch**, que consiste na **mobilização do vaso** sem ressecção da JUP. Quando não é possível, indica-se **pieloplastia (Anderson-Hynes)** com **anastomose por cima do vaso**, ressecando a área obstruída.",
+      "referenciaAula": "Esse vídeo tá mostrando que tem um vaso polar, tem um vaso que entra ali no polo inferior do rim e obstrui essa passagem da urina através do ureter. Então, em algumas situações, a gente pode mobilizar esse vaso, que é uma cirurgia que a gente chama de vascular hit, que é só mobilização, mas na grande maioria a gente tem que fazer a pieloplastia.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1174
+    },
+    {
+      "id": "Q-21-016",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "pieloplastia",
+        "Anderson-Hynes",
+        "duplo J",
+        "eficácia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a pieloplastia de Anderson-Hynes para tratamento da obstrução da JUP, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tem eficácia inferior a 50% e é raramente indicada."
+        },
+        {
+          "id": "B",
+          "texto": "Consiste apenas em punção da pelve, sem ressecção da área obstruída."
+        },
+        {
+          "id": "C",
+          "texto": "Pode ser realizada por via convencional (lombotomia), laparoscópica, vídeo-assistida ou robótica, com ressecção da área obstruída, passagem de cateter duplo J e anastomose ampla pelve-ureter, com eficácia próxima a 90%."
+        },
+        {
+          "id": "D",
+          "texto": "Exige sempre nefrectomia parcial concomitante."
+        },
+        {
+          "id": "E",
+          "texto": "Só pode ser feita em adultos, nunca em crianças."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **pieloplastia de Anderson-Hynes** consiste em **abrir a pelve, ressecar a área obstruída, passar cateter duplo J** e fazer **anastomose ampla** entre ureter e pelve renal. Pode ser feita por **lombotomia (convencional), laparoscopia, vídeo-assistida ou robótica**, com **eficácia próxima a 90%** na resolução da obstrução do trato urinário.",
+      "referenciaAula": "Depois eu abro, ó lá, abrindo essa pelve, resseco a área que está eh obstruída, passo um catéter de duplo J, que é esse catéter azul, né, e faço anastomose, que é a pieloplastia Anderson Heines. Então eu posso fazer laparoscópico, eu posso fazer vídeoassistida e posso fazer ela robótica e com uma eficácia alta. Essa cirurgia tem uma eficácia de quase 90%.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1265
+    },
+    {
+      "id": "Q-21-017",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "tratamento endoscópico",
+        "refluxo",
+        "bioimplante",
+        "túnel suburotelial"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "No tratamento endoscópico do refluxo vesicoureteral em pediatria, qual é o princípio cirúrgico e o material utilizado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Injeta-se cimento ósseo no meato ureteral."
+        },
+        {
+          "id": "B",
+          "texto": "Injeta-se um bioimplante (ácido hialurônico com dextran) por cistoscopia, criando um bolus que aumenta o túnel suburotelial e impede o refluxo, com eficácia em até 90% dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "Realiza-se nefrectomia endoscópica do rim refluxor."
+        },
+        {
+          "id": "D",
+          "texto": "Coloca-se prótese metálica permanente no ureter."
+        },
+        {
+          "id": "E",
+          "texto": "Aplica-se ablação por radiofrequência da pelve renal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **tratamento endoscópico do refluxo** é feito por cistoscopia, com injeção submucosa, no meato ureteral, de **bioimplante (dextran + ácido hialurônico)**. O bolus formado **aumenta o túnel suburotelial** — que funciona como válvula natural — impedindo o retorno da urina ao rim em **até 90%** dos casos. Em alternativa, há o tratamento laparoscópico com aumento direto do túnel suburotelial.",
+      "referenciaAula": "Então, eu vou lá e injeto uma substância, um bioimplante, que é o destrã, um açúcar com ácido hialurônico. Então eu consigo fazer um bolos, um preenchimento ali e com isso eu impeço em até 90% que essa urina volte para o rim.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1743
+    },
+    {
+      "id": "Q-21-018",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "síndrome bexiga-intestino",
+        "constipação",
+        "refluxo"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a síndrome bexiga-intestino e sua relação com o refluxo vesicoureteral em pediatria, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não há associação relevante entre constipação e refluxo na infância."
+        },
+        {
+          "id": "B",
+          "texto": "É a criança que fica constipada, retém urina e favorece a infecção urinária; o tratamento do refluxo só é eficaz quando se melhora também o hábito intestinal."
+        },
+        {
+          "id": "C",
+          "texto": "O tratamento exclusivo da constipação resolve qualquer grau de refluxo."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome bexiga-intestino é sinônimo de bexiga neurogênica por mielomeningocele."
+        },
+        {
+          "id": "E",
+          "texto": "A síndrome só ocorre em adolescentes."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **síndrome bexiga-intestino** descreve a criança que **fica constipada, retém urina e favorece a ITU**. A constipação tem associação muito grande com o refluxo, e por isso **não se trata refluxo sem tratar o hábito intestinal**: melhorar a evacuação é parte indispensável do manejo, junto com profilaxia, controle de ITU e, quando indicado, cirurgia.",
+      "referenciaAula": "Hoje a gente chama de síndrome bexiga intestino. É a criança que fica constipada, retém urina e favorece a infecção urinária. Então eu não posso tratar um refluxo sem tratar o hábito intestinal. Eu tenho que melhorar a evacuação dessa criança.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1684
+    },
+    {
+      "id": "Q-21-019",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "ambiguidade genital",
+        "gônada não palpável",
+        "DDS",
+        "tumor gonadal"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Recém-nascido com aspecto aparente de genitália masculina, mas SEM gônadas palpáveis em região perineal ou inguinal bilateralmente. Qual a melhor conduta inicial e justificativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Liberar como sexo masculino, pois a aparência externa é suficiente para definir o sexo."
+        },
+        {
+          "id": "B",
+          "texto": "Classificar como ambiguidade genital e iniciar investigação multidisciplinar (cariótipo, dosagens hormonais, avaliação da genitália interna), pois a ausência de gônadas palpáveis aumenta o risco de erro diagnóstico de sexo e a associação com tumor gonadal (por exemplo, gonadoblastoma) é importante."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar imediatamente nefrectomia bilateral."
+        },
+        {
+          "id": "D",
+          "texto": "Considerar apenas micropênis isolado e prescrever testosterona empírica."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar somente uma uretrocistografia miccional e dar alta."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Mesmo com aspecto aparente de **genitália masculina**, a **ausência de gônadas palpáveis** é critério para considerar **ambiguidade genital**. Justificativa: evita erro de definição de sexo e antecipa o achado de **gonadoblastoma** (tumor mais comum em crianças com ambiguidade genital). A conduta envolve **cariótipo, biologia molecular, avaliação hormonal e da genitália interna** (frequentemente por laparoscopia), em equipe **DDS multidisciplinar**.",
+      "referenciaAula": "Quando eu não tenho gonada palpável, eu não consigo palpar. as gônadas perineais ou inguinais, não tem gônada nenhuma. Eh, então eu vou chamar de genitalia ambígua. E também se eu tiver uma malformação ou uma alteração eh genética cromossômica, a associação com tumor nessas gônadas é muito grande.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 1921
+    },
+    {
+      "id": "Q-21-020",
+      "aulaOrigem": 21,
+      "blocos": [
+        "D",
+        "H"
+      ],
+      "eixos": [],
+      "tags": [
+        "DDS 46XX ovotestes",
+        "nomenclatura",
+        "genitoplastia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Lactente com ambiguidade genital é submetido à laparoscopia, que evidencia uma gônada com características de testículo de um lado e de ovário do outro, confirmando ovotestes pela anatomopatologia. Sobre a nomenclatura atual e a abordagem global, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mantém-se o termo \"hermafroditismo verdadeiro\" como diagnóstico definitivo."
+        },
+        {
+          "id": "B",
+          "texto": "A nomenclatura atual descreve o caso como DDS (distúrbio de diferenciação do sexo) com cariótipo + descrição da genitália (por ex., DDS 46XX ovotestes); a correção da genitália precoce visa permitir desenvolvimento e vida social normais, sendo o gênero escolhido pela criança posteriormente."
+        },
+        {
+          "id": "C",
+          "texto": "Indica-se gonadectomia bilateral imediata, sem investigação adicional."
+        },
+        {
+          "id": "D",
+          "texto": "Atribui-se obrigatoriamente o sexo masculino em qualquer ovotestes, independentemente de cariótipo e função gonadal."
+        },
+        {
+          "id": "E",
+          "texto": "A genitoplastia precoce é proibida em qualquer situação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A nomenclatura **\"hermafroditismo verdadeiro\" foi substituída** por **DDS (distúrbio de diferenciação do sexo)** acompanhado do **cariótipo** e descrição da gônada — por exemplo, **DDS 46XX ovotestes**. A genitoplastia precoce visa adequar a genitália para permitir **desenvolvimento normal e vida social**, sendo a escolha do **gênero feita pela criança** posteriormente, com acompanhamento multidisciplinar.",
+      "referenciaAula": "Antigamente a gente definroditismo verdadeiro, porque eu já pela anátomo patológico, eu sei que um é testículo e o outro é ovário. Hoje a gente mudou essa nômina. Então, primeiro a gente fala o cariótipo. Nesse caso era um 46. Aí a gente fala a genitália, né? Ambiguidade genital. Então, DDS 46xy ovotestes. Agora, o gênero quem escolhe é a criança depois.",
+      "transversal": false,
+      "videoAulaId": 21,
+      "videoStartSec": 2171
     }
   ]
 }

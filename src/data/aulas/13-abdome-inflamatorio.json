@@ -464,6 +464,470 @@
       "transversal": false,
       "videoAulaId": 13,
       "videoStartSec": 2689
+    },
+    {
+      "id": "Q-13-011",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "abdome agudo",
+        "definicao",
+        "conceito"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual a definição de abdome agudo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dor abdominal crônica que persiste por mais de seis meses sem necessidade de intervenção."
+        },
+        {
+          "id": "B",
+          "texto": "Síndrome de dor abdominal de início agudo em indivíduo são ou como complicação de doença pré-existente, que necessita de intervenção de urgência."
+        },
+        {
+          "id": "C",
+          "texto": "Quadro doloroso abdominal exclusivo de pacientes com cirurgia prévia."
+        },
+        {
+          "id": "D",
+          "texto": "Conjunto de sintomas abdominais que regridem espontaneamente sem investigação."
+        },
+        {
+          "id": "E",
+          "texto": "Dor abdominal funcional sem substrato orgânico identificável."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Abdome agudo** é uma síndrome de dor abdominal de início agudo, podendo ocorrer em indivíduo são ou como complicação de doença pré-existente (conhecida ou não), e que **necessita de intervenção de urgência**. Esta definição engloba os quatro tipos clássicos: inflamatório, perfurativo, obstrutivo e vascular.",
+      "referenciaAula": "Abdômen agudo é uma síndrome de dor abdominal que ocorre de forma aguda em um indivíduo são ou como complicação de uma doença pré-existente, conhecida ou não, e que necessite de uma intervenção de urgência.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 31
+    },
+    {
+      "id": "Q-13-012",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "etiopatogenia",
+        "obstrucao"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual o mecanismo etiopatogênico inicial mais frequente da apendicite aguda?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trombose primária da artéria apendicular."
+        },
+        {
+          "id": "B",
+          "texto": "Invasão bacteriana primária da serosa apendicular."
+        },
+        {
+          "id": "C",
+          "texto": "Obstrução mecânica da luz do apêndice, geralmente por fecalito."
+        },
+        {
+          "id": "D",
+          "texto": "Refluxo de conteúdo cecal por incompetência da valva ileocecal."
+        },
+        {
+          "id": "E",
+          "texto": "Reação alérgica do tecido linfoide a alimentos."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A apendicite aguda começa, na maioria dos casos, com **obstrução mecânica da luz do apêndice**, geralmente por **fecalito**, mas também por corpo estranho, vermes ou hipertrofia do tecido linfoide. Há aumento da pressão intraluminal, congestão vascular e distensão; a invasão bacteriana é tardia. Por isso a dor precede a febre.",
+      "referenciaAula": "Na etiologia da da penicite aguda começa geralmente com uma obção mecânica da luz do ape. Geralmente por um fecalito, mas pode ser por um corpo estranho, vemmes e pela própria hipertrofia do tecido linfoide.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 573
+    },
+    {
+      "id": "Q-13-013",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "colecistite",
+        "epidemiologia",
+        "fatores de risco"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o perfil epidemiológico classicamente associado à colecistite aguda?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Adultos jovens do sexo masculino, segunda e terceira décadas de vida."
+        },
+        {
+          "id": "B",
+          "texto": "Crianças em idade escolar, sem predominância de sexo."
+        },
+        {
+          "id": "C",
+          "texto": "Mulheres na quinta e sexta década de vida, multíparas e obesas."
+        },
+        {
+          "id": "D",
+          "texto": "Idosos do sexo masculino, acima de 80 anos, magros."
+        },
+        {
+          "id": "E",
+          "texto": "Adolescentes vegetarianas e atléticas."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A colecistite aguda predomina em **mulheres na quinta e sexta década de vida, multíparas e obesas** (clássicos 'fatores F' — female, fertile, forty, fat). Em 90-95% dos casos é **litiásica**, decorrente de obstrução do ducto cístico por cálculo, com estase biliar e proliferação bacteriana.",
+      "referenciaAula": "A colicistite, diferente da pencite, é uma doença que predomina na quinta e sexta década de vida e mulheres do sexo feminino, multíparas e obesas.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1502
+    },
+    {
+      "id": "Q-13-014",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "graus",
+        "classificacao"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação à classificação macroscópica da apendicite aguda em quatro graus, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Grau I corresponde a apêndice perfurado com peritonite generalizada."
+        },
+        {
+          "id": "B",
+          "texto": "Grau II corresponde a apêndice com inflamação evidente, sem perfuração."
+        },
+        {
+          "id": "C",
+          "texto": "Grau III corresponde a apêndice macroscopicamente normal."
+        },
+        {
+          "id": "D",
+          "texto": "Grau IV corresponde a perfuração bloqueada com formação de abscesso localizado."
+        },
+        {
+          "id": "E",
+          "texto": "A classificação considera apenas achados histológicos, não macroscópicos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na classificação macroscópica: **Grau I** — apêndice macroscopicamente normal ou com alterações inflamatórias discretas (sem perfuração); **Grau II** — inflamação mais evidente, sem perfuração; **Grau III** — perfuração com **abscesso localizado**; **Grau IV** — perfuração não bloqueada com **peritonite generalizada**. O ideal é operar nos graus I e II, antes da perfuração.",
+      "referenciaAula": "Grau um e grau dois são os apêndices que ainda não tem perfuração. O grau dois é aquele que você tem uma inflamação mais evidente do apênice. O grau três é quando você tem já perfuração com formação de absesso localizado. E o grau quatro é aquele absesso que não bloqueou dando quadro de peritonite generalizada.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 660
+    },
+    {
+      "id": "Q-13-015",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "apendicite",
+        "psoas",
+        "sinal"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 28 anos, com suspeita de apendicite. Para investigar a localização retrocecal do apêndice, o examinador coloca o paciente em decúbito lateral esquerdo e realiza hiperextensão passiva do membro inferior direito, reproduzindo a dor. Esse achado corresponde ao:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sinal de Murphy."
+        },
+        {
+          "id": "B",
+          "texto": "Sinal do obturador."
+        },
+        {
+          "id": "C",
+          "texto": "Sinal do psoas."
+        },
+        {
+          "id": "D",
+          "texto": "Sinal de Cullen."
+        },
+        {
+          "id": "E",
+          "texto": "Sinal de Grey-Turner."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **sinal do psoas** é pesquisado com o paciente em decúbito lateral esquerdo, realizando-se **hiperextensão passiva do membro inferior direito**. A dor ocorre porque o apêndice retrocecal inflamado é comprimido sobre o músculo psoas. O **obturador** é diferente: paciente em decúbito dorsal, com flexão passiva da perna sobre a coxa e da coxa sobre a pelve, com rotação interna da coxa.",
+      "referenciaAula": "Também temos esses sinais na do pessoas que você coloca o paciente em decupito lateral esquerdo. Realiza-se uma hiperstensão passiva do membro inferior direito e o dente refere dor, sinal do pessoas positivo.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 944
+    },
+    {
+      "id": "Q-13-016",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pancreatite",
+        "Cullen",
+        "Grey-Turner",
+        "gravidade"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Os sinais de Grey-Turner (manchas equimóticas em flancos) e de Cullen (manchas equimóticas periumbilicais) são observados em pacientes com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apendicite aguda grau I."
+        },
+        {
+          "id": "B",
+          "texto": "Pancreatite aguda necro-hemorrágica (forma grave)."
+        },
+        {
+          "id": "C",
+          "texto": "Colecistite aguda alitiásica."
+        },
+        {
+          "id": "D",
+          "texto": "Diverticulite aguda Hinchey I."
+        },
+        {
+          "id": "E",
+          "texto": "Doença inflamatória pélvica em fase inicial."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os sinais de **Grey-Turner** (manchas equimóticas em **flancos**) e de **Cullen** (manchas equimóticas **periumbilicais**) indicam sangramento retroperitoneal e são observados apenas nas **pancreatites graves, necro-hemorrágicas**. Não aparecem nas formas leves (que correspondem a mais de 90% dos casos de pancreatite aguda).",
+      "referenciaAula": "Esse sinal de grey turner são essas manchas queimótica em flancos. E essas manchmóticas periumbilicais chama sinal de coolem, mas e e esses sinais só se observa nas pancreates graves, nas pancreates agudas necrohemorrágicas.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2130
+    },
+    {
+      "id": "Q-13-017",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diverticulite",
+        "epidemiologia",
+        "sigmoide"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a diverticulite aguda do cólon, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É mais frequente em pacientes na segunda década de vida."
+        },
+        {
+          "id": "B",
+          "texto": "A localização mais comum dos divertículos é o ceco."
+        },
+        {
+          "id": "C",
+          "texto": "É a principal complicação da doença diverticular e ocorre principalmente na região do sigmoide."
+        },
+        {
+          "id": "D",
+          "texto": "A hemorragia é mais frequente que a diverticulite na evolução natural da doença diverticular."
+        },
+        {
+          "id": "E",
+          "texto": "A maioria dos pacientes com divertículos evolui obrigatoriamente para complicações."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **diverticulite é a principal complicação da doença diverticular** (em torno de 25% dos pacientes com divertículos), enquanto a hemorragia ocorre em cerca de 15%. Os divertículos podem aparecer em qualquer segmento cólico, mas predominam no **sigmoide**. É doença mais prevalente em **idosos** — pessoas de 20 anos dificilmente terão diverticulite.",
+      "referenciaAula": "A diviculite é a principal complicação da doença divicular. Esses divertículos podem ocorrer em todos os segmentos cólicos, mas ocorre principalmente na região do sigmoide. Em primeiro lugar temos a diverticulite, que ocorre em 25% dos dentes com divertículos. E a outra complicação é a hemorragia que ocorre até em torno de 15%.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2460
+    },
+    {
+      "id": "Q-13-018",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "colecistite",
+        "complicacoes",
+        "ileo biliar",
+        "fistula"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 72 anos, com história de colecistopatia litiásica, é admitida com quadro de dor abdominal em cólica, distensão, vômitos e parada de eliminação de gases e fezes. Imagem evidencia obstrução em íleo terminal por cálculo biliar e aerobilia. Qual é o mecanismo da complicação descrita?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Migração de cálculo pelo colédoco até a papila duodenal, com obstrução pancreática."
+        },
+        {
+          "id": "B",
+          "texto": "Fístula colecisto-entérica (geralmente colecisto-duodenal) com migração do cálculo, causando obstrução intestinal denominada íleo biliar."
+        },
+        {
+          "id": "C",
+          "texto": "Necrose isquêmica do íleo por trombose mesentérica."
+        },
+        {
+          "id": "D",
+          "texto": "Volvo de delgado por bridas após colecistectomia."
+        },
+        {
+          "id": "E",
+          "texto": "Hérnia interna por orifício de Winslow."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **íleo biliar** é uma complicação rara da colecistite, decorrente de **fístula colecisto-entérica** (mais comumente colecisto-duodenal) por erosão da parede vesicular contra o duodeno. O cálculo migra para o intestino, percorre o trato e impacta no segmento mais estreito (geralmente o **íleo terminal**), causando obstrução intestinal. A aerobilia é sinal indireto da fístula bilio-digestiva.",
+      "referenciaAula": "Eventualmente pode ocorrer uma fístola da vesícula para uma alça intestinal, principalmente uma alça de doedeno. Daí isso aí se chama fístola colecista entérica ou quadrilubiliar. Esse quadro pode migrar no intestino e chegar a um ponto que é mais estreito o lume, por exemplo, terminal e causar um quadro de obsção intestinal que denominamos de ilha biliar.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1803
+    },
+    {
+      "id": "Q-13-019",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diverticulo de Meckel",
+        "regra dos 2",
+        "divertucilite",
+        "caso clinico"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Adolescente de 15 anos é submetido a apendicectomia por suspeita de apendicite aguda. No intraoperatório, o cirurgião encontra um apêndice macroscopicamente normal. Qual é a conduta esperada e qual estrutura deve ser ativamente pesquisada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Encerrar imediatamente a cirurgia sem outras inspeções, pois o apêndice está normal."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar colectomia direita ampliada por suspeita de neoplasia oculta."
+        },
+        {
+          "id": "C",
+          "texto": "Pesquisar divertículo de Meckel no íleo terminal, pois pode ser causa de quadro clínico semelhante à apendicite."
+        },
+        {
+          "id": "D",
+          "texto": "Indicar pancreatectomia exploradora por possível pancreatite oculta."
+        },
+        {
+          "id": "E",
+          "texto": "Realizar colecistectomia profilática por possível colecistite alitiásica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Quando o apêndice está **macroscopicamente normal** no intraoperatório, é fundamental pesquisar a presença de **divertículo de Meckel** no íleo terminal. O Meckel é vestígio do canal onfalomesentérico, situado na borda antimesentérica do íleo terminal, e segue a 'regra dos 2%' (2% da população tem o divertículo, 2% complicam). Suas complicações — diverticulite e hemorragia (esta quando há mucosa gástrica ectópica) — podem simular apendicite aguda.",
+      "referenciaAula": "Quando você abre uma paciente com suspeito pendicite, macroscopicamente o pic parece normal, é importante você pesquisar no hípterminal presença de verticur de méquio.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 3000
+    },
+    {
+      "id": "Q-13-020",
+      "aulaOrigem": 13,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "pancreatite",
+        "Ranson",
+        "criterios",
+        "gravidade"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os critérios de Ranson para avaliação prognóstica da pancreatite aguda, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Todos os critérios são avaliados exclusivamente na admissão hospitalar."
+        },
+        {
+          "id": "B",
+          "texto": "São utilizados critérios de admissão (como idade, leucocitose, glicemia, LDH e AST) e critérios de reavaliação após 48 horas (queda do hematócrito, aumento da ureia, cálcio, base excess, perda de líquido e PO2)."
+        },
+        {
+          "id": "C",
+          "texto": "Os critérios independem da etiologia biliar ou não biliar da pancreatite."
+        },
+        {
+          "id": "D",
+          "texto": "Os critérios consideram apenas variáveis radiológicas obtidas por tomografia."
+        },
+        {
+          "id": "E",
+          "texto": "São aplicáveis somente a pancreatites de etiologia alcoólica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **critérios de Ranson** dividem-se em dois momentos: na **admissão** (idade > 55 anos — biliar > 70; leucocitose > 16.000 — biliar > 18.000; glicemia > 200 — biliar > 220; LDH > 350 — biliar > 250; AST > 250) e na **reavaliação após 48 horas** (queda do hematócrito ≥ 10%, aumento da ureia ≥ 5 mg%, cálcio < 8, base excess > 4, perda de líquido > 6 L, PO2 < 60). Os pontos de corte variam conforme etiologia (biliar vs. não biliar). Quanto mais critérios positivos, pior o prognóstico.",
+      "referenciaAula": "O critério de ranço, que eu vou fazer essa avaliação na entrada, na admissão. Então, eu vou pontuar se a idade maior que 55 anos, se for biliar 70. Leucuitose maior que 16.000. Se for biliar 18.000. Glicemia maior que 200. Se for eh biliar 220. LDH maior que 350. Eh, se for biliar, maior que 250. A ST maior que 250. E na reavaliação após 48 horas vou verificar se que teve uma queda de hematóx de 10%, aumento da 5 mg%, cálcio menor que 8, bease excessés maior que 4, perda de líquido maior que 6 L e PO2 menor que 60.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2314
     }
   ]
 }

@@ -474,6 +474,481 @@
       "transversal": false,
       "videoAulaId": 20,
       "videoStartSec": 2164
+    },
+    {
+      "id": "Q-20-011",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "hematúria microscópica",
+        "definição",
+        "EAS"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Como é definida a hematúria microscópica no exame de urina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma hemácia por campo em uma única amostra."
+        },
+        {
+          "id": "B",
+          "texto": "Três ou mais hemácias por campo grande de aumento, geralmente em duas ou três amostras."
+        },
+        {
+          "id": "C",
+          "texto": "Presença de cilindros hemáticos no sedimento."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas a positividade da fita reagente para sangue."
+        },
+        {
+          "id": "E",
+          "texto": "Mais de dez hemácias por campo, em amostra única."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **hematúria microscópica** é definida pela presença de **três ou mais hemácias por campo grande de aumento** na microscopia da urina, idealmente confirmada em **duas ou três amostras**. Diferente da macroscópica, a microscópica permite estratificação de risco (baixo, intermediário e alto) para guiar a propedêutica. A fita reagente isolada não é suficiente para o diagnóstico.",
+      "referenciaAula": "A definição de hematura microscópica são três ou mais hemácias por campo grande de aumento na na microscopia de urina, geralmente em duas ou três amostras.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 34
+    },
+    {
+      "id": "Q-20-012",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "carcinoma urotelial",
+        "câncer de bexiga",
+        "histologia"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o tipo histológico mais frequente do câncer de bexiga?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Adenocarcinoma."
+        },
+        {
+          "id": "B",
+          "texto": "Carcinoma de células escamosas."
+        },
+        {
+          "id": "C",
+          "texto": "Carcinoma urotelial."
+        },
+        {
+          "id": "D",
+          "texto": "Carcinoma de pequenas células."
+        },
+        {
+          "id": "E",
+          "texto": "Sarcoma vesical."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **carcinoma urotelial** (antigamente chamado de transicional) responde por cerca de **90% dos casos** de câncer de bexiga. O carcinoma de células escamosas está associado à inflamação crônica vesical (cálculos, sondas, esquistossomose) e o adenocarcinoma é mais raro. Conhecer essa proporção orienta o raciocínio diagnóstico inicial diante de uma lesão vesical.",
+      "referenciaAula": "O principal deles, 90% dos casos, é o carcinoma urotelial.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1000
+    },
+    {
+      "id": "Q-20-013",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de pênis",
+        "carcinoma epidermoide",
+        "histologia"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual o tipo histológico mais comum do câncer de pênis?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Adenocarcinoma."
+        },
+        {
+          "id": "B",
+          "texto": "Melanoma."
+        },
+        {
+          "id": "C",
+          "texto": "Sarcoma de pênis."
+        },
+        {
+          "id": "D",
+          "texto": "Carcinoma de células escamosas (epidermoide)."
+        },
+        {
+          "id": "E",
+          "texto": "Carcinoma urotelial uretral."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "O **carcinoma de células escamosas (epidermoide)** corresponde a cerca de **95% dos casos** de câncer de pênis. Lesões planas no epitélio peniano (doença de Bowen, eritroplasia de Queyrat) são variantes in situ. Sarcoma, melanoma e câncer uretral invadindo o pênis são apresentações raras. HPV (subtipos 16 e 18), fimose, má higiene e líquen escleroso são fatores de risco.",
+      "referenciaAula": "o mais comum, sem sombra de dúvida, é o carcinoma de células escamosas, 95% dos casos.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 2012
+    },
+    {
+      "id": "Q-20-014",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "tumor renal",
+        "síndrome paraneoplásica",
+        "manifestações"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as manifestações clínicas do câncer renal, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em todos os casos o paciente apresenta a clássica tríade de hematúria, dor e massa abdominal palpável."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 20% dos pacientes podem apresentar síndrome paraneoplásica ao diagnóstico, devido à produção de citocinas inflamatórias."
+        },
+        {
+          "id": "C",
+          "texto": "A apresentação é sintomática na imensa maioria dos casos, sendo o incidentaloma uma exceção."
+        },
+        {
+          "id": "D",
+          "texto": "Astenia e perda de peso são raras mesmo em casos avançados."
+        },
+        {
+          "id": "E",
+          "texto": "A síndrome paraneoplásica está presente apenas em tumores benignos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O câncer renal é, na grande maioria das vezes, **assintomático** e descoberto como **incidentaloma** em exames de imagem. Quando sintomático, a hematúria é o achado mais comum; a tríade clássica (hematúria + dor + massa) é rara. Cerca de **20% dos pacientes** apresentam **síndrome paraneoplásica** (febre, hipercalcemia, eritrocitose, HAS) por liberação tumoral de citocinas, podendo mimetizar outras doenças.",
+      "referenciaAula": "Lembrar que 20% dos pacientes ao diagnóstico eles podem ter síndrome paraneoplásica, né, que o tumor produz citocinas inflamatórias que vão causar outras doenças, vão mimetizar outras doenças quando na verdade é um câncer de rím.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 392
+    },
+    {
+      "id": "Q-20-015",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "Von Hippel-Lindau",
+        "síndrome hereditária",
+        "carcinoma de células claras"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as síndromes hereditárias associadas ao câncer renal, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A síndrome de Von Hippel-Lindau é autossômica recessiva e está associada ao carcinoma cromófobo."
+        },
+        {
+          "id": "B",
+          "texto": "A síndrome de Von Hippel-Lindau é autossômica dominante e está associada ao carcinoma renal de células claras."
+        },
+        {
+          "id": "C",
+          "texto": "A esclerose tuberosa associa-se a carcinoma de ductos de Bellini."
+        },
+        {
+          "id": "D",
+          "texto": "Estudo genético é proposto apenas em pacientes acima de 70 anos."
+        },
+        {
+          "id": "E",
+          "texto": "História familiar de câncer renal não modifica a conduta."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **síndrome de Von Hippel-Lindau** é uma doença **autossômica dominante** classicamente associada ao **carcinoma renal de células claras**, frequentemente bilateral e multifocal. Pacientes com câncer renal antes dos 46 anos ou com história familiar devem ser encaminhados para estudo genético. A esclerose tuberosa associa-se a **angiomiolipomas múltiplos e bilaterais**, não ao carcinoma de ductos de Bellini.",
+      "referenciaAula": "Lembrar também da síndrome das síndromes hereditárias, principalmente a divonindor, que é uma doença autossômica dominante. E o câncer atribuído a ele é o câncer renal tipo células clavas.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 454
+    },
+    {
+      "id": "Q-20-016",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de testículo",
+        "marcadores tumorais",
+        "seminoma",
+        "não seminoma"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os tipos histológicos do câncer de testículo, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Seminomas têm pior prognóstico e marcadores tumorais habitualmente positivos."
+        },
+        {
+          "id": "B",
+          "texto": "Seminomas costumam ter bom prognóstico, com marcadores tumorais negativos em cerca de 85% dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "O carcinoma embrionário é o tipo seminomatoso mais comum."
+        },
+        {
+          "id": "D",
+          "texto": "Tumores não seminomatosos não respondem a quimioterapia."
+        },
+        {
+          "id": "E",
+          "texto": "Os marcadores beta-hCG, alfafetoproteína e LDH são pedidos apenas no seguimento, nunca no diagnóstico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **seminomas** são os mais comuns e têm **bom prognóstico**, com marcadores tumorais (beta-hCG, AFP, LDH) **negativos em cerca de 85% dos casos**. Os **não seminomatosos** são mais agressivos, frequentemente com marcadores positivos, e o **carcinoma embrionário** é o tipo não seminomatoso mais comum. Os marcadores ajudam diagnóstico, prognóstico e seguimento.",
+      "referenciaAula": "Nós temos aqui os seminomatoses, que são os mais comuns de bom prognóstico. Geralmente os marcadores são negativos, os marcadores tumorais. 85% dos casos os marcadores estão negativos.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1596
+    },
+    {
+      "id": "Q-20-017",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "tumor renal",
+        "nefrectomia parcial",
+        "nefrectomia total",
+        "indicação"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 60 anos, com tumor renal localizado de 8 cm em região hilar, próximo aos vasos renais. Função renal contralateral preservada. Qual a abordagem cirúrgica de escolha?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nefrectomia parcial sempre, independentemente do tamanho ou localização."
+        },
+        {
+          "id": "B",
+          "texto": "Vigilância ativa, dado o risco cirúrgico elevado."
+        },
+        {
+          "id": "C",
+          "texto": "Nefrectomia total, indicada para tumores muito extensos ou em localização anatômica difícil (hilar, mesorrenal)."
+        },
+        {
+          "id": "D",
+          "texto": "Crioterapia percutânea como primeira linha."
+        },
+        {
+          "id": "E",
+          "texto": "Quimioterapia neoadjuvante isolada."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Embora a **nefrectomia parcial** seja preferida sempre que factível para preservar função renal, **tumores muito extensos** ou localizados em **regiões anatômicas difíceis** (hilar, mesorrenal, próximos a artéria/veia) são candidatos à **nefrectomia total**. Crioterapia/radiofrequência só são consideradas em tumores pequenos (< 3-3,5 cm). Vigilância ativa é reservada a tumores < 3 cm em pacientes idosos ou com muitas comorbidades.",
+      "referenciaAula": "Tumores muito extensos, grandes massas tumorais ou aqueles tumores que são menores, porém tá numa numa região anatômica difícil, perto de artéria, perto de veia, em situação hilar, mesorrenal. Esses pacientes são submetidos a uma neflectomia total.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 664
+    },
+    {
+      "id": "Q-20-018",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de bexiga",
+        "RTU",
+        "quimioterapia intravesical",
+        "baixo risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 55 anos, hematúria intermitente. Cistoscopia evidencia tumor único, papilífero, pequeno, restrito à mucosa (Ta), de baixo grau. Qual a conduta mais adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cistectomia radical imediata."
+        },
+        {
+          "id": "B",
+          "texto": "RTU de bexiga, podendo ser associada a uma dose única de quimioterápico intravesical em até 24 horas para reduzir recidiva."
+        },
+        {
+          "id": "C",
+          "texto": "BCG intravesical com manutenção por 3 anos como tratamento inicial obrigatório."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas observação, sem ressecção."
+        },
+        {
+          "id": "E",
+          "texto": "Radioterapia pélvica isolada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Tumores de bexiga **não músculo invasivos de baixo risco** são tratados com **RTU (ressecção transuretral)**, podendo-se associar **dose única de quimioterápico intravesical em até 24 horas** para reduzir a taxa de recidiva. **BCG** com indução e manutenção é reservado a risco intermediário (1 ano) e alto/muito alto risco (3 anos). Cistectomia em doença não invasiva fica reservada a falha de BCG ou impossibilidade de ressecção completa.",
+      "referenciaAula": "O tratamento básico é a reção transuretral, é a RTU. Nós vamos retirar todo o tumor na sua camada superficial e também a camada profunda, visando pegar uma amostra da muscular própria do detrusor da bexiga. Pode ser o único tratamento ou nós podemos associar em até 24 horas uma dose única de quimioterápico.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1264
+    },
+    {
+      "id": "Q-20-019",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer renal",
+        "nefrectomia citorredutora",
+        "doença metastática",
+        "terapia sistêmica"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 62 anos, carcinoma renal de células claras com metástases pulmonares ao diagnóstico, hematúria, dor lombar e bom performance status, classificado em risco intermediário. Qual a estratégia terapêutica mais adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quimioterapia clássica isolada, padrão-ouro para câncer de rim."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas radioterapia paliativa local."
+        },
+        {
+          "id": "C",
+          "texto": "Nefrectomia citorredutora seguida de terapia sistêmica (inibidor de tirosina-quinase e/ou imunoterapia), pois a cirurgia isolada não basta."
+        },
+        {
+          "id": "D",
+          "texto": "Acompanhamento clínico até progressão sintomática grave."
+        },
+        {
+          "id": "E",
+          "texto": "Transplante renal contralateral."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em paciente metastático com bom performance status (risco favorável ou intermediário), indica-se **nefrectomia citorredutora** para reduzir sintomas locais (dor, hematúria) e modular a doença, **complementada por terapia sistêmica** com inibidores de tirosina-quinase e/ou imunoterapia, pois estudos mostram que a cirurgia isolada não é suficiente. Não existe quimioterapia clássica para câncer de rim. Pacientes com risco desfavorável recebem apenas terapia sistêmica paliativa.",
+      "referenciaAula": "Eh, porém, os estudos mais recentes mostram que só a nefrectomia citorredutora, ela não é o suficiente. Você precisa propor para esse paciente alguma terapia sistêmica após a cirurgia. Não existe quimioterapia convencional clássica para câncer de rim.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 815
+    },
+    {
+      "id": "Q-20-020",
+      "aulaOrigem": 20,
+      "blocos": [
+        "H",
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "câncer de testículo",
+        "linfadenectomia retroperitoneal",
+        "PET-CT",
+        "massa residual"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 30 anos, submetido a orquiectomia radical por seminoma com metástase retroperitoneal. Após quimioterapia, persiste massa residual retroperitoneal de 4 cm. Qual a melhor conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Repetir orquiectomia contralateral profilática."
+        },
+        {
+          "id": "B",
+          "texto": "Considerar linfadenectomia retroperitoneal, já que em seminomas a massa residual maior que 3 cm pode demandar abordagem cirúrgica; o PET-CT auxilia diferenciando tumor viável de fibrose."
+        },
+        {
+          "id": "C",
+          "texto": "Radioterapia abdominal sem nenhuma reavaliação."
+        },
+        {
+          "id": "D",
+          "texto": "Acompanhamento clínico anual sem novos exames."
+        },
+        {
+          "id": "E",
+          "texto": "Biópsia transescrotal da massa retroperitoneal."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em **seminomas**, após QT/RT, **massas residuais retroperitoneais maiores que 3 cm** podem indicar **linfadenectomia retroperitoneal**. Nos não seminomatosos, o limite é menor (> 1 cm). O **PET-CT** é fundamental para diferenciar tumor viável de fibrose, evitando cirurgia desnecessária. Biópsia transescrotal é proscrita em testículo. O seminoma também é radiossensível, mas, persistindo massa significativa, pode-se proceder à linfadenectomia.",
+      "referenciaAula": "naqueles casos em que você após a a quimioterapia ou a radioterapia você ainda tem massa residual no retroperitônio, maior do que 3 cm, você pode partir para uma linfadenectomia retropitonial, uma cirurgia extensa para remover aquilo que a quimioterapia, radioterapia não conseguiram resolver.",
+      "transversal": false,
+      "videoAulaId": 20,
+      "videoStartSec": 1806
     }
   ]
 }

@@ -462,6 +462,468 @@
       "transversal": false,
       "videoAulaId": 10,
       "videoStartSec": 587
+    },
+    {
+      "id": "Q-10-011",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "anatomia da pele",
+        "funções da pele",
+        "fisiologia"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais são as cinco funções principais da pele relevantes para a compreensão das suas neoplasias?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Função sensorial, proteção solar, termorregulação, prevenção da desidratação e regulação do metabolismo da vitamina D."
+        },
+        {
+          "id": "B",
+          "texto": "Síntese de hemoglobina, digestão, hematopoese, oxigenação e produção hormonal."
+        },
+        {
+          "id": "C",
+          "texto": "Filtração glomerular, sustentação muscular, condução nervosa, fonação e absorção intestinal."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas proteção contra agentes mecânicos e síntese de melanina."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas termorregulação e percepção tátil."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A pele desempenha **cinco funções principais**: (1) **sensorial**, (2) **proteção solar**, (3) **termorregulação**, (4) **prevenção da desidratação** e (5) **regulação do metabolismo da vitamina D**. Compreender essas funções ajuda a entender as consequências das neoplasias cutâneas e seus tratamentos, especialmente quando há perda de área significativa.",
+      "referenciaAula": "Ele tem cinco funções principais, seriam as funções sensoriais, a proteção solar, a termorregulação, a prevenção da desidratação e a regulação do metabolismo da vitamina D.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 40
+    },
+    {
+      "id": "Q-10-012",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "carcinoma espinocelular",
+        "camada espinhosa",
+        "características"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao carcinoma espinocelular (epidermoide), assinale a alternativa CORRETA quanto à sua origem celular e características clínicas:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Origina-se das células basais da epiderme e tem crescimento indolente."
+        },
+        {
+          "id": "B",
+          "texto": "É constituído pela proliferação de células da camada espinhosa da pele, com caráter mais invasor, lesões crostosas ou queratinizadas, crescimento mais rápido e frequente ulceração."
+        },
+        {
+          "id": "C",
+          "texto": "Origina-se dos melanócitos e produz pigmento marrom-escuro."
+        },
+        {
+          "id": "D",
+          "texto": "É derivado da hipoderme e tem aspecto liso e róseo."
+        },
+        {
+          "id": "E",
+          "texto": "Surge dos folículos pilosos e nunca ulcera."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **carcinoma espinocelular** (CEC ou epidermoide) origina-se da **proliferação de células da camada espinhosa** da epiderme. Comparado ao carcinoma basocelular, possui **caráter mais invasor**, sítios específicos de acometimento, lesões **crostosas ou queratinizadas**, **crescimento mais rápido** e **frequência maior de ulceração**. Tem propensão metastática regional, ao contrário do basocelular.",
+      "referenciaAula": "O carcinoma espinocelular é constituído pela proliferação de células da camada espinhosa da pele, já tem um caráter mais invasor. Eles também têm essa característica de serem crostosos ou queratinizados, de crescimento mais rápido, com alguma frequência de ulceração.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 132
+    },
+    {
+      "id": "Q-10-013",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "prevenção",
+        "fotoproteção",
+        "rastreamento"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais medidas de prevenção se aplicam aos três tipos de tumores de pele (basocelular, espinocelular e melanoma)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas o uso de filtro solar facial."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar quimioterapia profilática anual."
+        },
+        {
+          "id": "C",
+          "texto": "Evitar exposição solar nos horários de mais incidência de radiação, procurar a sombra, proteger o corpo com filtro solar ou roupas com proteção, e fazer autoinspeção ou consulta ao dermatologista anualmente, incluindo dobras, sola dos pés, regiões interdigitais e couro cabeludo."
+        },
+        {
+          "id": "D",
+          "texto": "Suplementação contínua de vitamina D em altas doses."
+        },
+        {
+          "id": "E",
+          "texto": "Rastreamento por tomografia anual de toda a superfície corporal."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **prevenção** aplicável aos três tipos de tumor de pele inclui: evitar exposição solar nos horários de maior radiação, buscar a sombra, proteger o corpo com filtro solar ou roupas com proteção solar (especialmente em exposição ocupacional) e realizar **autoinspeção** ou avaliação dermatológica **anual** de toda a superfície corporal, sem esquecer **dobras, sola dos pés, região interdigital e couro cabeludo** (frequentemente esquecidos por estarem ocultos pelos cabelos).",
+      "referenciaAula": "Como prevenção, todos os critérios se aplicam aos três tipos de tumores. Evitar exposição solar nos horários de mais incidência de radiação, procurar a sombra, usar filtro solar ou roupas com proteção solar. Paciente fazer a própria autoinspeção ou procurar um dermatologista anualmente para avaliação de toda a superfície corporal, inclusive dobras, sola de pés e dedos, região interdigital e região de couro cabeludo.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 905
+    },
+    {
+      "id": "Q-10-014",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "imunossupressão",
+        "fator de risco",
+        "alto risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 52 anos, transplantado renal há 6 anos em uso contínuo de imunossupressores, apresenta lesão crostosa em dorso de mão sugestiva de carcinoma espinocelular. Considerando o perfil clínico, qual fator de risco descrito como o MAIS importante para todos os tipos de tumores cutâneos (incluindo o melanoma) está presente nesse caso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Idade superior a 50 anos."
+        },
+        {
+          "id": "B",
+          "texto": "Tabagismo de longa data."
+        },
+        {
+          "id": "C",
+          "texto": "Imunossupressão."
+        },
+        {
+          "id": "D",
+          "texto": "Sexo masculino."
+        },
+        {
+          "id": "E",
+          "texto": "Hipertensão arterial sistêmica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Entre os critérios que classificam um tumor de pele como **alto risco**, a **imunossupressão** é apontada como o **mais importante** para todos os tipos de tumores cutâneos, inclusive o melanoma. Pacientes transplantados em uso de imunossupressores têm aumento expressivo do risco e devem receber vigilância dermatológica intensiva.",
+      "referenciaAula": "Dentre eles a imunossupressão é a mais importante para todos os tumores, inclusive o melanoma.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 224
+    },
+    {
+      "id": "Q-10-015",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "estadiamento N",
+        "carcinoma epidermoide",
+        "linfonodos regionais"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao estadiamento dos linfonodos regionais (N) nos tumores de pele não melanoma, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O componente N se aplica igualmente ao basocelular e ao espinocelular, com mesmos pontos de corte."
+        },
+        {
+          "id": "B",
+          "texto": "Aplica-se essencialmente ao carcinoma epidermoide, sendo N1 até 3 cm, N2 quando bilaterais ou entre 3 e 6 cm, e N3 acima de 6 cm; o basocelular tradicionalmente não gera metástases."
+        },
+        {
+          "id": "C",
+          "texto": "N1 é definido como linfonodo maior que 6 cm e N3 como ausência de linfonodos."
+        },
+        {
+          "id": "D",
+          "texto": "O carcinoma basocelular obrigatoriamente gera metástases linfonodais já no diagnóstico."
+        },
+        {
+          "id": "E",
+          "texto": "O número de linfonodos não tem relevância prognóstica nos tumores cutâneos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Nos tumores de pele não melanoma, o componente **N** se aplica essencialmente ao **carcinoma epidermoide**, pois tradicionalmente o **basocelular não gera metástases**. A subclassificação considera **N0** (ausência), **N1** (até 3 cm), **N2** (bilaterais ou entre 3 e 6 cm) e **N3** (acima de 6 cm), com características específicas em cada categoria.",
+      "referenciaAula": "Em relação ao número de linfonodos regionais, isso vale apenas pro carcinoma epidermoide, pois tradicionalmente o carcinoma base celular não gera metástases. N1 até 3 cm, N2 ou bilaterais ou entre 3 e 6 cm e N3 acima de 6 cm.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 249
+    },
+    {
+      "id": "Q-10-016",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "técnicas destrutivas",
+        "curetagem",
+        "crioterapia",
+        "baixo risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as técnicas cirúrgicas destrutivas (curetagem com cauterização, crioterapia e terapia laser) para os tumores de pele não melanoma, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "São indicadas preferencialmente em lesões grandes, profundas e em áreas de alto risco funcional."
+        },
+        {
+          "id": "B",
+          "texto": "São úteis em lesões pequenas, superficiais e de mais baixo risco em áreas onde não é tão importante a manutenção da função."
+        },
+        {
+          "id": "C",
+          "texto": "Substituem a cirurgia de Mohs em todas as situações de alto risco."
+        },
+        {
+          "id": "D",
+          "texto": "Permitem análise histológica intraoperatória das margens."
+        },
+        {
+          "id": "E",
+          "texto": "São contraindicadas em qualquer carcinoma basocelular."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As **técnicas destrutivas** — curetagem com cauterização, crioterapia (técnica local) e a terapia laser (uso eventual) — são úteis em **lesões pequenas, superficiais e de baixo risco** em áreas onde a manutenção da função não é tão crítica. Não permitem avaliação histológica das margens, motivo pelo qual não são indicadas em lesões de alto risco ou áreas funcionalmente nobres, onde a cirurgia micrográfica de Mohs é preferida.",
+      "referenciaAula": "Eles são divididos em destrutivas, que são a curetem e a cauterização, a crioterapia, que é uma técnica local, e a terapia laser eventual, sendo que elas são úteis em lesões pequenas, superficiais e lesões de mais baixo risco em áreas onde não é tão importante a manutenção da função.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 307
+    },
+    {
+      "id": "Q-10-017",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "melanoma extensivo superficial",
+        "crescimento lateral",
+        "epidemiologia por sexo"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 38 anos, com múltiplas pintas e história familiar de melanoma, apresenta lesão pigmentada heterogênea de crescimento lateral progressivo na perna há cerca de 1 ano. Qual subtipo de melanoma é o MAIS provável e qual sua característica de crescimento típica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Melanoma nodular — crescimento vertical precoce, sem fase lateral."
+        },
+        {
+          "id": "B",
+          "texto": "Lentigo maligno — típico de áreas fotoexpostas em idosos."
+        },
+        {
+          "id": "C",
+          "texto": "Melanoma extensivo superficial — costuma ser o tipo mais comum, com crescimento lateral por longo período antes da invasão profunda; é mais comum em pessoas com muitas pintas, histórico familiar e exposição solar intensa, afetando mais as pernas nas mulheres."
+        },
+        {
+          "id": "D",
+          "texto": "Melanoma lentiginoso acral — predomina em palmas e plantas."
+        },
+        {
+          "id": "E",
+          "texto": "Melanoma amelanótico — sem pigmento, restrito a mucosas."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **melanoma extensivo superficial** costuma ser o **tipo mais comum** de melanoma e caracteriza-se por **crescimento lateral por um longo período** antes de fazer a invasão vertical/profunda. É mais frequente em pessoas com **muitas pintas, histórico familiar** e relacionado à **exposição solar intensa com queimaduras**. Distribuição: nos homens afeta mais o **tronco** e nas mulheres afeta mais as **pernas**.",
+      "referenciaAula": "O melanoma extensivo superficial costuma ser o tipo mais comum, onde há um crescimento lateral por um longo período antes de fazer a invasão profunda. Ele é o mais comum em pessoas que têm muitas pintas, com histórico familiar e relacionados a essa exposição solar muito intensa com o histórico de queimaduras. Nos homens afeta mais o tronco e nas mulheres afeta mais as pernas.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 542
+    },
+    {
+      "id": "Q-10-018",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "lentigo maligno",
+        "exposição solar crônica",
+        "idosos"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o lentigo maligno como subtipo de melanoma, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É o subtipo mais agressivo, típico de jovens e crianças."
+        },
+        {
+          "id": "B",
+          "texto": "É um melanoma mais indolente, geralmente de idosos, relacionado à exposição solar contínua ao longo de toda a vida; consiste em lesões de crescimento extensivo superficial, heterogêneas, irregulares, geralmente extensas em face e pescoço."
+        },
+        {
+          "id": "C",
+          "texto": "É restrito a palmas e plantas dos pés."
+        },
+        {
+          "id": "D",
+          "texto": "Apresenta sempre crescimento vertical rápido nos primeiros 3 meses."
+        },
+        {
+          "id": "E",
+          "texto": "Não tem relação com fotoexposição."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **lentigo maligno** é um melanoma mais **indolente**, geralmente de **idosos**, relacionado à **exposição solar contínua ao longo de toda a vida**. Apresenta-se como lesões de **crescimento extensivo superficial**, **heterogêneas no aspecto interno**, **irregulares**, geralmente **razoavelmente extensas em face e pescoço**, podendo acometer também membros superiores associados a história de exposição solar, em áreas expostas.",
+      "referenciaAula": "O lentigo maligno é um melanoma mais indolente, geralmente de idosos, e tem relação essa exposição solar contínua ao longo de toda a vida. São lesões de crescimento mais extensivo superficiais, heterogêneas no seu aspecto interno, irregulares, geralmente razoavelmente extensas em face e pescoço, embora possam acometer também membros superiores associados a uma história de exposição solar, em áreas expostas.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 617
+    },
+    {
+      "id": "Q-10-019",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "estadiamento T",
+        "melanoma",
+        "ulceração",
+        "Breslow"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "No estadiamento T do melanoma (T1 a T4), qual é o significado da subdivisão entre as categorias \"a\" e \"b\" e por que essa diferenciação é clinicamente relevante?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A categoria \"a\" indica metástase à distância e \"b\" indica ausência de metástase."
+        },
+        {
+          "id": "B",
+          "texto": "A categoria \"a\" representa lesões de aspecto normal (sem ulceração) e \"b\" representa lesões com mesma localização, tamanho e espessura de Breslow porém com ulceração; é relevante pela agressividade local e pela indicação de pesquisa de linfonodo sentinela."
+        },
+        {
+          "id": "C",
+          "texto": "A categoria \"a\" refere-se ao número de linfonodos comprometidos e \"b\" ao tamanho do tumor primário."
+        },
+        {
+          "id": "D",
+          "texto": "Não existe diferenciação \"a\" e \"b\" no estadiamento T do melanoma."
+        },
+        {
+          "id": "E",
+          "texto": "A categoria \"b\" sempre indica acometimento de sistema nervoso central."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "No estadiamento **T do melanoma** (T1 a T4), as lesões classificadas como **\"a\"** correspondem a lesões de **aspecto normal (sem ulceração)**, enquanto as **\"b\"** são as **mesmas lesões em tamanho, localização e espessura de Breslow porém com ulceração**. Essa diferenciação é altamente relevante pela **agressividade local** que a ulceração indica e pela **indicação de pesquisa de linfonodo sentinela** para avaliação de metástases locorregionais.",
+      "referenciaAula": "Em relação ao T, de T1 a T4, tudo que for a em relação aos tamanhos são lesões de aspecto normal, e tudo que for B são as mesmas lesões em tamanho, localização e espessura de Breslow com a ulceração. Isso é muito relevante por causa da agressividade local e por causa da indicação de linfonodos sentinela para pesquisa de metástases locorregionais.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 661
+    },
+    {
+      "id": "Q-10-020",
+      "aulaOrigem": 10,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "linfonodo sentinela",
+        "drenagem linfática",
+        "anatomia regional"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com melanoma localizado em couro cabeludo será submetido à pesquisa de linfonodo sentinela. Conforme as zonas de drenagem específicas descritas, qual cadeia linfonodal deve ser preferencialmente investigada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cadeia inguinal exclusivamente."
+        },
+        {
+          "id": "B",
+          "texto": "Cadeia axilar bilateral, sempre."
+        },
+        {
+          "id": "C",
+          "texto": "Região cervical ou parotídea, conforme drenagem específica do couro cabeludo."
+        },
+        {
+          "id": "D",
+          "texto": "Cadeia mediastinal por via endoscópica."
+        },
+        {
+          "id": "E",
+          "texto": "Linfonodos retroperitoneais."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Cada região anatômica possui **zonas específicas de drenagem linfática**, fundamentais na pesquisa do linfonodo sentinela. O **couro cabeludo** drena para **pescoço ou região parotídea**. O **dorso** pode drenar para axilas ou inguinal; a **região abdominal** drena para inguinal ou axilas conforme a altura. Esse conhecimento direciona a marcação com radiofármaco e a localização da primeira estação de drenagem.",
+      "referenciaAula": "Dorso pode drenar tanto para axilas quanto região inguinal. Couro cabeludo pode drenar para pescoço ou região parotídea. Abdominal pode drenar pra região inguinal ou para axilas, conforme a altura. Existem regiões específicas de drenagem.",
+      "transversal": false,
+      "videoAulaId": 10,
+      "videoStartSec": 814
     }
   ]
 }

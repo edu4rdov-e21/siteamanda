@@ -462,6 +462,466 @@
       "transversal": false,
       "videoAulaId": 15,
       "videoStartSec": 874
+    },
+    {
+      "id": "Q-15-011",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "fatores ambientais",
+        "dieta",
+        "obesidade"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais fatores ambientais estão classicamente associados ao aumento da incidência do câncer colorretal nas populações ocidentais?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Alta ingestão de fibras e atividade física regular."
+        },
+        {
+          "id": "B",
+          "texto": "Alimentação rica em frutas e baixa ingestão calórica."
+        },
+        {
+          "id": "C",
+          "texto": "Consumo de alimentos processados, carne vermelha (especialmente processada), obesidade e sedentarismo."
+        },
+        {
+          "id": "D",
+          "texto": "Exposição solar excessiva e tabagismo isolado."
+        },
+        {
+          "id": "E",
+          "texto": "Dieta mediterrânea e elevado consumo de azeite de oliva."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A elevação da incidência do câncer colorretal está ligada a **fatores ambientais e comportamentais**: alimentação rica em **processados e carne vermelha (sobretudo processada)**, **obesidade**, **sedentarismo** e baixa ingestão de fibras/frutas. Nos EUA, indivíduos nascidos após 1950 apresentaram incremento de incidência justamente por essas mudanças do estilo de vida moderno.",
+      "referenciaAula": "Alimentação com processados, com menos fruta, com carne vermelha, principalmente carne vermelha processada. É obesidade, sedentarismo e alimentação ruim, alimento processado.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 481
+    },
+    {
+      "id": "Q-15-012",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "epidemiologia brasileira",
+        "INCA",
+        "regiões"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a incidência do câncer colorretal no Brasil segundo as estimativas do INCA, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É o tumor mais incidente em ambos os sexos em todas as regiões do país."
+        },
+        {
+          "id": "B",
+          "texto": "Em mulheres é o terceiro mais frequente e em homens o quarto, com variações regionais (alta incidência de colo de útero no Norte/Nordeste e de estômago em algumas áreas)."
+        },
+        {
+          "id": "C",
+          "texto": "É raro no Brasil, com incidência inferior a 1% das neoplasias."
+        },
+        {
+          "id": "D",
+          "texto": "É mais frequente que câncer de mama em todas as regiões."
+        },
+        {
+          "id": "E",
+          "texto": "Sua incidência é uniforme em todo o território nacional."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "As estimativas do **INCA** mostram forte regionalização: no Norte e Nordeste há grande incidência de **câncer de colo de útero** (falta de acesso) e em algumas regiões há grande prevalência de **câncer gástrico**. Por isso, o câncer de intestino aparece como **3º mais frequente em mulheres** e **4º em homens** no Brasil, refletindo a heterogeneidade do país.",
+      "referenciaAula": "Em mulheres o câncer de intestino é o terceiro, em homens é um quarto, porque a gente tem muito câncer de estômago em umas regiões do país.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 303
+    },
+    {
+      "id": "Q-15-013",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "rastreamento eficaz",
+        "colo de útero",
+        "comparação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Entre os tumores listados, quais são considerados aqueles em que o rastreamento é MAIS eficaz, segundo a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Câncer de mama e câncer de próstata."
+        },
+        {
+          "id": "B",
+          "texto": "Câncer de pulmão e câncer de fígado."
+        },
+        {
+          "id": "C",
+          "texto": "Câncer colorretal e câncer de colo de útero."
+        },
+        {
+          "id": "D",
+          "texto": "Câncer gástrico e câncer pancreático."
+        },
+        {
+          "id": "E",
+          "texto": "Câncer de tireoide e câncer renal."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **câncer colorretal** e o **câncer de colo de útero** são os tumores em que o rastreamento é **mais eficaz**, pois ambos apresentam **lesões precursoras identificáveis** (adenomas e lesões pelo HPV) com longo intervalo até o carcinoma invasivo. Mama e próstata têm rastreamento útil, porém menos eficaz pela existência de tumores de crescimento rápido ou indolentes.",
+      "referenciaAula": "O rastreamento do câncer colorretal e rastreamento do câncer colo de útero são os mais eficazes. É mais eficaz do que o de mama, é mais eficaz do que o de próstata.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 815
+    },
+    {
+      "id": "Q-15-014",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "FIT",
+        "sensibilidade",
+        "falso negativo"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o desempenho do teste fecal imunoquímico (FIT/anticorpo antiemoglobina) no rastreamento do câncer colorretal, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apresenta sensibilidade próxima de 100% para adenomas pequenos, dispensando repetição."
+        },
+        {
+          "id": "B",
+          "texto": "Tem sensibilidade entre 70-80% para lesões mais avançadas, com falso negativo de cerca de 30%, justificando a repetição anual diante de resultado negativo."
+        },
+        {
+          "id": "C",
+          "texto": "Exige restrição dietética de carne vermelha por três dias antes do exame."
+        },
+        {
+          "id": "D",
+          "texto": "Necessita de três amostras de fezes em dias consecutivos para validade."
+        },
+        {
+          "id": "E",
+          "texto": "Tem maior sensibilidade para adenomas pequenos do que para tumores invasivos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **FIT** (anticorpo antiemoglobina) tem **sensibilidade de 70-80%** para lesões avançadas, com **falso negativo de cerca de 30%** e falso positivo em torno de 20%. Por isso o teste **negativo deve ser repetido anualmente**: um eventual falso negativo no ano corrente costuma ser detectado nos exames seguintes. Não exige restrição dietética e basta uma amostra (ao contrário do antigo guaiaco).",
+      "referenciaAula": "A sensibilidade varia entre 70 e 80% para identificar lesões maiores. O falso negativo começa em mais ou menos 30%, e o falso positivo de mais ou menos 20%.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1143
+    },
+    {
+      "id": "Q-15-015",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "abordagem individual",
+        "adesão",
+        "rastreamento"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 55 anos, assintomática, sem antecedente familiar relevante, procura consulta para rastreamento de câncer colorretal. Diz que tem medo da colonoscopia e prefere não fazê-la. Qual a melhor conduta segundo as diretrizes apresentadas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Insistir na colonoscopia, pois é o único método válido em abordagem individual."
+        },
+        {
+          "id": "B",
+          "texto": "Recusar qualquer rastreamento já que a paciente não aceita colonoscopia."
+        },
+        {
+          "id": "C",
+          "texto": "Oferecer alternativas (teste fecal, retossigmoidoscopia) para garantir ADESÃO, mesmo que a colonoscopia seja a primeira opção possível em nível individual."
+        },
+        {
+          "id": "D",
+          "texto": "Aguardar o aparecimento de sintomas antes de propor qualquer exame."
+        },
+        {
+          "id": "E",
+          "texto": "Solicitar apenas CEA sérico anualmente como rastreamento."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em abordagem **individual**, a colonoscopia pode ser oferecida, mas as diretrizes recomendam **discutir e oferecer alternativas** (teste fecal, retossigmoidoscopia) porque o que mais importa é a **adesão**. Empurrar uma colonoscopia que o paciente não fará é pior do que oferecer um teste fecal anual, que é simples e bem tolerado. CEA não tem papel em rastreamento.",
+      "referenciaAula": "É melhor que ele faça o teste fecal do que você empurrar uma colonoscopia, ele não queira fazer. A nível individual você pode oferecer a colonoscopia, mas é melhor oferecer as outras opções para ele escolher, porque ele vai ter adesão.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 994
+    },
+    {
+      "id": "Q-15-016",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "prevenção secundária",
+        "remoção de adenoma",
+        "polipectomia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Por que a remoção endoscópica de adenomas durante a colonoscopia é considerada uma estratégia altamente eficaz de PREVENÇÃO do câncer colorretal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque os adenomas se transformam em carcinoma em poucos meses, exigindo intervenção urgente."
+        },
+        {
+          "id": "B",
+          "texto": "Porque interrompe a sequência adenoma-carcinoma antes que a lesão benigna evolua para maligna, reduzindo efetivamente a ocorrência de carcinoma."
+        },
+        {
+          "id": "C",
+          "texto": "Porque a polipectomia substitui a quimioterapia adjuvante."
+        },
+        {
+          "id": "D",
+          "texto": "Porque os adenomas removidos liberam fatores que protegem contra metástases."
+        },
+        {
+          "id": "E",
+          "texto": "Porque toda lesão polipoide já é carcinoma in situ."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **polipectomia** durante a colonoscopia é eficaz porque interrompe a **sequência adenoma-carcinoma**: como o intervalo entre adenoma e carcinoma é longo (~5 anos), retirar a lesão benigna **previne** efetivamente o aparecimento do câncer. Esse é o fundamento que torna o rastreamento colonoscópico tão impactante na incidência do câncer colorretal.",
+      "referenciaAula": "Quando você remove um adenoma, você efetivamente tá diminuindo bastante a ocorrência de carcinoma.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 630
+    },
+    {
+      "id": "Q-15-017",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "apresentação clínica",
+        "doença avançada",
+        "sintomas tardios"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 58 anos chega ao ambulatório com massa abdominal palpável, dor abdominal, emagrecimento importante e suspeita de metástases hepáticas. Sobre esse quadro no contexto da história natural do câncer colorretal, qual afirmativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trata-se provavelmente de uma lesão recente, com poucos meses de evolução."
+        },
+        {
+          "id": "B",
+          "texto": "Apesar do crescimento lento da doença, o paciente pode estar com a neoplasia há mais de 10 anos sem sintomas — quando estes aparecem, costumam indicar doença avançada com queda significativa da chance de cura."
+        },
+        {
+          "id": "C",
+          "texto": "Esse padrão sintomático é típico de estadios precoces (I e II)."
+        },
+        {
+          "id": "D",
+          "texto": "A presença de metástase hepática não altera o prognóstico se o tumor primário for ressecado."
+        },
+        {
+          "id": "E",
+          "texto": "O paciente provavelmente apresenta tumor de crescimento rápido sem lesão precursora."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O câncer colorretal tem **crescimento lento** e o paciente pode estar doente por **mais de 10 anos** sem sintomas. Quando surgem **massa palpável, dor, emagrecimento ou metástase**, a doença já está avançada e a chance de cura cai muito (estadio IV ~11%). Por isso o **rastreamento em assintomáticos** é a chave para mudar o prognóstico.",
+      "referenciaAula": "Quando alguém chega no ambulatório com câncer ele pode estar doente há mais de 10 anos. Não dava sintoma. E ele chega com massa palpável, dor abdominal, emagrecimento, às vezes com metástase. A chance de cura desse indivíduo cai bastante.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 574
+    },
+    {
+      "id": "Q-15-018",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "sobrevida estadio III",
+        "diagnóstico tardio",
+        "prognóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "No câncer colorretal, qual é o estadio em que a maioria dos casos é descoberta no momento do diagnóstico, e qual o desfecho aproximado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estadio I, com mais de 90% de cura."
+        },
+        {
+          "id": "B",
+          "texto": "Estadio II, com 80% de cura sem necessidade de adjuvância."
+        },
+        {
+          "id": "C",
+          "texto": "Estadio III, no qual aproximadamente 50% dos pacientes evoluem para óbito por causa do carcinoma."
+        },
+        {
+          "id": "D",
+          "texto": "Estadio IV exclusivamente, com sobrevida superior a 80%."
+        },
+        {
+          "id": "E",
+          "texto": "Estadio 0 (in situ), descoberto por sangue oculto."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A maioria dos casos de câncer colorretal é diagnosticada no **estadio III** (com comprometimento linfonodal). Nesse estadio, aproximadamente **50% dos pacientes evoluem para óbito** pela própria neoplasia. Esse dado reforça a importância do **diagnóstico precoce** via rastreamento, já que estadios I e II têm prognóstico muito melhor.",
+      "referenciaAula": "É o paciente que tem o estadio três normalmente, que é quando a gente descobre a grande maioria dos casos e no estadio três 50% dos pacientes vão evoluir para óbito por causa do carcinoma.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1295
+    },
+    {
+      "id": "Q-15-019",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "rastreamento populacional",
+        "logística",
+        "adesão"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os desafios da implementação de um programa POPULACIONAL de rastreamento de câncer colorretal com teste fecal, qual afirmativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não há necessidade de logística estruturada, basta entregar o kit ao paciente."
+        },
+        {
+          "id": "B",
+          "texto": "É necessário sistema de entrega/recebimento dos kits, leitura, comunicação dos resultados e encaminhamento para colonoscopia em caso de positividade; a adesão pode cair após exames sucessivamente normais."
+        },
+        {
+          "id": "C",
+          "texto": "Após dois ou três exames normais o paciente pode interromper o rastreamento com segurança."
+        },
+        {
+          "id": "D",
+          "texto": "Resultados negativos não precisam ser repetidos, pois afastam definitivamente o diagnóstico."
+        },
+        {
+          "id": "E",
+          "texto": "O custo inicial do programa é desprezível comparado ao tratamento individualizado."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Um programa **populacional** exige **logística completa**: distribuição/recolhimento dos kits, leitura, comunicação de resultados, repetição anual em negativos e encaminhamento para **colonoscopia** em positivos. Um problema real é a **queda de adesão** após exames sucessivamente normais — é errado parar o rastreamento depois de dois ou três resultados negativos, da mesma forma que se mantém o controle de glicemia/colesterol anualmente.",
+      "referenciaAula": "Você tem que ter uma logística, porque tem que entregar, receber, orientar, falar qual é a positividade. Ele pode ter uma baixa adesão depois de dois ou três exames normais. Falar 'ah, não tenho nada, vou parar de fazer isso, tá errado'.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1062
+    },
+    {
+      "id": "Q-15-020",
+      "aulaOrigem": 15,
+      "blocos": [
+        "G"
+      ],
+      "eixos": [
+        "T6"
+      ],
+      "tags": [
+        "Unicamp",
+        "campanha",
+        "prevenção institucional"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Em uma instituição como a Unicamp, é implantada uma campanha de prevenção do câncer colorretal, com palestras, distribuição de kits de pesquisa de sangue oculto, leitura dos exames e encaminhamento à colonoscopia se positivo, voltada a maiores de 50 anos. Qual o impacto esperado e o aspecto correto desse programa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não tem efeito sobre a população, pois apenas a colonoscopia universal é válida."
+        },
+        {
+          "id": "B",
+          "texto": "A adesão tende a 100%, com diagnóstico de muitas lesões em todos os anos da campanha."
+        },
+        {
+          "id": "C",
+          "texto": "A adesão tipicamente fica em torno de 50-60%, identifica grande número de lesões no início (que diminui ao longo dos anos), promove conscientização e demonstra que rastreamento populacional é viável e impactante."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas pacientes sintomáticos devem ser incluídos na campanha."
+        },
+        {
+          "id": "E",
+          "texto": "Resultados negativos eliminam a necessidade de novo rastreamento futuro."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A campanha da Unicamp (iniciada em 2010) ilustra os princípios de um rastreamento populacional eficaz: **adesão em torno de 50-60%** (considerada adequada), identificação de **grande número de lesões precoces (pólipos e câncer estadio I assintomático)** que tende a diminuir ao longo dos anos, além do importante efeito de **conscientização e alerta sobre a doença**. Resultados negativos exigem repetição anual.",
+      "referenciaAula": "Tivemos uma adesão adequada ao programa que dá mais ou menos 50, 60% de adesão. A gente identifica um grande número de lesões, principalmente no início, depois diminuiu. A campanha trouxe um alerta sobre essa doença.",
+      "transversal": false,
+      "videoAulaId": 15,
+      "videoStartSec": 1533
     }
   ]
 }

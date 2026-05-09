@@ -465,6 +465,467 @@
       "transversal": false,
       "videoAulaId": 5,
       "videoStartSec": 1953
+    },
+    {
+      "id": "Q-05-011",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cirurgia sensível ao tempo",
+        "oncológica",
+        "classificação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as cirurgias sensíveis ao tempo, qual alternativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "São cirurgias de emergência que devem ser feitas em menos de 6 horas."
+        },
+        {
+          "id": "B",
+          "texto": "Não são de urgência nem de emergência, mas a demora excessiva piora o prognóstico — o principal exemplo são as cirurgias oncológicas."
+        },
+        {
+          "id": "C",
+          "texto": "Podem ser adiadas por até 1 ano sem comprometer o prognóstico."
+        },
+        {
+          "id": "D",
+          "texto": "Correspondem exclusivamente às cirurgias ortopédicas eletivas."
+        },
+        {
+          "id": "E",
+          "texto": "São cirurgias que devem ser realizadas em até 24 horas obrigatoriamente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Cirurgias sensíveis ao tempo** não são de urgência nem de emergência, mas a demora excessiva pode piorar o prognóstico. O **principal exemplo são as cirurgias oncológicas**, em que a demora compromete a ressecção tumoral. Diferenciam-se das eletivas (adiáveis até 1 ano) e permitem otimização pré-operatória do paciente.",
+      "referenciaAula": "as cirurgias que são sensíveis ao tempo. Quer dizer, não são cirurgias nem de urgência, nem de emergência, mas são cirurgias que se você demorar demais para realizar, você pode piorar o prognóstico dos pacientes",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 65
+    },
+    {
+      "id": "Q-05-012",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "admissão UTI",
+        "planejada",
+        "não planejada"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação às admissões na UTI no pós-operatório, qual a definição correta de admissão NÃO PLANEJADA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É aquela em que o paciente já vai pro centro cirúrgico com a perspectiva de ir direto pra UTI."
+        },
+        {
+          "id": "B",
+          "texto": "É aquela em que a princípio o paciente faria pós-operatório na enfermaria, mas no intraoperatório ocorre intercorrência e ele precisa ir paraa UTI."
+        },
+        {
+          "id": "C",
+          "texto": "É a admissão de pacientes clínicos por descompensação ambulatorial."
+        },
+        {
+          "id": "D",
+          "texto": "Refere-se exclusivamente às admissões após cirurgias eletivas de baixo risco."
+        },
+        {
+          "id": "E",
+          "texto": "É a admissão programada após cirurgia cardíaca."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **admissão planejada** é aquela em que o paciente já vai à cirurgia com a perspectiva de pós-operatório direto na UTI. Já a **admissão não planejada** ocorre quando a ideia inicial era pós-operatório em enfermaria, mas alguma **intercorrência intraoperatória** não prevista força a transferência à UTI.",
+      "referenciaAula": "aquela admissão não planejada é aquele paciente que vai pra cirurgia. A princípio, a ideia era que esse paciente fizesse o pós-operatório na enfermaria, mas ali no intraoperatório acontece alguma intercorrência",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 575
+    },
+    {
+      "id": "Q-05-013",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "desnutrição",
+        "etiologia",
+        "doença"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as etiologias da desnutrição relevantes no contexto cirúrgico, qual alternativa é CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Praticamente toda desnutrição contemporânea é por fome (acesso inadequado a alimentos)."
+        },
+        {
+          "id": "B",
+          "texto": "A desnutrição relacionada à doença, mais comum na prática clínica, decorre de inapetência, dificuldade alimentar e aumento de citocinas inflamatórias circulantes."
+        },
+        {
+          "id": "C",
+          "texto": "A desnutrição não interfere no risco cirúrgico se o IMC estiver normal."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas pacientes oncológicos terminais apresentam desnutrição relacionada à doença."
+        },
+        {
+          "id": "E",
+          "texto": "A desnutrição é considerada um fator de risco não modificável."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Há duas etiologias principais: **desnutrição por fome** (acesso inadequado a alimentos, hoje menos comum) e **desnutrição relacionada à doença** — muito mais frequente. Esta resulta de **inapetência**, **dificuldade alimentar** e **aumento de citocinas inflamatórias circulantes**, comum em neoplasias e doenças crônicas graves. É um **fator de risco modificável** no perioperatório.",
+      "referenciaAula": "O que é muito mais comum na prática clínica é aquela desnutrição relacionada à doença. Então, por exemplo, o paciente tem uma doença crônica grave, tem, por exemplo, uma neoplasia. E por conta dessa neoplasia, por conta às vezes de inapetência, por conta de dificuldade de alimentação ou mesmo por conta de aumento na circulação de citocinas inflamatórias",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1413
+    },
+    {
+      "id": "Q-05-014",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "epidemiologia",
+        "mortalidade pós-operatória",
+        "alto risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da mortalidade cirúrgica em dados europeus citados na aula, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A mortalidade global em 30 dias é alta, em torno de 15-20%."
+        },
+        {
+          "id": "B",
+          "texto": "A mortalidade global em 30 dias é baixa (~0,7-1,7%), mas cerca de 12,5% dos pacientes (alto risco) respondem por mais de 80% das mortes."
+        },
+        {
+          "id": "C",
+          "texto": "Todos os pacientes operados têm risco semelhante de óbito."
+        },
+        {
+          "id": "D",
+          "texto": "A maioria das mortes ocorre em pacientes ASA 1 submetidos a cirurgias eletivas."
+        },
+        {
+          "id": "E",
+          "texto": "A mortalidade pós-operatória independe do tipo de cirurgia ou perfil do paciente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Dados do Reino Unido mostram **mortalidade global em 30 dias baixa (~0,7-1,7%)**, mas com distribuição muito desigual: cerca de **12,5% dos pacientes** (alto risco) respondem por **mais de 80%** das mortes. Esse achado fundamenta o objetivo da avaliação pré-operatória — identificar essa minoria para otimização e cuidado intensivo.",
+      "referenciaAula": "12,5 dos pacientes que foram submetidos à cirurgia representavam mais de 80% das mortes que aconteceram nesse contexto. Então, o objetivo da avaliação pré-operatória é justamente identificar esses pacientes que têm um risco maior",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 515
+    },
+    {
+      "id": "Q-05-015",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "Shoemaker",
+        "sangramento",
+        "alto risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os critérios de Shoemaker para identificação de paciente de alto risco cirúrgico, qual achado é considerado fator de risco?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Perspectiva de sangramento intraoperatório maior que 1,5 litro."
+        },
+        {
+          "id": "B",
+          "texto": "Cirurgia laparoscópica eletiva em paciente jovem hígido."
+        },
+        {
+          "id": "C",
+          "texto": "IMC normal e ausência de comorbidades."
+        },
+        {
+          "id": "D",
+          "texto": "Cirurgia com duração inferior a 30 minutos."
+        },
+        {
+          "id": "E",
+          "texto": "Paciente jovem com pressão arterial bem controlada."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Os **critérios de Shoemaker** para alto risco incluem: doenças cardiorrespiratórias graves prévias (IAM recente, DPOC grave), cirurgias extensas/prolongadas (ex.: esofagectomia), politraumatismo grave (lesões em ≥2 sistemas), **perspectiva de sangramento >1,5 L** intraoperatório, idade avançada com baixa reserva fisiológica, descompensação hemodinâmica pré-operatória e oligúria/disfunção renal.",
+      "referenciaAula": "pacientes cuja cirurgia existe uma perspectiva grande de sangramento importante, uma perspectiva ali de um sangramento maior do que do que 1,5 L durante o procedimento, pacientes idosos com uma reserva fisiológica baixa",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1060
+    },
+    {
+      "id": "Q-05-016",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "ASA",
+        "ASA 5",
+        "emergência"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente politraumatizado dá entrada em choque hemorrágico grave, sendo encaminhado a laparotomia exploradora imediata para controle de hemorragia. Qual a classificação ASA mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ASA 2 — comorbidades leves compensadas."
+        },
+        {
+          "id": "B",
+          "texto": "ASA 3 — doença sistêmica grave não totalmente compensada."
+        },
+        {
+          "id": "C",
+          "texto": "ASA 4 — patologia que constitui ameaça à vida."
+        },
+        {
+          "id": "D",
+          "texto": "ASA 5 — paciente moribundo que necessita de cirurgia de emergência sob risco grande de óbito em pouco tempo se não operar."
+        },
+        {
+          "id": "E",
+          "texto": "ASA 6 — paciente em morte encefálica para captação de órgãos."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "**ASA 5** corresponde ao paciente muito grave que precisa de **cirurgia de emergência** com risco grande de óbito em pouco tempo se não operar — exemplos clássicos incluem **trauma grave com choque hemorrágico** que necessita controle cirúrgico da hemorragia e neurocirurgia de urgência por hipertensão intracraniana. ASA 6 é reservado a pacientes em morte encefálica para captação de órgãos.",
+      "referenciaAula": "Um paciente com trauma grave que tem um choque hemorrágico, precisa de um procedimento cirúrgico para controlar para controlar a hemorragia, né? Então esses pacientes são classificados como ASA 5.",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1237
+    },
+    {
+      "id": "Q-05-017",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "terapia nutricional",
+        "dieta enteral",
+        "dieta parenteral"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as modalidades de terapia nutricional perioperatória, qual conduta é a mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A dieta parenteral é a primeira escolha em todos os pacientes desnutridos."
+        },
+        {
+          "id": "B",
+          "texto": "Suplementos VO são indicados a quem se alimenta por via oral; dieta enteral via sonda nasoenteral é usada em baixa ingesta com TGI funcionante; dieta parenteral é reservada a quem não pode usar o trato gastrointestinal."
+        },
+        {
+          "id": "C",
+          "texto": "A dieta enteral é contraindicada em todos os pacientes pré-cirúrgicos."
+        },
+        {
+          "id": "D",
+          "texto": "Suplementos VO substituem a dieta parenteral em pacientes de UTI sem trato funcionante."
+        },
+        {
+          "id": "E",
+          "texto": "A dieta parenteral é administrada por via subcutânea periférica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A escolha da terapia nutricional é progressiva: **suplementos orais** (alta densidade proteica) para quem se alimenta por VO; **dieta enteral por sonda nasoenteral** quando há baixa ingesta com TGI funcionante (inapetência ou dificuldade anatômica); **dieta parenteral** (mistura de lipídios, aminoácidos, glicose e microelementos) administrada **em veia profunda/acesso venoso central** quando o trato gastrointestinal não pode ser utilizado.",
+      "referenciaAula": "Aquele paciente que por alguma razão tem uma baixa ingesta de de alimentos por via oral, eh seja por inapetência ou seja por alguma dificuldade anatômica de se alimentar, a gente pode dar dieta interal. (...) E por fim, aqueles pacientes que não tm condição de usar o trato gastrointestinal, a gente pode lançar a mão da dieta parenteral",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1604
+    },
+    {
+      "id": "Q-05-018",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "admissão UTI",
+        "indicação",
+        "evento adverso catastrófico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Entre os quatro grandes grupos de critérios para indicação de admissão planejada na UTI no pós-operatório, qual configura a chamada \"terceira indicação\" — aquela em que nem o paciente nem a cirurgia são de alto risco?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pacientes com ASA 1 submetidos a cirurgias eletivas ortopédicas."
+        },
+        {
+          "id": "B",
+          "texto": "Risco grande de evento adverso catastrófico no perioperatório (ex.: sangramento volumoso ou obstrução arterial aguda) que exija identificação e intervenção rápidas."
+        },
+        {
+          "id": "C",
+          "texto": "Cirurgias laparoscópicas eletivas com paciente saudável."
+        },
+        {
+          "id": "D",
+          "texto": "Pacientes ambulatoriais com cirurgia de pequeno porte."
+        },
+        {
+          "id": "E",
+          "texto": "Pacientes com doenças crônicas estáveis e cirurgias oftalmológicas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os quatro grupos de indicação para admissão planejada em UTI são: (1) **cirurgia de alto risco**; (2) **paciente de alto risco**; (3) **risco grande de evento adverso catastrófico** que exija intervenção rápida (ex.: sangramentos volumosos, obstrução arterial aguda); (4) **suporte assistencial fora da UTI precário**, típico de hospitais secundários ou de menor porte.",
+      "referenciaAula": "existe um risco muito grande de algum evento adverso no pai operatório que seja muito catastrófico, um evento adverso que precise de uma identificação, de uma intervenção rápida (...) o paciente que tem um risco muito grande de sangramentos volumosos no peroperatório ou um paciente que pode ter um risco de uma obstrução arterial aguda",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 631
+    },
+    {
+      "id": "Q-05-019",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "corticoide",
+        "transição parenteral",
+        "hidrocortisona"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 60 anos, em uso crônico de prednisona oral por doença autoimune, será submetida a ressecção de tumor de retossigmoide com previsão de jejum prolongado e impossibilidade de uso do trato gastrointestinal nos primeiros dias do pós-operatório. Qual a conduta MAIS adequada com a corticoterapia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Suspender a prednisona pelo risco de infecção pós-operatória e retomar somente após reintrodução da dieta oral."
+        },
+        {
+          "id": "B",
+          "texto": "Manter a prednisona oral mesmo com o paciente em jejum, administrando-a por sonda nasogástrica clampada."
+        },
+        {
+          "id": "C",
+          "texto": "Manter a corticoterapia transicionando a prednisona VO para hidrocortisona endovenosa enquanto o trato gastrointestinal não puder ser usado."
+        },
+        {
+          "id": "D",
+          "texto": "Trocar a prednisona por anti-inflamatório não esteroidal endovenoso no perioperatório."
+        },
+        {
+          "id": "E",
+          "texto": "Reduzir progressivamente a dose de prednisona até zero nas 48 horas que antecedem a cirurgia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Corticoides crônicos **nunca** devem ser suspensos abruptamente pelo risco de **insuficiência adrenal aguda**. Quando o paciente não puder usar o trato gastrointestinal no perioperatório, a conduta correta é **transicionar a prednisona oral para hidrocortisona endovenosa**, mantendo a cobertura corticoide. Suspender, reduzir abruptamente ou trocar por AINE são condutas inadequadas.",
+      "referenciaAula": "imagina que o paciente ele usa ambulatorialmente predinizona e aí ele vai fazer uma cirurgia, uma, sei lá, uma reecção de um tumor de retosigmoide, ele vai ficar algum tempo sem poder usar o trato gastrointestinal. Então (...) a gente pode transicionar essa preginisona de via oral para, por exemplo, uma hidrocortisona, que é uma medicação que a gente pode fazer por via endovenosa",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1773
+    },
+    {
+      "id": "Q-05-020",
+      "aulaOrigem": 5,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "Lee",
+        "estratificação",
+        "Lee 4",
+        "admissão UTI"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 70 anos com história de doença coronariana, ICC prévia, AVC isquêmico no ano anterior, diabetes mellitus em uso de insulina e creatinina basal 2,4 mg/dL será submetido a colectomia eletiva por neoplasia. Considerando o cenário e a aula, qual afirmação é a MAIS correta sobre a estratificação de risco e conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Como é cirurgia não cardíaca, o escore de Lee não se aplica e a estratificação deve ser feita exclusivamente pelo ASA."
+        },
+        {
+          "id": "B",
+          "texto": "O paciente apresenta vários critérios de Lee (cirurgia de alto risco, doença coronariana, ICC, AVC, diabetes em insulina e disfunção renal), enquadrando-se em Lee 4 (>11% de risco de complicações cardiovasculares) — no serviço descrito, Lee 3 ou 4 acaba indicando pós-operatório em UTI."
+        },
+        {
+          "id": "C",
+          "texto": "O escore de Lee classifica como Lee 1 (baixo risco) e dispensa pós-operatório em UTI."
+        },
+        {
+          "id": "D",
+          "texto": "O escore de Lee é aplicado apenas a cirurgias cardíacas; nessa colectomia, deve-se usar somente Shoemaker."
+        },
+        {
+          "id": "E",
+          "texto": "A presença de DRC isolada já reclassifica o paciente como Lee 4 independentemente das demais variáveis."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **escore de Lee** é aplicado a **cirurgias não cardíacas** (cirurgias cardíacas já são alto risco cardíaco por definição) e pontua: tipo de cirurgia (alto risco), doença coronariana, ICC, AVC/AIT, diabetes em insulina e disfunção renal. Esse paciente acumula praticamente todas as variáveis, classificando-se como **Lee 4** (>11% de risco). No serviço descrito, pacientes Lee 3 ou 4 acabam indicados para pós-operatório em UTI.",
+      "referenciaAula": "O paciente Lium é um paciente que tem um risco muito baixo de complicações cardiovasculares e um paciente li 4 é um paciente que tem um risco mais alto ali, né, mais de 11% de de chance de fazer eh complicações cardiovasculares no pós-operatório (...) no nosso serviço, normalmente os pacientes que tenham ali três ou quatro acabam fazendo o pós-operatório também em ambiente de terapia intensiva",
+      "transversal": false,
+      "videoAulaId": 5,
+      "videoStartSec": 1325
     }
   ]
 }

@@ -457,6 +457,466 @@
       "transversal": false,
       "videoAulaId": 1,
       "videoStartSec": 1860
+    },
+    {
+      "id": "Q-01-011",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "fisiopatologia",
+        "distensão montante",
+        "sequestro"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em uma obstrução intestinal mecânica, qual sequência fisiopatológica descreve melhor o que ocorre acima do ponto obstrutivo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Atrofia da parede e absorção aumentada de líquidos."
+        },
+        {
+          "id": "B",
+          "texto": "Distensão da alça, estase venosa, sequestro intraluminal de líquidos e edema da parede intestinal."
+        },
+        {
+          "id": "C",
+          "texto": "Vasoconstrição arterial seletiva e hiperabsorção de eletrólitos."
+        },
+        {
+          "id": "D",
+          "texto": "Dilatação apenas a jusante da obstrução, com colabamento proximal."
+        },
+        {
+          "id": "E",
+          "texto": "Hipoperistalse generalizada sem alterações de parede."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Acima do ponto obstrutivo o conteúdo gastroentérico se acumula, gerando **distensão montante**. Surgem **estase venosa**, **menor absorção** e **sequestro intraluminal de líquidos**, com **edema da parede**. Essa cascata explica os vômitos, a desidratação, a translocação bacteriana e, em fases mais avançadas, a isquemia e perfuração.",
+      "referenciaAula": "Se em algum ponto há uma obstrução intestinal, geralmente o que está acima dessa obstrução se torna dilatado. A partir daí ocorre também uma estase venosa, menor absorção e também o sequestro intraluminal dos líquidos, um edema da parede intestinal.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 63
+    },
+    {
+      "id": "Q-01-012",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "fecaloma",
+        "miolo de pão",
+        "imagem"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Na radiografia de um paciente com megacólon chagásico, a imagem com aspecto em \"miolo de pão\" no sigmoide é mais sugestiva de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Volvo de sigmoide."
+        },
+        {
+          "id": "B",
+          "texto": "Invaginação intestinal."
+        },
+        {
+          "id": "C",
+          "texto": "Fecaloma."
+        },
+        {
+          "id": "D",
+          "texto": "Pneumoperitônio."
+        },
+        {
+          "id": "E",
+          "texto": "Tumor estenosante de reto."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **fecaloma** caracteriza-se na radiografia pelo conteúdo salpicado dentro da alça muito distendida — aspecto em **miolo de pão**. Acomete tipicamente pacientes com megacólon (chagásico ou idiopático), com história de constipação prolongada e às vezes escapes de fezes líquidas ao redor das endurecidas.",
+      "referenciaAula": "Os radiologistas chamam no aspecto em miolo de pão, que é o fecaloma. O fecaloma ele acontece em pacientes que têm megacolon.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1681
+    },
+    {
+      "id": "Q-01-013",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "exames de imagem",
+        "ultrassom",
+        "limitações"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Por que o ultrassom abdominal é considerado um método de baixo rendimento na avaliação inicial do abdome agudo obstrutivo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não detecta líquido livre na cavidade."
+        },
+        {
+          "id": "B",
+          "texto": "Causa sofrimento adicional de alça pela compressão do transdutor."
+        },
+        {
+          "id": "C",
+          "texto": "A distensão abdominal e a presença de gás dentro das alças degradam a imagem."
+        },
+        {
+          "id": "D",
+          "texto": "Exige preparo intestinal complexo, inviável no pronto-socorro."
+        },
+        {
+          "id": "E",
+          "texto": "É contraindicado em pacientes com cirurgia abdominal prévia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Na obstrução intestinal há grande quantidade de **ar dentro das alças** e **distensão abdominal**, o que prejudica a janela acústica e degrada a imagem ultrassonográfica. Por isso, o método inicial de escolha é a **radiografia simples de abdome**, complementada quando necessário pela **tomografia**.",
+      "referenciaAula": "Ultração não tanto por conta da distensão abdominal e a presença de gás, ar dentro de alça, isso faz com que a imagem do ultrassom não fique boa. Então, é mais exames radiográficos e tomográficos.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1951
+    },
+    {
+      "id": "Q-01-014",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "translocação bacteriana",
+        "barreira intestinal",
+        "sepse"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Na obstrução intestinal, a translocação bacteriana ocorre porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A flora intestinal se torna estéril pelo jejum prolongado."
+        },
+        {
+          "id": "B",
+          "texto": "Há aumento da permeabilidade da barreira intestinal por estase, distensão e edema, permitindo a passagem de bactérias e lipopolissacarídeos para a parede e a circulação."
+        },
+        {
+          "id": "C",
+          "texto": "O conteúdo gastroentérico é absorvido em maior velocidade pelo enterócito."
+        },
+        {
+          "id": "D",
+          "texto": "Ocorre vasoconstrição esplâncnica reflexa, isolando o lúmen da circulação."
+        },
+        {
+          "id": "E",
+          "texto": "Há proliferação seletiva de lactobacilos protetores."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A pressão intraluminal elevada e o edema de parede aumentam a **permeabilidade da barreira intestinal**, permitindo o afluxo de **bactérias e lipopolissacarídeos** do lúmen para a lâmina própria e a circulação sistêmica. Isso explica a febre por translocação e o risco de sepse e choque séptico nos casos graves.",
+      "referenciaAula": "Se essa barreira intestinal está prejudicada, então ocorre esse afluxo de bactérias, de lipopolissacárides para a lâmina própria da parede intestinal.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 158
+    },
+    {
+      "id": "Q-01-015",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "diagnóstico",
+        "toque retal",
+        "parada de eliminação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o diagnóstico clínico do abdome agudo obstrutivo, qual achado FALA CONTRA o diagnóstico de obstrução intestinal mecânica completa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vômitos biliosos precoces."
+        },
+        {
+          "id": "B",
+          "texto": "Distensão abdominal acentuada."
+        },
+        {
+          "id": "C",
+          "texto": "Toque retal com fezes na ampola e relato de eliminação de gases."
+        },
+        {
+          "id": "D",
+          "texto": "Dor abdominal em cólica de intensidade crescente."
+        },
+        {
+          "id": "E",
+          "texto": "Ruídos hidroaéreos aumentados em fase inicial."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **parada de eliminação de gases e fezes** é critério clínico essencial. Se ao **toque retal** há **fezes na ampola** ou o paciente refere eliminação de gases, é improvável que haja obstrução completa em curso. Os demais achados (cólica, distensão, vômitos, ruídos aumentados na fase de luta) são compatíveis com obstrução.",
+      "referenciaAula": "Se você fizer o toque retal e tem fezes na ampola ou ele fala que está eliminando o gás, então pode ser que esse paciente não esteja num quadro de abdômen agudo obstrutivo.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1830
+    },
+    {
+      "id": "Q-01-016",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "fecaloma",
+        "tratamento",
+        "clister"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 65 anos, com megacólon chagásico, refere ausência de evacuações há 12 dias e escapes de fezes líquidas. Exame: distensão abdominal, ao toque retal massa fecal endurecida na ampola. RX com aspecto em \"miolo de pão\" no sigmoide. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Laparotomia de urgência com colectomia total."
+        },
+        {
+          "id": "B",
+          "texto": "Esvaziamento do fecaloma por toque e clister glicerinado morno."
+        },
+        {
+          "id": "C",
+          "texto": "Retossigmoidoscopia para descompressão de volvo."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas reposição volêmica e alta com laxantes orais."
+        },
+        {
+          "id": "E",
+          "texto": "Antibioticoterapia ampla por suspeita de diverticulite."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro é típico de **fecaloma** em paciente com megacólon: constipação prolongada com escapes de fezes líquidas ao redor da bola fecal endurecida e imagem em **miolo de pão**. O tratamento de escolha é o **esvaziamento manual (toque) associado a clister glicerinado morno**. Cirurgia fica reservada a falhas e complicações.",
+      "referenciaAula": "O tratamento desse fecaloma é esvaziar esse fecaloma por meio de toque e clister glicerinado morno.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1745
+    },
+    {
+      "id": "Q-01-017",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "exame físico",
+        "hérnia inguinal",
+        "incisão prévia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Diante de paciente com suspeita de obstrução intestinal, quais elementos do exame físico abdominal/inguinal são considerados indispensáveis na avaliação inicial?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas ausculta abdominal e medida de pressão arterial."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas palpação de fígado e baço."
+        },
+        {
+          "id": "C",
+          "texto": "Inspeção de incisões prévias, exame minucioso da região inguinal e toque retal."
+        },
+        {
+          "id": "D",
+          "texto": "Punho-percussão lombar e manobra de Murphy."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas palpação dirigida ao ponto de maior dor."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Como **bridas** são a principal causa, deve-se sempre **inspecionar incisões cirúrgicas prévias**. A **região inguinal** precisa ser examinada para descartar hérnia encarcerada, causa frequente facilmente perdida. O **toque retal** completa a avaliação (massas, fezes na ampola, sangue, tumor de reto baixo).",
+      "referenciaAula": "Ao examinar o paciente verificar se ele tem, examinar além da região abdominal a região inguinal para ver se aquela obstrução intestinal não tem como causa uma hérnia inguinal. Observar se não tem nenhuma incisão, alguma cirurgia prévia.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 542
+    },
+    {
+      "id": "Q-01-018",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "enterite actínica",
+        "radioterapia",
+        "intramural"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A enterite actínica como causa de obstrução intestinal é classificada como:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Obstrução extramural por compressão tumoral."
+        },
+        {
+          "id": "B",
+          "texto": "Obstrução intramural por inflamação e estenose secundárias à radioterapia."
+        },
+        {
+          "id": "C",
+          "texto": "Obstrução intraluminal por corpo estranho."
+        },
+        {
+          "id": "D",
+          "texto": "Íleo paralítico de origem medicamentosa."
+        },
+        {
+          "id": "E",
+          "texto": "Obstrução em alça fechada por torção de mesentério."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **enterite actínica** decorre da radioterapia abdominopélvica (por exemplo, no tratamento de câncer de próstata ou colorretal). A radiação inflama as alças adjacentes, evoluindo com estenose **na parede** intestinal — portanto, é uma causa **intramural**, manifestando-se por obstrução já no acompanhamento pós-tratamento.",
+      "referenciaAula": "Enterite actínica, que é a pós radioterapia. A radioterapia, ela pode atingir as alças que estão ali próximas desses órgãos e causar uma inflamação e uma enterite actínica, que pode causar obstrução também.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 484
+    },
+    {
+      "id": "Q-01-019",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "alça inviável",
+        "enterectomia",
+        "anastomose"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido à laparotomia por hérnia interna após cirurgia abdominal prévia. Após desfeita a estrangulação, observa-se segmento de alça com coloração arroxeada, sem retorno de peristalse e sem reperfusão após reaquecimento e bloqueio mesentérico. Qual a conduta cirúrgica mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas fixar a alça e encerrar a cirurgia, programando reabordagem em 24h."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar enterectomia do segmento inviável e anastomose primária entre as alças sadias."
+        },
+        {
+          "id": "C",
+          "texto": "Manter a alça in situ e iniciar antibioticoterapia ampla."
+        },
+        {
+          "id": "D",
+          "texto": "Drenagem por sonda nasogástrica e fechamento sem ressecção."
+        },
+        {
+          "id": "E",
+          "texto": "Plicatura intestinal sem ressecção, evitando anastomose."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Quando, após desfazer a obstrução, a alça **não recupera coloração nem peristalse**, ela é considerada **inviável**. A conduta é **enterectomia do segmento comprometido** seguida de **anastomose primária** entre as alças sadias, exatamente como descrito na hérnia interna pós-amputação abdominoperineal apresentada na aula.",
+      "referenciaAula": "Como não estava viável mais essa alça, a gente teve que fazer uma enterectomia. Então, retiramos esse segmento do intestino e fizemos uma anastomose. Aí depois o paciente então evoluiu bem.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 755
+    },
+    {
+      "id": "Q-01-020",
+      "aulaOrigem": 1,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1"
+      ],
+      "tags": [
+        "invaginação",
+        "metástase",
+        "classificação"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 48 anos, com obstrução intestinal. Tomografia evidencia sinal do duplo alvo em delgado. Na cirurgia identifica-se invaginação cuja cabeça é um nódulo em parede de alça; a anatomopatologia confirma metástase de melanoma. Como deve ser CLASSIFICADA topograficamente esta obstrução?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Alta extramural, pois melanoma é tumor de pele."
+        },
+        {
+          "id": "B",
+          "texto": "Baixa intramural, pois a lesão se desenvolveu na parede."
+        },
+        {
+          "id": "C",
+          "texto": "Alta intraluminal, pois a obstrução se deu pela invaginação causada pelo tumor."
+        },
+        {
+          "id": "D",
+          "texto": "Íleo paralítico de origem paraneoplásica."
+        },
+        {
+          "id": "E",
+          "texto": "Obstrução em alça fechada por carcinomatose."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A classificação topográfica considera o **mecanismo final da obstrução**. Embora o tumor (metástase de melanoma) tenha se desenvolvido **na parede**, ele atuou como **cabeça de invaginação**, levando uma alça para dentro da outra. O ponto que efetivamente obstrui é o conteúdo dentro da luz — portanto, **intraluminal** (e alta, por se localizar no delgado).",
+      "referenciaAula": "Por quê? Porque a obstrução dela não foi feita por conta de algo da parede, apesar do tumor ter sido desenvolvido na parede, foi por conta da invaginação causada pelo tumor. Então, a obstrução foi por isso que a gente classificou como intraluminal.",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1142
     }
   ]
 }

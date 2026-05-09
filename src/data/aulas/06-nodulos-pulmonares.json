@@ -481,6 +481,486 @@
       "transversal": false,
       "videoAulaId": 6,
       "videoStartSec": 1533
+    },
+    {
+      "id": "Q-06-011",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "epidemiologia",
+        "estadiamento",
+        "câncer de pulmão"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação à apresentação inicial do câncer de pulmão, qual é aproximadamente o percentual de pacientes que já se encontram em estadio avançado no momento do diagnóstico?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "20%."
+        },
+        {
+          "id": "B",
+          "texto": "40%."
+        },
+        {
+          "id": "C",
+          "texto": "70%."
+        },
+        {
+          "id": "D",
+          "texto": "10%."
+        },
+        {
+          "id": "E",
+          "texto": "5%."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Há uma **desfavorável distribuição nos estadios** do câncer de pulmão: cerca de **70%** dos pacientes são diagnosticados em **estadio avançado**. Isso justifica o esforço de diagnóstico precoce, seja por rastreamento, seja por avaliação adequada de achados incidentais, ampliando as chances de tratamento curativo.",
+      "referenciaAula": "Infelizmente, nós temos uma desfavorável distribuição nos estadios. Só para vocês terem uma ideia, 70% das dos pacientes com diagnóstico de câncer e pulmão já estão em estadio avançado.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 64
+    },
+    {
+      "id": "Q-06-012",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "T1a",
+        "sobrevida",
+        "diagnóstico precoce"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em uma neoplasia de pulmão T1a (lesão de até 1 cm dentro do parênquima pulmonar, em um lobo pulmonar), a sobrevida em 5 anos após tratamento adequado é de aproximadamente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "30%."
+        },
+        {
+          "id": "B",
+          "texto": "50%."
+        },
+        {
+          "id": "C",
+          "texto": "70%."
+        },
+        {
+          "id": "D",
+          "texto": "92%."
+        },
+        {
+          "id": "E",
+          "texto": "100% (sem recidivas em 5 anos)."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Lesões **T1a** (até 1 cm dentro do parênquima pulmonar) apresentam sobrevida em 5 anos de até **92%**, ainda que cerca de 8% recidivem nos 5 anos seguintes ao tratamento cirúrgico. Esses números reforçam o valor do diagnóstico precoce e da cirurgia como tratamento mais eficaz.",
+      "referenciaAula": "Quando a gente tem uma neoplasia, esse um A1, uma neoplasia, uma lesão de até 1 cm dentro do parênquma pulmonar, dentro de um lobo pulmonar, nós temos aí uma chance de sobrevida em 5 anos de até 92%.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 182
+    },
+    {
+      "id": "Q-06-013",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "radiografia de tórax",
+        "sensibilidade",
+        "limitação"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em relação à sensibilidade da radiografia de tórax para detecção de nódulos pulmonares, é correto afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Permite detectar lesões de qualquer tamanho com alta acurácia."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas consegue verificar lesões acima de 10 mm."
+        },
+        {
+          "id": "C",
+          "texto": "Detecta lesões a partir de 1 mm com facilidade."
+        },
+        {
+          "id": "D",
+          "texto": "É superior à tomografia para lesões periféricas pequenas."
+        },
+        {
+          "id": "E",
+          "texto": "É o método de escolha para caracterização morfológica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **radiografia de tórax não é muito sensível**, conseguindo detectar apenas lesões **acima de 10 mm**. Por isso, embora ainda detecte muitos nódulos como achados incidentais, não substitui a tomografia para caracterização morfológica nem para rastreamento, em que se utiliza a TC de baixa dose.",
+      "referenciaAula": "Infelizmente o raio X de tórax ele não é muito sensível. A gente só consegue verificar lesões acima de 10 mm.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 399
+    },
+    {
+      "id": "Q-06-014",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "história clínica",
+        "metástases",
+        "antecedentes"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 60 anos, não tabagista, apresenta nódulo pulmonar único de 1,5 cm em achado incidental. Para estimar o risco de a lesão corresponder a metástase pulmonar, qual conjunto de antecedentes deve ser ativamente investigado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas neoplasias hematológicas (leucemias e linfomas)."
+        },
+        {
+          "id": "B",
+          "texto": "Neoplasias de cólon, mama, rim, cabeça e pescoço, sarcoma e melanoma."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas neoplasias do trato gastrointestinal alto."
+        },
+        {
+          "id": "D",
+          "texto": "Somente câncer de mama, em mulheres."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas neoplasias ginecológicas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na avaliação de um nódulo pulmonar, é fundamental investigar **histórias prévias de doenças malignas**, principalmente **neoplasias de cólon, mama, rim, cabeça e pescoço, sarcoma e melanoma**, pois essas são as que mais frequentemente cursam com metástases pulmonares. A história também deve incluir idade, tabagismo ativo e passivo e tamanho do nódulo.",
+      "referenciaAula": "Verificar se esse paciente tem histórias prévias de doenças malignas, principalmente neoplasi de colon, mama, rim, cabeça, pessoas, sarcoma e também o melanoma.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 521
+    },
+    {
+      "id": "Q-06-015",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "tamanho",
+        "risco de malignidade",
+        "estratificação"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação ao tamanho como variável preditora de malignidade em nódulos pulmonares, qual associação está correta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lesões de 8 a 20 mm têm cerca de 18% de chance de malignidade; acima de 20 mm, em torno de 50%."
+        },
+        {
+          "id": "B",
+          "texto": "Lesões abaixo de 5 mm têm cerca de 80% de chance de malignidade."
+        },
+        {
+          "id": "C",
+          "texto": "Lesões de 8 a 20 mm têm risco de malignidade próximo a 90%."
+        },
+        {
+          "id": "D",
+          "texto": "Lesões maiores que 20 mm têm risco de malignidade de cerca de 5%."
+        },
+        {
+          "id": "E",
+          "texto": "O tamanho do nódulo não influencia o risco de malignidade."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Quanto mais próximo de 3 cm (limite que define massa), maior o risco de malignidade. **Nódulos entre 8 e 20 mm** apresentam risco em torno de **18%**, enquanto **lesões acima de 20 mm** elevam esse risco a aproximadamente **50%**. O tamanho é uma das variáveis-chave nos algoritmos de estratificação de risco.",
+      "referenciaAula": "principalmente entre 8 e 20 mm, em torno de 18% de chance de malignidade, lesões acima de 20 mm, com uma chance aí de 50% de malignidade.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 937
+    },
+    {
+      "id": "Q-06-016",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "nódulo parcialmente sólido",
+        "adenocarcinoma",
+        "agressividade"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A respeito dos nódulos pulmonares parcialmente sólidos (parte em vidro fosco, parte sólida), é correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "São tipicamente benignos, dispensando investigação."
+        },
+        {
+          "id": "B",
+          "texto": "Mostram certa agressividade neoplásica e tipicamente têm indicação de biópsia para fechar o diagnóstico anatomopatológico e definir tratamento."
+        },
+        {
+          "id": "C",
+          "texto": "Devem ser tratados empiricamente como tuberculose."
+        },
+        {
+          "id": "D",
+          "texto": "Apresentam comportamento mais indolente que os nódulos puramente em vidro fosco."
+        },
+        {
+          "id": "E",
+          "texto": "São equivalentes a hamartomas em sua evolução."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Diferente das lesões puramente em vidro fosco (de caráter indolente), os **nódulos parcialmente sólidos** já mostram **certa agressividade** da neoplasia, sendo tipicamente lesões que **devem ser biopsiadas** para confirmação anatomopatológica e definição do tratamento adequado.",
+      "referenciaAula": "essas lesões da direita são os nódulos parcialmente sólidos, essas lesões já mostram o certo agressividade da neoplasia. E essas lesões aqui sem t que ser obrigatoriamente biopsiadas para fazer fechar o diagnóstico anatom patológico e o seu correspondente tratamento.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 753
+    },
+    {
+      "id": "Q-06-017",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "broncoscopia",
+        "lesões centrais",
+        "EBUS"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a broncoscopia na investigação de nódulos pulmonares, qual afirmação está correta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É mais útil para lesões centrais; o rendimento aumenta com lesões maiores e pode ser auxiliada por EBUS (ultrassom endobrônquico)."
+        },
+        {
+          "id": "B",
+          "texto": "É a primeira escolha para lesões periféricas pequenas."
+        },
+        {
+          "id": "C",
+          "texto": "Não admite combinações de técnicas (apenas uma modalidade por exame)."
+        },
+        {
+          "id": "D",
+          "texto": "Os broncoscópios atuais alcançam todos os brônquios de qualquer ordem."
+        },
+        {
+          "id": "E",
+          "texto": "É contraindicada em lesões cavitadas."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A broncoscopia é especialmente **útil para lesões mais centrais** e seu **rendimento aumenta com o tamanho da lesão** (alvo maior, maior chance de acerto). Combina-se biópsia, escovado, lavado e punção transbrônquica para maximizar o rendimento. O **EBUS** (ultrassom endobrônquico) acoplado à ponta do broncoscópio permite localizar a lesão e guiar a punção pela via aérea.",
+      "referenciaAula": "esse é um método importante, principalmente bastante útil, principalmente para aquelas lesões mais centrais. nós temos o ebus, né, que é o ultrassom endobrônquico. É uma fusão na ponta de um broncoscópio, nós temos um proio ultrassônico.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 1860
+    },
+    {
+      "id": "Q-06-018",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "biópsia excisional",
+        "videocirurgia",
+        "VATS"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação à biópsia excisional pulmonar, é correto afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Consiste em retirar a lesão integralmente para estudo anatomopatológico, e a videocirurgia (a partir de 1994) tornou possível realizá-la sem abrir o tórax."
+        },
+        {
+          "id": "B",
+          "texto": "É sinônimo de biópsia incisional, retirando-se apenas um fragmento da lesão."
+        },
+        {
+          "id": "C",
+          "texto": "Substitui a tomografia computadorizada na avaliação morfológica."
+        },
+        {
+          "id": "D",
+          "texto": "Está restrita a lesões centrais não acessíveis por broncoscopia."
+        },
+        {
+          "id": "E",
+          "texto": "É realizada exclusivamente por toracotomia aberta ampla."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **biópsia excisional** envolve **retirar a lesão integralmente** e enviá-la para estudo anatomopatológico. A introdução da **videocirurgia (a partir de 1994)** permitiu realizar essas biópsias **sem precisar abrir o tórax**, sendo grande aliada na investigação de nódulos pulmonares — atualmente, cerca de 80% das cirurgias torácicas são minimamente invasivas.",
+      "referenciaAula": "biópsia excisional, quando eu tiro essa lesão e mando a lesão integralmente para o estudo anatomopatológico. A videocirurgia a partir de 1994, né? Possibilitou fazer essas biópses decisionais sem precisar abrir o tórex.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 1759
+    },
+    {
+      "id": "Q-06-019",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "punção transtorácica",
+        "complicações",
+        "pneumotórax"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 67 anos é submetido a punção transtorácica guiada por TC de nódulo periférico no LSD. Ao orientar o paciente sobre os riscos do procedimento, qual descrição está mais alinhada com o que se observa na prática?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O risco de pneumotórax é em torno de 50%, mas a maioria é manejada apenas com observação; menos de 5% (do total de pneumotórax) necessita drenagem pleural. Sangramentos do tipo escarros hemoptoicos ou hemoptise são bem menos frequentes."
+        },
+        {
+          "id": "B",
+          "texto": "O pneumotórax é raro (< 1%) e sempre exige drenagem pleural imediata."
+        },
+        {
+          "id": "C",
+          "texto": "A hemoptise é mais frequente que o pneumotórax e geralmente exige internação prolongada."
+        },
+        {
+          "id": "D",
+          "texto": "Não há complicações relevantes; o procedimento é considerado isento de risco."
+        },
+        {
+          "id": "E",
+          "texto": "Todo pneumotórax pós-punção exige toracotomia aberta urgente."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **punção transtorácica** apresenta risco de **pneumotórax em torno de 50%**, mas a maioria é manejada apenas com **observação**; **menos de 5%** desses casos necessita de drenagem pleural. **Escarros hemoptoicos ou hemoptise** são complicações **menos frequentes**. Esses dados são essenciais para a discussão de risco-benefício de qualquer método invasivo.",
+      "referenciaAula": "Risco de pneumotórix, né? Na punção transtorácica em torno de 50%. Mas geralmente são eh considerados como eh feitos só observação, um acompanhamento, só observação. Menos de 5% desses 50% necessitam aí algum tipo de drenagem pleural. Eh, o sangramento, principalmente os escarros hemoptôicos ou hemoptise, são ocorrências muito menos frequentes.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 2135
+    },
+    {
+      "id": "Q-06-020",
+      "aulaOrigem": 6,
+      "blocos": [
+        "E",
+        "G"
+      ],
+      "eixos": [
+        "T6",
+        "T7"
+      ],
+      "tags": [
+        "ultrassom",
+        "punção guiada",
+        "limitação física"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente apresenta nódulo pulmonar profundo no terço médio do parênquima do LIE, com abundante parênquima aerado interposto entre a pele e a lesão. A equipe discute usar ultrassom transtorácico para guiar a punção. Qual é a justificativa fisiopatológica para a inadequação dessa abordagem?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "As ondas ultrassônicas não se propagam pelo ar; o trajeto até o alvo precisa ser pele, musculatura, subcutâneo, arco costal e a lesão, sem interposição de ar — para isso, lesões devem estar bem periféricas."
+        },
+        {
+          "id": "B",
+          "texto": "O ultrassom só funciona em lesões cavitadas com paredes espessas."
+        },
+        {
+          "id": "C",
+          "texto": "A radiação ionizante do ultrassom inviabiliza pulmões aerados."
+        },
+        {
+          "id": "D",
+          "texto": "Ondas sonoras precisam de meio gasoso para se propagar; pulmão sólido bloquearia o feixe."
+        },
+        {
+          "id": "E",
+          "texto": "O ultrassom não permite visualizar a agulha, sendo cego."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "As **ondas ultrassônicas não se propagam pelo ar**; precisam de meio sólido ou líquido. Como o pulmão tem bastante ar, o ultrassom **só é útil quando a lesão é bem periférica**, sem interposição de ar entre o probe e o alvo (pele → musculatura → subcutâneo → arco costal → lesão). Por isso, a maioria das punções é guiada por **TC**, que não sofre essa limitação.",
+      "referenciaAula": "O grande problema do ultrassom é que o ultrassom, como vocês sabem, né, eles têm que transmitir através de estruturas ou líquidas ou sólidas. Ele não o as ondas ultrassônicas elas não se propagam pelo ar. Então essas lesões elas têm que estar bem periféricas para poderem ser usadas eh para serem poder ser utilizado ultrassom.",
+      "transversal": false,
+      "videoAulaId": 6,
+      "videoStartSec": 2047
     }
   ]
 }

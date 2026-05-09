@@ -462,6 +462,468 @@
       "transversal": false,
       "videoAulaId": 3,
       "videoStartSec": 1500
+    },
+    {
+      "id": "Q-03-011",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "história",
+        "Lister",
+        "técnica asséptica"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o desenvolvimento histórico das técnicas assépticas em cirurgia, qual contribuição é corretamente atribuída a Lister no século XIX?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Descreveu pela primeira vez a teoria dos miasmas como causa das infecções puerperais."
+        },
+        {
+          "id": "B",
+          "texto": "Desenvolveu a penicilina como primeira droga antibiótica eficaz."
+        },
+        {
+          "id": "C",
+          "texto": "Mostrou que, além da higiene das mãos, o uso de técnicas assépticas em procedimentos cirúrgicos ortopédicos reduzia mortalidade por infecção."
+        },
+        {
+          "id": "D",
+          "texto": "Identificou o Staphylococcus aureus como agente da febre puerperal nas maternidades austríacas."
+        },
+        {
+          "id": "E",
+          "texto": "Demonstrou em ratos o efeito do antibiótico profilático sobre a incidência de infecção."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Lister**, ortopedista do século XIX, demonstrou que **associar técnicas assépticas à higiene das mãos reduzia a mortalidade por infecção** em cirurgias ortopédicas. Semmelweis foi o pioneiro da higiene das mãos (febre puerperal); Pasteur descreveu a teoria microbiana; Burke fez os experimentos em ratos com antibiótico profilático nos anos 1960.",
+      "referenciaAula": "Um ortopedista chamado Lister mostrava que se você além da higiene das mãos também usasse técnicas assépticas para realizar procedimentos cirúrgicos, você diminuir a mortalidade nesses procedimentos cirúrgicos ortopédicos.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 151
+    },
+    {
+      "id": "Q-03-012",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cirurgia limpa",
+        "definição",
+        "exemplos"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual procedimento é exemplo típico de cirurgia LIMPA, segundo a classificação por potencial de contaminação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apendicectomia por apendicite aguda supurada."
+        },
+        {
+          "id": "B",
+          "texto": "Colectomia eletiva sem extravasamento entérico."
+        },
+        {
+          "id": "C",
+          "texto": "Drenagem cirúrgica de abscesso de parede abdominal."
+        },
+        {
+          "id": "D",
+          "texto": "Neurocirurgia eletiva sem invasão de víscera oca."
+        },
+        {
+          "id": "E",
+          "texto": "Colecistectomia com colangite aguda associada."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "**Cirurgia limpa** é aquela que NÃO invade trato gastrointestinal, geniturinário ou respiratório, sem processo inflamatório e sem quebra de técnica. Exemplos típicos: **cirurgia plástica, cardíaca, neurocirurgia e ortopédica** sem implantes infectados. Apendicectomia/abscesso = infectada; colectomia eletiva = potencialmente contaminada; colangite = infectada/contaminada.",
+      "referenciaAula": "Boa parte das cirurgias plásticas, cirurgia cardíaca, neurocirurgia, ortopedia, são cirurgias limpas.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 933
+    },
+    {
+      "id": "Q-03-013",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "cirurgia infectada",
+        "apendicite",
+        "abscesso"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual situação clínica caracteriza uma cirurgia INFECTADA (e não apenas contaminada)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Colectomia eletiva com preparo intestinal completo."
+        },
+        {
+          "id": "B",
+          "texto": "Hernioplastia inguinal sem tela."
+        },
+        {
+          "id": "C",
+          "texto": "Apendicectomia por apendicite aguda já estabelecida ou drenagem de abscesso."
+        },
+        {
+          "id": "D",
+          "texto": "Mastectomia oncológica eletiva."
+        },
+        {
+          "id": "E",
+          "texto": "Tireoidectomia parcial sem incidentes."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Cirurgia infectada** é aquela motivada por uma infecção já estabelecida antes do procedimento — o sítio cirúrgico já está infectado **antes** da incisão. Exemplos clássicos: **apendicectomia por apendicite, drenagem de abscesso e perfuração de víscera oca por tempo prolongado**. Difere de cirurgia contaminada, em que a contaminação ocorre intraoperatoriamente.",
+      "referenciaAula": "Uma infecção estabelecida como uma apendicectomia por uma apendicite. Paciente que tem perfuração de víscera oca por tempo prolongado, você já tem infecção estabelecida. Um outro exemplo disso é uma drenagem de abscesso também.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 991
+    },
+    {
+      "id": "Q-03-014",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "resposta imune inata",
+        "fisiopatologia",
+        "clareamento bacteriano"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fisiopatologia da infecção de sítio cirúrgico, qual afirmação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A resposta imune inata só ocorre quando há contaminação bacteriana significativa."
+        },
+        {
+          "id": "B",
+          "texto": "O desenvolvimento ou não de ISC é definido nas primeiras horas, pela correlação entre persistência bacteriana e clareamento promovido pela resposta imune inata."
+        },
+        {
+          "id": "C",
+          "texto": "A vasodilatação local e a marginação de células mononucleares ocorrem apenas tardiamente, após 72 horas da incisão."
+        },
+        {
+          "id": "D",
+          "texto": "Quando o clareamento é eficaz, as células mononucleares passam a liberar citocinas pró-inflamatórias intensas."
+        },
+        {
+          "id": "E",
+          "texto": "O antibiótico profilático age principalmente na fase tardia (>24 h) da contaminação."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A incisão dispara resposta imune inata **independentemente de contaminação** (vasodilatação, marginação de mononucleares, fagocitose). O destino — cicatrização normal vs ISC — é decidido nas **primeiras horas**, pela correlação entre **capacidade da bactéria de colonizar** e **eficácia do clareamento**. Por isso todas as medidas preventivas devem se concentrar no perioperatório imediato.",
+      "referenciaAula": "Essa correlação de forças, ela acontece nessa primeira barreira de resposta e acontece nas primeiras horas depois da contaminação com o trauma cirúrgico.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 421
+    },
+    {
+      "id": "Q-03-015",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "fase exponencial",
+        "fase estacionária",
+        "janela do antibiótico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Por que o antibiótico profilático perde eficácia após as primeiras horas da contaminação da ferida operatória?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque os tecidos passam a expressar bombas de efluxo que excretam o antibiótico."
+        },
+        {
+          "id": "B",
+          "texto": "Porque a flora residente é totalmente removida pela antissepsia após a incisão."
+        },
+        {
+          "id": "C",
+          "texto": "Porque, após a fase de crescimento exponencial, a bactéria entra em fase estacionária, em que a maioria dos antibióticos que agem na multiplicação bacteriana deixa de ser eficaz."
+        },
+        {
+          "id": "D",
+          "texto": "Porque a meia-vida da cefazolina é muito curta para atuar mais de 60 minutos."
+        },
+        {
+          "id": "E",
+          "texto": "Porque a cicatrização cutânea bloqueia mecanicamente o acesso do antibiótico ao subcutâneo."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Após a colonização efetiva da ferida, a bactéria sai da **fase exponencial** e entra em **fase estacionária**, em que **antibióticos que atuam na multiplicação bacteriana perdem eficácia**. Por isso a janela útil da profilaxia é nas primeiras horas, no máximo 24h — depois disso, o uso prolongado não previne ISC e ainda seleciona resistência.",
+      "referenciaAula": "Na fase estacionária, a maioria dos antibióticos que agem na multiplicação bacteriana, eles deixam de ser eficazes. Por isso que a gente faz antibiótico nas primeiras horas ou no máximo 24 horas.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 812
+    },
+    {
+      "id": "Q-03-016",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "antissepsia",
+        "clorexidina",
+        "degermante",
+        "alcoólica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o preparo antisséptico da pele do paciente no campo operatório, qual conduta é a CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aplicar diretamente solução alcoólica de clorexidina, sem degermação prévia, para máxima eficácia."
+        },
+        {
+          "id": "B",
+          "texto": "Usar primeiro a solução degermante (sabão) para remover sujidade, oleosidade e resíduos, e depois a solução alcoólica."
+        },
+        {
+          "id": "C",
+          "texto": "Empregar apenas sabão comum, dispensando soluções com efeito residual."
+        },
+        {
+          "id": "D",
+          "texto": "Realizar antissepsia somente após a indução anestésica e o posicionamento, sem degermação."
+        },
+        {
+          "id": "E",
+          "texto": "Preferir soluções aquosas sem álcool, pois o álcool reduz a ação residual da clorexidina."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O preparo correto da pele é em **duas etapas**: primeiro **solução degermante diluída em sabão** (remove sujidade, oleosidade e resíduo) e, em seguida, **solução alcoólica** (efeito residual). A aplicação direta da solução alcoólica sem degermação prévia tem **eficácia muito reduzida**, pois a sujidade impede o contato adequado do antisséptico com a pele.",
+      "referenciaAula": "Primeiro uma solução degermante diluída em sabão, que remove sujidade, oleosidade e resíduo da pele para depois o uso de uma solução alcoólica. Aplicação direta de solução alcoólica sem a degermação primeiro tem a eficácia da antissepsia muito reduzida.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 1172
+    },
+    {
+      "id": "Q-03-017",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "hematoma",
+        "ferro tecidual",
+        "técnica cirúrgica"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente submetido a herniorrafia evolui com hematoma volumoso retido no leito cirúrgico no 2º PO. Por qual mecanismo principal a presença de hematoma aumenta o risco de infecção do sítio cirúrgico?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O hematoma comprime mecanicamente os capilares, impedindo a chegada do antibiótico ao tecido."
+        },
+        {
+          "id": "B",
+          "texto": "A degradação da hemoglobina libera ferro tecidual, que é potente estimulante da proliferação bacteriana."
+        },
+        {
+          "id": "C",
+          "texto": "O hematoma reduz a temperatura local e induz hipotermia sistêmica."
+        },
+        {
+          "id": "D",
+          "texto": "A presença de sangue ativa diretamente o sistema complemento, esterilizando o sítio."
+        },
+        {
+          "id": "E",
+          "texto": "Hematomas são estéreis e não influenciam o risco de ISC."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **hematomas retidos** sofrem degradação da hemoglobina com **liberação de ferro tecidual**, um **potente estimulante da proliferação bacteriana**. Por isso a técnica cirúrgica deve minimizar o trauma, hemostasiar bem e eliminar espaços mortos. Tecido desvitalizado também é nicho de colonização sem perfusão para resposta imune ou antibiótico.",
+      "referenciaAula": "Quando você tem hematomas, você tem degradação da hemoglobina com liberação de ferro tecidual, o ferro é um potente estimulante de proliferação bacteriana.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 1209
+    },
+    {
+      "id": "Q-03-018",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "bacteriúria assintomática",
+        "infecção à distância",
+        "manipulação urológica"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher de 70 anos será submetida a artroplastia de joelho eletiva. Urocultura de rotina mostra Escherichia coli sensível, mas a paciente está completamente assintomática (sem disúria, polaciúria ou febre). Qual a conduta MAIS apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tratar a bacteriúria com antibiótico oral por 7 dias antes da cirurgia, pois toda colonização urinária deve ser erradicada antes de procedimento eletivo."
+        },
+        {
+          "id": "B",
+          "texto": "Não tratar a bacteriúria assintomática, pois nessa situação não há benefício de tratamento; a recomendação de tratar antes do procedimento se aplica a cirurgias com manipulação do trato urológico."
+        },
+        {
+          "id": "C",
+          "texto": "Suspender a cirurgia e investigar pielonefrite oculta antes de qualquer conduta."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar vancomicina endovenosa profilática para cobrir possível disseminação hematogênica."
+        },
+        {
+          "id": "E",
+          "texto": "Trocar a profilaxia para piperacilina-tazobactam, dispensando o tratamento da bacteriúria."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Infecções ativas à distância devem ser tratadas antes de procedimento eletivo, mas há uma **ressalva importante**: pacientes com **bacteriúria assintomática NÃO se beneficiam de tratamento**, EXCETO em **cirurgias com manipulação do trato urológico**. Tratar bacteriúria assintomática rotineiramente seleciona resistência sem reduzir ISC.",
+      "referenciaAula": "Aqui uma ressalva é pros pacientes com bacteriúria assintomática que não tem benefício de tratamento desse episódio de bacteriúria, exceto em situações de cirurgia com manipulação do trato urológico.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 751
+    },
+    {
+      "id": "Q-03-019",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "profilaxia prolongada",
+        "multirresistência",
+        "duração"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Cirurgião de revascularização miocárdica defende manter cefazolina por 5 dias após cirurgia cardíaca, alegando que isso reduziria infecção de mediastino. Considerando o estudo com 2.600 pacientes citado em aula, qual é a melhor resposta a essa conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Concordar: a profilaxia prolongada reduz pela metade a incidência de mediastinite quando comparada à dose única."
+        },
+        {
+          "id": "B",
+          "texto": "Concordar parcialmente: o benefício é restrito a diabéticos com glicemia mal controlada."
+        },
+        {
+          "id": "C",
+          "texto": "Discordar: a profilaxia >48 h NÃO reduz infecção cirúrgica e ainda eleva em ~60% o risco de aquisição de bactérias multirresistentes durante a internação."
+        },
+        {
+          "id": "D",
+          "texto": "Discordar apenas se houver alergia comprovada a betalactâmicos."
+        },
+        {
+          "id": "E",
+          "texto": "Concordar: o estudo mostrou redução de mortalidade com 5 dias de cefazolina."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O estudo de **2.600 pacientes** de revascularização do miocárdio comparou cefazolina por **<48h vs >48h**: o **risco de ISC foi semelhante** entre os grupos, mas o **risco de adquirir bactérias multirresistentes durante a internação foi 60% maior** no grupo prolongado. Conclusão: prolongar profilaxia não traz benefício e ainda traz dano coletivo (resistência).",
+      "referenciaAula": "O risco de infecção cirúrgica foi semelhante entre os dois grupos, mas o risco de adquirir bactérias multirresistentes durante a internação foi 60% maior naquele grupo que recebeu antibiótico por tempo prolongado.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 1410
+    },
+    {
+      "id": "Q-03-020",
+      "aulaOrigem": 3,
+      "blocos": [
+        "C"
+      ],
+      "eixos": [
+        "T3"
+      ],
+      "tags": [
+        "circulação extracorpórea",
+        "volume de distribuição",
+        "doses de reforço",
+        "cefoxitina"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente em revascularização miocárdica entra em circulação extracorpórea (CEC). Após 3 horas e 30 minutos de cirurgia, a equipe discute o reforço da cefazolina iniciada na indução. Qual conduta está MAIS alinhada às recomendações apresentadas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não fazer reforço; a profilaxia em dose única cobre toda a cirurgia, independentemente da CEC."
+        },
+        {
+          "id": "B",
+          "texto": "Fazer dose de reforço de cefazolina apenas a cada 8 horas, pois CEC reduz o clearance do antibiótico."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar dose de reforço pelo intervalo de 4 horas próprio da cefazolina e considerar dose maior por aumento do volume de distribuição imposto pela CEC."
+        },
+        {
+          "id": "D",
+          "texto": "Trocar cefazolina por cefoxitina, mantendo intervalo de 4 horas."
+        },
+        {
+          "id": "E",
+          "texto": "Substituir por vancomicina em dose única e suspender qualquer reforço."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em cirurgias longas, faz-se **dose de reforço quando a duração ultrapassa a meia-vida da droga** — para cefazolina/cefalotina, **a cada 4 horas**; para cefoxitina, a cada 2 horas. Além disso, **circulação extracorpórea aumenta o volume de distribuição**, exigindo **doses maiores** para manter concentração sérica adequada. Manter dose única em CEC subdosa o paciente justamente quando o risco é maior.",
+      "referenciaAula": "Essas doses devem ser de quatro em 4 horas para cefazolina e cefalotina ou de duas em duas para cefoxitina. Se são cirurgias que aumenta o volume de distribuição da droga como uso de circulação extracorpórea, a gente também tem que fazer doses maiores.",
+      "transversal": false,
+      "videoAulaId": 3,
+      "videoStartSec": 1443
     }
   ]
 }

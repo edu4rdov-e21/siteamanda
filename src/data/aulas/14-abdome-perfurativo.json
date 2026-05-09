@@ -471,6 +471,476 @@
       "transversal": false,
       "videoAulaId": 14,
       "videoStartSec": 932
+    },
+    {
+      "id": "Q-14-011",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "etiologia",
+        "abdome perfurativo",
+        "causas"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "De acordo com a aula, o abdome agudo perfurativo pode decorrer de qual conjunto de mecanismos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas trauma penetrante por arma branca ou arma de fogo."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas perfuração tumoral espontânea."
+        },
+        {
+          "id": "C",
+          "texto": "Perfuração por arma branca, projétil de arma de fogo, trauma contuso, ou ainda decorrente de abdome agudo inflamatório, obstrutivo ou vascular."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas iatrogenia em endoscopia digestiva."
+        },
+        {
+          "id": "E",
+          "texto": "Exclusivamente complicações pós-operatórias de cirurgias abdominais."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A aula deixa claro que o abdome agudo perfurativo pode decorrer de **perfuração de víscera oca por trauma** (arma branca, projétil de arma de fogo, trauma contuso) **ou** ser secundário a **outros tipos de abdome agudo** — inflamatório (apendicite, diverticulite), obstrutivo (sofrimento de alça com perfuração) ou vascular (necrose isquêmica). É um conceito amplo, não restrito ao trauma.",
+      "referenciaAula": "O abdômen agudo perfurativo pode ser decorrente de perfuração de víscera oca, por exemplo, por um ferimento por arma branca, ferimento por projétil de arma de fogo, por um trauma contuso. Ou também o abdômen agudo perforativo pode ser decorrente de abdômen agudo inflamatório, um abdômen agudo obstrutivo ou abdômen agudo vascular.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 0
+    },
+    {
+      "id": "Q-14-012",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritônio",
+        "anatomia",
+        "líquido peritoneal"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o peritônio normal, assinale a alternativa CORRETA quanto à sua estrutura, conteúdo líquido e funções:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É uma membrana muscular única que reveste apenas a parede abdominal."
+        },
+        {
+          "id": "B",
+          "texto": "Membrana serosa lisa formada por duas camadas (pavimentosa superficial e conjuntivo frouxo profundo); contém em torno de 75-100 mL de líquido amarelo citrino, com função de redução de atrito entre órgãos e defesa da cavidade."
+        },
+        {
+          "id": "C",
+          "texto": "Contém normalmente 2-3 litros de líquido leitoso e tem função exclusivamente absortiva."
+        },
+        {
+          "id": "D",
+          "texto": "É composto exclusivamente por tecido adiposo e mesotélio, sem células de defesa."
+        },
+        {
+          "id": "E",
+          "texto": "Reveste somente as vísceras intraperitoneais, sem revestimento da parede ou do diafragma."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O peritônio é uma **membrana serosa lisa** que reveste a cavidade abdominal e estruturas nela contidas. É formado por **duas camadas**: uma superficial de **células pavimentosas** e outra profunda de **tecido conjuntivo frouxo**. Normalmente contém **75 a 100 mL de líquido amarelo citrino**, com predomínio de linfócitos e macrófagos. Suas principais funções são **redução de atrito entre órgãos** e **defesa da cavidade peritoneal**.",
+      "referenciaAula": "O peritônio é formado por duas camadas de célula, uma mais superficial de células pavimentosas e uma mais profunda de tecido conjuntivo frouxo. O peritôio geralmente contém pequena quantidade de líquido de 75 a 100 ml de líquido amarelo citrino com predomínio de linfócitos e macrófagos. As principais funções do peritônio é a redução de atrito entre os órgãos e tem função na defesa da cavidade peritoneal.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 183
+    },
+    {
+      "id": "Q-14-013",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "classificação",
+        "localização",
+        "abscesso"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quanto à LOCALIZAÇÃO, como pode ser classificada a peritonite, conforme a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas em primária e secundária."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas em asséptica e séptica."
+        },
+        {
+          "id": "C",
+          "texto": "Generalizada (toda a cavidade) ou localizada (formando abscessos)."
+        },
+        {
+          "id": "D",
+          "texto": "Sempre é generalizada — não existe peritonite localizada."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas em supramesocólica e inframesocólica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Quanto à **localização**, a peritonite pode ser **generalizada** (envolvendo toda a cavidade) ou **localizada** (formando **abscessos**). Quando há perfuração de víscera ou deiscência de anastomose, a tendência é a infecção propagar-se por toda a cavidade, mas eventualmente o organismo consegue **bloquear** a infecção, formando coleções localizadas (abscessos). Essa distinção tem implicação direta no tratamento (laparotomia x punção guiada).",
+      "referenciaAula": "Em relação à localização, a peritonite pode ser generalizada ou localizada formando os abscessos. Normalmente, quando você tem um quadro de perfuração de uma víscera, uma deiscência de anastomose, a tendência dessa infecção é se propagar para toda a cavidade. Às vezes pode ter um certo bloqueio, formando os abscessos mais localizados.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 272
+    },
+    {
+      "id": "Q-14-014",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "fisiopatologia",
+        "íleo adinâmico",
+        "choque misto"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fisiopatologia da peritonite bacteriana, qual sequência descreve CORRETAMENTE a resposta peritoneal e sistêmica à agressão?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Diminuição imediata e isolada do peristaltismo, sem repercussão hemodinâmica."
+        },
+        {
+          "id": "B",
+          "texto": "Resposta com edema, exsudação e deposição de fibrina; aumento inicial do peristaltismo seguido de íleo adinâmico, com acúmulo de ar e líquido nas alças, redução do volume extracelular, vasoconstrição periférica e evolução para choque misto (hipovolêmico + séptico)."
+        },
+        {
+          "id": "C",
+          "texto": "Aumento sustentado do débito urinário e vasodilatação periférica como mecanismo protetor."
+        },
+        {
+          "id": "D",
+          "texto": "Choque exclusivamente cardiogênico por compressão direta do coração pelo abdome distendido."
+        },
+        {
+          "id": "E",
+          "texto": "Resposta exclusivamente pulmonar, sem alterações peritoneais ou hemodinâmicas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O peritônio responde à agressão com **edema, exsudação e deposição de fibrina**. Há aumento inicial dos movimentos peristálticos seguido de **íleo adinâmico**, com acúmulo de ar e líquido nas alças. A diminuição do volume do líquido extracelular ativa o eixo adrenal, gera **vasoconstrição periférica**, libera hormônio antidiurético e aldosterona, com diminuição do débito urinário e cardíaco — contribuindo para **choque hipovolêmico**. A distensão prejudica a ventilação/perfusão, causa atelectasias e acidose. O resultado final é um **choque misto: hipovolêmico + séptico**.",
+      "referenciaAula": "O peritônio responde com edema, exsudação e deposição de fibrina. Inicialmente há o aumento dos movimentos peristálticos, mas logo se estabelece um íleo adinâmico tanto pelo acúmulo de ar como acúmulo de líquido dentro das alças intestinais. Isso faz com que ocorra uma diminuição do volume do líquido extracelular. Vai ocorrer a ativação da adrenal que vão liberar substâncias que vão levar a vasoconstrição periférica. Tudo isso contribuindo pro choque hipovolêmico. Aqui acaba sendo um choque misto. Tem tanto componente hipovolêmico quanto o séptico.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 482
+    },
+    {
+      "id": "Q-14-015",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "laboratório",
+        "leucocitose",
+        "acidose metabólica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais alterações laboratoriais são tipicamente encontradas em paciente com peritonite bacteriana, segundo a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Leucopenia, alcalose respiratória pura e hemodiluição."
+        },
+        {
+          "id": "B",
+          "texto": "Leucocitose com desvio à esquerda, sedimentação elevada, hemoconcentração, ureia/creatinina em elevação e acidose metabólica."
+        },
+        {
+          "id": "C",
+          "texto": "Hemograma normal e função renal preservada na maioria dos casos."
+        },
+        {
+          "id": "D",
+          "texto": "Eosinofilia marcada e hipernatremia isolada."
+        },
+        {
+          "id": "E",
+          "texto": "Plaquetose isolada sem outras alterações."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na peritonite bacteriana, o laboratório tipicamente mostra **leucocitose com desvio à esquerda** (resposta inflamatória/infecciosa), **velocidade de sedimentação elevada**, **hemoconcentração** (perda de líquido para o terceiro espaço), **níveis de ureia e creatinina em elevação** (hipoperfusão renal por hipovolemia) e **acidose metabólica** (pela hipoperfusão tecidual e sepse). Essas alterações refletem o quadro de sepse e hipovolemia descrito na fisiopatologia.",
+      "referenciaAula": "Geralmente temos uma leucocitose com desvio à esquerda, uma sedimentação elevada, hemoconcentração, já os níveis de ureia e creatinina subindo e acidose metabólica também.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 611
+    },
+    {
+      "id": "Q-14-016",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "tomografia",
+        "punção guiada",
+        "abscesso"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 62 anos, com diverticulite e dor em fossa ilíaca esquerda. Tomografia mostra abscesso pericólico e pélvico bem localizado, sem pneumoperitônio. Paciente estável. Qual a conduta MAIS adequada de acordo com a aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Indicar laparotomia exploradora imediata, mesmo sem pneumoperitônio."
+        },
+        {
+          "id": "B",
+          "texto": "Indicação cirúrgica de urgência com colostomia em alça, sem outras tentativas."
+        },
+        {
+          "id": "C",
+          "texto": "Pode ser tentada PUNÇÃO GUIADA por imagem das coleções/abscessos localizados, evitando-se inicialmente a laparotomia."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas observação clínica sem antibiótico nem drenagem."
+        },
+        {
+          "id": "E",
+          "texto": "Hemodiálise de urgência."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Quando a tomografia evidencia **abscessos localizados** (e não líquido difuso por toda a cavidade), pode-se tentar **drenagem percutânea guiada por imagem**, em vez de partir direto para a laparotomia. A aula contrasta dois cenários: na peritonite generalizada (líquido em toda cavidade), é laparotomia direto; nos abscessos pericólicos/pélvicos localizados de diverticulite, a punção guiada é uma opção válida e menos agressiva.",
+      "referenciaAula": "Esses outros aqui do lado direito são abscessos mais localizados. Esse primeiro caso aqui é laparotomia direto. Nesses outros aqui pode ser tentado fazer uma punção guiada dessas coleções, desses abscessos, mostrando quadro de diverticulite com abscesso pericólico e pélvico.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 720
+    },
+    {
+      "id": "Q-14-017",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "PBE",
+        "líquido ascítico",
+        "polimicrobiano"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Cirrótico com ascite tem dor abdominal e febre. A paracentese diagnóstica revela LÍQUIDO ASCÍTICO POLIMICROBIANO. Qual a interpretação MAIS provável e a conduta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Confirma peritonite bacteriana primária (PBE) — manter apenas antibiótico."
+        },
+        {
+          "id": "B",
+          "texto": "Sugere PBE não complicada — alta hospitalar com profilaxia oral."
+        },
+        {
+          "id": "C",
+          "texto": "Líquido polimicrobiano fala FORTEMENTE A FAVOR de perfuração intestinal associada (peritonite secundária) — investigar/operar, e não apenas tratar como PBE."
+        },
+        {
+          "id": "D",
+          "texto": "É um achado normal em ascite hepática crônica."
+        },
+        {
+          "id": "E",
+          "texto": "Indica obrigatoriamente neoplasia intra-abdominal, não infecção."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A peritonite bacteriana **primária (PBE)** é tipicamente **monomicrobiana** por germe Gram-negativo. Quando o líquido ascítico vem **polimicrobiano**, há **grande chance de perfuração intestinal associada** (peritonite secundária se manifestando em paciente com ascite). O reconhecimento é crucial porque a conduta muda — não basta antibiótico, é preciso investigar e tratar a fonte cirurgicamente.",
+      "referenciaAula": "Você vai investigar um doente com cirrose e ascite puncionando aquele líquido ascítico. Daí normalmente vai crescer alguns germes gram-negativos. Se vier polimicrobiano, tem grande chance da pessoa ter perfurado uma víscera intestinal.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 332
+    },
+    {
+      "id": "Q-14-018",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "peritonite secundária bacteriana",
+        "etiologias",
+        "perfuração espontânea"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as etiologias da peritonite secundária BACTERIANA, todas as alternativas abaixo são citadas na aula como mecanismos possíveis, EXCETO:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Perfuração traumática (acidental, por arma branca, projétil de arma de fogo ou trauma fechado)."
+        },
+        {
+          "id": "B",
+          "texto": "Perfuração iatrogênica."
+        },
+        {
+          "id": "C",
+          "texto": "Perfuração espontânea por apendicite, diverticulite ou neoplasia."
+        },
+        {
+          "id": "D",
+          "texto": "Por contiguidade ou propagação hematogênica de foco à distância."
+        },
+        {
+          "id": "E",
+          "texto": "Translocação intestinal sem foco identificável em paciente jovem hígido sem comorbidades nem ascite."
+        }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "A aula lista as etiologias da peritonite secundária bacteriana como: **perfuração traumática** (acidental, ferimento por arma branca/projétil, trauma fechado), **iatrogênica**, **por corpo estranho**, **perfuração espontânea** (apendicite, diverticulite, neoplasia), **por contiguidade** e **propagação hematogênica** de foco à distância. A translocação em paciente hígido sem comorbidades não é mecanismo descrito; translocação relevante ocorre em contextos específicos (ex: hepatopata com ascite — e isso seria peritonite primária, não secundária).",
+      "referenciaAula": "A peritonite secundária bacteriana pode ser decorrente de uma perfuração traumática, pode ser acidental, ferimento por arma branca, ferimento por projétil, trauma fechado, pode ser iatrogênica, pode ser perfuração por corpos estranhos e pode ser uma perfuração espontânea, como a apendicite, diverticulite, por neoplasia. Também pode ser por contiguidade e propagação hematogênica de um foco à distância.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 428
+    },
+    {
+      "id": "Q-14-019",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "ressuscitação",
+        "PVC",
+        "drogas vasoativas"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com peritonite bacteriana evolui no pronto-socorro com PA 70x40 mmHg, oligúria persistente apesar da reposição inicial de cristaloide e suspeita de falência ventricular. Qual o conjunto de medidas MAIS adequado, conforme os princípios da aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Levar imediatamente ao centro cirúrgico sem mais medidas, pois cirurgia é prioridade absoluta."
+        },
+        {
+          "id": "B",
+          "texto": "Suspender a reposição volêmica e iniciar diurético para proteger o pulmão."
+        },
+        {
+          "id": "C",
+          "texto": "Acesso venoso central para medida da PVC, início de drogas vasoativas e, se necessário, inotrópico/intubação ainda no pronto-socorro, mantendo a antibioticoterapia de largo espectro e a correção dos distúrbios — para então operar precocemente."
+        },
+        {
+          "id": "D",
+          "texto": "Aguardar 48 horas para avaliar resposta apenas ao antibiótico antes de qualquer outra medida."
+        },
+        {
+          "id": "E",
+          "texto": "Solicitar ressonância magnética antes de qualquer medida hemodinâmica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Diante de paciente séptico que **não responde** apenas à reposição volêmica inicial, a aula recomenda **acesso venoso central** (para medida da PVC), introdução de **droga vasoativa**, e — se houver falência cardíaca — **inotrópico** e até **intubação no próprio pronto-socorro**, sempre mantendo a antibioticoterapia de largo espectro e a correção dos distúrbios hidroeletrolíticos. Estabilizado, leva-se à cirurgia precocemente. Não se opera o paciente em choque sem tentar corrigir minimamente, mas também não se posterga indefinidamente.",
+      "referenciaAula": "Às vezes você precisa passar um acesso venoso central, às vezes para medir a pressão venosa central. Em alguns casos você precisa passar uma droga vasoativa, então às vezes no próprio pronto socorro você tem que fazer tudo isso. Muitas vezes você deu o volume, o doente não tá respondendo, você entrar com drogas vasoativas, se tiver falha cardíaca, às vezes inotrópico, intubação.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 879
+    },
+    {
+      "id": "Q-14-020",
+      "aulaOrigem": 14,
+      "blocos": [
+        "A"
+      ],
+      "eixos": [
+        "T1",
+        "T5"
+      ],
+      "tags": [
+        "controle do foco",
+        "lavagem da cavidade",
+        "técnica cirúrgica"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Quanto aos princípios CIRÚRGICOS da peritonite bacteriana, qual conjunto reúne CORRETAMENTE as orientações dadas na aula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cirurgia tardia (após 7 dias de antibiótico), sem necessidade de retirar o foco, fechamento primário sempre, sem lavagem da cavidade."
+        },
+        {
+          "id": "B",
+          "texto": "Cirurgia precoce sem retardo; controlar a fonte de contaminação (suturar úlcera perfurada, ressecar segmento divertículo perfurado); LAVAR EXAUSTIVAMENTE a cavidade; em pacientes graves, usar táticas menos agressivas (controle de danos, peritoneostomia); manter antibiótico de largo espectro como medida sistêmica."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas drenagem da cavidade sem ressecção do segmento perfurado é suficiente em todos os casos."
+        },
+        {
+          "id": "D",
+          "texto": "Anastomose primária com proteção é a regra, independentemente da estabilidade do paciente."
+        },
+        {
+          "id": "E",
+          "texto": "Antibiótico apenas no pós-operatório, nunca antes da cirurgia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os princípios cirúrgicos enfatizados na aula são: **cirurgia precoce**, sem retardo; **controlar a fonte de contaminação** — suturar a úlcera perfurada, ressecar o segmento de divertículo perfurado; **lavar exaustivamente a cavidade** para reduzir a carga bacteriana; em pacientes muito graves, **usar táticas menos agressivas** (controle de danos com ressecção, grampeador e peritoneostomia, com reabordagem em 48-72h); e como **medida sistêmica**, manter **antibioticoterapia de largo espectro**.",
+      "referenciaAula": "A cirurgia deve ser precoce, não deve retardar muito. Na cirurgia, deve sempre que possível tirar o foco de infecção. Você tem que controlar a fonte de contaminação. Se tem uma úlcera perfurada, você tem que suturar. Se tem um divertículo perfurado, ressecar aquela parte do órgão. Tem que lavar exaustivamente essa cavidade. Além disso, medida sistêmica, antibioticoterapia de largo espectro, tudo isso é importante. Muitas vezes usar táticas menos agressivas e de menor risco cirúrgico.",
+      "transversal": false,
+      "videoAulaId": 14,
+      "videoStartSec": 901
     }
   ]
 }

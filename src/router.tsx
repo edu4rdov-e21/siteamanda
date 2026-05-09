@@ -6,6 +6,7 @@ import { QuizPage } from './pages/QuizPage';
 import { ResultsPage } from './pages/ResultsPage';
 import { LoginPage } from './pages/LoginPage';
 import { RequireAuth } from './components/shared/RequireAuth';
+import { AUTH_ENABLED } from './lib/supabase';
 
 const StatsPage = lazy(() =>
   import('./pages/StatsPage').then((m) => ({ default: m.StatsPage })),
@@ -23,7 +24,8 @@ function PageLoading() {
 }
 
 const wrap = (el: ReactNode) => <Suspense fallback={<PageLoading />}>{el}</Suspense>;
-const guard = (el: ReactNode) => <RequireAuth>{el}</RequireAuth>;
+const guard = (el: ReactNode) =>
+  AUTH_ENABLED ? <RequireAuth>{el}</RequireAuth> : el;
 
 export const router = createBrowserRouter([
   { path: '/login', element: <LoginPage /> },

@@ -60,22 +60,24 @@ export function SettingsPage() {
       <h1 className="mb-6 text-2xl font-semibold text-slate-900 dark:text-slate-100">Ajustes</h1>
 
       <div className="space-y-3">
-        <Card>
-          <div className="flex items-center justify-between gap-4">
-            <div className="min-w-0 flex-1">
-              <p className="mb-1 text-sm font-medium text-slate-900 dark:text-slate-100">
-                Conta
-              </p>
-              <p className="truncate text-xs text-slate-600 dark:text-slate-400">
-                {userEmail || 'Não logada'}
-              </p>
+        {userEmail && (
+          <Card>
+            <div className="flex items-center justify-between gap-4">
+              <div className="min-w-0 flex-1">
+                <p className="mb-1 text-sm font-medium text-slate-900 dark:text-slate-100">
+                  Conta
+                </p>
+                <p className="truncate text-xs text-slate-600 dark:text-slate-400">
+                  {userEmail}
+                </p>
+              </div>
+              <Button variant="secondary" onClick={handleSignOut}>
+                <LogOut size={14} />
+                Sair
+              </Button>
             </div>
-            <Button variant="secondary" onClick={handleSignOut}>
-              <LogOut size={14} />
-              Sair
-            </Button>
-          </div>
-        </Card>
+          </Card>
+        )}
 
         <Card>
           <div className="flex items-center justify-between gap-4">

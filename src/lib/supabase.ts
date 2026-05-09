@@ -19,6 +19,14 @@ export const supabase = createClient(url, anonKey, {
   },
 });
 
+/**
+ * Quando false, o app não exige login (volta pra modo local-first puro).
+ * Toggle pra true quando quiser reativar a tela de /login forçada.
+ * Login segue funcionando normalmente quem quiser entrar via /login —
+ * só que ninguém é redirecionado pra lá.
+ */
+export const AUTH_ENABLED = false;
+
 /** Lista de emails autorizados a usar o app. */
 export const ALLOWED_EMAILS = [
   'edu4rdov@gmail.com',

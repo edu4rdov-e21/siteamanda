@@ -1,16 +1,26 @@
-import { Link } from 'react-router-dom';
-import { ArrowLeft, Moon, Sun } from 'lucide-react';
+import { Link, useNavigate } from 'react-router-dom';
+import { ArrowLeft, LogOut, Moon, Sun } from 'lucide-react';
 import { Button } from '../components/shared/Button';
 import { Card } from '../components/shared/Card';
 import { useProgressStore } from '../store/progressStore';
 import { useSettingsStore } from '../store/settingsStore';
+import { useAuthStore } from '../store/authStore';
 
 export function SettingsPage() {
+  const navigate = useNavigate();
   const resetAll = useProgressStore((s) => s.resetAll);
   const exportJSON = useProgressStore((s) => s.exportJSON);
   const importJSON = useProgressStore((s) => s.importJSON);
   const darkMode = useSettingsStore((s) => s.darkMode);
   const toggleDarkMode = useSettingsStore((s) => s.toggleDarkMode);
+  const userEmail = useAuthStore((s) => s.user?.email ?? '');
+  const signOut = useAuthStore((s) => s.signOut);
+
+  const handleSignOut = async () => {
+    if (!confirm('Sair da conta? Você vai precisar logar de novo.')) return;
+    await signOut();
+    navigate('/login', { replace: true });
+  };
 
   const handleExport = () => {
     const json = exportJSON();
@@ -50,6 +60,23 @@ export function SettingsPage() {
       <h1 className="mb-6 text-2xl font-semibold text-slate-900 dark:text-slate-100">Ajustes</h1>
 
       <div className="space-y-3">
+        <Card>
+          <div className="flex items-center justify-between gap-4">
+            <div className="min-w-0 flex-1">
+              <p className="mb-1 text-sm font-medium text-slate-900 dark:text-slate-100">
+                Conta
+              </p>
+              <p className="truncate text-xs text-slate-600 dark:text-slate-400">
+                {userEmail || 'Não logada'}
+              </p>
+            </div>
+            <Button variant="secondary" onClick={handleSignOut}>
+              <LogOut size={14} />
+              Sair
+            </Button>
+          </div>
+        </Card>
+
         <Card>
           <div className="flex items-center justify-between gap-4">
             <div>

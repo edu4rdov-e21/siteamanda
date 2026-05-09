@@ -4,6 +4,8 @@ import { HomePage } from './pages/HomePage';
 import { QuizSetupPage } from './pages/QuizSetupPage';
 import { QuizPage } from './pages/QuizPage';
 import { ResultsPage } from './pages/ResultsPage';
+import { LoginPage } from './pages/LoginPage';
+import { RequireAuth } from './components/shared/RequireAuth';
 
 const StatsPage = lazy(() =>
   import('./pages/StatsPage').then((m) => ({ default: m.StatsPage })),
@@ -21,13 +23,15 @@ function PageLoading() {
 }
 
 const wrap = (el: ReactNode) => <Suspense fallback={<PageLoading />}>{el}</Suspense>;
+const guard = (el: ReactNode) => <RequireAuth>{el}</RequireAuth>;
 
 export const router = createBrowserRouter([
-  { path: '/', element: <HomePage /> },
-  { path: '/setup', element: <QuizSetupPage /> },
-  { path: '/quiz', element: <QuizPage /> },
-  { path: '/results', element: <ResultsPage /> },
-  { path: '/stats', element: wrap(<StatsPage />) },
-  { path: '/settings', element: wrap(<SettingsPage />) },
+  { path: '/login', element: <LoginPage /> },
+  { path: '/', element: guard(<HomePage />) },
+  { path: '/setup', element: guard(<QuizSetupPage />) },
+  { path: '/quiz', element: guard(<QuizPage />) },
+  { path: '/results', element: guard(<ResultsPage />) },
+  { path: '/stats', element: guard(wrap(<StatsPage />)) },
+  { path: '/settings', element: guard(wrap(<SettingsPage />)) },
   { path: '*', element: <Navigate to="/" replace /> },
 ]);

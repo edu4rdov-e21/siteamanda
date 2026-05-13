@@ -3,10 +3,7 @@ import { Link, useNavigate, useSearchParams } from 'react-router-dom';
 import { ArrowLeft } from 'lucide-react';
 import { Button } from '../components/shared/Button';
 import { Card } from '../components/shared/Card';
-import { AULAS } from '../data/meta/aulas';
-import { BLOCOS, BLOCO_ORDER } from '../data/meta/blocos';
-import { EIXOS, EIXO_ORDER } from '../data/meta/eixos';
-import { aulasComQuestoes, eixosComQuestoes, loadAllQuestions } from '../data';
+import { useTemaData } from '../data/temas';
 import { MODE_INFO, MODE_PRESETS } from '../lib/modes';
 import { selectQuestions } from '../lib/questionSelector';
 import { useQuizStore } from '../store/quizStore';
@@ -32,6 +29,7 @@ const labelClass = 'mb-2 block text-sm font-medium text-slate-700 dark:text-slat
 export function QuizSetupPage() {
   const [params] = useSearchParams();
   const navigate = useNavigate();
+  const tema = useTemaData();
   const startSession = useQuizStore((s) => s.startSession);
   const errorPoolCount = useProgressStore((s) => s.errorPool.length);
   const favoritesCount = useProgressStore((s) => s.favorites.length);
@@ -40,12 +38,12 @@ export function QuizSetupPage() {
   const mode: ModeKey = MODE_KEYS.includes(modeParam) ? modeParam : 'aulaUnica';
   const info = MODE_INFO[mode];
 
-  const aulasDisponiveis = useMemo(() => aulasComQuestoes(), []);
-  const eixosDisponiveis = useMemo(() => eixosComQuestoes(), []);
+  const aulasDisponiveis = useMemo(() => tema.aulasComQuestoes(), [tema]);
+  const eixosDisponiveis = useMemo(() => tema.eixosComQuestoes(), [tema]);
 
   const [aulaId, setAulaId] = useState<number | null>(aulasDisponiveis[0] ?? null);
-  const [blocoId, setBlocoId] = useState<BlocoId>('A');
-  const [eixoId, setEixoId] = useState<EixoId>(eixosDisponiveis[0] ?? 'T1');
+  const [blocoId, setBlocoId] = useState<BlocoId>(tema.BLOCO_ORDER[0] ?? ('A' as BlocoId));
+  const [eixoId, setEixoId] = useState<EixoId>(eixosDisponiveis[0] ?? ('T1' as EixoId));
   const [difficulty, setDifficulty] = useState<Difficulty | 'mixed'>('mixed');
   const [count, setCount] = useState<number>(MODE_PRESETS[mode]().count);
 
@@ -56,15 +54,15 @@ export function QuizSetupPage() {
     : undefined;
 
   const availableCount = useMemo(() => {
-    const all = loadAllQuestions();
+    const all = tema.loadAllQuestions();
     const probe = {
       ...MODE_PRESETS[mode](sourceId),
       count: 9999,
       difficulty,
       shuffleQuestions: false,
     };
-    return selectQuestions(all, probe, useProgressStore.getState()).length;
-  }, [mode, sourceId, difficulty, errorPoolCount, favoritesCount]);
+    return selectQuestions(all, probe, useProgressStore.getState(tema.slug)).length;
+  }, [tema, mode, sourceId, difficulty, errorPoolCount, favoritesCount]);
 
   useEffect(() => {
     if (count > availableCount && availableCount > 0) {
@@ -83,11 +81,11 @@ export function QuizSetupPage() {
       difficulty,
     };
 
-    const all = loadAllQuestions();
-    const pool = selectQuestions(all, config, useProgressStore.getState());
+    const all = tema.loadAllQuestions();
+    const pool = selectQuestions(all, config, useProgressStore.getState(tema.slug));
 
     startSession(config, pool);
-    navigate('/cirurgia/quiz');
+    navigate(`/${tema.slug}/quiz`);
   };
 
   const showAulaPicker = mode === 'aulaUnica';
@@ -100,7 +98,7 @@ export function QuizSetupPage() {
   return (
     <div className="mx-auto max-w-2xl px-4 py-6 sm:py-10">
       <Link
-        to="/cirurgia"
+        to={`/${tema.slug}`}
         className="mb-4 inline-flex items-center gap-1 text-sm text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-100"
       >
         <ArrowLeft size={16} />
@@ -122,7 +120,7 @@ export function QuizSetupPage() {
               className={selectClass}
             >
               {aulasDisponiveis.map((id) => {
-                const a = AULAS.find((x) => x.id === id);
+                const a = tema.AULA_BY_ID(id);
                 return (
                   <option key={id} value={id}>
                     {String(id).padStart(2, '0')} — {a?.titulo}
@@ -144,9 +142,9 @@ export function QuizSetupPage() {
               onChange={(e) => setBlocoId(e.target.value as BlocoId)}
               className={selectClass}
             >
-              {BLOCO_ORDER.map((id) => (
+              {tema.BLOCO_ORDER.map((id) => (
                 <option key={id} value={id}>
-                  {id} — {BLOCOS[id].nome}
+                  {id} — {tema.BLOCOS[id]?.nome}
                 </option>
               ))}
             </select>
@@ -161,9 +159,9 @@ export function QuizSetupPage() {
               onChange={(e) => setEixoId(e.target.value as EixoId)}
               className={selectClass}
             >
-              {EIXO_ORDER.map((id) => (
+              {tema.EIXO_ORDER.map((id) => (
                 <option key={id} value={id}>
-                  {id} — {EIXOS[id].nome}
+                  {id} — {tema.EIXOS[id]?.nome}
                 </option>
               ))}
             </select>

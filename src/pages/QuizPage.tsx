@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { Link, Navigate, useNavigate } from 'react-router-dom';
+import { Link, Navigate, useNavigate, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Keyboard } from 'lucide-react';
 import { Button } from '../components/shared/Button';
 import { Card } from '../components/shared/Card';
@@ -13,6 +13,7 @@ import { useProgressStore } from '../store/progressStore';
 
 export function QuizPage() {
   const navigate = useNavigate();
+  const { tema = 'cirurgia' } = useParams();
   const config = useQuizStore((s) => s.config);
   const questions = useQuizStore((s) => s.questions);
   const currentIndex = useQuizStore((s) => s.currentIndex);
@@ -48,7 +49,7 @@ export function QuizPage() {
   const handleFinish = useCallback(() => {
     const session = finishSession();
     recordSession(session, questionsById);
-    navigate('/cirurgia/results');
+    navigate(`/${tema}/results`);
   }, [finishSession, recordSession, questionsById, navigate]);
 
   const handleNext = useCallback(() => {
@@ -66,7 +67,7 @@ export function QuizPage() {
   const handleAbort = useCallback(() => {
     if (confirm('Sair da sessão? O progresso desta sessão será perdido.')) {
       abort();
-      navigate('/cirurgia');
+      navigate(`/${tema}`);
     }
   }, [abort, navigate]);
 
@@ -130,7 +131,7 @@ export function QuizPage() {
   }, [current, reveal, selectedDraft, config, handleSubmit, handleNext, handleAbort, toggleFavorite]);
 
   if (!config || !current) {
-    return <Navigate to="/cirurgia" replace />;
+    return <Navigate to={`/${tema}`} replace />;
   }
 
   return (
@@ -257,7 +258,7 @@ export function QuizPage() {
 
       {config.timeLimit === undefined && (
         <p className="mt-2 text-center text-xs text-slate-400 dark:text-slate-500">
-          <Link to="/cirurgia" className="hover:text-slate-700 dark:hover:text-slate-300">
+          <Link to={`/${tema}`} className="hover:text-slate-700 dark:hover:text-slate-300">
             Sair sem salvar
           </Link>
         </p>

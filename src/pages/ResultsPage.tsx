@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { Link, Navigate, useNavigate } from 'react-router-dom';
+import { Link, Navigate, useNavigate, useParams } from 'react-router-dom';
 import { CheckCircle2, RotateCw, XCircle } from 'lucide-react';
 import { Button } from '../components/shared/Button';
 import { Card } from '../components/shared/Card';
@@ -9,6 +9,7 @@ import { percent } from '../lib/scoring';
 
 export function ResultsPage() {
   const navigate = useNavigate();
+  const { tema = 'cirurgia' } = useParams();
   const lastSession = useQuizStore((s) => s.lastSession);
   const questions = useQuizStore((s) => s.questions);
   const reset = useQuizStore((s) => s.reset);
@@ -18,7 +19,7 @@ export function ResultsPage() {
     [questions],
   );
 
-  if (!lastSession) return <Navigate to="/cirurgia" replace />;
+  if (!lastSession) return <Navigate to={`/${tema}`} replace />;
 
   const { total, correct, answers } = lastSession;
   const pct = percent(correct, total);
@@ -42,13 +43,13 @@ export function ResultsPage() {
         <Button
           onClick={() => {
             reset();
-            navigate('/cirurgia');
+            navigate(`/${tema}`);
           }}
         >
           <RotateCw size={16} />
           Novo quiz
         </Button>
-        <Link to="/stats">
+        <Link to={`/${tema}/stats`}>
           <Button variant="secondary">Ver estatísticas</Button>
         </Link>
       </div>

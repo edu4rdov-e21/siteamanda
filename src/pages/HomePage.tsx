@@ -13,6 +13,8 @@ import {
   Settings as SettingsIcon,
 } from 'lucide-react';
 import { Card } from '../components/shared/Card';
+import { useTemaData } from '../data/temas';
+import { TEMA_BY_SLUG } from '../data/meta/temas';
 import { MODE_INFO } from '../lib/modes';
 import type { ModeKey } from '../lib/types';
 
@@ -39,6 +41,14 @@ const MODE_ORDER: ModeKey[] = [
 ];
 
 export function HomePage() {
+  const tema = useTemaData();
+  const meta = TEMA_BY_SLUG(tema.slug);
+  const nomeAmigavel = meta?.nome ?? tema.slug;
+  const descricao = meta?.descricao ?? '';
+
+  // Esconde eixo se o tema não tem
+  const modes = MODE_ORDER.filter((m) => m !== 'eixo' || tema.EIXO_ORDER.length > 0);
+
   return (
     <div className="mx-auto max-w-3xl px-4 py-6 sm:py-10">
       <Link
@@ -51,11 +61,11 @@ export function HomePage() {
 
       <header className="mb-6 sm:mb-8">
         <h1 className="text-2xl font-semibold text-slate-900 dark:text-slate-100 sm:text-3xl">
-          Cirurgia
+          {nomeAmigavel}
         </h1>
-        <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
-          Estudo ativo a partir das 26 aulas.
-        </p>
+        {descricao && (
+          <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">{descricao}</p>
+        )}
       </header>
 
       <section className="mb-6">
@@ -63,13 +73,13 @@ export function HomePage() {
           Escolha um modo
         </h2>
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {MODE_ORDER.map((mode) => {
+          {modes.map((mode) => {
             const info = MODE_INFO[mode];
             const Icon = ICONS[mode];
             return (
               <Link
                 key={mode}
-                to={`/cirurgia/setup?mode=${mode}`}
+                to={`/${tema.slug}/setup?mode=${mode}`}
                 className="group rounded-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-accent-500"
               >
                 <Card className="h-full transition-colors group-hover:border-accent-500 dark:group-hover:border-accent-500">
@@ -95,7 +105,7 @@ export function HomePage() {
 
       <section className="grid grid-cols-2 gap-3">
         <Link
-          to="/stats"
+          to={`/${tema.slug}/stats`}
           className="rounded-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-accent-500"
         >
           <Card className="flex items-center gap-3 transition-colors hover:border-accent-500 dark:hover:border-accent-500">

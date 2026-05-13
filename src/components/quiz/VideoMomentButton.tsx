@@ -1,6 +1,6 @@
 import { Play } from 'lucide-react';
-import { AULA_BY_ID } from '../../data/meta/aulas';
-import { buildVideoUrl } from '../../data/meta/playlist';
+import { useParams } from 'react-router-dom';
+import { aulaByIdAcrossTemas, getTemaData } from '../../data/temas';
 import type { Question } from '../../lib/types';
 
 interface Props {
@@ -18,14 +18,31 @@ function fmtTimestamp(sec: number): string {
   return `${m}:${String(s).padStart(2, '0')}`;
 }
 
+function buildUrl(videoId: string, playlistId: string, startSec: number): string {
+  const base = `https://www.youtube.com/watch?v=${videoId}&list=${playlistId}`;
+  return startSec > 0 ? `${base}&t=${startSec}s` : base;
+}
+
 export function VideoMomentButton({ question, variant = 'default' }: Props) {
+  const { tema: temaSlug } = useParams();
   const aulaId = question.videoAulaId;
   const startSec = question.videoStartSec;
   if (aulaId === undefined || startSec === undefined) return null;
-  const aula = AULA_BY_ID(aulaId);
+
+  // Tenta resolver aula no tema atual; se não achar, busca em qualquer tema
+  const aula = aulaByIdAcrossTemas(aulaId, temaSlug);
   if (!aula?.videoId) return null;
 
-  const url = buildVideoUrl(aula.videoId, startSec);
+  // Pega o PLAYLIST_ID do tema correto (a aula tá nesse tema)
+  const temaData = getTemaData(temaSlug);
+  const playlistId = temaData.AULA_BY_ID(aulaId)
+    ? temaData.PLAYLIST_ID
+    : // fallback: busca em outros temas
+      (getTemaData('cirurgia').AULA_BY_ID(aulaId)
+        ? getTemaData('cirurgia').PLAYLIST_ID
+        : getTemaData('otorrino').PLAYLIST_ID);
+
+  const url = buildUrl(aula.videoId, playlistId, startSec);
   const label = `Conferir no vídeo (${fmtTimestamp(startSec)})`;
   const fullLabel = question.transversal
     ? `${label} — Aula ${String(aulaId).padStart(2, '0')}`

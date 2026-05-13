@@ -1,0 +1,886 @@
+{
+  "aulaId": 2,
+  "titulo": "Disfagia",
+  "questoes": [
+    {
+      "id": "Q-OR-02-001",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "definição",
+        "disfagia",
+        "deglutição"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a definição de disfagia, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Refere-se exclusivamente à dor à deglutição."
+        },
+        {
+          "id": "B",
+          "texto": "É a manifestação clínica de comprometimento do transporte do bolo alimentar da boca ao estômago, decorrente de alteração anatômica ou funcional das estruturas orais, faríngeas, laríngeas ou esofágicas."
+        },
+        {
+          "id": "C",
+          "texto": "Corresponde apenas a alterações da fase esofágica da deglutição."
+        },
+        {
+          "id": "D",
+          "texto": "É um sinal objetivo identificado apenas por exames de imagem."
+        },
+        {
+          "id": "E",
+          "texto": "Refere-se a refluxo gastroesofágico crônico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **deglutição** é o transporte do bolo alimentar da boca ao estômago. A **disfagia** é qualquer manifestação clínica de comprometimento desse processo, podendo envolver estruturas **orais, faríngeas, laríngeas ou esofágicas**, gerando uma sensação subjetiva de dificuldade. Dor à deglutição é a **odinofagia**, conceito distinto.",
+      "referenciaAula": "A disfagia vai corresponder a alguma manifestação clínica de um comprometimento normal da deglutição que pode estar relacionada a qualquer condição que afete a integridade anatômica ou funcional.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 130
+    },
+    {
+      "id": "Q-OR-02-002",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "epidemiologia",
+        "prevalência",
+        "AVC"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a epidemiologia da disfagia, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Acomete menos de 5% dos pacientes hospitalizados."
+        },
+        {
+          "id": "B",
+          "texto": "Cerca de 45% dos pacientes com AVC evoluirão com algum grau de disfagia."
+        },
+        {
+          "id": "C",
+          "texto": "Em pacientes oncológicos com câncer de orofaringe, a disfagia ocorre em menos de 20% dos casos."
+        },
+        {
+          "id": "D",
+          "texto": "É raramente vista em pacientes em homecare."
+        },
+        {
+          "id": "E",
+          "texto": "Em miastenia gravis, menos de 10% apresentam disfagia ao diagnóstico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A disfagia é altamente prevalente: cerca de **25% dos hospitalizados**, **33% em homecare**, **80% em câncer de orofaringe/laringe**, **45% nos pacientes pós-AVC** e até **67% dos pacientes com miastenia gravis** ao diagnóstico apresentam algum grau de disfagia. Reconhecer essa epidemiologia é essencial para a triagem.",
+      "referenciaAula": "Nos pacientes com quadro de acidente vascular encefálico, 45% vão evoluir em algum momento por um grau de disfagia.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 95
+    },
+    {
+      "id": "Q-OR-02-003",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "fases da deglutição",
+        "fase oral",
+        "voluntária"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre as fases da deglutição normal, qual delas é considerada VOLUNTÁRIA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fase oral."
+        },
+        {
+          "id": "B",
+          "texto": "Fase orofaríngea."
+        },
+        {
+          "id": "C",
+          "texto": "Fase esofágica."
+        },
+        {
+          "id": "D",
+          "texto": "Todas as fases são voluntárias."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas a fase final, quando o bolo entra no estômago."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **fase oral** é a única **voluntária**: o paciente abre a boca, mastiga, forma o bolo alimentar com a saliva e a língua faz a propulsão contra o palato duro em direção à orofaringe. Ao final, dispara-se o reflexo da deglutição, e as **fases orofaríngea e esofágica** passam a ser **involuntárias**.",
+      "referenciaAula": "A primeira delas é a fase oral. É aquela fase voluntária onde você abre a boca para receber o alimento, para poder mastigar. Quando essa fase finaliza, já dá disparo no reflexo da deglutição.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 178
+    },
+    {
+      "id": "Q-OR-02-004",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "disfagia orofaríngea",
+        "transferência",
+        "sintomas"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Os sintomas de engasgo durante a deglutição, tosse, asfixia e regurgitação nasal de alimentos são MAIS sugestivos de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Disfagia esofágica (de condução)."
+        },
+        {
+          "id": "B",
+          "texto": "Disfagia orofaríngea (de transferência)."
+        },
+        {
+          "id": "C",
+          "texto": "Refluxo gastroesofágico isolado."
+        },
+        {
+          "id": "D",
+          "texto": "Acalásia em estágio inicial."
+        },
+        {
+          "id": "E",
+          "texto": "Esofagite eosinofílica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **disfagia orofaríngea (de transferência)** se caracteriza por dificuldade na preparação ou transferência do bolo da boca ao esôfago proximal, com **tosse, engasgos, asfixia, regurgitação nasal** e sensação de resíduo na faringe. Já a disfagia esofágica (de condução) cursa com sensação de retenção do alimento mais baixa, sem engasgos.",
+      "referenciaAula": "Disfagia e orofarincha, é aquela disfagia de transferência. Geralmente o paciente vai ter uma tosse durante a deglutição, o paciente vai ter uma asfixia, às vezes pode haver regugitação nasal de alimentos.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 360
+    },
+    {
+      "id": "Q-OR-02-005",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "anamnese",
+        "diagnóstico",
+        "história clínica"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Aproximadamente qual a sensibilidade da anamnese bem feita para identificar corretamente a causa de disfagia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "20 a 30% dos casos."
+        },
+        {
+          "id": "B",
+          "texto": "40 a 50% dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "60 a 70% dos casos."
+        },
+        {
+          "id": "D",
+          "texto": "80 a 85% dos casos."
+        },
+        {
+          "id": "E",
+          "texto": "Praticamente 100% dos casos."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Uma **anamnese minuciosa** é capaz de identificar corretamente a causa da disfagia em **80 a 85% dos casos**. Por isso, é a etapa central da investigação: localizar a topografia (orofaríngea x esofágica), tempo de evolução, consistência envolvida (sólidos, líquidos ou ambos), sintomas associados e comorbidades.",
+      "referenciaAula": "A anamnese ela é capaz de identificar corretamente um problema em cerca de 80 a 85% dos casos.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 411
+    },
+    {
+      "id": "Q-OR-02-006",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "sinais de alarme",
+        "neoplasia",
+        "sintomas progressivos"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual achado, na história clínica do paciente disfágico, deve levantar a SUSPEITA mais imediata de neoplasia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Disfagia exclusivamente para líquidos, estável há vários anos."
+        },
+        {
+          "id": "B",
+          "texto": "Disfagia intermitente desde a infância."
+        },
+        {
+          "id": "C",
+          "texto": "Disfagia inicialmente para sólidos com progressão para líquidos, associada a perda de peso."
+        },
+        {
+          "id": "D",
+          "texto": "Disfagia melhorada com a postura de queixo para baixo."
+        },
+        {
+          "id": "E",
+          "texto": "Disfagia que ocorre apenas após uso de medicações específicas."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **disfagia progressiva** — começando para sólidos e evoluindo para líquidos — sobretudo associada a **perda de peso, hemorragia digestiva, febre ou odinofagia**, é sinal de alarme para **neoplasia esofágica**. Exige investigação rápida e agressiva, em geral com endoscopia digestiva alta e biópsias.",
+      "referenciaAula": "Pacientes que inicialmente tem um relato de uma disfagia para alimentos sólidos, mas que com o passado tempo vem evoluindo também para uma disfagia para líquidos, alertar que isso pode ser um sintoma inicial de uma neoplasia.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 568
+    },
+    {
+      "id": "Q-OR-02-007",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "obstrução mecânica",
+        "sólidos",
+        "estenose"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Paciente com disfagia exclusiva para SÓLIDOS, sem dificuldade para líquidos. Qual o mecanismo MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Distúrbio da motilidade esofágica (acalásia)."
+        },
+        {
+          "id": "B",
+          "texto": "Disfagia orofaríngea por AVC."
+        },
+        {
+          "id": "C",
+          "texto": "Obstrução mecânica do esôfago (estenose, anel, membrana, tumor ou compressão extrínseca)."
+        },
+        {
+          "id": "D",
+          "texto": "Xerostomia medicamentosa."
+        },
+        {
+          "id": "E",
+          "texto": "Discinesia tardia por antipsicóticos."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Disfagia **apenas para sólidos** aponta para **obstrução mecânica do esôfago**, que pode ser **intrínseca** (estenose, membrana, anel de Schatzki, tumor) ou **extrínseca** (massa mediastinal, bócio/tiromegalia). Já a disfagia para líquidos sugere distúrbio orofaríngeo, e a disfagia para sólidos e líquidos sugere distúrbio motor (ex.: acalásia).",
+      "referenciaAula": "Aqueles pacientes que têm problemas com sólidos, isso vai nos direcionar o pensamento para uma obstrução mecânica do esôfago. E essa pode ser intrínseca quando o paciente tem uma estenose, alguma membrana, um anel de chates.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 769
+    },
+    {
+      "id": "Q-OR-02-008",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "acalásia",
+        "motilidade",
+        "sólidos e líquidos"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Mulher de 38 anos refere disfagia há 6 meses, tanto para sólidos quanto para líquidos, com regurgitação ocasional e perda de peso leve. Qual a hipótese MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estenose péptica por refluxo crônico."
+        },
+        {
+          "id": "B",
+          "texto": "Anel de Schatzki."
+        },
+        {
+          "id": "C",
+          "texto": "Distúrbio da motilidade esofágica, como acalásia."
+        },
+        {
+          "id": "D",
+          "texto": "Esofagite por pílulas."
+        },
+        {
+          "id": "E",
+          "texto": "Tumor mediastinal compressivo."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Disfagia para **sólidos E líquidos** desde o início, em paciente jovem, sugere **distúrbio da motilidade esofágica**, sendo a **acalásia** a hipótese clássica. Regurgitação e perda de peso reforçam o quadro. A acalásia decorre da falha de relaxamento do esfíncter esofagiano inferior e da peristalse esofágica.",
+      "referenciaAula": "Quando o paciente tem um relato de problemas tanto com sólido quanto com líquido, já faz a gente pensar um pouco de distúrbio da motilidade esofágica.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 800
+    },
+    {
+      "id": "Q-OR-02-009",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "esofagite por pílulas",
+        "medicamentos",
+        "agudo"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 60 anos, em tratamento para osteoporose com bisfosfonato, apresenta de forma AGUDA odinofagia e disfagia retroesternal há 3 dias, com uso recente de comprimidos com pouca água antes de deitar. Qual a etiologia MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carcinoma escamocelular esofágico."
+        },
+        {
+          "id": "B",
+          "texto": "Acalásia."
+        },
+        {
+          "id": "C",
+          "texto": "Esofagite por pílulas (medicamentosa)."
+        },
+        {
+          "id": "D",
+          "texto": "Divertículo de Zenker."
+        },
+        {
+          "id": "E",
+          "texto": "Acidente vascular encefálico."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Comprimidos como **bisfosfonatos, AINEs e ácido ascórbico** podem lesar a mucosa esofágica, causando a chamada **esofagite por pílulas**. Caracteriza-se por início **agudo** de disfagia e odinofagia, sobretudo quando o comprimido é ingerido com pouca água ou antes de deitar. A endoscopia confirma erosões/ulcerações esofágicas.",
+      "referenciaAula": "Esofagite por comprimidos. Alguns comprimidos eles podem levar a uma esofagite da mucosa do esôfago, ou seja, por alguns comprimidos, como por exemplo, ácido ascórbico, ele pode lesar a mucosa, é também chamada esofagite das pílulas.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 685
+    },
+    {
+      "id": "Q-OR-02-010",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "esofagite infecciosa",
+        "HIV",
+        "imunossupressão"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente HIV positivo, com CD4 baixo, apresenta odinofagia e disfagia de início subagudo. Quais agentes infecciosos devem ser considerados como causa de esofagite?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas Helicobacter pylori."
+        },
+        {
+          "id": "B",
+          "texto": "Candida, citomegalovírus (CMV) e herpes simples."
+        },
+        {
+          "id": "C",
+          "texto": "Apenas bactérias gram-negativas anaeróbias."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas micobactérias."
+        },
+        {
+          "id": "E",
+          "texto": "Vírus Epstein-Barr exclusivamente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em imunossuprimidos, especialmente no **HIV avançado**, a esofagite infecciosa pode ser causada por **Candida** (a mais comum), **CMV** e **herpes simples**. A endoscopia digestiva alta com biópsias permite o diagnóstico etiológico e direciona o tratamento antifúngico ou antiviral específico.",
+      "referenciaAula": "Algumas infecções, por exemplo, paciente com HIV, ele pode ter CMV na região do esôfago, herps, cândida, que dá um quadro disfágico.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 705
+    },
+    {
+      "id": "Q-OR-02-011",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "videofluoroscopia",
+        "padrão ouro",
+        "disfagia orofaríngea"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o videodeglutograma (videofluoroscopia da deglutição), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É um método invasivo, contraindicado em crianças."
+        },
+        {
+          "id": "B",
+          "texto": "É considerado padrão-ouro para disfagia orofaríngea, avalia as três fases da deglutição, mas expõe o paciente à radiação ionizante."
+        },
+        {
+          "id": "C",
+          "texto": "Avalia melhor a mobilidade das pregas vocais e o manejo de saliva."
+        },
+        {
+          "id": "D",
+          "texto": "Não permite testar manobras facilitadoras nem alterações de consistência."
+        },
+        {
+          "id": "E",
+          "texto": "Pode ser realizado à beira do leito, em UTI ou domicílio."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **videodeglutograma** é o **padrão-ouro** da disfagia orofaríngea, realizado no setor de radiologia com radiologista e fonoaudiólogo. Avalia **fases oral, orofaríngea e esofágica** e detecta aspiração. Limitações: exposição à **radiação ionizante** (e ao bário), não avalia saliva nem mobilidade laríngea, e tem acessibilidade restrita.",
+      "referenciaAula": "O exame padrão ouro é o vídeo da glutograma. O grande benefício dela é porque ela avalia todas as fases da deglutição, fase oral, a fase oofarja e a fase esofágica.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1136
+    },
+    {
+      "id": "Q-OR-02-012",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "FEES",
+        "videoendoscopia da deglutição",
+        "nasofibroscopia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a videoendoscopia da deglutição (FEES), qual afirmação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Utiliza radiação ionizante em doses superiores ao videodeglutograma."
+        },
+        {
+          "id": "B",
+          "texto": "É realizada por nasofibroscopia flexível, sem radiação, pode ser feita à beira do leito e avalia saliva e mobilidade laríngea."
+        },
+        {
+          "id": "C",
+          "texto": "Avalia todas as fases da deglutição com a mesma fidelidade do videodeglutograma."
+        },
+        {
+          "id": "D",
+          "texto": "Está contraindicada em crianças e lactentes."
+        },
+        {
+          "id": "E",
+          "texto": "Não permite avaliação da sensibilidade laríngea."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **FEES (videoendoscopia da deglutição)** usa **nasofibroscópio flexível portátil**, sem radiação, podendo ser feita em ambulatório, UTI, enfermaria ou domicílio. **Avalia saliva, mobilidade e sensibilidade laríngea**, e permite testar consistências. Limitação: não avalia a fase esofágica nem o momento exato da deglutição (apagão), com fidelidade reduzida na fase faríngea.",
+      "referenciaAula": "Vídeoendoscopia da deglutição, vet, como a gente chama. É realizado por meio de uma nasofibroscopia flexível, que é um alimento portátil, que não tem qualquer radiação.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1245
+    },
+    {
+      "id": "Q-OR-02-013",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "endoscopia digestiva alta",
+        "diagnóstico",
+        "biópsia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a endoscopia digestiva alta (EDA) na investigação da disfagia, qual é a sua PRINCIPAL vantagem em relação a outros exames?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Avalia detalhadamente as fases oral e orofaríngea da deglutição."
+        },
+        {
+          "id": "B",
+          "texto": "Permite visualização da mucosa esofágica, biópsias e tratamento terapêutico (como dilatação de estenoses) no mesmo procedimento."
+        },
+        {
+          "id": "C",
+          "texto": "Avalia a mobilidade das pregas vocais durante a deglutição."
+        },
+        {
+          "id": "D",
+          "texto": "Pode ser feita sem qualquer sedação ou preparo."
+        },
+        {
+          "id": "E",
+          "texto": "Identifica aspiração silenciosa com maior sensibilidade que a FEES."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **EDA** permite **visualização direta do lúmen e da mucosa esofágica**, detectando lesões obstrutivas (câncer, estenose), inflamatórias e infecciosas (CMV, Candida). Seu grande diferencial é poder **biopsar e tratar no mesmo ato** (por exemplo, **dilatação** de estenose). Não substitui videodeglutograma ou FEES na avaliação das fases orofaríngeas.",
+      "referenciaAula": "A endoscopia digestiva alta ela traz um benefício pro paciente porque já existe nesse exame a visualização do lumen e da mucosa isofágica.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1097
+    },
+    {
+      "id": "Q-OR-02-014",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "exame físico",
+        "pares cranianos",
+        "deglutição"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "No exame físico do paciente com disfagia, quais pares cranianos devem ser AVALIADOS por estarem diretamente relacionados ao processo da deglutição?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "I, II, III, IV e VI."
+        },
+        {
+          "id": "B",
+          "texto": "II, III, IV e VIII."
+        },
+        {
+          "id": "C",
+          "texto": "V, VII, IX, X e XII."
+        },
+        {
+          "id": "D",
+          "texto": "I, VIII e XI apenas."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas o XII (hipoglosso)."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A deglutição depende dos pares cranianos **V (trigêmeo — mastigação), VII (facial — selamento labial e gustação), IX (glossofaríngeo — sensibilidade da faringe e gustação posterior), X (vago — motricidade faríngea e laríngea) e XII (hipoglosso — motricidade da língua)**. Devem ser sempre avaliados no exame neurológico do disfágico.",
+      "referenciaAula": "É importante também avaliar alguns parescranianos, que são aqueles parescranianos relacionados à deglutição, que seriam 5, 7, 9, 10 e 12.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1085
+    },
+    {
+      "id": "Q-OR-02-015",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "broncoaspiração",
+        "complicações",
+        "pneumonia"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Idoso de 78 anos, frágil, com histórico de AVC isquêmico há 1 ano, apresenta pneumonias de repetição e perda ponderal, mas NÃO refere tosse durante as refeições. Qual a hipótese MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doença pulmonar obstrutiva crônica isolada."
+        },
+        {
+          "id": "B",
+          "texto": "Aspiração silenciosa, com disfagia orofaríngea subjacente."
+        },
+        {
+          "id": "C",
+          "texto": "Tuberculose pulmonar."
+        },
+        {
+          "id": "D",
+          "texto": "Doença do refluxo gastroesofágico sem complicações."
+        },
+        {
+          "id": "E",
+          "texto": "Bronquiectasias congênitas."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Até **50% dos idosos frágeis** podem apresentar disfagia com **aspiração silenciosa** — sem tosse ou engasgo aparentes. Histórico de **AVC, Parkinson, demências ou sarcopenia** aumenta o risco. As manifestações tardias incluem **pneumonias de repetição, desnutrição, desidratação e isolamento social**. A FEES e o videodeglutograma estão indicados.",
+      "referenciaAula": "Aqueles idosos mais frágeis e debilitados, eles podem, até 50% deles podem ter algum grau de disfagia e aspiração silenciosa. Aspiração silênci aquele quadro em que o paciente tá aspirando e não tá tendo aqueles sintomas de tosse.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1418
+    },
+    {
+      "id": "Q-OR-02-016",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "manejo",
+        "modificação de dieta",
+        "espessamento"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 65 anos, pós-AVC há 2 meses, com engasgos repetidos durante a ingestão de LÍQUIDOS, sem alteração para pastosos. Qual a conduta INICIAL de manejo mais adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Indicar imediatamente gastrostomia definitiva."
+        },
+        {
+          "id": "B",
+          "texto": "Manter a dieta livre habitual, sem ajustes."
+        },
+        {
+          "id": "C",
+          "texto": "Realizar espessamento dos líquidos e iniciar reabilitação fonoaudiológica."
+        },
+        {
+          "id": "D",
+          "texto": "Suspender totalmente a alimentação por via oral e iniciar nutrição parenteral."
+        },
+        {
+          "id": "E",
+          "texto": "Prescrever antibiótico profilático contínuo."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em disfagia orofaríngea pós-AVC, o manejo inicial inclui **modificação da consistência da dieta** — em especial o **espessamento de líquidos**, que compensa o atraso do disparo da deglutição — e **reabilitação fonoaudiológica** com exercícios e manobras (queixo para baixo, rotação cefálica). Vias alternativas (SNE, gastrostomia) são reservadas a casos selecionados.",
+      "referenciaAula": "Pode haver um espessamento da dieta, os alimentos mais líquidos, para que o tempo que o paciente vai realizar deglutição, que geralmente é atrasado, ele consiga ser compensado por essa por esse alimento de uma consistência mais pastosa.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1618
+    },
+    {
+      "id": "Q-OR-02-017",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "divertículo de Zenker",
+        "regurgitação",
+        "halitose"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 70 anos refere disfagia há 1 ano, regurgitação de alimentos não digeridos, halitose e abaulamento cervical esquerdo que, ao ser comprimido, gera retorno de resíduos alimentares à boca. Qual a hipótese MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carcinoma de hipofaringe."
+        },
+        {
+          "id": "B",
+          "texto": "Acalásia idiopática."
+        },
+        {
+          "id": "C",
+          "texto": "Divertículo esofágico (Zenker)."
+        },
+        {
+          "id": "D",
+          "texto": "Bócio mergulhante."
+        },
+        {
+          "id": "E",
+          "texto": "Membrana esofágica pós-radioterapia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O quadro clássico de **divertículo de Zenker** inclui **disfagia, regurgitação de alimentos não digeridos, halitose e abaulamento cervical** que, ao ser comprimido, libera conteúdo represado. É um divertículo de pulsão na transição faringoesofágica. Diagnóstico por **esofagograma baritado** e tratamento cirúrgico/endoscópico.",
+      "referenciaAula": "Os pacientes que tm divertículos esofágicos eles podem ter esse relato de um mau hálito relacionado a uma regugitação. Geralmente o divertículo, o paciente vem com a queixa de que de um abaulamento cervical que quando ele comprime ele sente essa regugitação.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 882
+    },
+    {
+      "id": "Q-OR-02-018",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "medicações",
+        "xerostomia",
+        "efeito adverso"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a associação entre medicações e disfagia, qual alternativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Opioides aumentam a motilidade esofágica e melhoram a deglutição."
+        },
+        {
+          "id": "B",
+          "texto": "Anticolinérgicos, antidepressivos tricíclicos e AINEs podem causar xerostomia e dificultar a deglutição; antipsicóticos com bloqueio dopaminérgico prolongado podem gerar discinesias tardias que afetam a fase oral."
+        },
+        {
+          "id": "C",
+          "texto": "Bisfosfonatos protegem a mucosa esofágica."
+        },
+        {
+          "id": "D",
+          "texto": "O ácido ascórbico apresenta efeito neutro sobre a mucosa do esôfago."
+        },
+        {
+          "id": "E",
+          "texto": "Tabaco e álcool reduzem o risco de câncer de cabeça e pescoço."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**AINEs, cloreto de potássio, anticolinérgicos e antidepressivos tricíclicos** podem causar **xerostomia**, dificultando a deglutição. **Opioides reduzem** a motilidade esofágica. Antipsicóticos bloqueadores dopaminérgicos podem causar **discinesias tardias** com movimentos involuntários linguais, prejudicando a fase oral. **Bisfosfonatos, AINEs e ácido ascórbico** podem causar esofagite das pílulas.",
+      "referenciaAula": "Algumas medicações elas podem levar um quadro de xerostomia e uma dificuldade de deglutir. E entre eles os mais comuns seriam os aines, o cloreto de potássio, os anticolinédicos, antidepressivo da classe dos tricíclicos.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 905
+    },
+    {
+      "id": "Q-OR-02-019",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "disfagia pediátrica",
+        "prematuridade",
+        "broncoaspiração crônica"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Lactente de 8 meses, ex-prematuro, com atraso do desenvolvimento neuropsicomotor, apresenta tosse e respiração úmida durante mamadas, com episódios recorrentes de pneumonia. Sobre o caso, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A disfagia mais comum em crianças é a esofágica."
+        },
+        {
+          "id": "B",
+          "texto": "A criança apresenta provável disfagia orofaríngea, que pode levar a penetração e aspiração, com risco de tosse crônica, pneumonias recorrentes e bronquiectasias se não manejada."
+        },
+        {
+          "id": "C",
+          "texto": "Gastrostomia está indicada de imediato, sem necessidade de avaliação instrumental prévia."
+        },
+        {
+          "id": "D",
+          "texto": "FEES está contraindicada nessa faixa etária."
+        },
+        {
+          "id": "E",
+          "texto": "Disfagia em prematuros tem etiologia exclusivamente metabólica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na pediatria, a disfagia mais comum é a **orofaríngea**, com risco de **penetração** (alimento no vestíbulo laríngeo) e **aspiração** (alimento na via aérea). Quando negligenciada, pode evoluir com **tosse recorrente, pneumonias de repetição e bronquiectasias**. Prematuridade, malformações craniofaciais e atraso neuropsicomotor são fatores de risco. Avaliação instrumental (FEES/videodeglutograma) é fundamental antes de decidir via alternativa.",
+      "referenciaAula": "Na criança, a disfagia mais comum é a disfagia orofaríndia, que vai levar um quadro de penetração, que é quando o bolo alimentar ele adentra o hátito da laringe. E a aspiração, que é quando o alimento ele de fato cai na via aérea.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1538
+    },
+    {
+      "id": "Q-OR-02-020",
+      "aulaOrigem": 2,
+      "blocos": [
+        "OS"
+      ],
+      "eixos": [],
+      "tags": [
+        "manobras",
+        "rotação cefálica",
+        "reabilitação"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente hemiplégico à DIREITA pós-AVC apresenta disfagia orofaríngea. Em relação às manobras facilitadoras da deglutição orientadas pela fonoaudiologia, qual conduta é mais adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rotação da cabeça para a direita, expondo o lado saudável."
+        },
+        {
+          "id": "B",
+          "texto": "Rotação da cabeça para a esquerda, ocluindo o lado direito (doente/fraco) e direcionando o bolo pelo lado esquerdo (saudável)."
+        },
+        {
+          "id": "C",
+          "texto": "Hiperextensão cervical durante toda a deglutição."
+        },
+        {
+          "id": "D",
+          "texto": "Suspender qualquer manobra e indicar gastrostomia imediata."
+        },
+        {
+          "id": "E",
+          "texto": "Manter a cabeça em posição neutra, pois manobras não têm valor reabilitador."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Em hemiplegia, **roda-se a cabeça para o lado da lesão** (no caso, à direita), o que **fecha o lado fraco** e direciona o bolo pelo **lado saudável (esquerdo)**, mais eficiente na contração e condução. Outras manobras úteis incluem o **queixo para baixo** (chin tuck) e devem ser orientadas pelo fonoaudiólogo, junto a exercícios de fortalecimento e modificação dietética.",
+      "referenciaAula": "Um paciente que tem um quadro hemiplégico e o, por exemplo, lado direito é o lado mais fraco. Então, nessa rotação da cabeça pro lado esquerdo, todo o lado doente ele vai ser ocluído e vai deixar o lado saudável, mais pérvio.",
+      "transversal": false,
+      "videoAulaId": 2,
+      "videoStartSec": 1663
+    }
+  ]
+}

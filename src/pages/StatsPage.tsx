@@ -17,9 +17,7 @@ import { Card } from '../components/shared/Card';
 import { EmptyState } from '../components/shared/EmptyState';
 import { useProgressStore } from '../store/progressStore';
 import { useSettingsStore } from '../store/settingsStore';
-import { AULAS } from '../data/meta/aulas';
-import { BLOCOS, BLOCO_ORDER } from '../data/meta/blocos';
-import { EIXOS, EIXO_ORDER } from '../data/meta/eixos';
+import { useTemaData } from '../data/temas';
 import { percent } from '../lib/scoring';
 
 const ACCENT = '#0d9488';
@@ -33,6 +31,7 @@ function pickColor(answered: number, pct: number, dark: boolean): string {
 }
 
 export function StatsPage() {
+  const tema = useTemaData();
   const totalAnswered = useProgressStore((s) => s.totalAnswered);
   const totalCorrect = useProgressStore((s) => s.totalCorrect);
   const byAula = useProgressStore((s) => s.byAula);
@@ -49,7 +48,7 @@ export function StatsPage() {
 
   const aulaData = useMemo(
     () =>
-      AULAS.map((a) => {
+      tema.AULAS.map((a) => {
         const stats = byAula[a.id];
         const answered = stats?.answered ?? 0;
         const correct = stats?.correct ?? 0;
@@ -62,41 +61,41 @@ export function StatsPage() {
           pct,
         };
       }),
-    [byAula],
+    [tema, byAula],
   );
 
   const blocoData = useMemo(
     () =>
-      BLOCO_ORDER.map((id) => {
+      tema.BLOCO_ORDER.map((id) => {
         const stats = byBloco[id];
         const answered = stats?.answered ?? 0;
         const correct = stats?.correct ?? 0;
         return {
           id,
-          nome: BLOCOS[id].nome,
+          nome: tema.BLOCOS[id]?.nome ?? id,
           answered,
           correct,
           pct: percent(correct, answered),
         };
       }),
-    [byBloco],
+    [tema, byBloco],
   );
 
   const eixoData = useMemo(
     () =>
-      EIXO_ORDER.map((id) => {
+      tema.EIXO_ORDER.map((id) => {
         const stats = byEixo[id];
         const answered = stats?.answered ?? 0;
         const correct = stats?.correct ?? 0;
         return {
           id,
-          nome: EIXOS[id].nome,
+          nome: tema.EIXOS[id]?.nome ?? id,
           answered,
           correct,
           pct: percent(correct, answered),
         };
       }),
-    [byEixo],
+    [tema, byEixo],
   );
 
   // Evolução temporal: últimas N sessões em ordem cronológica (mais antigas → mais novas)
@@ -117,7 +116,7 @@ export function StatsPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-6 sm:py-10">
       <Link
-        to="/"
+        to={`/${tema.slug}`}
         className="mb-4 inline-flex items-center gap-1 text-sm text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-100"
       >
         <ArrowLeft size={16} />
@@ -250,6 +249,7 @@ export function StatsPage() {
               </Card>
             </div>
 
+            {eixoData.length > 0 && (
             <div>
               <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
                 Por eixo transversal
@@ -302,6 +302,7 @@ export function StatsPage() {
                 </div>
               </Card>
             </div>
+            )}
           </div>
 
           <h2 className="mb-2 mt-6 text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">

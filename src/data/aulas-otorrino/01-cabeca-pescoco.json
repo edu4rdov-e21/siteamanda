@@ -1,0 +1,895 @@
+{
+  "aulaId": 1,
+  "titulo": "Propedêutica em Cabeça e Pescoço",
+  "questoes": [
+    {
+      "id": "Q-OR-01-001",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "fácies",
+        "basedoviana",
+        "hipertireoidismo",
+        "exoftalmia"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Paciente apresenta exoftalmia exuberante, pálpebras bastante abertas, aparência de terror, tremores, magreza e pele quente. Qual fácies caracteriza este quadro?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fácies mixedematosa."
+        },
+        {
+          "id": "B",
+          "texto": "Fácies basedoviana."
+        },
+        {
+          "id": "C",
+          "texto": "Fácies leonina."
+        },
+        {
+          "id": "D",
+          "texto": "Fácies cushingoide."
+        },
+        {
+          "id": "E",
+          "texto": "Fácies esclerodérmica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **fácies basedoviana** é típica do hipertireoidismo e caracteriza-se por exoftalmia (por depósitos retrobulbares), pálpebras abertas, tremores, magreza e pele quente. A **mixedematosa** é o oposto — entumecimento difuso, pele pálida e seca, sonolência — associada ao hipotireoidismo.",
+      "referenciaAula": "a face de base doiana, que é representada principalmente pelo que é essa exoftalmia esuberante, a gente observa por depósitos eh retrobubares. Então, a gente tem pálpebras bastante abertas, hexoftalmia, nervosismo, aparência de terror, tremores",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 164
+    },
+    {
+      "id": "Q-OR-01-002",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "fácies",
+        "mixedematosa",
+        "hipotireoidismo",
+        "macroglossia"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fácies mixedematosa, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Está associada ao hipertireoidismo e cursa com tremores e nervosismo."
+        },
+        {
+          "id": "B",
+          "texto": "Caracteriza-se por entumecimento difuso, infiltração edematosa, pele pálida e seca, face inexpressiva e sonolenta, relacionada ao hipotireoidismo."
+        },
+        {
+          "id": "C",
+          "texto": "Está associada à insuficiência adrenal, com hiperpigmentação cutânea."
+        },
+        {
+          "id": "D",
+          "texto": "Caracteriza-se por face em \"lua cheia\" típica da síndrome de Cushing."
+        },
+        {
+          "id": "E",
+          "texto": "Está associada à esclerodermia, com microstomia e endurecimento da pele."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **fácies mixedematosa** é o oposto da basedoviana: há **entumecimento difuso**, infiltração edematosa, macroglossia, pele pálida e seca, face inexpressiva, sonolenta e letárgica — todos achados do **hipotireoidismo**. Os tremores e o nervosismo são típicos da basedoviana, não da mixedematosa.",
+      "referenciaAula": "a face mixedematosa por seu por sua vez é o contrário. Ah, então a gente tem o entumcimento difuso, infiltração aí edematosa, principalmente e relacionada ao hipotiroidismo. Então a macroglossia, pele pálida seca, face inexpressiva, sonolenta",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 180
+    },
+    {
+      "id": "Q-OR-01-003",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "blefaroptose",
+        "óculomotor",
+        "III par craniano"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A blefaroptose (queda da pálpebra superior) deve direcionar a investigação para disfunção de qual par craniano?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "I par (olfatório)."
+        },
+        {
+          "id": "B",
+          "texto": "II par (óptico)."
+        },
+        {
+          "id": "C",
+          "texto": "III par (óculomotor)."
+        },
+        {
+          "id": "D",
+          "texto": "V par (trigêmeo)."
+        },
+        {
+          "id": "E",
+          "texto": "VII par (facial)."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A elevação da pálpebra superior é função do **nervo óculomotor (III par craniano)**, portanto a blefaroptose deve direcionar a investigação para esse nervo. O VII par (facial) é responsável pela mímica facial, não pela elevação palpebral; o II par é puramente sensitivo visual.",
+      "referenciaAula": "blefaroptose, vamos podemos observar aqui, normalmente o que eleva a pálpebra, né, e tem a função de motilidade dessa área é o nervo óculomotor, que é o terceiro par craniano",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 261
+    },
+    {
+      "id": "Q-OR-01-004",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "xantelasma",
+        "dislipidemia",
+        "inspeção palpebral"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Placas gordurosas amareladas localizadas na região palpebral (xantelasma) sugerem mais fortemente a investigação de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipotireoidismo primário."
+        },
+        {
+          "id": "B",
+          "texto": "Hipercolesterolemia ou dislipidemia familiar."
+        },
+        {
+          "id": "C",
+          "texto": "Anemia ferropriva."
+        },
+        {
+          "id": "D",
+          "texto": "Diabetes insipidus."
+        },
+        {
+          "id": "E",
+          "texto": "Insuficiência hepática descompensada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **xantelasma** consiste em placas gordurosas na região palpebral e indica **hipercolesterolemia** ou **dislipidemia de padrão familiar**. Pode aparecer em outras áreas também. Não é um sinal de hipotireoidismo ou anemia, embora estes possam ter outras manifestações na fácies.",
+      "referenciaAula": "Chantelasma são essas presenças de placas aí gordurosas na região palpebral e pode estar presente em outras áreas também, o que pode indicar hipercolesterolem ou pura ou ou ainda uma deslipidemia padrão familiar",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 275
+    },
+    {
+      "id": "Q-OR-01-005",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "linfonodo pré-auricular",
+        "drenagem linfática",
+        "orelha externa"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Em paciente com adenomegalia da cadeia pré-auricular, qual é a área de drenagem primária que deve ser sistematicamente examinada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Assoalho da boca."
+        },
+        {
+          "id": "B",
+          "texto": "Couro cabeludo occipital."
+        },
+        {
+          "id": "C",
+          "texto": "Orelha externa."
+        },
+        {
+          "id": "D",
+          "texto": "Tireoide."
+        },
+        {
+          "id": "E",
+          "texto": "Estômago."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Os **linfonodos pré-auriculares** drenam primariamente a **orelha externa**, portanto sua adenomegalia sugere processo infeccioso ou inflamatório nessa região. Os retroauriculares relacionam-se a doenças \"mono-like\", os occipitais ao couro cabeludo, e os submentonianos/submandibulares ao assoalho da boca e língua.",
+      "referenciaAula": "As regiões pré-auriculares, eh, os linfonóos da região das cadeias anglienares pré-auriculares estão muito relacionados a processo infecoso da orelha externa",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 932
+    },
+    {
+      "id": "Q-OR-01-006",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "tireoide",
+        "anatomia",
+        "palpação cervical"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a topografia da glândula tireoide ao exame físico do pescoço, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Localiza-se lateralmente ao músculo esternocleidomastoide, em formato de \"V\"."
+        },
+        {
+          "id": "B",
+          "texto": "Tem formato em \"H\", centralizada no pescoço, logo abaixo da cartilagem cricoide."
+        },
+        {
+          "id": "C",
+          "texto": "Situa-se acima do osso hioide, em paralelo à mandíbula."
+        },
+        {
+          "id": "D",
+          "texto": "Em condições normais é sempre visível mesmo em pacientes obesos."
+        },
+        {
+          "id": "E",
+          "texto": "Tem consistência pétrea em adultos saudáveis."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A tireoide tem **formato de H**, está **centralizada no pescoço** e localiza-se **logo abaixo da cartilagem cricoide**, podendo ser facilmente palpada. Sua consistência normal é **fibroelástica**, não pétrea — esta última sugeriria patologia tumoral. Em obesos pode ser pouco palpável; em indivíduos magros é bem visível.",
+      "referenciaAula": "formato de H, ela tá sempre centralizada no pescoço e logo abaixo da cartilagem cricoide pode ser facilmente palpada",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1041
+    },
+    {
+      "id": "Q-OR-01-007",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "celulite orbitária",
+        "sinal de Romaña",
+        "trombose seio cavernoso",
+        "sinusite"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 9 anos com história recente de sinusite evolui com edema unilateral importante de pálpebra, hiperemia e dor à mobilização ocular. Qual a hipótese diagnóstica mais provável e qual a principal complicação a ser temida?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Conjuntivite viral; complicação rara é ceratite epitelial."
+        },
+        {
+          "id": "B",
+          "texto": "Hordéolo externo; complicação é abscesso palpebral."
+        },
+        {
+          "id": "C",
+          "texto": "Celulite orbitária; complicação a ser temida é a trombose de seio cavernoso."
+        },
+        {
+          "id": "D",
+          "texto": "Xantelasma reativo; complicação é dislipidemia secundária."
+        },
+        {
+          "id": "E",
+          "texto": "Blefarite seborreica; complicação é meibomite crônica."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O edema unilateral palpebral exuberante em paciente com sinusite recente sugere **celulite orbitária**, que pode evoluir para **trombose do seio cavernoso** como complicação grave. Conjuntivite cursa com edema/eritema bilateral e prurido, sem essa gravidade. Xantelasma é placa gordurosa indolor, sem sinais flogísticos.",
+      "referenciaAula": "você vê dema unilateral, sinal de România, que é isso aqui, que indica possivelmente uma celulite, né, uma celulite orbitária que pode levar a trombose de seio cavernoso como complicação. Isso pode ser, por exemplo, a complicação de uma sinusite",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 228
+    },
+    {
+      "id": "Q-OR-01-008",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "anisocoria",
+        "midríase",
+        "miose",
+        "sistema nervoso autônomo"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a avaliação das pupilas no exame propedêutico, qual associação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Midríase — intoxicação por opioides e uremia."
+        },
+        {
+          "id": "B",
+          "texto": "Miose — intoxicação alcoólica, opioides, sedação e pilocarpina."
+        },
+        {
+          "id": "C",
+          "texto": "Isocoria assimétrica é sinônimo de pupilas normais."
+        },
+        {
+          "id": "D",
+          "texto": "Anisocoria está sempre relacionada à intoxicação periférica."
+        },
+        {
+          "id": "E",
+          "texto": "Midríase fixa exclui acometimento neurológico central."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **miose** está associada a intoxicações alcoólicas, **opioides**, sedação, uremia e ao uso de **pilocarpina**. A **midríase**, por outro lado, relaciona-se a atropina, traumatismos cranioencefálicos graves e estimulantes (cocaína). Pupilas normais são **isocóricas** — de mesmo tamanho e formato; a anisocoria sugere acometimento do SNC.",
+      "referenciaAula": "Aqui a gente tem a miose, né? Aqui muito provavelmente a gente precisa buscar causas de intoxicações alcoólicas, opió, sedação, uremia, pelocarpina tá relacionada também a isso. Agora a midríese, por sua vez, ela pupila dilatada e normalmente está relacionada à tropina",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 388
+    },
+    {
+      "id": "Q-OR-01-009",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "nariz em sela",
+        "trauma naso-etmoidal",
+        "inspeção nasal"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Na inspeção nasal, a observação de um \"nariz em sela\" — com dorso nasal afundado — sugere principalmente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rinite alérgica crônica."
+        },
+        {
+          "id": "B",
+          "texto": "Trauma da região central naso-etmoidal."
+        },
+        {
+          "id": "C",
+          "texto": "Pólipo nasal obstrutivo."
+        },
+        {
+          "id": "D",
+          "texto": "Desvio septal posterior."
+        },
+        {
+          "id": "E",
+          "texto": "Hipertrofia de cornetos inferiores."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **nariz em sela** caracteriza-se pelo afundamento do dorso nasal e infere fortemente **trauma na região naso-etmoidal**. Coloração azulada da pele sobre a cartilagem pode refletir cianose ou hiperemia (relacionada ao etilismo). Rinite e pólipos não causam essa deformidade estrutural característica.",
+      "referenciaAula": "A deformidade do nariz, nariz em cela, que é exatamente esse aqui que vocês veem na figura, ele é a afundado, dorso nasal afundado. infere bastante trauma, traumas nessa região central aí, naso etimoidal",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 431
+    },
+    {
+      "id": "Q-OR-01-010",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "adenomegalia",
+        "diferenciação inflamatória neoplásica",
+        "consistência",
+        "mobilidade"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Na palpação das cadeias ganglionares cervicais, qual conjunto de características sugere predominantemente etiologia NEOPLÁSICA da adenomegalia?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Consistência amolecida, móvel, dolorosa e com aumento súbito de volume."
+        },
+        {
+          "id": "B",
+          "texto": "Consistência pétrea, fixa a planos profundos e imóvel."
+        },
+        {
+          "id": "C",
+          "texto": "Consistência fibroelástica, móvel, indolor e simétrica bilateralmente."
+        },
+        {
+          "id": "D",
+          "texto": "Flutuação à palpação, com hiperemia e calor local."
+        },
+        {
+          "id": "E",
+          "texto": "Aumento progressivo associado a febre e adenopatia generalizada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Adenomegalias **neoplásicas** apresentam tipicamente consistência **pétrea**, são **fixas a planos profundos** e **imóveis**. Já as **inflamatórias** mostram padrão liso, **móvel**, **doloroso** à mobilização e bastante aumentado. Flutuação com calor local sugere abscesso, não neoplasia.",
+      "referenciaAula": "a gente observa já um padrão mais liso, móvel, doloroso a mobilização e bastante aumentado. Já nas patologias neoplásicas são consistências pétrias, fonóos muito fixos, ah, e bastante imóveis",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 826
+    },
+    {
+      "id": "Q-OR-01-011",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "linfonodo de Virchow",
+        "supraclavicular esquerdo",
+        "tumores abdominais"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 58 anos, com perda ponderal de 12 kg em 3 meses e epigastralgia. Ao exame, identifica-se linfonodomegalia supraclavicular esquerda, endurecida e indolor. Como se denomina este achado e qual sua principal implicação clínica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Linfonodo de Troisier; sugere drenagem de processos da orelha externa."
+        },
+        {
+          "id": "B",
+          "texto": "Linfonodo de Virchow; infere patologia como tumores gástricos e outros da região abdominal."
+        },
+        {
+          "id": "C",
+          "texto": "Linfonodo pré-auricular; está relacionado a infecção do couro cabeludo."
+        },
+        {
+          "id": "D",
+          "texto": "Linfonodo submentoniano; drena primariamente lesões da glândula parótida."
+        },
+        {
+          "id": "E",
+          "texto": "Linfonodo de Rouvière; está relacionado a doenças mono-like."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **gânglio de Virchow** é o linfonodo supraclavicular **esquerdo** aumentado e, quando palpável, **infere patologias como tumores gástricos e outros da região abdominal**. As supraclaviculares drenam toda a região torácica e abdominal. As cadeias pré-auriculares relacionam-se à orelha externa, não ao abdome.",
+      "referenciaAula": "as supraclaviculares elas drenam toda a região torácica abdominal também. A, em especial supra a supracicular do lado esquerdo que é o ganglo de Vish, quando tá aumentado, então infere patologista como tumores gástricos e outros da região abdominal",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 963
+    },
+    {
+      "id": "Q-OR-01-012",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "cadeias submentonianas",
+        "drenagem linfática",
+        "assoalho da boca"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "As cadeias linfonodais submentonianas e submandibulares estão relacionadas primariamente à drenagem de qual território anatômico?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Couro cabeludo occipital e região cervical posterior."
+        },
+        {
+          "id": "B",
+          "texto": "Orelha externa e processo mastoideo."
+        },
+        {
+          "id": "C",
+          "texto": "Assoalho da boca, língua e garganta."
+        },
+        {
+          "id": "D",
+          "texto": "Tireoide e laringe."
+        },
+        {
+          "id": "E",
+          "texto": "Estômago e cavidade abdominal superior."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Os linfonodomegalias **submandibulares e submentonianas** estão muito relacionadas a acometimentos do **assoalho da boca, língua e garganta**, pois são áreas de drenagem primárias desses sítios. Tireoide drena para níveis VI e laterais; couro cabeludo, para occipitais; estômago, para supraclavicular esquerdo (Virchow).",
+      "referenciaAula": "as os acometimentos de linfonoldo megalis submandibular e submentonianos estão muito relacionados ao açoalho da boca, acometimentos, né, sejam inflamatórios ou tumorais do açoalho da boca, da língua e da garganta",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 917
+    },
+    {
+      "id": "Q-OR-01-013",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "bócio",
+        "sinal de Marañón",
+        "ausculta da tireoide",
+        "sopro"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Durante o exame da tireoide, a ausculta de um sopro sobre a glândula está mais comumente associada a:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tireoidite de Hashimoto em fase atrófica."
+        },
+        {
+          "id": "B",
+          "texto": "Hipofunção tireoidiana (hipotireoidismo)."
+        },
+        {
+          "id": "C",
+          "texto": "Hiperfunção tireoidiana (hipertireoidismo)."
+        },
+        {
+          "id": "D",
+          "texto": "Cisto tireoglosso infectado."
+        },
+        {
+          "id": "E",
+          "texto": "Carcinoma medular de tireoide."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **sopro auscultado sobre a tireoide**, quando presente, está muito relacionado à **hiperfunção da glândula — o hipertireoidismo** — devido ao aumento do fluxo sanguíneo na glândula hiperativa. O **bócio** quando encontrado é o sinal de Marañón. No hipotireoidismo a glândula em geral não emite sopro.",
+      "referenciaAula": "a oscuta, o sopro, o sopro quando presente, ele tá muito relacionado ao hiperfunção da glândula o hipertireoidismo",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1124
+    },
+    {
+      "id": "Q-OR-01-014",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "palpação tireoide",
+        "técnica posterior",
+        "esternocleidomastoide"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a técnica propedêutica para palpação da tireoide com o examinador posicionado ATRÁS do paciente, qual descrição está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os polegares fazem a palpação anterior e os outros dedos seguram a mandíbula."
+        },
+        {
+          "id": "B",
+          "texto": "Os polegares ficam fixos na nuca e as mãos apoiadas afastam o músculo esternocleidomastoide para avaliar mobilidade e dimensões dos lobos."
+        },
+        {
+          "id": "C",
+          "texto": "Ambas as mãos palpam apenas o istmo, sem mobilizar a musculatura."
+        },
+        {
+          "id": "D",
+          "texto": "O examinador apoia os polegares sobre a cartilagem cricoide e percute a glândula."
+        },
+        {
+          "id": "E",
+          "texto": "Realiza-se apenas inspeção dinâmica, pois a palpação posterior é contraindicada."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na técnica de palpação **posterior** da tireoide, o examinador posiciona-se atrás do paciente com os **polegares fixos na nuca** e as **mãos apoiadas afastam o esternocleidomastoide**, observando assim mobilidade e dimensões dos lobos. Na técnica anterior, os polegares é que palpam a tireoide e os demais dedos se apoiam na região supraclavicular.",
+      "referenciaAula": "o examinador pode se posicionar atrás do doente, né, com os polegares fixos na nuca e as mãos apoiadas afastam o músculo externo clumastoide e observam então a mobilidade e o tamanho, as dimensões dos dos lobos da tireoide",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1192
+    },
+    {
+      "id": "Q-OR-01-015",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "língua framboesa",
+        "escarlatina",
+        "oroscopia"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 6 anos com história recente de infecção de orofaringe apresenta febre, manchas eritematosas pelo corpo e, à oroscopia, língua bastante despapilada e enantematosa (aspecto em \"framboesa\"). Qual o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Candidíase oral pseudomembranosa."
+        },
+        {
+          "id": "B",
+          "texto": "Escarlatina."
+        },
+        {
+          "id": "C",
+          "texto": "Anemia carencial por deficiência de B12."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome de Cushing pediátrica."
+        },
+        {
+          "id": "E",
+          "texto": "Difteria."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **língua em framboesa** — bastante despapilada e enantematosa — em criança com história recente de infecção de orofaringe, febre e exantema é muito indicativa de **escarlatina** (estreptococo do grupo A). A **língua despapilada isolada** sugere anemia carencial por **B12**, sem o quadro sistêmico. Candidíase mostra placas brancas destacáveis.",
+      "referenciaAula": "A língua e framboesa, ela essa língua bastante despapilada e bastante enantematosa, muito indicativa de escarlatina, principalmente em crianças, que afeta a o corpo todo e até outras manchas eritematosas na pele, febre",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 663
+    },
+    {
+      "id": "Q-OR-01-016",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "candidíase oral",
+        "placas brancas destacáveis",
+        "oroscopia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Idoso institucionalizado apresenta à oroscopia placas brancas destacáveis em mucosa jugal e dorso da língua. O diagnóstico mais provável e a forma de confirmação são:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Leucoplasia pilosa; necessário biópsia incisional para confirmação."
+        },
+        {
+          "id": "B",
+          "texto": "Líquen plano oral; necessário imuno-histoquímica."
+        },
+        {
+          "id": "C",
+          "texto": "Candidíase oral; diagnóstico fechado de forma clínica, mesmo sem exames complementares."
+        },
+        {
+          "id": "D",
+          "texto": "Carcinoma de células escamosas; necessária tomografia cervical."
+        },
+        {
+          "id": "E",
+          "texto": "Sífilis secundária oral; necessária sorologia VDRL e FTA-ABS."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Placas brancas destacáveis** em mucosa oral, especialmente em idosos e populações vulneráveis, são tipicamente **candidíase**, cujo **diagnóstico é fechado clinicamente, sem necessidade de exames complementares**. Leucoplasia caracteriza-se por placas brancas **não destacáveis**; carcinoma costuma cursar com lesão ulcerada e infiltrativa.",
+      "referenciaAula": "a candidas aí destacáveis que também são com frequência achadas aí nessa topografia em pacientes especialmente idosos e populações especiais. E são placas brancas destacáveis que o diagnóstico é fechado de forma clínica, mesmo sem exames complementares",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 695
+    },
+    {
+      "id": "Q-OR-01-017",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "desvio traqueal",
+        "atelectasia",
+        "palpação cervical"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 64 anos, tabagista, em investigação por dispneia. Ao exame do pescoço palpa-se a traqueia desviada para o lado esquerdo. Considerando a fisiopatologia desse achado, qual a interpretação mais provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pneumotórax hipertensivo à esquerda empurrando a traqueia para o lado contralateral."
+        },
+        {
+          "id": "B",
+          "texto": "Derrame pleural volumoso à esquerda com desvio do mediastino para a direita."
+        },
+        {
+          "id": "C",
+          "texto": "Atelectasia pulmonar à esquerda, com tração da traqueia para o lado acometido."
+        },
+        {
+          "id": "D",
+          "texto": "Tumor de tireoide do lobo direito empurrando a traqueia medialmente."
+        },
+        {
+          "id": "E",
+          "texto": "Bócio mergulhante simétrico, sem repercussão sobre a traqueia."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A traqueia pode ser **deslocada** por diversos processos. Quando há **atelectasia** pulmonar, o pulmão colaba e **traciona** a traqueia para o **lado acometido** — exatamente o padrão descrito no caso (desvio para a esquerda, lado do acometimento pulmonar). Pneumotórax hipertensivo e derrame volumoso **empurram** a traqueia para o lado contralateral.",
+      "referenciaAula": "Aqui a gente observa um deslocamento bastante importante da região de traqueia pro lado esquerdo, que é o lado do acometimento pulmonar. Então, mostrando a teleectasia",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1009
+    },
+    {
+      "id": "Q-OR-01-018",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "paralisia facial",
+        "Bell",
+        "VII par",
+        "central vs periférica"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 34 anos, acorda com início súbito de paralisia da hemiface direita, acometendo de forma grave os terços médio, superior E inferior, incluindo incapacidade de fechar o olho e franzir a testa do lado direito. Qual a hipótese diagnóstica e por que o acometimento é completo da hemiface?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "AVC isquêmico cortical à esquerda; o cruzamento cortical preserva o terço superior da face contralateral."
+        },
+        {
+          "id": "B",
+          "texto": "Paralisia facial periférica (Bell); o acometimento atinge o tronco do nervo facial antes de sua subdivisão, comprometendo a hemiface por completo."
+        },
+        {
+          "id": "C",
+          "texto": "Neuralgia do trigêmeo; paralisia motora segue a distribuição sensitiva do V par."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome de Claude Bernard Horner; cursa com paralisia hemifacial súbita."
+        },
+        {
+          "id": "E",
+          "texto": "Miastenia gravis; descompensação inicial sempre acomete toda a hemiface unilateralmente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **paralisia de Bell** é a forma mais comum de **paralisia facial periférica** e afeta de forma súbita e grave a hemiface inteira — terços superior, médio e inferior — porque **acomete o tronco do nervo facial antes da subdivisão em ramos**. Já no AVC (paralisia central) o terço superior costuma ser **poupado** devido à inervação cortical bilateral do músculo frontal.",
+      "referenciaAula": "paralisia facial periférica, que é a mais comum delas, é a paralisia de Bel, ela normalmente afeta de uma forma bastante grave e súbita a m face inteira, ou seja, texto médio médio superior da face e terço inferior. Então, ela afeta a m face por completo, porque ela ela eh afeta exatamente o muitas vezes o tronco do nervo facial e no tronco é antes da subdivisão dele",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1430
+    },
+    {
+      "id": "Q-OR-01-019",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "XII par",
+        "hipoglosso",
+        "desvio de língua",
+        "exame neurológico"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com queixa de disartria. Ao exame, ao solicitar que protrua a língua, observa-se desvio da ponta da língua para a direita. Qual a interpretação correta deste achado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Acometimento do XII par craniano à esquerda; a língua desvia para o lado contralateral ao acometido."
+        },
+        {
+          "id": "B",
+          "texto": "Acometimento do XII par craniano à direita; a língua desvia para o lado acometido."
+        },
+        {
+          "id": "C",
+          "texto": "Acometimento do V par à direita; desvio motor segue o ramo mandibular."
+        },
+        {
+          "id": "D",
+          "texto": "Acometimento do IX par; o glossofaríngeo controla a motricidade da língua."
+        },
+        {
+          "id": "E",
+          "texto": "Sem significado clínico; trata-se de variação anatômica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **XII par craniano (hipoglosso)** faz a motricidade da língua. Quando há acometimento unilateral, o lado paralisado deixa de empurrar a língua para frente, e a metade saudável vence — **a língua desvia para o lado acometido**. Vale lembrar que o IX par (glossofaríngeo) é predominantemente sensitivo na língua, não motor.",
+      "referenciaAula": "O 12º par é o nevo que ele faz a motricidade da língua. Então, quando ele tá acometido, o lado que ele tá acometido, enfim, quando o paciente então pede para o paciente colocar a língua para fora e quando ele é acometido, é exatamente o lado acometido que a língua não se movimenta. Portanto, há um desvio da língua pro lado acometido",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1597
+    },
+    {
+      "id": "Q-OR-01-020",
+      "aulaOrigem": 1,
+      "blocos": [
+        "OP"
+      ],
+      "eixos": [],
+      "tags": [
+        "VIII par",
+        "vestíbulo-coclear",
+        "teste de Romberg",
+        "equilíbrio"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o oitavo par craniano e a propedêutica do equilíbrio no exame de cabeça e pescoço, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O VIII par é exclusivamente motor e responsável pela mímica facial."
+        },
+        {
+          "id": "B",
+          "texto": "É subdividido em porção vestibular (canais semicirculares) e porção coclear (órgão auditivo); o teste de Romberg, especialmente o sensibilizado (com olhos fechados), permite avaliar a função vestibular."
+        },
+        {
+          "id": "C",
+          "texto": "O teste de Rinne-Weber avalia somente a porção vestibular, não a coclear."
+        },
+        {
+          "id": "D",
+          "texto": "A porção coclear é responsável pelo equilíbrio e a vestibular pela audição."
+        },
+        {
+          "id": "E",
+          "texto": "Sua avaliação dispensa testes clínicos quando há audiometria disponível, pois a audiometria substitui completamente o exame físico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **VIII par (vestíbulo-coclear)** subdivide-se em **porção vestibular** (relacionada aos canais semicirculares e ao equilíbrio) e **porção coclear** (relacionada ao órgão auditivo da cóclea). O **teste de Romberg**, especialmente na versão **sensibilizada com olhos fechados**, permite avaliar tontura e vertigem. Os testes de Rinne-Weber diferenciam desacusias condutivas de neurossensoriais — não substituem a audiometria, mas complementam o exame.",
+      "referenciaAula": "o neurovestíbulo coclear que pode ser subdividido em dois, né? a porção vestibular tá relacionada os canais semicirculares e a porção ah coclear que tá relacionado ao órgão aditivo da cocle. Então aqui a gente pode lançar a mão do teste de hombag para pra avaliação do do equilíbrio",
+      "transversal": false,
+      "videoAulaId": 1,
+      "videoStartSec": 1487
+    }
+  ]
+}

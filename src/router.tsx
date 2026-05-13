@@ -31,21 +31,20 @@ const guard = (el: ReactNode) =>
 export const router = createBrowserRouter([
   { path: '/login', element: <LoginPage /> },
   { path: '/', element: guard(<TemaSelectorPage />) },
-
-  // Cirurgia (tema atual). Demais temas futuros seguem o mesmo padrão.
-  { path: '/cirurgia', element: guard(<HomePage />) },
-  { path: '/cirurgia/setup', element: guard(<QuizSetupPage />) },
-  { path: '/cirurgia/quiz', element: guard(<QuizPage />) },
-  { path: '/cirurgia/results', element: guard(<ResultsPage />) },
-
-  // Stats e Settings ficam globais por enquanto (compartilhados entre temas).
-  { path: '/stats', element: guard(wrap(<StatsPage />)) },
   { path: '/settings', element: guard(wrap(<SettingsPage />)) },
 
-  // Compat: rotas antigas redirecionam pro tema cirurgia
+  // Tema dinâmico (cirurgia, otorrino, futuros…)
+  { path: '/:tema', element: guard(<HomePage />) },
+  { path: '/:tema/setup', element: guard(<QuizSetupPage />) },
+  { path: '/:tema/quiz', element: guard(<QuizPage />) },
+  { path: '/:tema/results', element: guard(<ResultsPage />) },
+  { path: '/:tema/stats', element: guard(wrap(<StatsPage />)) },
+
+  // Compat: rotas antigas sem tema redirecionam pra cirurgia
   { path: '/setup', element: <Navigate to="/cirurgia/setup" replace /> },
   { path: '/quiz', element: <Navigate to="/cirurgia/quiz" replace /> },
   { path: '/results', element: <Navigate to="/cirurgia/results" replace /> },
+  { path: '/stats', element: <Navigate to="/cirurgia/stats" replace /> },
 
   { path: '*', element: <Navigate to="/" replace /> },
 ]);

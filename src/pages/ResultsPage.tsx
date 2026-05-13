@@ -18,7 +18,7 @@ export function ResultsPage() {
     [questions],
   );
 
-  if (!lastSession) return <Navigate to="/" replace />;
+  if (!lastSession) return <Navigate to="/cirurgia" replace />;
 
   const { total, correct, answers } = lastSession;
   const pct = percent(correct, total);
@@ -42,7 +42,7 @@ export function ResultsPage() {
         <Button
           onClick={() => {
             reset();
-            navigate('/');
+            navigate('/cirurgia');
           }}
         >
           <RotateCw size={16} />

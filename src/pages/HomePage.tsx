@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import {
+  ArrowLeft,
   BookOpen,
   Layers,
   GitMerge,
@@ -40,9 +41,17 @@ const MODE_ORDER: ModeKey[] = [
 export function HomePage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-6 sm:py-10">
+      <Link
+        to="/"
+        className="mb-4 inline-flex items-center gap-1 text-sm text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-100"
+      >
+        <ArrowLeft size={16} />
+        Trocar matéria
+      </Link>
+
       <header className="mb-6 sm:mb-8">
         <h1 className="text-2xl font-semibold text-slate-900 dark:text-slate-100 sm:text-3xl">
-          Quiz Cirurgia
+          Cirurgia
         </h1>
         <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
           Estudo ativo a partir das 26 aulas.
@@ -60,7 +69,7 @@ export function HomePage() {
             return (
               <Link
                 key={mode}
-                to={`/setup?mode=${mode}`}
+                to={`/cirurgia/setup?mode=${mode}`}
                 className="group rounded-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-accent-500"
               >
                 <Card className="h-full transition-colors group-hover:border-accent-500 dark:group-hover:border-accent-500">

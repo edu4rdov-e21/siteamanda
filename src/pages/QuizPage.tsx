@@ -48,7 +48,7 @@ export function QuizPage() {
   const handleFinish = useCallback(() => {
     const session = finishSession();
     recordSession(session, questionsById);
-    navigate('/results');
+    navigate('/cirurgia/results');
   }, [finishSession, recordSession, questionsById, navigate]);
 
   const handleNext = useCallback(() => {
@@ -66,7 +66,7 @@ export function QuizPage() {
   const handleAbort = useCallback(() => {
     if (confirm('Sair da sessão? O progresso desta sessão será perdido.')) {
       abort();
-      navigate('/');
+      navigate('/cirurgia');
     }
   }, [abort, navigate]);
 
@@ -130,7 +130,7 @@ export function QuizPage() {
   }, [current, reveal, selectedDraft, config, handleSubmit, handleNext, handleAbort, toggleFavorite]);
 
   if (!config || !current) {
-    return <Navigate to="/" replace />;
+    return <Navigate to="/cirurgia" replace />;
   }
 
   return (
@@ -257,7 +257,7 @@ export function QuizPage() {
 
       {config.timeLimit === undefined && (
         <p className="mt-2 text-center text-xs text-slate-400 dark:text-slate-500">
-          <Link to="/" className="hover:text-slate-700 dark:hover:text-slate-300">
+          <Link to="/cirurgia" className="hover:text-slate-700 dark:hover:text-slate-300">
             Sair sem salvar
           </Link>
         </p>

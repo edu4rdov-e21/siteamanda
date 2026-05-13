@@ -87,7 +87,7 @@ export function QuizSetupPage() {
     const pool = selectQuestions(all, config, useProgressStore.getState());
 
     startSession(config, pool);
-    navigate('/quiz');
+    navigate('/cirurgia/quiz');
   };
 
   const showAulaPicker = mode === 'aulaUnica';
@@ -100,7 +100,7 @@ export function QuizSetupPage() {
   return (
     <div className="mx-auto max-w-2xl px-4 py-6 sm:py-10">
       <Link
-        to="/"
+        to="/cirurgia"
         className="mb-4 inline-flex items-center gap-1 text-sm text-slate-600 hover:text-slate-900 dark:text-slate-400 dark:hover:text-slate-100"
       >
         <ArrowLeft size={16} />

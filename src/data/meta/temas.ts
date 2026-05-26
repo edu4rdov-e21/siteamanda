@@ -24,9 +24,9 @@ export const TEMAS: Tema[] = [
   {
     id: 'otorrino',
     nome: 'Otorrinolaringologia',
-    descricao: '7 aulas, 140 questões',
+    descricao: '13 aulas, 260 questões',
     slug: 'otorrino',
-    questoes: 140,
+    questoes: 260,
     ativo: true,
   },
 ];

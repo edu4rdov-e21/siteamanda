@@ -1,0 +1,851 @@
+{
+  "aulaId": 13,
+  "titulo": "Otorrinolaringologia - Massas Cervicais",
+  "questoes": [
+    {
+      "id": "Q-OR-13-001",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "parâmetros clínicos",
+        "diagnóstico diferencial",
+        "abordagem inicial"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Quais são os quatro parâmetros clínicos fundamentais para o diagnóstico diferencial de uma massa cervical?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sexo, etnia, profissão e tempo de tabagismo."
+        },
+        {
+          "id": "B",
+          "texto": "Idade, duração, localização e características palpatórias da massa."
+        },
+        {
+          "id": "C",
+          "texto": "Hemograma, sorologias, imagem e biópsia."
+        },
+        {
+          "id": "D",
+          "texto": "PCR, VHS, ultrassom e PAAF."
+        },
+        {
+          "id": "E",
+          "texto": "Histórico vacinal, alergias, comorbidades e medicações em uso."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A abordagem racional da massa cervical baseia-se em quatro pilares clínicos: **idade, duração, localização e características palpatórias**. Esses parâmetros, sem qualquer exame subsidiário, já permitem classificar a lesão em três grandes grupos (inflamatórias/infecciosas, restos embrionários ou neoplasias), evitando a solicitação irracional de exames caros que retardam o diagnóstico.",
+      "referenciaAula": "Pelas informações idade, duração, localização e características da palpação nós podemos classificar as massas cervicais em três grupos.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 221
+    },
+    {
+      "id": "Q-OR-13-002",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "regra dos 90%",
+        "criança",
+        "benigno"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Segundo a regra dos 90% aplicada às massas cervicais em crianças, qual é a distribuição etiológica esperada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "90% são malignas e, dessas, 90% são epiteliais."
+        },
+        {
+          "id": "B",
+          "texto": "90% são benignas e, dessas, 90% são linfadenites infecciosas."
+        },
+        {
+          "id": "C",
+          "texto": "90% são restos embrionários e, dessas, 90% são císticas."
+        },
+        {
+          "id": "D",
+          "texto": "90% são linfomas e, desses, 90% são Hodgkin."
+        },
+        {
+          "id": "E",
+          "texto": "90% são metástases e, dessas, 90% são supraclaviculares."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na criança, **90% das massas cervicais são benignas** e, dentro desse grupo, **90% correspondem a linfadenites de causa infecciosa/inflamatória**. Quando há malignidade (raro nessa faixa), 90% será mesenquimal (linfoma à frente). No adulto, a regra inverte: 90% malignas, e dessas 90% epiteliais (carcinoma espinocelular).",
+      "referenciaAula": "A regra dos noventa porcento nas crianças noventa porcento é benigna, das noventa porcento benigna noventa porcento são linfadenites.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 415
+    },
+    {
+      "id": "Q-OR-13-003",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "princípio número um",
+        "adulto",
+        "câncer"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Diante de uma massa cervical em paciente adulto, qual deve ser a hipótese diagnóstica inicial até que se prove o contrário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Linfadenite reacional secundária a infecção dentária."
+        },
+        {
+          "id": "B",
+          "texto": "Cisto branquial de manifestação tardia."
+        },
+        {
+          "id": "C",
+          "texto": "Câncer (metástase de carcinoma espinocelular de cabeça e pescoço)."
+        },
+        {
+          "id": "D",
+          "texto": "Tuberculose ganglionar."
+        },
+        {
+          "id": "E",
+          "texto": "Mononucleose infecciosa."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **princípio número um** das massas cervicais é absoluto: toda massa cervical em adulto, **até prova em contrário, é câncer** — mais especificamente, metástase de carcinoma espinocelular de algum sítio primário da cabeça e pescoço. Esse princípio orienta toda a propedêutica e evita condutas iatrogênicas como biópsia cirúrgica indevida.",
+      "referenciaAula": "Toda massa cervical em adulto até prova em contrário é câncer. Até prova em contrário essa massa cervical é uma metástase de um tumor localizado na cabeça ou no pescoço, até prova em contrário é um carcinoma espinocelular.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1118
+    },
+    {
+      "id": "Q-OR-13-004",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "linha média",
+        "cisto tireoglosso",
+        "embrionário"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a causa mais frequente de massa cervical na linha média do pescoço em crianças?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cisto branquial."
+        },
+        {
+          "id": "B",
+          "texto": "Linfangioma (higroma cístico)."
+        },
+        {
+          "id": "C",
+          "texto": "Cisto dermóide."
+        },
+        {
+          "id": "D",
+          "texto": "Cisto do ducto tireoglosso."
+        },
+        {
+          "id": "E",
+          "texto": "Ectasia da veia jugular."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Na **linha média** do pescoço, a causa mais comum de massa em crianças é o **cisto do ducto tireoglosso**, derivado de restos epiteliais deixados durante a migração embrionária da tireoide do forame cego da língua até a região da cartilagem tireóidea. Caracteristicamente sobe à protrusão da língua e move-se com a deglutição. O cisto dermóide vem em segundo lugar.",
+      "referenciaAula": "Na linha média do pescoço a mais frequente é o cisto do ducto tireoglosso, em segundo lugar nós temos o cisto dermoide.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1604
+    },
+    {
+      "id": "Q-OR-13-005",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "face lateral",
+        "cisto branquial",
+        "embrionário"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a causa mais frequente de massa cervical na FACE LATERAL do pescoço entre os restos embrionários?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cisto do ducto tireoglosso."
+        },
+        {
+          "id": "B",
+          "texto": "Cisto branquial (do segundo arco)."
+        },
+        {
+          "id": "C",
+          "texto": "Cisto dermóide."
+        },
+        {
+          "id": "D",
+          "texto": "Bócio mergulhante."
+        },
+        {
+          "id": "E",
+          "texto": "Aneurisma de carótida."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **face lateral** do pescoço, o **cisto branquial** é a causa mais frequente entre os restos embrionários. Deriva da fusão incompleta do **segundo arco branquial** e localiza-se tipicamente na **borda anterior do músculo esternocleidomastóideo**, no terço médio ou superior. O tratamento é cirúrgico.",
+      "referenciaAula": "Na face lateral do pescoço a mais frequente é o cisto branquial. O cisto branquial é derivado da fusão incompleta do segundo arco branquial e normalmente ele está nessa posição típica na borda anterior do músculo esternocleidomastóideo.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1624
+    },
+    {
+      "id": "Q-OR-13-006",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "normalidade",
+        "linfonodo",
+        "tamanho"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o tamanho dos linfonodos cervicais considerados normais, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em recém-nascidos, linfonodos de até 2 cm são considerados normais."
+        },
+        {
+          "id": "B",
+          "texto": "Em adultos, linfonodos submandibulares de até 3 cm são considerados normais."
+        },
+        {
+          "id": "C",
+          "texto": "Em recém-nascidos, qualquer linfonodo palpável é considerado anormal; em adultos, linfonodos submandibulares são aceitáveis até 1 cm."
+        },
+        {
+          "id": "D",
+          "texto": "Em crianças de 6 a 12 meses, linfonodos de até 2 cm são considerados normais."
+        },
+        {
+          "id": "E",
+          "texto": "Nunca há linfonodos palpáveis normais em qualquer faixa etária."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "No **recém-nascido**, qualquer linfonodo ou massa palpável de qualquer tamanho é anormal. Em **crianças de 6-12 meses**, massas maiores que 1 cm não são normais. Já no **adulto**, é frequente palpar linfonodos submandibulares pequenos (a boca é porta de entrada com microtraumas alimentares), mas eles não devem exceder **1 cm de diâmetro**.",
+      "referenciaAula": "Nós consideramos qualquer linfonodo ou massa palpável no recém-nascido de qualquer tamanho não é normal. Uma massa maior que 1 cm em crianças de 6 a 12 meses também não é normal. Nos adultos elas não devem passar de 1 cm de diâmetro.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 138
+    },
+    {
+      "id": "Q-OR-13-007",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "biópsia",
+        "princípio",
+        "PAAF",
+        "cabeça e pescoço"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em relação à biópsia de uma massa cervical em adulto com suspeita de neoplasia, qual conduta está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Biópsia cirúrgica (excisional) imediata do linfonodo cervical é a abordagem padrão."
+        },
+        {
+          "id": "B",
+          "texto": "A primeira etapa é buscar o tumor primário em cabeça e pescoço com exame otorrinolaringológico completo; se não encontrado, indica-se PAAF da massa, NÃO biópsia cirúrgica."
+        },
+        {
+          "id": "C",
+          "texto": "Toda massa cervical em adulto deve ser ressecada e enviada à congelação antes de qualquer outro exame."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas exames de imagem (tomografia/ressonância) bastam para o diagnóstico definitivo."
+        },
+        {
+          "id": "E",
+          "texto": "A biópsia incisional aberta no consultório é a conduta de escolha."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Biópsia cirúrgica de linfonodo cervical é prejudicial** ao tratamento do câncer de cabeça e pescoço (rompe planos, altera drenagem linfática). A propedêutica correta: 1) buscar tumor primário com exame completo das mucosas da via aerodigestiva superior; 2) se não encontrado, fazer **PAAF (citopatológico)** da massa; 3) seguir investigação com imagem e endoscopia. Biópsia aberta só se todas as etapas anteriores forem inconclusivas.",
+      "referenciaAula": "Biópsia cirúrgica de linfonodo é prejudicial no tratamento de câncer de cabeça e pescoço. Você não deve jamais fazer biópsia desse linfonodo, você deve procurar o tumor primário na cabeça e pescoço. Essa biópsia será por agulha fina, você vai fazer o exame citopatológico.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1185
+    },
+    {
+      "id": "Q-OR-13-008",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "linfoma",
+        "biópsia excisional",
+        "exceção"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual é a EXCEÇÃO à regra de não realizar biópsia cirúrgica excisional de linfonodo cervical?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quando se suspeita de metástase de carcinoma espinocelular."
+        },
+        {
+          "id": "B",
+          "texto": "Quando se suspeita de cisto branquial."
+        },
+        {
+          "id": "C",
+          "texto": "Quando a hipótese diagnóstica é linfoma — o patologista precisa avaliar a arquitetura completa (medular e cortical) do linfonodo."
+        },
+        {
+          "id": "D",
+          "texto": "Quando há linfadenite tuberculosa."
+        },
+        {
+          "id": "E",
+          "texto": "Quando se trata de linfangioma."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A grande exceção é o **linfoma**: o patologista precisa analisar a **arquitetura completa do linfonodo** — relação cortical/medular, padrão folicular ou difuso — para subclassificar e estadiar a doença. PAAF não fornece essa informação. Idealmente, faz-se PAAF prévia que sugere linfoma, e então procede-se à biópsia excisional cirúrgica.",
+      "referenciaAula": "Quando a hipótese diagnóstica é linfoma nós temos que tirar o linfonodo cirurgicamente porque o patologista precisa olhar arquitetura do linfonodo como um todo, olhar a relação da medular com a cortical para estabelecer um diagnóstico mais preciso.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2270
+    },
+    {
+      "id": "Q-OR-13-009",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "tuberculose",
+        "micobactéria atípica",
+        "granulomatosa",
+        "diagnóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a diferenciação clínica entre tuberculose ganglionar e linfadenite por micobactéria atípica, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Micobactéria atípica acomete predominantemente adultos jovens; tuberculose pega crianças mais novas (≤6 anos)."
+        },
+        {
+          "id": "B",
+          "texto": "Micobactéria atípica acomete crianças mais jovens (≤6 anos); tuberculose tende a acometer adultos jovens, com PPD geralmente positivo e doença pulmonar associada frequente."
+        },
+        {
+          "id": "C",
+          "texto": "Ambas têm o mesmo perfil epidemiológico, sendo indistinguíveis clinicamente."
+        },
+        {
+          "id": "D",
+          "texto": "PPD é sempre fortemente positivo na micobactéria atípica."
+        },
+        {
+          "id": "E",
+          "texto": "A tuberculose tende à fistulização espontânea; a micobactéria atípica nunca fistuliza."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **micobactéria atípica** acomete tipicamente crianças mais jovens (≤6 anos), sem predileção por sexo, sem doença pulmonar, com **PPD geralmente negativo ou apenas fracamente positivo**, e tende à **fistulização espontânea**. A **tuberculose** pega adultos jovens, com predileção feminina, **doença pulmonar frequentemente associada** e **PPD positivo**. Ambas são granulomatosas e cursam com adenomegalia crônica.",
+      "referenciaAula": "Normalmente a micobactéria atípica pega crianças mais jovens de 6 anos, tuberculose tende a pegar adultos jovens. O teste para tuberculina normalmente ele é positivo para tuberculose e geralmente ele não é positivo, apenas casualmente ele vai ser positivo na micobactéria atípica.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 941
+    },
+    {
+      "id": "Q-OR-13-010",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "doença arranhadura do gato",
+        "Bartonella",
+        "inflamatória aguda"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 7 anos apresenta linfadenite cervical isolada há 2 semanas, com história de arranhadura por gato doméstico há cerca de 12 dias. Sem outros sintomas sistêmicos importantes. Qual é o agente etiológico mais provável e o tratamento de escolha?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mycobacterium tuberculosis — tratar com esquema RIPE por 6 meses."
+        },
+        {
+          "id": "B",
+          "texto": "Bartonella henselae (doença da arranhadura do gato) — tratar com azitromicina."
+        },
+        {
+          "id": "C",
+          "texto": "Toxoplasma gondii — tratar com sulfadiazina + pirimetamina."
+        },
+        {
+          "id": "D",
+          "texto": "Vírus Epstein-Barr (mononucleose) — apenas suporte clínico."
+        },
+        {
+          "id": "E",
+          "texto": "Estafilococo aureus — tratar com oxacilina endovenosa."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro é típico de **doença da arranhadura do gato**, causada pela **Bartonella henselae**. Surge 10-14 dias após o trauma, com linfadenite regional na cadeia que drena a região arranhada (geralmente pescoço ou axila). O tratamento é com **azitromicina**. No Brasil, o diagnóstico sorológico não está amplamente disponível, sendo muitas vezes presuntivo.",
+      "referenciaAula": "Esta doença é causada por uma Bartonella henselae e ela é transmitida pelos gatos. Indivíduo tem uma arranhadura do gato, depois de 10 dias 14 dias aparece uma adenite na região correspondente. Faz-se com antibiótico com azitromicina.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 825
+    },
+    {
+      "id": "Q-OR-13-011",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "exames laboratoriais",
+        "sorologias",
+        "uso racional"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em qual situação clínica os exames laboratoriais (hemograma e sorologias) são MAIS úteis na investigação de massas cervicais?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em todas as massas cervicais, independentemente da hipótese diagnóstica."
+        },
+        {
+          "id": "B",
+          "texto": "Nas neoplasias, pois existem marcadores tumorais sensíveis para cabeça e pescoço."
+        },
+        {
+          "id": "C",
+          "texto": "Nos restos embrionários (cistos), para definição diagnóstica."
+        },
+        {
+          "id": "D",
+          "texto": "Nas doenças inflamatórias agudas (linfadenite, mononucleose, citomegalovirose, toxoplasmose) — hemograma é mandatório e sorologias direcionam o diagnóstico."
+        },
+        {
+          "id": "E",
+          "texto": "Apenas para acompanhamento pós-cirúrgico de cisto tireoglosso."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Exames laboratoriais devem ser solicitados de forma **direcionada pela hipótese clínica**. São úteis nas **doenças inflamatórias agudas**: o hemograma é mandatório, e as sorologias (Epstein-Barr, citomegalovírus, toxoplasmose) ajudam quando o clínico, mesmo experiente, não consegue distinguir essas etiologias apenas pelo exame físico. Não servem para neoplasias de cabeça e pescoço (não há marcadores tumorais consagrados) nem para cistos embrionários.",
+      "referenciaAula": "Isso aqui ajuda no diagnóstico de uma doença inflamatória aguda sem dúvida nenhuma, um hemograma é mandatório. A sorologia para toxoplasmose citomegalovírus e mononucleose principalmente quando nós suspeitamos doença inflamatória aguda.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1955
+    },
+    {
+      "id": "Q-OR-13-012",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "cisto tireoglosso",
+        "semiologia",
+        "deglutição"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Menino de 6 anos apresenta massa indolor na linha média cervical, próxima à proeminência laríngea, de consistência cística. Ao pedir que protruda a língua ou degluta, a massa se desloca verticalmente. Qual o diagnóstico mais provável e o motivo desse comportamento?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cisto branquial — pelo arrastamento do esternocleidomastóideo."
+        },
+        {
+          "id": "B",
+          "texto": "Cisto dermóide submentoniano — por estar fixado ao osso hióide."
+        },
+        {
+          "id": "C",
+          "texto": "Cisto do ducto tireoglosso — porque mantém conexão embrionária do forame cego da língua até a cartilagem tireóidea."
+        },
+        {
+          "id": "D",
+          "texto": "Linfangioma cervical — pela compressão das estruturas vasculares."
+        },
+        {
+          "id": "E",
+          "texto": "Linfonodo metastático — pela fixação aos planos profundos."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O sinal clássico do **cisto do ducto tireoglosso** é mover-se à protrusão da língua e à deglutição. Isso ocorre porque o cisto está **conectado embriologicamente da base da língua (forame cego) até a cartilagem tireóidea**, acompanhando o trajeto migratório da tireoide. Crianças não têm proeminência laríngea (essa aparece com hormônios masculinizantes na puberdade), então o achado na linha média é alerta para essa etiologia.",
+      "referenciaAula": "Quando a criança põe a língua para fora o cisto tireoglosso ele vai subir ou quando a criança deglute o cisto tireoglosso vai se mover na vertical, porque pelo nome dele cisto tireoglosso ele é conectado com a base da língua até a região da cartilagem tireóidea.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1670
+    },
+    {
+      "id": "Q-OR-13-013",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "linfangioma",
+        "higroma cístico",
+        "RN"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o linfangioma cervical (higroma cístico), assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apresenta-se como massa endurecida, aderida e fixa aos planos profundos."
+        },
+        {
+          "id": "B",
+          "texto": "Aparece tipicamente em adultos acima dos 40 anos."
+        },
+        {
+          "id": "C",
+          "texto": "É composto por novelo de vasos linfáticos, tem consistência extremamente amolecida (\"luva com água\"), surge ao nascimento ou nos primeiros meses de vida, e tratamento é cirúrgico por razões estéticas ou funcionais."
+        },
+        {
+          "id": "D",
+          "texto": "É uma neoplasia maligna de origem mesenquimal com alto risco de metástase."
+        },
+        {
+          "id": "E",
+          "texto": "Localiza-se exclusivamente na linha média do pescoço."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O **linfangioma** (antigo higroma cístico) é um **novelo de vasos linfáticos** com consistência inconfundivelmente amolecida (comparada a uma luva com água ou água-marinha). Manifesta-se ao **nascimento ou nos primeiros meses de vida**, podendo atingir grandes volumes. Tratamento cirúrgico fica reservado a indicações estéticas ou quando há interferência respiratória, deglutória ou de outras funções vitais.",
+      "referenciaAula": "Linfangioma nada mais é do que um novelo de vasos linfáticos formando esse tumor localizado. É molinho, mais molinho do que um tecido adiposo. O linfangioma pode aparecer logo no nascimento ou nos primeiros meses de vida e pode ter grandes volumes.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1845
+    },
+    {
+      "id": "Q-OR-13-014",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "epidemiologia",
+        "faixa etária",
+        "neoplasia"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a distribuição etiológica das massas cervicais conforme a faixa etária, qual afirmativa está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em crianças (≤15 anos), mais de 75% são neoplasias."
+        },
+        {
+          "id": "B",
+          "texto": "Em adultos jovens (20-40 anos), as inflamatórias caem para cerca de metade, e as neoplasias passam a representar quase metade dos casos."
+        },
+        {
+          "id": "C",
+          "texto": "Em idosos (>50 anos), os restos embrionários são a principal causa."
+        },
+        {
+          "id": "D",
+          "texto": "A frequência de restos embrionários aumenta com a idade."
+        },
+        {
+          "id": "E",
+          "texto": "Em crianças, as neoplasias representam mais de 30% das massas cervicais."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na curva etária: **crianças** (10-15 anos) têm >75% de causas inflamatórias/infecciosas e apenas ~4% de neoplasias; **adultos jovens** (20-40) têm queda das inflamatórias pela metade e neoplasias passam a representar quase 50% dos casos; **idosos** (>50) têm quase a totalidade de neoplasias, com inflamatórias e restos embrionários praticamente desaparecendo. A idade isolada já oferece grande poder discriminativo.",
+      "referenciaAula": "Veja o que acontece com as doenças inflamatórias ou infecciosas nos adultos jovens, cai pela metade. Quando nós vamos aos adultos acima de 50 anos eles são muito pouco frequentes. Já quando nós chegamos os adultos jovens, isso já torna-se quase a metade das causas de diagnóstico diferencial.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 286
+    },
+    {
+      "id": "Q-OR-13-015",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "sinais de alarme",
+        "red flags",
+        "criança"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Quais achados configuram SINAIS DE ALARME em uma massa cervical, sugerindo investigação para malignidade?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Massa flutuante, dolorosa, com calor e rubor local, em criança com febre baixa."
+        },
+        {
+          "id": "B",
+          "texto": "Linfonodos múltiplos, móveis, regulares, menores que 1 cm, em adulto após faringite."
+        },
+        {
+          "id": "C",
+          "texto": "Massa dura/endurecida, irregular, fixa aos planos, indolor, maior que 2-3 cm (especialmente supraclavicular), de crescimento rápido e progressivo, sem resposta ao tratamento clínico inicial."
+        },
+        {
+          "id": "D",
+          "texto": "Massa cística amolecida em linha média que se move com a deglutição."
+        },
+        {
+          "id": "E",
+          "texto": "Massa que surge após manobra de Valsalva e desaparece em repouso."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Os **red flags** clássicos de malignidade incluem: massa **endurecida, irregular, fixa, indolor, maior que 2-3 cm**, especialmente em **região supraclavicular** (drenagem de tórax/abdome); crescimento rápido e progressivo; alterações cutâneas; ausência de resposta ao tratamento clínico inicial em 4-6 semanas; sintomas B (perda de peso, sudorese noturna, febre, artralgia). As alternativas A, B, D e E descrevem padrões benignos/funcionais.",
+      "referenciaAula": "Maligno endurecido irregular fixo aderido, maior que 2 cm principalmente da região supraclavicular. Os sinais de alarme: crescimento rápido e progressivo, alterações cutâneas, fixação da massa à pele aos planos profundos e massas maiores que 3 centímetros que sejam firmes.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1456
+    },
+    {
+      "id": "Q-OR-13-016",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "linfoma",
+        "criança",
+        "neoplasia"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 9 anos com massa cervical supraclavicular indolor, endurecida, de 3 cm, crescimento progressivo em 3 semanas. Refere perda de peso, sudorese noturna e febre vespertina. Qual a hipótese diagnóstica mais provável e a conduta diagnóstica adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Linfadenite reacional — apenas observação clínica."
+        },
+        {
+          "id": "B",
+          "texto": "Cisto branquial — indicar cirurgia eletiva ambulatorial."
+        },
+        {
+          "id": "C",
+          "texto": "Linfoma — proceder à BIÓPSIA EXCISIONAL CIRÚRGICA do linfonodo (necessária para análise da arquitetura)."
+        },
+        {
+          "id": "D",
+          "texto": "Mononucleose infecciosa — sorologia para EBV e suporte."
+        },
+        {
+          "id": "E",
+          "texto": "Caxumba — apenas analgesia e isolamento."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Em crianças, quando há malignidade, **50% das massas cervicais são linfomas**. O quadro clínico — crescimento rápido, localização supraclavicular/triângulo posterior baixo, consistência endurecida, sintomas B (perda de peso, sudorese, febre, artralgia) — é altamente sugestivo. A conduta correta é **biópsia excisional cirúrgica** (a exceção da regra), pois o patologista precisa avaliar a arquitetura completa do linfonodo.",
+      "referenciaAula": "Em criança, quando é neoplasia, cinquenta por cento dessas massas serão linfoma. Na criança a neoplasia ela é rápida e ela tende a se instalar rapidamente, tem uma predileção pelo triângulo posterior mais baixo principalmente pela região supraclavicular também.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1360
+    },
+    {
+      "id": "Q-OR-13-017",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "exames de imagem",
+        "neoplasia",
+        "papel",
+        "estadiamento"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o papel dos exames de imagem (TC, RM, US) na investigação das massas cervicais neoplásicas, qual afirmativa está MAIS CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os exames de imagem fornecem o diagnóstico etiológico definitivo, dispensando biópsia."
+        },
+        {
+          "id": "B",
+          "texto": "Os exames de imagem servem para definir tamanho, localização, relações de vizinhança, melhor via cirúrgica, estadiamento e acompanhamento terapêutico — mas dificilmente fornecem o diagnóstico histológico; este vem do raciocínio clínico e do exame citohistopatológico."
+        },
+        {
+          "id": "C",
+          "texto": "Em adultos, ultrassom é o método de escolha por sua alta especificidade para malignidade."
+        },
+        {
+          "id": "D",
+          "texto": "PET-CT substitui a biópsia em todos os casos de carcinoma espinocelular."
+        },
+        {
+          "id": "E",
+          "texto": "Tomografia computadorizada é dispensável quando se planeja tratamento cirúrgico."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os exames de imagem nas neoplasias têm papel **anatômico e de estadiamento**, não diagnóstico etiológico: definem tamanho, localização, relações de vizinhança, planejamento da abordagem cirúrgica, estadiamento da lesão e acompanhamento do resultado terapêutico. O **diagnóstico histológico** vem do raciocínio clínico, exame físico e exames **citohistopatológicos** (PAAF e/ou biópsia conforme indicação). Imagem complementa, não substitui.",
+      "referenciaAula": "O exame de imagem para neoplasia ele vai me dizer tamanho, onde está, quais são as relações de vizinhança, qual a melhor via para abordar cirurgicamente, vai servir para fazer um estadiamento da lesão. Mas dificilmente um exame de imagem ele vai me dar diagnóstico.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 2186
+    },
+    {
+      "id": "Q-OR-13-018",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "carcinoma espinocelular",
+        "fatores de risco",
+        "tabaco",
+        "álcool",
+        "HPV"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem de 62 anos, tabagista (40 maços/ano) e etilista crônico, procura atendimento por massa cervical indolor de 3,5 cm em cadeia jugular alta, à direita, sem regressão há 2 meses. Refere também disfagia leve e rouquidão há 6 semanas. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Biópsia excisional cirúrgica imediata da massa cervical."
+        },
+        {
+          "id": "B",
+          "texto": "Apenas observação clínica por mais 4 semanas e antibioticoterapia empírica."
+        },
+        {
+          "id": "C",
+          "texto": "Exame otorrinolaringológico completo das mucosas da via aerodigestiva superior (incluindo nasofibrolaringoscopia) para procurar tumor primário; se identificado, biópsia DO TUMOR PRIMÁRIO; complementar com imagem para estadiamento."
+        },
+        {
+          "id": "D",
+          "texto": "Drenagem cirúrgica da massa por suspeita de abscesso."
+        },
+        {
+          "id": "E",
+          "texto": "Sorologia para HIV, mononucleose e toxoplasmose como triagem inicial."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Adulto idoso, tabagista e etilista, com massa cervical indolor persistente + **sinais de alarme** (rouquidão, disfagia) — quadro altamente suspeito de **metástase cervical de carcinoma espinocelular** de cabeça e pescoço. A conduta correta segue o **princípio número um**: buscar o tumor primário com exame completo da via aerodigestiva superior (nasofibrolaringoscopia, exame oral, base de língua, hipofaringe, laringe) e biopsiar o **tumor primário** — nunca a massa cervical de início. HPV também é fator de risco crescente em tumores de orofaringe.",
+      "referenciaAula": "Você não deve jamais fazer biópsia desse linfonodo, você deve procurar o tumor primário na cabeça e pescoço. Para isso você tem que fazer um exame otorrinolaringológico completo e olhar todas as mucosas da via aerodigestiva superior, possível sítio primário da lesão.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1240
+    },
+    {
+      "id": "Q-OR-13-019",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "ectasia jugular",
+        "diagnóstico diferencial",
+        "Valsalva"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 8 anos é trazida pela mãe por \"caroço\" cervical lateral que aparece quando ela faz força (chora, sopra balões, defeca) e desaparece em repouso. Sem dor, sem sinais inflamatórios. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cisto branquial."
+        },
+        {
+          "id": "B",
+          "texto": "Linfadenite reacional crônica."
+        },
+        {
+          "id": "C",
+          "texto": "Linfangioma cervical."
+        },
+        {
+          "id": "D",
+          "texto": "Ectasia da veia jugular interna (massa cervical lateral que aparece à manobra de Valsalva)."
+        },
+        {
+          "id": "E",
+          "texto": "Linfoma de Hodgkin."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "O sinal patognomônico — massa cervical lateral que **surge à manobra de Valsalva** (esforço, choro, sopro) e **desaparece em repouso** — é típico da **ectasia da veia jugular**. Trata-se de um diagnóstico diferencial benigno de massa cervical lateral, sem necessidade de tratamento na maioria dos casos. O reconhecimento clínico evita propedêuticas invasivas desnecessárias.",
+      "referenciaAula": "Veja que essa criança está soprando este balão e quando ela sopra ela faz força, faz manobra de Valsalva, e você tem essa ectasia jugular. Quando ela deixa de soprar a ectasia jugular simplesmente desaparece. É um diagnóstico diferencial de massa cervical lateral.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 1968
+    },
+    {
+      "id": "Q-OR-13-020",
+      "aulaOrigem": 13,
+      "blocos": ["OS"],
+      "eixos": [],
+      "tags": [
+        "tuberculose ganglionar",
+        "granulomatosa",
+        "diagnóstico diferencial"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Criança de 5 anos com massa cervical em região submandibular, presente há mais de 5 meses, com emagrecimento progressivo, palidez cutânea e sudorese noturna. Ausência de calor, dor e rubor local. Qual a hipótese diagnóstica mais provável e qual a investigação inicial mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Linfadenite bacteriana aguda — iniciar amoxicilina-clavulanato."
+        },
+        {
+          "id": "B",
+          "texto": "Tuberculose ganglionar — solicitar PPD (prova tuberculínica) e radiografia de tórax; considerar diagnóstico histológico se necessário."
+        },
+        {
+          "id": "C",
+          "texto": "Cisto branquial — agendar exérese cirúrgica eletiva."
+        },
+        {
+          "id": "D",
+          "texto": "Mononucleose — solicitar sorologia para Epstein-Barr."
+        },
+        {
+          "id": "E",
+          "texto": "Ectasia jugular — apenas tranquilizar a família."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Massa cervical crônica (>5 meses), **sem sinais flogísticos** (afasta inflamação aguda), com **sintomas constitucionais** (emagrecimento, palidez, sudorese noturna) — quadro clássico de **tuberculose ganglionar** (doença granulomatosa crônica). A investigação inicial: **PPD (intradermorreação de Mantoux), radiografia de tórax** e exclusão de outros diagnósticos diferenciais (micobactéria atípica, linfoma, doença da arranhadura do gato). Diagnóstico histológico pode ser necessário em casos atípicos.",
+      "referenciaAula": "Uma criança com cinco meses de duração, essa criança apresenta um certo emagrecimento, uma certa palidez cutânea, uma sudorese noturna. Isso aqui era uma tuberculose, o diagnóstico vira pela intradermorreação de Mantoux, por um raio x de tórax e para exclusão dos outros diagnósticos também.",
+      "transversal": false,
+      "videoAulaId": 13,
+      "videoStartSec": 877
+    }
+  ]
+}

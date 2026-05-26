@@ -1,11 +1,12 @@
 import { Link } from 'react-router-dom';
-import { Scissors, Ear, Lock, BarChart3, Settings as SettingsIcon } from 'lucide-react';
+import { Scissors, Ear, Eye, Lock, BarChart3, Settings as SettingsIcon } from 'lucide-react';
 import { Card } from '../components/shared/Card';
 import { TEMAS, type Tema } from '../data/meta/temas';
 
 const ICONS: Record<string, typeof Scissors> = {
   cirurgia: Scissors,
   otorrino: Ear,
+  oftalmo: Eye,
 };
 
 function TemaCard({ tema }: { tema: Tema }) {

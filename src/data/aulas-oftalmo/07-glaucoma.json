@@ -1,0 +1,845 @@
+{
+  "aulaId": 7,
+  "titulo": "Glaucoma",
+  "questoes": [
+    {
+      "id": "Q-OF-07-001",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "definição",
+        "neuropatia óptica",
+        "campo visual"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual a melhor definição atual de glaucoma?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doença inflamatória aguda da câmara anterior."
+        },
+        {
+          "id": "B",
+          "texto": "Neuropatia óptica lentamente progressiva que cursa com defeitos característicos do campo visual e pode levar à cegueira."
+        },
+        {
+          "id": "C",
+          "texto": "Opacificação progressiva do cristalino com perda visual reversível."
+        },
+        {
+          "id": "D",
+          "texto": "Degeneração macular relacionada à idade."
+        },
+        {
+          "id": "E",
+          "texto": "Doença infecciosa da retina causada por toxoplasma."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O glaucoma é definido como uma **neuropatia óptica lentamente progressiva** que resulta em **defeitos característicos do campo visual** e pode evoluir para **cegueira irreversível**. A pressão intraocular elevada é o principal fator de risco, mas a doença em si afeta o nervo óptico.",
+      "referenciaAula": "Glaucoma é hoje considerado uma doença caracterizada por uma neuropatia ótica lentamente progressiva, que vai resultar em defeitos característicos do campo visual, que se progredirem poderão levar a cegueira.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 29
+    },
+    {
+      "id": "Q-OF-07-002",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "epidemiologia",
+        "cegueira irreversível"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a importância epidemiológica do glaucoma no mundo, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É a primeira causa de cegueira no mundo, à frente da catarata."
+        },
+        {
+          "id": "B",
+          "texto": "É a segunda maior causa de cegueira no mundo e a principal causa de cegueira irreversível."
+        },
+        {
+          "id": "C",
+          "texto": "É uma doença rara, acometendo menos de 0,1% da população acima dos 40 anos."
+        },
+        {
+          "id": "D",
+          "texto": "Sempre cursa com cegueira reversível após tratamento clínico."
+        },
+        {
+          "id": "E",
+          "texto": "É menos prevalente que o descolamento de retina."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **catarata** é a primeira causa de cegueira no mundo, mas é **reversível**. O **glaucoma** é a **segunda maior causa de cegueira** e a **principal causa de cegueira irreversível**, acometendo 2 a 3% da população acima dos 40 anos.",
+      "referenciaAula": "É hoje a segunda maior causa de cegueira no mundo. A primeira maior causa de cegueira no mundo é a catarata. Portanto, o glaucoma é a principal causa de cegueira irreversível no mundo.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 63
+    },
+    {
+      "id": "Q-OF-07-003",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "fatores de risco",
+        "PIO",
+        "história familiar"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é o principal fator de risco para o glaucoma?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipertensão arterial sistêmica."
+        },
+        {
+          "id": "B",
+          "texto": "Pressão intraocular elevada."
+        },
+        {
+          "id": "C",
+          "texto": "Diabetes mellitus."
+        },
+        {
+          "id": "D",
+          "texto": "Tabagismo."
+        },
+        {
+          "id": "E",
+          "texto": "Hipercolesterolemia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **pressão intraocular elevada** é, de longe, o **principal fator de risco** para a instalação e a progressão do glaucoma. Outros fatores incluem idade avançada, história familiar (aumenta em ~10x o risco), raça negra e miopia acima de 6 graus.",
+      "referenciaAula": "A pressão intraocular é de longe o principal fator de risco paraa instalação e a progressão dessa doença.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 47
+    },
+    {
+      "id": "Q-OF-07-004",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "humor aquoso",
+        "fisiologia",
+        "via trabecular"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre a drenagem do humor aquoso, qual via é responsável pela MAIOR parte do escoamento em condições fisiológicas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Via uveoescleral, drenando 70-85% do humor aquoso."
+        },
+        {
+          "id": "B",
+          "texto": "Via trabecular (malha trabecular e canal de Schlemm), drenando 70-85% do humor aquoso."
+        },
+        {
+          "id": "C",
+          "texto": "Drenagem direta pela córnea."
+        },
+        {
+          "id": "D",
+          "texto": "Pela papila óptica diretamente para o sistema venoso central."
+        },
+        {
+          "id": "E",
+          "texto": "Reabsorção pelo cristalino."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A via **trabecular** (humor aquoso → malha trabecular → canal de Schlemm → circulação venosa) é responsável por **70 a 85%** da drenagem. A via **uveoescleral** responde por apenas **15 a 20%**. Conhecer essas vias é essencial para entender os mecanismos de ação dos colírios.",
+      "referenciaAula": "Essa via nós chamamos de via úvioescleral. Ela é responsável por cerca de 15 a 20% da drenagem do Moracoso, enquanto a via traicular é responsável por 70 80 85% da drenagem do Moracoso.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 197
+    },
+    {
+      "id": "Q-OF-07-005",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "PIO",
+        "tonômetro de Goldmann",
+        "valor de corte"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual o valor limite (acima do qual se considera elevada) da pressão intraocular utilizado na prática clínica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "10 mmHg."
+        },
+        {
+          "id": "B",
+          "texto": "14 mmHg."
+        },
+        {
+          "id": "C",
+          "texto": "16 mmHg."
+        },
+        {
+          "id": "D",
+          "texto": "21 mmHg."
+        },
+        {
+          "id": "E",
+          "texto": "30 mmHg."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Em estudos populacionais, a média da PIO é ~16 mmHg com desvio padrão de 2,5 mmHg. Considerando dois desvios padrão para mais, estima-se que 95% da população tenha PIO entre 11 e 21 mmHg. Por isso, o valor de **21 mmHg** é, até hoje, o **limite considerado normal**.",
+      "referenciaAula": "Por isso, o valor de 21 até hoje é utilizado como um valor limite para uma pressão intraocular considerada elevada.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 299
+    },
+    {
+      "id": "Q-OF-07-006",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "sintomas",
+        "doença assintomática",
+        "rastreamento"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Por que o rastreamento oftalmológico é fundamental no glaucoma primário de ângulo aberto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque cursa com dor ocular intensa desde o início, que muitas vezes passa despercebida."
+        },
+        {
+          "id": "B",
+          "texto": "Porque é uma doença totalmente assintomática até fases avançadas; quando o paciente percebe perda do campo visual, o dano já é irreversível."
+        },
+        {
+          "id": "C",
+          "texto": "Porque cursa com olho vermelho discreto que precisa ser identificado pelo paciente."
+        },
+        {
+          "id": "D",
+          "texto": "Porque os pacientes referem cefaleia frontal característica."
+        },
+        {
+          "id": "E",
+          "texto": "Porque a queda da acuidade visual ocorre precocemente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O glaucoma primário de ângulo aberto é uma doença **totalmente assintomática**: não há dor, cefaleia ou olho vermelho. Quando o paciente percebe perda do campo visual, o dano já é **irreversível**. Por isso, indica-se exame oftalmológico anual após os 40 anos, especialmente em pacientes com fatores de risco.",
+      "referenciaAula": "Notem que até agora eu não falei nada a respeito de sintomas na doença glaucoma. Por quê? Porque é uma doença totalmente assintomática. Não existe dor ocular, não existe cefaleia, não existe olho vermelho. Quando o paciente percebe que já tem um acometimento do campo de visão, é muito tarde.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1148
+    },
+    {
+      "id": "Q-OF-07-007",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "disco óptico",
+        "escavação",
+        "rima neural"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fundoscopia no glaucoma, qual achado é mais característico da neuropatia óptica glaucomatosa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Edema de papila bilateral com obliteração das margens do disco."
+        },
+        {
+          "id": "B",
+          "texto": "Aumento da escavação com afilamento da rima neural e assimetria entre os dois olhos."
+        },
+        {
+          "id": "C",
+          "texto": "Manchas algodonosas e exsudatos duros."
+        },
+        {
+          "id": "D",
+          "texto": "Atrofia óptica difusa sem alteração da escavação."
+        },
+        {
+          "id": "E",
+          "texto": "Hemorragias em chama de vela difusas na retina."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na neuropatia óptica glaucomatosa há **perda progressiva de fibras nervosas**, com redução da rima neural (parte alaranjada) e **aumento da escavação** (parte central pálida). O glaucoma é uma doença **assimétrica**, gerando assimetria de escavação entre os olhos. Hemorragia de disco e vaso em baioneta também são sinais sugestivos.",
+      "referenciaAula": "No glaucoma a gente já viu a uma neuropatia ótica. Nós vamos perder fibras nervosas, portanto, a rima vai diminuir, a parte alaranjada vai diminuir e a escavação vai aumentar.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 403
+    },
+    {
+      "id": "Q-OF-07-008",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "OCT",
+        "camada de fibras nervosas",
+        "diagnóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual exame complementar permite medir objetivamente a espessura da camada de fibras nervosas peripapilar no glaucoma?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ultrassonografia ocular modo B."
+        },
+        {
+          "id": "B",
+          "texto": "Angiografia fluoresceínica."
+        },
+        {
+          "id": "C",
+          "texto": "OCT (tomografia de coerência óptica)."
+        },
+        {
+          "id": "D",
+          "texto": "Eletrorretinograma."
+        },
+        {
+          "id": "E",
+          "texto": "Ressonância magnética de órbita."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **OCT (tomografia de coerência óptica)** utiliza laser para medir a espessura da camada de fibras nervosas ao redor do nervo óptico. O gráfico **TSNIT** (Temporal-Superior-Nasal-Inferior-Temporal) tem aspecto em **dupla corcova** no normal e permite comparação com banco de dados normativos, identificando áreas em borderline (amarelo) ou patológicas (vermelho).",
+      "referenciaAula": "Hoje nós conseguimos medir a espessura da camada de fibras nervosas através de um exame específico chamado OCT, tomografia de coerência óptica. Esse instrumento utiliza laser para conseguir medir a espessura da camada de fibras nervosas ao redor do disco óptico.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 595
+    },
+    {
+      "id": "Q-OF-07-009",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "campo visual",
+        "escotoma arqueado",
+        "progressão"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual a sequência mais típica de evolução dos defeitos de campo visual no glaucoma primário de ângulo aberto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Defeito altitudinal inferior abrupto, característico desde o início."
+        },
+        {
+          "id": "B",
+          "texto": "Hemianopsia bitemporal evoluindo para amaurose total."
+        },
+        {
+          "id": "C",
+          "texto": "Escotoma paracentral nasal superior → degrau nasal → escotoma arqueado, com preservação inicial da visão central e da periferia temporal."
+        },
+        {
+          "id": "D",
+          "texto": "Perda concêntrica desde o início, com preservação apenas da mancha cega."
+        },
+        {
+          "id": "E",
+          "texto": "Escotoma central isolado, sem comprometimento periférico em nenhuma fase."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O glaucoma costuma iniciar pelos polos **inferior** (mais comum) ou **superior** do disco. Por correlação inversa retina-campo, o defeito surge primeiro no **campo nasal superior** como **escotoma paracentral**, evolui para **degrau nasal** e **escotoma arqueado**. A **visão central (feixe papilomacular)** e a **ilha temporal** são as últimas a serem comprometidas.",
+      "referenciaAula": "Vamos lá. Esse indivíduo tem uma alteração do polo inferior do nervo ótico. Portanto, nós vamos começar a ter defeitos nessa região nasal superior a mancha cega. Esse é um defeito, um escotoma que nós chamamos um escotoma paracentral.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 968
+    },
+    {
+      "id": "Q-OF-07-010",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "tratamento clínico",
+        "análogos prostaglandinas",
+        "colírios"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual classe de colírios é considerada hoje a mais POTENTE para redução da pressão intraocular e atua aumentando o escoamento uveoescleral?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Betabloqueadores (timolol)."
+        },
+        {
+          "id": "B",
+          "texto": "Inibidores da anidrase carbônica tópicos."
+        },
+        {
+          "id": "C",
+          "texto": "Pilocarpina."
+        },
+        {
+          "id": "D",
+          "texto": "Análogos das prostaglandinas."
+        },
+        {
+          "id": "E",
+          "texto": "Alfa-agonistas."
+        }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Os **análogos das prostaglandinas** aumentam a drenagem do humor aquoso pela **via uveoescleral**, são os colírios mais **potentes** atualmente e têm a vantagem de uso **único diário**. Betabloqueadores, inibidores da anidrase carbônica e alfa-agonistas reduzem a produção; a pilocarpina aumenta a drenagem pela via trabecular.",
+      "referenciaAula": "Ou a gente pode aumentar o escoamento do moracoso, a drenagem do moracoso, seja pela viabecular ou convencional, através de um colírio chamado pilocarpina, ou através da via uvioescleral, utilizando análogos de prostaglandinas. Esses são os colírios hoje mais modernos e os mais potentes em relação à redução da pressão.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1248
+    },
+    {
+      "id": "Q-OF-07-011",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "trabeculectomia",
+        "cirurgia",
+        "bolha subconjuntival"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a trabeculectomia, cirurgia convencional para o glaucoma, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Consiste em substituir o cristalino opacificado por uma lente intraocular."
+        },
+        {
+          "id": "B",
+          "texto": "Cria uma fístula entre a câmara anterior e o espaço subconjuntival, formando bolha onde o humor aquoso é reabsorvido."
+        },
+        {
+          "id": "C",
+          "texto": "Reseca o nervo óptico para descomprimir o globo ocular."
+        },
+        {
+          "id": "D",
+          "texto": "É indicada como primeira linha em todos os pacientes com glaucoma de ângulo aberto."
+        },
+        {
+          "id": "E",
+          "texto": "Aumenta a produção de humor aquoso pelo corpo ciliar."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **trabeculectomia** cria uma **fístula** entre a câmara anterior e o espaço subconjuntival através de uma esclerectomia. O humor aquoso drena para o espaço subconjuntival formando uma **bolha** visível na conjuntiva, onde é reabsorvido. É indicada quando colírios e/ou laser falham em controlar a PIO.",
+      "referenciaAula": "A cirurgia convencional pro glaucoma chamada trabecolectomia, que nada mais é do que uma fístula que comunica a câmara anterior, aquele espaço entre a íris e a córnea, ao espaço subconjuntival. Observem na figura abaixo que essa cirurgia cria, forma uma bolha subconjuntival.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1309
+    },
+    {
+      "id": "Q-OF-07-012",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "trabeculoplastia",
+        "laser",
+        "tratamento"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A trabeculoplastia a laser no glaucoma de ângulo aberto tem como objetivo:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Destruir parte do corpo ciliar para reduzir a produção de humor aquoso."
+        },
+        {
+          "id": "B",
+          "texto": "Realizar disparos na malha trabecular para aumentar o escoamento do humor aquoso por essa via."
+        },
+        {
+          "id": "C",
+          "texto": "Criar uma íris artificial."
+        },
+        {
+          "id": "D",
+          "texto": "Promover descolamento controlado da retina."
+        },
+        {
+          "id": "E",
+          "texto": "Fotocoagular áreas de neovascularização macular."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **trabeculoplastia a laser** (argônio ou diodo) realiza disparos na **malha trabecular** para **aumentar o escoamento** do humor aquoso por essa via. Pode ser proposta inclusive como tratamento inicial, evitando efeitos colaterais e a aderência diária a colírios.",
+      "referenciaAula": "A outra possibilidade é utilizar laser e realizar um procedimento chamado trabeculoplastia a laser. Nesse procedimento a gente utiliza laser de argônio ou diodo e faz disparos na malha trambecular para isso aumentar o escoamento do moracoso através da malha trabecular e com isso reduzir a pressão introcular.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1260
+    },
+    {
+      "id": "Q-OF-07-013",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "caso clínico",
+        "glaucoma primário ângulo aberto",
+        "fatores de risco"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem negro de 62 anos, assintomático, com história familiar positiva para glaucoma, vai a consulta de rotina. Acuidade 20/20 sem correção, PIO 28 mmHg em ambos os olhos, escavação 0,7/0,7, campo visual com escotomas paracentrais e OCT com áreas em vermelho. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas observação clínica, sem necessidade de tratamento, dado que está assintomático."
+        },
+        {
+          "id": "B",
+          "texto": "Iniciar colírio análogo de prostaglandina (uma vez ao dia) e/ou considerar trabeculoplastia a laser; cirurgia se PIO não controlar."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar trabeculectomia imediatamente, como primeira linha."
+        },
+        {
+          "id": "D",
+          "texto": "Prescrever corticoide tópico para reduzir inflamação."
+        },
+        {
+          "id": "E",
+          "texto": "Encaminhar para cirurgia de catarata como tratamento do glaucoma."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O paciente reúne três fatores de risco (idade >40 anos, negro, histórico familiar) e já apresenta lesão estrutural (escavação aumentada, OCT alterado) e funcional (escotomas paracentrais) com PIO elevada. O tratamento inicial é **redução da PIO**, geralmente com **análogos das prostaglandinas** (mais potentes, uso 1x/dia) ou **laser** como alternativa. A cirurgia fica reservada para falha do tratamento clínico.",
+      "referenciaAula": "Geralmente a gente inicia com próstaglandinas, que são os colírios mais potentes e que são utilizados apenas uma vez ao dia. Eventualmente a gente pode oferecer para esse para esse paciente laser como tratamento inicial.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1422
+    },
+    {
+      "id": "Q-OF-07-014",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "glaucoma agudo",
+        "fechamento angular",
+        "caso clínico"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher branca de 68 anos, hipermétrope, chega ao pronto-socorro com dor ocular intensa, náuseas e visão embaçada no olho esquerdo há 6 horas. Exame: olho vermelho, pupila semidilatada, córnea edemaciada e opaca, PIO 48 mmHg. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uveíte anterior aguda."
+        },
+        {
+          "id": "B",
+          "texto": "Glaucoma agudo de ângulo fechado por bloqueio pupilar."
+        },
+        {
+          "id": "C",
+          "texto": "Conjuntivite bacteriana grave."
+        },
+        {
+          "id": "D",
+          "texto": "Ceratite herpética."
+        },
+        {
+          "id": "E",
+          "texto": "Neurite óptica retrobulbar."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro é típico de **glaucoma agudo de ângulo fechado**: mulher acima de 40 anos, **hipermétrope** (olho pequeno), com dor ocular intensa, náuseas, olho vermelho, **pupila semidilatada**, **córnea edemaciada** pela PIO elevadíssima e PIO 48 mmHg. O mecanismo é o **bloqueio pupilar**, com a íris obstruindo a passagem do humor aquoso pela pupila.",
+      "referenciaAula": "Então isso é o que a gente chama de um quadro de glaucoma agudo, que tipicamente acontece em mulheres hipermétropes, mulheres com olhos menores.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1530
+    },
+    {
+      "id": "Q-OF-07-015",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "gonioscopia",
+        "ângulo câmara anterior",
+        "diagnóstico"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Qual o exame oftalmológico específico para avaliar o ângulo da câmara anterior, fundamental para diferenciar glaucoma de ângulo aberto e ângulo fechado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tonometria de aplanação."
+        },
+        {
+          "id": "B",
+          "texto": "Gonioscopia."
+        },
+        {
+          "id": "C",
+          "texto": "Campimetria computadorizada."
+        },
+        {
+          "id": "D",
+          "texto": "OCT macular."
+        },
+        {
+          "id": "E",
+          "texto": "Angiografia fluoresceínica."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **gonioscopia** é o exame em que se encosta uma lente especial no olho do paciente (após anestesia tópica) para visualizar o **ângulo da câmara anterior**. Permite classificar como **aberto** (acesso fácil do humor aquoso à malha trabecular) ou **fechado** (íris obstruindo). É fundamental no diagnóstico do glaucoma de ângulo fechado.",
+      "referenciaAula": "O diagnóstico é feito pelo quadro clínico e a gente faz um exame específico chamado goneoscopia para avaliar o ângulo da câmara anterior. Agonoscopia. Esse exame feito com essa lente que a gente encosta no olho do paciente após anestesia e ela permite que a gente diga se esse paciente tem um ângulo aberto ou um ângulo fechado.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1574
+    },
+    {
+      "id": "Q-OF-07-016",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "glaucoma agudo",
+        "tratamento",
+        "iridotomia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Após resolução de uma crise de glaucoma agudo por bloqueio pupilar com medicações sistêmicas (acetazolamida, manitol) e pilocarpina, qual o procedimento DEFINITIVO indicado para prevenir nova crise?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trabeculectomia bilateral imediata."
+        },
+        {
+          "id": "B",
+          "texto": "Manter apenas pilocarpina tópica indefinidamente, sem outras intervenções."
+        },
+        {
+          "id": "C",
+          "texto": "Iridotomia a laser no olho acometido e também no olho contralateral, criando comunicação direta entre câmara posterior e anterior."
+        },
+        {
+          "id": "D",
+          "texto": "Capsulotomia posterior a laser."
+        },
+        {
+          "id": "E",
+          "texto": "Vitrectomia posterior bilateral."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Após controle emergencial da PIO, indica-se **iridotomia a laser** — um pequeno furo na íris que **comunica diretamente a câmara posterior com a anterior**, criando um atalho para o humor aquoso. Mesmo havendo bloqueio pupilar, o humor aquoso passa pela iridotomia, impedindo nova crise. Deve ser feita **bilateralmente**, pois o olho contralateral tem mesma anatomia de risco.",
+      "referenciaAula": "Nós vamos fazer um furinho na ías, que hoje em dia é feito a laser. A gente criou um atalho pro mcoso passar da câmara posterior pra câmara anterior. Portanto, nós estamos prevenindo um glaucoma agudo. Isso deve ser feito não só no olho que teve a crise, mas no olho contralateral também.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1676
+    },
+    {
+      "id": "Q-OF-07-017",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "glaucoma congênito",
+        "buftalmo",
+        "caso clínico"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Lactente de 6 meses é encaminhado pelo pediatra com aumento do diâmetro corneano, opacidade e lacrimejamento constante. Os pais relatam casamento consanguíneo. Qual é o diagnóstico mais provável e o tratamento de escolha?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Obstrução congênita da via lacrimal; massagem do saco lacrimal."
+        },
+        {
+          "id": "B",
+          "texto": "Conjuntivite neonatal; colírio antibiótico."
+        },
+        {
+          "id": "C",
+          "texto": "Glaucoma congênito; tratamento cirúrgico com goniotomia ou trabeculotomia."
+        },
+        {
+          "id": "D",
+          "texto": "Catarata congênita; cirurgia de facectomia imediata."
+        },
+        {
+          "id": "E",
+          "texto": "Retinoblastoma; enucleação."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O quadro é típico de **glaucoma congênito**: malformação do sistema de drenagem, com fibras colágenas elásticas (até 3-4 anos), causando **megalocórnea**, **buftalmo** (olho de boi), córnea **opaca/azulada** e **lacrimejamento constante**. **Casamento consanguíneo** é fator de risco (herança autossômica recessiva). Diferentemente do adulto, o **tratamento é SEMPRE cirúrgico**, com **goniotomia** ou **trabeculotomia**.",
+      "referenciaAula": "Existe glaucoma na criança, o que a gente chama de glaucoma congênito. A córnea aumenta de tamanho, o que a gente chama de megalocórnea. O olho aumenta de tamanho como um todo, que a gente chama de buftalmo ou olho de boi. O tratamento é sempre cirúrgico, uma cirurgia chamada goniotomia ou trabecolotomia.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1721
+    },
+    {
+      "id": "Q-OF-07-018",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "campo visual",
+        "cegueira irreversível",
+        "feixe papilomacular"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com glaucoma avançado apresenta escotomas arqueados superior e inferior completos, mas mantém visão central preservada (20/20) e ilha temporal. Na progressão da doença, qual será a PRÓXIMA zona do campo visual a ser comprometida?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A periferia temporal, que será perdida antes da região central."
+        },
+        {
+          "id": "B",
+          "texto": "A região central do campo visual (feixe papilomacular), com instalação de cegueira irreversível, antes da perda da ilha temporal."
+        },
+        {
+          "id": "C",
+          "texto": "O escotoma da mancha cega fisiológica, que se expandirá."
+        },
+        {
+          "id": "D",
+          "texto": "Não haverá nova progressão se o paciente mantém 20/20."
+        },
+        {
+          "id": "E",
+          "texto": "O paciente recuperará espontaneamente o campo perdido."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Contraintuitivamente, na progressão do glaucoma a próxima zona acometida **não é a periferia temporal**, mas sim a **região central** do campo visual (feixe papilomacular), gerando **cegueira central irreversível**. O paciente fica apenas com a **ilha temporal**, capaz de ver vultos. Só depois disso perde a ilha temporal e fica sem percepção luminosa.",
+      "referenciaAula": "Qual é o próximo a a próxima zona a ser acometida? Normalmente as pessoas são otimistas e acham que a região temporal vai ser acometida e somente depois a região central. Infelizmente isso não acontece. A região próxima que vai ser acometida é a região central do campo visual. E nessa hora nós temos cegueira irreversível causada por glaucoma.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1107
+    },
+    {
+      "id": "Q-OF-07-019",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "rastreamento",
+        "fatores de risco",
+        "prevenção"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre o rastreamento do glaucoma primário de ângulo aberto, qual a conduta MAIS APROPRIADA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Exame oftalmológico apenas quando o paciente referir queixa visual."
+        },
+        {
+          "id": "B",
+          "texto": "Exame anual após 40 anos, especialmente em pacientes com idade avançada, raça negra, parentes com glaucoma e miopia acima de 6 graus, com medida de PIO, avaliação do disco óptico e campo visual nos casos suspeitos."
+        },
+        {
+          "id": "C",
+          "texto": "Triagem populacional universal a partir dos 10 anos de idade."
+        },
+        {
+          "id": "D",
+          "texto": "Apenas medir a pressão arterial sistêmica, pois ela determina a PIO."
+        },
+        {
+          "id": "E",
+          "texto": "Rastrear apenas em pacientes diabéticos, já que glaucoma é complicação direta do diabetes."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O glaucoma é **assintomático** até fases tardias; quando os sintomas aparecem, o dano é **irreversível**. A prevenção se faz com **exame oftalmológico anual após os 40 anos**, especialmente em pacientes com fatores de risco: **idade avançada, raça negra, parentes de primeiro grau com glaucoma e miopia acima de 6 graus**. O exame inclui tonometria, avaliação do disco e campo visual nos casos suspeitos.",
+      "referenciaAula": "Então, o segredo para você não ter esse problema é a prevenção. Prevenção feita através de um exame de rotina após os 40 anos, principalmente em pacientes com maior risco. Vamos lembrar aqueles pacientes de maior risco, idade mais avançada, negros, pacientes com parentes com glaucoma e milps acima de 6º. Esses pacientes têm que ter um exame oftalmológico uma vez por ano após os 40 anos.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1166
+    },
+    {
+      "id": "Q-OF-07-020",
+      "aulaOrigem": 7,
+      "blocos": ["OFD"],
+      "eixos": [],
+      "tags": [
+        "doença crônica",
+        "controle",
+        "ausência de cura"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente de 60 anos com glaucoma primário de ângulo aberto controlado com colírio análogo de prostaglandina há 2 anos, com PIO de 16 mmHg, campo visual estável. Após melhora dos parâmetros, pergunta ao médico se pode suspender o tratamento. Qual a melhor orientação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pode suspender após 2 anos sem progressão; o glaucoma estará curado."
+        },
+        {
+          "id": "B",
+          "texto": "O glaucoma é doença crônica para o resto da vida; não há cura, apenas controle. Deve manter o tratamento e seguimento regular para evitar progressão e cegueira."
+        },
+        {
+          "id": "C",
+          "texto": "Trocar o colírio por um antibiótico tópico para erradicar a doença."
+        },
+        {
+          "id": "D",
+          "texto": "Trocar imediatamente por trabeculectomia, pois o controle clínico nunca é definitivo."
+        },
+        {
+          "id": "E",
+          "texto": "Suspender o colírio e fazer exame apenas a cada 5 anos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**Glaucoma é uma doença crônica para o resto da vida**: **não existe cura, apenas controle**. O paciente deve participar ativamente do tratamento (uso correto dos colírios) e manter seguimento regular para que não ocorra progressão. A suspensão indevida pode levar à elevação da PIO e à perda irreversível do campo visual.",
+      "referenciaAula": "Glaucoma, vale lembrar, é uma doença crônica pro resto da vida. Não existe cura para glaucoma, existe controle. E para isso é importante que o paciente participe do tratamento e que o médico saiba também orientar esse tratamento para que não ocorra progressão.",
+      "transversal": false,
+      "videoAulaId": 7,
+      "videoStartSec": 1465
+    }
+  ]
+}

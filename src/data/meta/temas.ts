@@ -29,6 +29,14 @@ export const TEMAS: Tema[] = [
     questoes: 260,
     ativo: true,
   },
+  {
+    id: 'oftalmo',
+    nome: 'Oftalmologia',
+    descricao: '9 aulas, 180 questões',
+    slug: 'oftalmo',
+    questoes: 180,
+    ativo: true,
+  },
 ];
 
 export const TEMA_BY_SLUG = (slug: string) => TEMAS.find((t) => t.slug === slug);

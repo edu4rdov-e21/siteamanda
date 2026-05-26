@@ -1,0 +1,887 @@
+{
+  "aulaId": 8,
+  "titulo": "Manifestações Oculares em Doenças Sistêmicas",
+  "questoes": [
+    {
+      "id": "Q-OF-08-001",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "diabetes",
+        "rastreio",
+        "fundo de olho"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre o rastreio de retinopatia diabética, qual a recomendação CORRETA para o paciente com diabetes tipo 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Avaliação de fundo de olho somente após 5 anos do diagnóstico."
+        },
+        {
+          "id": "B",
+          "texto": "Avaliação de fundo de olho já ao diagnóstico, pois não se sabe há quanto tempo a doença está presente."
+        },
+        {
+          "id": "C",
+          "texto": "Avaliação apenas se houver baixa de visão."
+        },
+        {
+          "id": "D",
+          "texto": "Avaliação a cada 5 anos, independentemente do tempo de doença."
+        },
+        {
+          "id": "E",
+          "texto": "Rastreio anual de imagem por ressonância magnética da órbita."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "No **diabetes tipo 2**, como o início é insidioso e o paciente pode já ter a doença há vários anos sem diagnóstico, recomenda-se **fundo de olho já no momento do diagnóstico**. Já no tipo 1, o começo é mais agudo e a recomendação é avaliação após **5 anos** de doença. Depois disso, em geral o seguimento é anual, encurtando o intervalo conforme a gravidade da retinopatia.",
+      "referenciaAula": "O diabético do tipo dois, ele tem que ser avaliado já o diagnóstico. Você não sabe desde quando ele tem a doença, ele pode já ter há bastante tempo e nunca ter sido diagnosticado.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 644
+    },
+    {
+      "id": "Q-OF-08-002",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "diabetes",
+        "edema macular",
+        "baixa visão"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Qual é a causa mais comum de baixa de visão na retinopatia diabética?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hemorragia vítrea."
+        },
+        {
+          "id": "B",
+          "texto": "Descolamento de retina tracional."
+        },
+        {
+          "id": "C",
+          "texto": "Edema macular (inchaço da parte central da retina)."
+        },
+        {
+          "id": "D",
+          "texto": "Catarata diabética."
+        },
+        {
+          "id": "E",
+          "texto": "Glaucoma neovascular."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Apesar de a **hemorragia** e a **tração por proliferação vascular** poderem reduzir a visão, a **causa mais comum de baixa de visão na retinopatia diabética** é o **edema macular** — o inchaço da parte central da retina. O tratamento envolve laser e/ou injeções intravítreas (anti-VEGF).",
+      "referenciaAula": "principalmente a causa mais comum de baixa divisão, um edema, um inchaço na parte central e da retina.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 503
+    },
+    {
+      "id": "Q-OF-08-003",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "diabetes",
+        "refração",
+        "cristalino"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Paciente que retorna várias vezes ao oftalmologista por flutuação da visão e troca frequente de óculos pode estar manifestando precocemente qual doença sistêmica?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipertensão arterial sistêmica."
+        },
+        {
+          "id": "B",
+          "texto": "Diabetes mellitus."
+        },
+        {
+          "id": "C",
+          "texto": "Esclerose múltipla."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome de Sjögren."
+        },
+        {
+          "id": "E",
+          "texto": "Sífilis terciária."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **flutuação da glicemia** altera o **cristalino**, levando a **mudanças refracionais agudas**. O paciente percebe que o grau dos óculos parece mudar de uma semana para outra. Esse é um dos primeiros sinais de **diabetes** e, frequentemente, o oftalmologista é o primeiro a levantar a suspeita diagnóstica.",
+      "referenciaAula": "Um dos primeiros sinais de que o paciente tá desenvolvendo diabetes, que ele tá com quadro diabetes, é que ele começa a ter flutuação da visão. A flutuação da glicemia leva a alteração do cristalino com alteração refracional relativamente aguda.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 356
+    },
+    {
+      "id": "Q-OF-08-004",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "retinopatia hipertensiva",
+        "cruzamento patológico",
+        "fio de cobre"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Sobre os achados de fundo de olho na retinopatia hipertensiva, qual descrição está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vasos em fio de cobre correspondem ao aumento do reflexo dorsal das artérias."
+        },
+        {
+          "id": "B",
+          "texto": "Os cruzamentos patológicos surgem quando a artéria passa pela veia em ângulo de 45º normalmente."
+        },
+        {
+          "id": "C",
+          "texto": "Vaso em fio de prata corresponde a uma veia totalmente dilatada."
+        },
+        {
+          "id": "D",
+          "texto": "Estreitamento arteriolar difuso indica hipotensão arterial."
+        },
+        {
+          "id": "E",
+          "texto": "Exsudatos algodonosos correspondem a depósitos lipídicos crônicos."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Os **fios de cobre** representam um **aumento do reflexo dorsal arteriolar**. Quando o vaso fica praticamente obstruído, vira **fio de prata**. Os **cruzamentos patológicos** ocorrem quando o ângulo arteriovenoso, antes de cerca de 45°, se retifica para perto de 90°, com compressão da veia. **Estreitamento arteriolar difuso** sugere vasoconstrição por aumento súbito de pressão e os **exsudatos algodonosos** correspondem a áreas de **isquemia** da retina.",
+      "referenciaAula": "os fios de cobre, que é um aumento do reflexo dorsal eh das artérias. O vaso que fica praticamente obstruído, ele vira um vaso em fio de prata.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1049
+    },
+    {
+      "id": "Q-OF-08-005",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "hemorragia subconjuntival",
+        "causa",
+        "microtrauma"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "Em relação à hemorragia subconjuntival, qual afirmação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "É sempre indicativa de pico hipertensivo agudo."
+        },
+        {
+          "id": "B",
+          "texto": "Acomete tipicamente a acuidade visual de forma grave."
+        },
+        {
+          "id": "C",
+          "texto": "A causa mais comum são microtraumas, embora possa ser sinal de hipertensão crônica em idosos."
+        },
+        {
+          "id": "D",
+          "texto": "É contraindicada qualquer investigação adicional, mesmo em episódios repetidos."
+        },
+        {
+          "id": "E",
+          "texto": "É manifestação típica de retinopatia diabética proliferativa."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **hemorragia subconjuntival** assusta pela aparência, mas em geral **não afeta a acuidade visual**. A causa mais comum são **microtraumas**, frequentes em idosos por alterações vasculares (aterosclerose). Pode ser sinal de **hipertensão crônica** levando a fragilidade vascular. **Hemorragias repetidas** devem motivar investigação de problemas vasculares ou hematológicos.",
+      "referenciaAula": "normalmente a hemorragia subcongival a causa mais comum e mais frequente são microtraumas, e que eh isso acaba acontecendo mais nos idosos por conta da aterosclerose.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 990
+    },
+    {
+      "id": "Q-OF-08-006",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "doença de Graves",
+        "tireoide",
+        "proptose"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A manifestação ocular mais comum nas disfunções hormonais é a doença de Graves. Qual achado é típico dessa condição?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ptose palpebral bilateral progressiva."
+        },
+        {
+          "id": "B",
+          "texto": "Proptose com retração palpebral, espessamento dos músculos extraoculares e infiltração da gordura orbitária."
+        },
+        {
+          "id": "C",
+          "texto": "Enoftalmo bilateral com hipotireoidismo associado."
+        },
+        {
+          "id": "D",
+          "texto": "Catarata congênita bilateral."
+        },
+        {
+          "id": "E",
+          "texto": "Hemorragia subconjuntival recorrente."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **doença de Graves** cursa com **espessamento muscular**, **infiltração da gordura orbitária**, **proptose** e **retração palpebral**, dando o aspecto de olho \"super aberto\". O aumento de pressão intraorbitária pode causar **neuropatia óptica compressiva** e, pela exposição corneana, **úlceras de córnea**. Pode requerer corticoide, radioterapia ou descompressão cirúrgica.",
+      "referenciaAula": "O mais comum é você ter um espessamento dos músculos, você tem uma infiltração dos músculos, uma infiltração da gordura, o olho fica proptótico e, principalmente, a pálpebra fica retraída.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1264
+    },
+    {
+      "id": "Q-OF-08-007",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "retinopatia diabética",
+        "fisiopatologia",
+        "neovascularização"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a fisiopatologia da retinopatia diabética, qual sequência descreve melhor a progressão da doença?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Hipertrofia pericitária → vasodilatação → exsudatos duros isolados."
+        },
+        {
+          "id": "B",
+          "texto": "Lesão de pericitos e endotélio → obstrução vascular e aumento de permeabilidade → hemorragias, microaneurismas e exsudatos → proliferação vascular anormal e descolamento de retina."
+        },
+        {
+          "id": "C",
+          "texto": "Atrofia inicial do nervo óptico → exsudatos → descolamento exsudativo."
+        },
+        {
+          "id": "D",
+          "texto": "Inflamação primária da úvea → catarata → neovascularização."
+        },
+        {
+          "id": "E",
+          "texto": "Trombose venosa central → hemorragia em chama → mácula em cereja."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Na **retinopatia diabética**, a lesão inicial é dos **pericitos e células endoteliais**, com obstrução vascular e aumento de permeabilidade. Surgem **microaneurismas, hemorragias, exsudatos duros e algodonosos**. No quadro mais grave (proliferativa) há **neovascularização**, podendo levar a **descolamento de retina tracional** e perda de visão.",
+      "referenciaAula": "Você vai tendo lesões de pericitos, você vai tendo lesões de células endoteliais, você vai tendo obstrução vascular, você vai tendo aumento de permeabilidade vascular com hemorragias, miconeurismas, exodatos algodonosos, exodatos duros. E por fim você vai pro quadro mais grave com proliferação vascular anormal, descolamento de retina e perda da visão.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 262
+    },
+    {
+      "id": "Q-OF-08-008",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "diabetes",
+        "gestante",
+        "rastreio"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Gestante diabética é encaminhada à oftalmologia para definição de seguimento. Qual a recomendação MAIS apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas uma avaliação ao final da gestação."
+        },
+        {
+          "id": "B",
+          "texto": "Avaliação no primeiro trimestre e, depois, mensal no terceiro trimestre."
+        },
+        {
+          "id": "C",
+          "texto": "Avaliações semanais durante toda a gestação."
+        },
+        {
+          "id": "D",
+          "texto": "Avaliação apenas se houver baixa de visão."
+        },
+        {
+          "id": "E",
+          "texto": "Avaliação somente no puerpério, com 6 semanas pós-parto."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Pacientes diabéticas que engravidam (ou desenvolvem diabetes na gestação) devem ser avaliadas **no primeiro trimestre** e, depois, **mensalmente no terceiro trimestre**, pelo risco de progressão acelerada da retinopatia. A avaliação no segundo trimestre não é obrigatória, embora alguns lugares a recomendem.",
+      "referenciaAula": "essas pacientes elas têm que ser examinadas uma vez no primeiro trimestre e depois eh todo mês no terceiro trimestre, por conta dos riscos aí que você tem.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 715
+    },
+    {
+      "id": "Q-OF-08-009",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "diabetes",
+        "nervo craniano",
+        "estrabismo agudo"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 58 anos, diabético, queixa-se de diplopia binocular e estrabismo de início agudo. Qual o mecanismo MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Miastenia gravis ocular."
+        },
+        {
+          "id": "B",
+          "texto": "Aneurisma da artéria comunicante posterior."
+        },
+        {
+          "id": "C",
+          "texto": "Isquemia de nervo craniano (III, IV ou VI) por microangiopatia diabética."
+        },
+        {
+          "id": "D",
+          "texto": "Esclerose múltipla com neurite óptica."
+        },
+        {
+          "id": "E",
+          "texto": "Trombose de seio cavernoso."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "O diabetes pode causar **isquemia dos nervos cranianos** que controlam a motricidade ocular (**III oculomotor, IV troclear e VI abducente**). O paciente apresenta **estrabismo de aparecimento agudo no adulto** com diplopia. Esse é um achado típico e reversível na maioria dos casos.",
+      "referenciaAula": "qualquer um desses pode ter um quadro de isquemia e você ter alterações aí, desvios oculares, estrabismos de aparecimento agudo no adulto.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 325
+    },
+    {
+      "id": "Q-OF-08-010",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "GLP-1",
+        "semaglutida",
+        "neuropatia óptica isquêmica"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Recentemente, tem sido associado risco aumentado de neuropatia óptica isquêmica não arterítica (NAION) ao uso de qual classe de medicamentos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Inibidores da bomba de prótons."
+        },
+        {
+          "id": "B",
+          "texto": "Análogos de GLP-1 (semaglutida, liraglutida) usados no diabetes e na obesidade."
+        },
+        {
+          "id": "C",
+          "texto": "Estatinas em monoterapia."
+        },
+        {
+          "id": "D",
+          "texto": "Antagonistas do receptor H2."
+        },
+        {
+          "id": "E",
+          "texto": "Beta-bloqueadores cardioseletivos."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Os **análogos de GLP-1** (semaglutida, liraglutida), inicialmente usados para diabetes e hoje muito empregados no tratamento da obesidade, têm sido associados a **maior risco de neuropatia óptica isquêmica não arterítica (NAION)**, que corresponde a um **infarto da cabeça do nervo óptico** e cursa com perda visual.",
+      "referenciaAula": "Essa neuropatia ótica, por exemplo, é a é a causa que tá se falando hoje em dia de baixa divisão em pacientes que recebem eh os eh as aquelas aquelas injeções que foram feitas para diabetes, mas que o pessoal tá usando eh antiobesidade, né, as glutidas, né, semaglutida, liraglutida.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 588
+    },
+    {
+      "id": "Q-OF-08-011",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "oclusão arterial",
+        "mácula em cereja",
+        "AVC"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 72 anos, hipertensa, com perda súbita e indolor da visão à direita há 2 horas. Fundo de olho: retina esbranquiçada, pálida, com edema e \"mácula em cereja\". Qual a conduta MAIS apropriada, segundo a tendência atual?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas observação clínica e colírio lubrificante."
+        },
+        {
+          "id": "B",
+          "texto": "Tratamento como AVC isquêmico, considerar trombólise venosa dentro da janela de 4h30min, em conjunto com a neurologia."
+        },
+        {
+          "id": "C",
+          "texto": "Injeção intravítrea de anti-VEGF como tratamento de primeira linha."
+        },
+        {
+          "id": "D",
+          "texto": "Fotocoagulação retiniana com laser de imediato."
+        },
+        {
+          "id": "E",
+          "texto": "Iniciar corticoide tópico em altas doses."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro descreve **oclusão da artéria central da retina** — êmbolo impactando o vaso, geralmente de origem carotídea. A Associação Americana de Neurologia hoje recomenda tratar como **AVC isquêmico**, considerando **trombólise venosa** dentro da janela de **4h30min**, com avaliação da neurologia. A avaliação carotídea é mandatória.",
+      "referenciaAula": "se você pegar dentro da janela de até 4:30 um quadro de oclusão de artéria central da retina, eh a Associação Americana de de Neurologia recomenda que se que seja feito a a trombólise venosa.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1102
+    },
+    {
+      "id": "Q-OF-08-012",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "oclusão venosa",
+        "isquêmica",
+        "anti-VEGF"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a oclusão da veia central da retina (OVCR), qual afirmação está CORRETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tem duas formas (isquêmica e não isquêmica); a forma isquêmica cursa com visão muito baixa desde o início e pior prognóstico."
+        },
+        {
+          "id": "B",
+          "texto": "A forma isquêmica apresenta visão preservada com retina pálida."
+        },
+        {
+          "id": "C",
+          "texto": "É manejada com trombólise venosa endovenosa em todos os casos."
+        },
+        {
+          "id": "D",
+          "texto": "Nunca cursa com neovascularização secundária."
+        },
+        {
+          "id": "E",
+          "texto": "É contraindicado o uso de anti-VEGF intravítreo."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Na **OVCR isquêmica**, o acúmulo de sangue na retina prejudica a irrigação, e a visão já é muito baixa desde o início (pior que 20/200). Na **forma não isquêmica**, a visão é melhor e há mais chance de recuperação com tratamento. **Anti-VEGF intravítreo** é a base terapêutica em pacientes com prognóstico visual; em fases avançadas, **laser** é usado para prevenir complicações como **glaucoma neovascular**.",
+      "referenciaAula": "a forma isquêmica e a forma não isquêmica. Eh, a forma isquêmica, a visão desde o começo já é muito baixa, pior que 20. Na forma não isquêmica, ele tem ele consegue ver algumas das letras e eh com isso você tem mais chance de com o tratamento reverter o quadro.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1170
+    },
+    {
+      "id": "Q-OF-08-013",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "uveíte",
+        "espondilite anquilosante",
+        "HLA-B27"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 32 anos, com dor lombar crônica e rigidez matinal, apresenta episódios recorrentes de olho vermelho doloroso, fotofobia e baixa visão. Qual o diagnóstico sistêmico MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Artrite reumatoide soropositiva."
+        },
+        {
+          "id": "B",
+          "texto": "Espondilite anquilosante (uveíte anterior recorrente associada à sacroileíte)."
+        },
+        {
+          "id": "C",
+          "texto": "Síndrome de Sjögren primária."
+        },
+        {
+          "id": "D",
+          "texto": "Lúpus eritematoso sistêmico."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Graves."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A **uveíte anterior recorrente** é uma manifestação clássica da **espondilite anquilosante** — homens jovens com dor lombar crônica e rigidez (sacroileíte). Em muitos casos, o **diagnóstico sistêmico é firmado a partir do quadro ocular**. A artrite reumatoide tipicamente cursa com olho seco e ceratite, e não com uveíte anterior recorrente.",
+      "referenciaAula": "Uma outra forma de uveite é é a que vem junto com a espondilite anquilosante. muitas vezes o diagnóstico é feito pelo quadro ocular, por esse quadro dessa veite anterior crônica, né? Eh, que vai acontecer junto com a sacroileite.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1517
+    },
+    {
+      "id": "Q-OF-08-014",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "Behçet",
+        "hipópio",
+        "uveíte"
+      ],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Em qual das doenças autoimunes a seguir é típico o achado de hipópio (depósito inflamatório, semelhante a pus, na câmara anterior) na ausência de infecção?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Artrite reumatoide."
+        },
+        {
+          "id": "B",
+          "texto": "Esclerose múltipla."
+        },
+        {
+          "id": "C",
+          "texto": "Doença de Behçet."
+        },
+        {
+          "id": "D",
+          "texto": "Síndrome de Sjögren."
+        },
+        {
+          "id": "E",
+          "texto": "Sarcoidose pulmonar."
+        }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A **doença de Behçet** cursa com **vasculites** e é uma das **poucas doenças não infecciosas que cursam com hipópio** — depósito inflamatório, semelhante a pus, na câmara anterior. Acomete tanto a parte anterior do olho (uveíte) quanto a retina (vasculite retiniana). O diagnóstico sistêmico frequentemente é levantado pelo oftalmologista.",
+      "referenciaAula": "na doença de BC, é um paciente que ele vai desenvolver o que a gente chama de pópio, que é aquele depósito inflamatório, como se fosse pul na câmara anterior do olho. E é uma das poucas doenças que sem infecção vai dar essa presença de de hipópio.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1483
+    },
+    {
+      "id": "Q-OF-08-015",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "Sjögren",
+        "olho seco",
+        "boca seca"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Mulher, 55 anos, com queixa de olho seco intenso e xerostomia há 1 ano, apresenta artralgia leve. Qual o diagnóstico MAIS provável?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doença de Behçet."
+        },
+        {
+          "id": "B",
+          "texto": "Síndrome de Sjögren (xerostomia + xeroftalmia por ataque inflamatório às glândulas salivares e lacrimais)."
+        },
+        {
+          "id": "C",
+          "texto": "Esclerose múltipla."
+        },
+        {
+          "id": "D",
+          "texto": "Doença de Graves."
+        },
+        {
+          "id": "E",
+          "texto": "Doença do enxerto contra hospedeiro."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "A combinação de **olho seco (xeroftalmia) e boca seca (xerostomia)** é típica da **síndrome de Sjögren**, em que há ataque inflamatório autoimune às **glândulas lacrimais e salivares**, com redução da produção de lágrima e saliva. É frequentemente associada a outras doenças autoimunes.",
+      "referenciaAula": "O paciente tem olho seco e boca seca é síndrome de jogre, né? A xerostalmia e a xerofitalmia o olho seco, tá? Você tem um processo inflamatório que ataca as glândulas salivares e as glândulas lacrimais com diminuição da produção de lágrima.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1599
+    },
+    {
+      "id": "Q-OF-08-016",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "hidroxicloroquina",
+        "maculopatia",
+        "bull's eye"
+      ],
+      "dificuldade": "media",
+      "tipo": "caso_clinico",
+      "enunciado": "Paciente com lúpus em uso crônico de hidroxicloroquina há vários anos é encaminhada à oftalmologia. Qual complicação ocular específica deve ser ativamente rastreada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Glaucoma de ângulo fechado agudo."
+        },
+        {
+          "id": "B",
+          "texto": "Maculopatia em alvo (tipo \"bull's eye\"), com depósito tóxico na região central da retina."
+        },
+        {
+          "id": "C",
+          "texto": "Catarata subcapsular anterior bilateral."
+        },
+        {
+          "id": "D",
+          "texto": "Conjuntivite alérgica crônica."
+        },
+        {
+          "id": "E",
+          "texto": "Síndrome do olho seco evaporativa."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Após anos de uso, a **hidroxicloroquina** pode causar **depósito tóxico na região central da retina**, configurando a **maculopatia em alvo (\"bull's eye\")**. O rastreio precoce é fundamental para suspender o tratamento antes que a perda visual se torne irreversível.",
+      "referenciaAula": "depois de alguns anos de uso, né, não é um uso curto, não é uso em pouco tempo, você pode ter um depósito na região central, na região da mácula, e ter eh o que a gente chama de maculopatia em alvo, né, maculopatia tipo bull.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1665
+    },
+    {
+      "id": "Q-OF-08-017",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "corticoide",
+        "iatrogenia",
+        "glaucoma",
+        "catarata"
+      ],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O uso crônico de corticoide (tópico ou sistêmico) está classicamente associado a quais duas complicações oculares?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Conjuntivite alérgica e blefarite."
+        },
+        {
+          "id": "B",
+          "texto": "Glaucoma e catarata."
+        },
+        {
+          "id": "C",
+          "texto": "Uveíte e ceratite herpética."
+        },
+        {
+          "id": "D",
+          "texto": "Descolamento de retina e degeneração macular."
+        },
+        {
+          "id": "E",
+          "texto": "Estrabismo e ambliopia."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O uso crônico de **corticoide**, principalmente o tópico (colírio), mas também o sistêmico, está classicamente associado a **glaucoma** (aumento da pressão intraocular com lesão do nervo óptico) e a **catarata**. Esses pacientes precisam de monitorização oftalmológica regular.",
+      "referenciaAula": "duas principais complicações. Eh, o aparecimento de glaucoma, pressão alta no olho que leva a lesão do nervo ótico, e o aparecimento de catarata.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1714
+    },
+    {
+      "id": "Q-OF-08-018",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "Marfan",
+        "ectopia lentis",
+        "biomicroscopia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Adolescente alto, longilíneo, com hipermobilidade articular e sopro cardíaco, é encaminhado ao oftalmologista. À biomicroscopia (lâmpada de fenda) observa-se cristalino deslocado superiormente e temporalmente. Qual a conduta e implicação clínica MAIS apropriada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tranquilizar o paciente, pois o achado é isolado e benigno."
+        },
+        {
+          "id": "B",
+          "texto": "Fechar o diagnóstico de síndrome de Marfan e investigar aneurisma/dissecção de aorta, que pode colocar a vida em risco."
+        },
+        {
+          "id": "C",
+          "texto": "Indicar facectomia imediata como tratamento definitivo."
+        },
+        {
+          "id": "D",
+          "texto": "Iniciar corticoterapia oral por suspeita de uveíte intermediária."
+        },
+        {
+          "id": "E",
+          "texto": "Tratar como catarata congênita unilateral."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O **deslocamento do cristalino para cima e temporal (ectopia lentis)** associado a paciente alto, hipermóvel e com alterações cardíacas é característico da **síndrome de Marfan**. O exame ocular permite o diagnóstico e desencadeia a investigação cardiovascular, fundamental porque o **aneurisma e a dissecção de aorta** podem colocar a vida do paciente em risco. Há também alta miopia e maior risco de descolamento de retina.",
+      "referenciaAula": "Uma pessoa muito alta, com a hipermobilidade articular, eventualmente com alterações cardíacas, a gente pode fechar o diagnóstico fazendo o exame eh da biomicroscopia. cristalino deslocado, encaminha pra avaliação e faz o diagnóstico. A partir daí e você faz diagnóstico de uma doença que pode ter, por exemplo, a neurisma de secante de aorta, que pode, eh, colocar em risco a vida desse paciente.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1798
+    },
+    {
+      "id": "Q-OF-08-019",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "sífilis",
+        "HIV",
+        "uveíte"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Homem, 38 anos, HIV positivo em uso irregular de TARV, apresenta uveíte, coroidite e retinite, com queixa de baixa de visão progressiva há semanas. Qual diagnóstico infeccioso sistêmico deve ser ATIVAMENTE investigado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sífilis ocular (acometimento tardio de retina/úvea, frequentemente associada ao HIV)."
+        },
+        {
+          "id": "B",
+          "texto": "Hepatite C aguda."
+        },
+        {
+          "id": "C",
+          "texto": "Esquistossomose hepática."
+        },
+        {
+          "id": "D",
+          "texto": "Citomegalovirose congênita."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Chagas crônica."
+        }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A **sífilis** \"anda em parceria\" com o **HIV** e, como não há profilaxia medicamentosa específica para sua transmissão (diferentemente da PrEP/PEP para HIV), tem-se visto aumento de casos com **acometimento ocular tardio** — **uveíte, coroidite e retinite**. O oftalmologista frequentemente faz a suspeita diagnóstica, que deve ser confirmada por sorologia (VDRL/FTA-ABS) e tratada como neurossífilis.",
+      "referenciaAula": "a sífiles, né, que anda muito em parceria com o HIV ou até hoje com as medicações que diminuem a transmissão do HIV, você não tem uma doença, você não tem uma medicação que também consiga reduzir a transmissão da sífiles. com acometimento ocular porque não fez o diagnóstico inicial e você tem o acometimento já tardiu, né, da retina, do olho, um quadro de uveite, eh, de coroidite, de retinite por conta, eh, da sífiles.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1822
+    },
+    {
+      "id": "Q-OF-08-020",
+      "aulaOrigem": 8,
+      "blocos": [
+        "OFD"
+      ],
+      "eixos": [],
+      "tags": [
+        "retinopatia hipertensiva maligna",
+        "estrela macular",
+        "eclâmpsia"
+      ],
+      "dificuldade": "dificil",
+      "tipo": "caso_clinico",
+      "enunciado": "Gestante de 34 semanas chega ao pronto-socorro com cefaleia intensa, PA 200x130 mmHg, proteinúria e baixa visão. Fundo de olho: edema de papila, exsudatos duros formando \"estrela macular\", hemorragias e área de descolamento de retina exsudativo. Qual a interpretação MAIS adequada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Retinopatia diabética proliferativa de longa data."
+        },
+        {
+          "id": "B",
+          "texto": "Retinopatia hipertensiva grave/maligna em contexto de eclâmpsia, indicando risco de vida e necessidade de controle pressórico imediato e interrupção da gestação conforme indicado."
+        },
+        {
+          "id": "C",
+          "texto": "Coriorretinite por toxoplasmose adquirida."
+        },
+        {
+          "id": "D",
+          "texto": "Neurite óptica desmielinizante por esclerose múltipla."
+        },
+        {
+          "id": "E",
+          "texto": "Doença de Graves com edema palpebral."
+        }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "O quadro descrito — **estrela macular** (exsudatos duros seguindo as camadas da retina), edema de papila, hemorragias e descolamento exsudativo, com pressão muito elevada em gestante com proteinúria — caracteriza **retinopatia hipertensiva maligna em contexto de eclâmpsia**. O risco de vida é importante e a conduta é controle pressórico imediato e manejo obstétrico (interrupção da gestação conforme indicado).",
+      "referenciaAula": "você pode ter um edema de papila, você pode ter exudação na mácula, formando uma estrela macular, hemorragia se chama de vela e eventualmente descolamento de retina exodativo, muito mais comum naquelas hipertensões e aceleradas, hipertensões agudas, como por exemplo você pode ter na na grávida, né, na eclâmpsia.",
+      "transversal": false,
+      "videoAulaId": 8,
+      "videoStartSec": 1095
+    }
+  ]
+}

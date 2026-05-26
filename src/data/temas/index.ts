@@ -30,7 +30,23 @@ import {
   otorrinoEixosComQuestoes,
 } from '../otorrino-index';
 
-export type TemaSlug = 'cirurgia' | 'otorrino';
+// Oftalmologia
+import {
+  OFTALMO_AULAS,
+  OFTALMO_AULA_BY_ID,
+  OFTALMO_BLOCOS,
+  OFTALMO_BLOCO_ORDER,
+  OFTALMO_PLAYLIST_ID,
+} from './oftalmo-meta';
+import {
+  loadAllOftalmoQuestions,
+  loadOftalmoAulaQuestions,
+  loadOftalmoEixoQuestions,
+  oftalmoAulasComQuestoes,
+  oftalmoEixosComQuestoes,
+} from '../oftalmo-index';
+
+export type TemaSlug = 'cirurgia' | 'otorrino' | 'oftalmo';
 
 export interface TemaData {
   slug: TemaSlug;
@@ -80,9 +96,26 @@ const otorrino: TemaData = {
   eixosComQuestoes: otorrinoEixosComQuestoes,
 };
 
+const oftalmo: TemaData = {
+  slug: 'oftalmo',
+  AULAS: OFTALMO_AULAS,
+  AULA_BY_ID: OFTALMO_AULA_BY_ID,
+  BLOCOS: OFTALMO_BLOCOS,
+  BLOCO_ORDER: OFTALMO_BLOCO_ORDER,
+  EIXOS: {},
+  EIXO_ORDER: [],
+  PLAYLIST_ID: OFTALMO_PLAYLIST_ID,
+  loadAllQuestions: loadAllOftalmoQuestions,
+  loadAulaQuestions: loadOftalmoAulaQuestions,
+  loadEixoQuestions: loadOftalmoEixoQuestions,
+  aulasComQuestoes: oftalmoAulasComQuestoes,
+  eixosComQuestoes: oftalmoEixosComQuestoes,
+};
+
 const TEMAS_MAP: Record<TemaSlug, TemaData> = {
   cirurgia,
   otorrino,
+  oftalmo,
 };
 
 export function getTemaData(slug: string | undefined | null): TemaData {
@@ -101,6 +134,6 @@ export function aulaByIdAcrossTemas(aulaId: number, temaSlug?: string): Aula | u
   if (temaSlug) {
     return getTemaData(temaSlug).AULA_BY_ID(aulaId);
   }
-  // Fallback: tenta cirurgia, depois otorrino
-  return CIRURGIA_AULA_BY_ID(aulaId) ?? OTORRINO_AULA_BY_ID(aulaId);
+  // Fallback: tenta todos os temas
+  return CIRURGIA_AULA_BY_ID(aulaId) ?? OTORRINO_AULA_BY_ID(aulaId) ?? OFTALMO_AULA_BY_ID(aulaId);
 }

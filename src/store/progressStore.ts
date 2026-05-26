@@ -96,6 +96,7 @@ function makeProgressStore(persistKey: string): ProgressStore {
 const stores: Record<string, ProgressStore> = {
   cirurgia: makeProgressStore(STORAGE_KEYS.progress), // chave legada, mantém compat
   otorrino: makeProgressStore(`${STORAGE_KEYS.progress}:otorrino`),
+  oftalmo: makeProgressStore(`${STORAGE_KEYS.progress}:oftalmo`),
 };
 
 export function getProgressStore(temaSlug: string | undefined | null): ProgressStore {

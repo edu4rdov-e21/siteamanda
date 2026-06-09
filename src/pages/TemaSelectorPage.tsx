@@ -1,5 +1,13 @@
 import { Link } from 'react-router-dom';
-import { Scissors, Ear, Eye, Lock, BarChart3, Settings as SettingsIcon } from 'lucide-react';
+import {
+  Scissors,
+  Ear,
+  Eye,
+  Lock,
+  BarChart3,
+  Settings as SettingsIcon,
+  Sparkles,
+} from 'lucide-react';
 import { Card } from '../components/shared/Card';
 import { TEMAS, type Tema } from '../data/meta/temas';
 
@@ -97,6 +105,19 @@ export function TemaSelectorPage() {
           </Card>
         </Link>
       </section>
+
+      {/* Easter egg: jogo da Amanda */}
+      <div className="mt-8 text-center">
+        <a
+          href="/amanda-medicina/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 rounded-full border border-pink-200 bg-pink-50 px-3 py-1.5 text-xs font-medium text-pink-700 transition-colors hover:border-pink-400 hover:bg-pink-100 dark:border-pink-900/60 dark:bg-pink-950/30 dark:text-pink-300 dark:hover:bg-pink-950/60"
+        >
+          <Sparkles size={12} />
+          clique para uma surpresa
+        </a>
+      </div>
     </div>
   );
 }

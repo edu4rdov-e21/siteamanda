@@ -8,6 +8,8 @@ export interface Tema {
   questoes: number;
   /** Se false, o card aparece como "Em breve" e não navega. */
   ativo: boolean;
+  /** Se true, o card NÃO aparece no seletor de matérias — só acessível via link direto. */
+  oculto?: boolean;
   /** Cor de acento opcional (futuro: temas com paleta própria). */
   cor?: string;
 }
@@ -36,6 +38,15 @@ export const TEMAS: Tema[] = [
     slug: 'oftalmo',
     questoes: 180,
     ativo: true,
+  },
+  {
+    id: 'edn',
+    nome: 'Eduardo Nota Dez',
+    descricao: 'Prova final 15/06 · 60 questões',
+    slug: 'edn',
+    questoes: 60,
+    ativo: true,
+    oculto: true,
   },
 ];
 

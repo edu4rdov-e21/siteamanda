@@ -69,7 +69,7 @@ export function TemaSelectorPage() {
 
       <section className="mb-6">
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {TEMAS.map((t) => (
+          {TEMAS.filter((t) => !t.oculto).map((t) => (
             <TemaCard key={t.id} tema={t} />
           ))}
         </div>

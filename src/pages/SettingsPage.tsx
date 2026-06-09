@@ -148,6 +148,17 @@ export function SettingsPage() {
           </Button>
         </Card>
       </div>
+
+      {/* Botão escondido — Eduardo Nota Dez */}
+      <div className="mt-10 text-center">
+        <Link
+          to="/edn"
+          aria-label="Eduardo Nota Dez"
+          className="inline-block text-[10px] text-slate-300 transition-colors hover:text-accent-500 dark:text-slate-700 dark:hover:text-accent-400"
+        >
+          · END ·
+        </Link>
+      </div>
     </div>
   );
 }

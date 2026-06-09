@@ -46,7 +46,23 @@ import {
   oftalmoEixosComQuestoes,
 } from '../oftalmo-index';
 
-export type TemaSlug = 'cirurgia' | 'otorrino' | 'oftalmo';
+// Eduardo Nota Dez (tema escondido, acessível apenas via link nos Ajustes)
+import {
+  EDN_AULAS,
+  EDN_AULA_BY_ID,
+  EDN_BLOCOS,
+  EDN_BLOCO_ORDER,
+  EDN_PLAYLIST_ID,
+} from './edn-meta';
+import {
+  loadAllEdnQuestions,
+  loadEdnAulaQuestions,
+  loadEdnEixoQuestions,
+  ednAulasComQuestoes,
+  ednEixosComQuestoes,
+} from '../edn-index';
+
+export type TemaSlug = 'cirurgia' | 'otorrino' | 'oftalmo' | 'edn';
 
 export interface TemaData {
   slug: TemaSlug;
@@ -112,10 +128,27 @@ const oftalmo: TemaData = {
   eixosComQuestoes: oftalmoEixosComQuestoes,
 };
 
+const edn: TemaData = {
+  slug: 'edn',
+  AULAS: EDN_AULAS,
+  AULA_BY_ID: EDN_AULA_BY_ID,
+  BLOCOS: EDN_BLOCOS,
+  BLOCO_ORDER: EDN_BLOCO_ORDER,
+  EIXOS: {},
+  EIXO_ORDER: [],
+  PLAYLIST_ID: EDN_PLAYLIST_ID,
+  loadAllQuestions: loadAllEdnQuestions,
+  loadAulaQuestions: loadEdnAulaQuestions,
+  loadEixoQuestions: loadEdnEixoQuestions,
+  aulasComQuestoes: ednAulasComQuestoes,
+  eixosComQuestoes: ednEixosComQuestoes,
+};
+
 const TEMAS_MAP: Record<TemaSlug, TemaData> = {
   cirurgia,
   otorrino,
   oftalmo,
+  edn,
 };
 
 export function getTemaData(slug: string | undefined | null): TemaData {
@@ -135,5 +168,10 @@ export function aulaByIdAcrossTemas(aulaId: number, temaSlug?: string): Aula | u
     return getTemaData(temaSlug).AULA_BY_ID(aulaId);
   }
   // Fallback: tenta todos os temas
-  return CIRURGIA_AULA_BY_ID(aulaId) ?? OTORRINO_AULA_BY_ID(aulaId) ?? OFTALMO_AULA_BY_ID(aulaId);
+  return (
+    CIRURGIA_AULA_BY_ID(aulaId) ??
+    OTORRINO_AULA_BY_ID(aulaId) ??
+    OFTALMO_AULA_BY_ID(aulaId) ??
+    EDN_AULA_BY_ID(aulaId)
+  );
 }

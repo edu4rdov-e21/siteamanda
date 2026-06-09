@@ -1,0 +1,406 @@
+{
+  "aulaId": 1,
+  "titulo": "Economia, Política e Sociedade",
+  "questoes": [
+    {
+      "id": "Q-EN-01-001",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["capitalismo", "Catani"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Os três pilares do capitalismo, segundo Catani, são:",
+      "alternativas": [
+        { "id": "A", "texto": "Estado forte, planejamento central e propriedade coletiva" },
+        { "id": "B", "texto": "livre comércio, escravidão e monopólio" },
+        { "id": "C", "texto": "economia de mercado, acúmulo de capital e propriedade privada" },
+        { "id": "D", "texto": "democracia, sufrágio e liberdade de imprensa" },
+        { "id": "E", "texto": "industrialização, urbanização e globalização" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Catani define os três pilares do capitalismo como **economia de mercado**, **acúmulo de capital** e **propriedade privada**. Estado forte e planejamento central são típicos de modelos socialistas; as demais alternativas misturam fenômenos correlatos mas não constituem os pilares estruturais.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-002",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["fases do capitalismo", "Comparato"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Assinale a sequência correta das fases do capitalismo (Comparato):",
+      "alternativas": [
+        { "id": "A", "texto": "financeira (1453–1760) → comercial (1760–1870) → industrial (1870–atual)" },
+        { "id": "B", "texto": "industrial (1760–1870) → comercial (1870–atual) → financeira (1453–1760)" },
+        { "id": "C", "texto": "comercial (1760–1870) → financeira (1870–atual) → industrial (1453–1760)" },
+        { "id": "D", "texto": "comercial (1453–1760) → industrial (1760–1870) → financeira (1870–atual)" },
+        { "id": "E", "texto": "industrial (1453–1760) → comercial (1760–1870) → financeira (1870–atual)" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Comparato organiza o capitalismo em três fases: **comercial** (1453–1760, mercantilismo), **industrial** (1760–1870, revolução industrial) e **financeira** (1870 até hoje, predomínio do capital financeiro). As demais alternativas embaralham ordem ou datas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-003",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Adam Smith", "liberalismo econômico"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre Adam Smith, é correto afirmar que:",
+      "alternativas": [
+        { "id": "A", "texto": "defendia ampla intervenção do Estado e o controle dos preços pelo governo" },
+        { "id": "B", "texto": "considerava o livre mercado prejudicial ao crescimento das nações" },
+        { "id": "C", "texto": "propunha a economia planificada e a abolição da propriedade privada" },
+        { "id": "D", "texto": "defendia o monopólio estatal sobre o comércio e a indústria" },
+        { "id": "E", "texto": "a riqueza das nações decorre da divisão e da especialização do trabalho" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Em *A Riqueza das Nações* (1776), Smith defende que a prosperidade decorre da **divisão e especialização do trabalho**, com intervenção mínima do Estado. As alternativas A-D contradizem frontalmente o liberalismo clássico que ele inaugura.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-004",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "Reforma Protestante", "Max Weber"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A Reforma Protestante contribuiu para a consolidação do capitalismo. PORQUE II. Ela tornou moralmente aceitável o acúmulo de riqueza obtido pelo trabalho honesto.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I verdadeira, II falsa" },
+        { "id": "D", "texto": "I falsa, II verdadeira" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambas verdadeiras. Conforme Max Weber em *A Ética Protestante e o Espírito do Capitalismo*, a ética calvinista tornou o **acúmulo de riqueza pelo trabalho honesto moralmente legítimo** — e essa é exatamente a razão pela qual a Reforma contribuiu para o capitalismo. A II justifica a I.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-005",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Marx", "mais-valia", "lucro"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Para Marx, o lucro capitalista origina-se:",
+      "alternativas": [
+        { "id": "A", "texto": "das horas de trabalho realizadas e não pagas ao trabalhador" },
+        { "id": "B", "texto": "da eficiência da gestão e da boa administração das fábricas" },
+        { "id": "C", "texto": "do investimento contínuo em tecnologia e em maquinário moderno" },
+        { "id": "D", "texto": "da livre concorrência entre as empresas de um mesmo setor" },
+        { "id": "E", "texto": "da intervenção do Estado na regulação dos mercados" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "É a teoria da **mais-valia**: o trabalhador produz valor maior do que recebe como salário, e essa diferença (trabalho excedente não pago) é a fonte do lucro do capitalista. As demais alternativas descrevem fatores secundários ou de outras escolas econômicas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-006",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["democracia", "etimologia"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O termo \"democracia\", em sua origem, significa governo:",
+      "alternativas": [
+        { "id": "A", "texto": "pelo povo" },
+        { "id": "B", "texto": "do mercado" },
+        { "id": "C", "texto": "dos militares" },
+        { "id": "D", "texto": "para o povo" },
+        { "id": "E", "texto": "da elite" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Pegadinha clássica. *Demos* (povo) + *kratos* (poder/governo) significa governo **para o povo**, no sentido de finalidade. \"Pelo povo\" descreve a forma de execução, mas a etimologia consagrada do conceito é \"para o povo\".",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-007",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Revolução Francesa", "Bastilha"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A Tomada da Bastilha, marco da Revolução Francesa, ocorreu em:",
+      "alternativas": [
+        { "id": "A", "texto": "29 de outubro de 1929" },
+        { "id": "B", "texto": "7 de setembro de 1822" },
+        { "id": "C", "texto": "15 de novembro de 1889" },
+        { "id": "D", "texto": "1º de abril de 1964" },
+        { "id": "E", "texto": "14 de julho de 1789" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "**14 de julho de 1789** — marco simbólico do início da Revolução Francesa e da queda do Ancien Régime. As outras datas são distratoras de outros eventos: crise de 1929, independência do Brasil, proclamação da república, golpe militar.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-008",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Revolução Industrial", "Sandroni", "fases"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as fases da Revolução Industrial (Sandroni), assinale a correta:",
+      "alternativas": [
+        { "id": "A", "texto": "a 3ª fase é marcada pelo computador e pela automação" },
+        { "id": "B", "texto": "a 1ª fase é marcada pelo computador" },
+        { "id": "C", "texto": "a 2ª fase é marcada pela máquina a vapor" },
+        { "id": "D", "texto": "a 1ª fase é marcada pela energia elétrica" },
+        { "id": "E", "texto": "a 2ª fase é marcada pela engenharia genética" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "A 3ª fase (a partir do séc. XX) é marcada pelo **computador e automação**. A 1ª fase é a máquina a vapor (XVIII–XIX), a 2ª é a eletricidade e o aço (fim do XIX), e engenharia genética é da 4ª fase / revolução biotecnológica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-009",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["alienação", "Marx", "divisão do trabalho"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A alienação do trabalhador na produção industrial (Marx) caracteriza-se por:",
+      "alternativas": [
+        { "id": "A", "texto": "o domínio completo da técnica de fabricação pelo operário" },
+        { "id": "B", "texto": "a valorização crescente do trabalho artesanal e manual" },
+        { "id": "C", "texto": "a execução de apenas uma etapa do processo, com perda da técnica completa" },
+        { "id": "D", "texto": "o aumento da autonomia e da criatividade do trabalhador" },
+        { "id": "E", "texto": "a redução da divisão do trabalho dentro da fábrica" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "A alienação marxista envolve a **perda da técnica completa**: na linha de produção fabril, o trabalhador executa só uma etapa fragmentada e perde o domínio do processo como um todo (alienação do produto e do próprio trabalho).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-010",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Brasil colônia", "ciclos econômicos"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O segundo ciclo econômico do Brasil colonial foi o da:",
+      "alternativas": [
+        { "id": "A", "texto": "borracha" },
+        { "id": "B", "texto": "cana-de-açúcar" },
+        { "id": "C", "texto": "pau-brasil" },
+        { "id": "D", "texto": "café" },
+        { "id": "E", "texto": "ouro" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ordem cronológica dos ciclos: 1º **pau-brasil** (início da colonização) → 2º **cana-de-açúcar** (~1530–1700) → 3º **ouro** (XVIII) → 4º **café** (XIX). Borracha é período republicano (final do XIX / início do XX).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-011",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["plantation", "Brasil colônia"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O sistema de *plantation* no Brasil colonial combinava:",
+      "alternativas": [
+        { "id": "A", "texto": "pequenas propriedades, policultura e trabalho livre" },
+        { "id": "B", "texto": "indústria, urbanização e assalariamento" },
+        { "id": "C", "texto": "cooperativas, mercado interno e tecnologia" },
+        { "id": "D", "texto": "minifúndios, subsistência e escambo" },
+        { "id": "E", "texto": "monocultura, latifúndio e trabalho escravo" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "*Plantation* é a tríade: **monocultura** (uma única cultura voltada à exportação), **latifúndio** (grandes propriedades) e **trabalho escravo**. As demais opções descrevem o oposto desse modelo.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-012",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["crise de 1929", "Terça-Feira Negra"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a crise de 1929, assinale a correta:",
+      "alternativas": [
+        { "id": "A", "texto": "os keynesianos defendiam a autorregulação do mercado" },
+        { "id": "B", "texto": "o New Deal foi conduzido pelo presidente Hoover" },
+        { "id": "C", "texto": "no Brasil, a crise impediu a industrialização" },
+        { "id": "D", "texto": "a Terça-Feira Negra ocorreu em 29/10/1929" },
+        { "id": "E", "texto": "a crise não afetou o mercado do café brasileiro" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "**Terça-Feira Negra**: 29 de outubro de 1929, quebra histórica da bolsa de Nova York. Os keynesianos defendiam intervenção do Estado (não autorregulação); o New Deal foi de Roosevelt (Hoover era o presidente *durante* a crise); no Brasil a crise *impulsionou* a substituição de importações.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-013",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["New Deal", "Roosevelt"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O New Deal, resposta norte-americana à crise de 1929, foi implementado pelo presidente:",
+      "alternativas": [
+        { "id": "A", "texto": "Hoover" },
+        { "id": "B", "texto": "Wilson" },
+        { "id": "C", "texto": "Roosevelt" },
+        { "id": "D", "texto": "Truman" },
+        { "id": "E", "texto": "Lincoln" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Franklin Delano **Roosevelt** assumiu em 1933 e implementou o New Deal (políticas públicas de obras, regulação financeira e bem-estar social). Hoover era o presidente quando a crise estourou e perdeu a eleição seguinte.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-014",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "política monetária", "Banco Central"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A política monetária expansionista tem efeito imediato sobre a economia. PORQUE II. É executada pelo Banco Central, atuando sobre os juros e a quantidade de moeda.",
+      "alternativas": [
+        { "id": "A", "texto": "ambas falsas" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "D", "texto": "I verdadeira, II falsa" },
+        { "id": "E", "texto": "I falsa, II verdadeira" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambas verdadeiras e encadeadas. A política monetária tem efeito **imediato** justamente porque é executada pelo Banco Central agindo sobre **juros e quantidade de moeda** — instrumentos que se transmitem rapidamente ao crédito e ao consumo. A II é a explicação da I.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-015",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["política fiscal", "Tesouro Nacional"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A política fiscal é executada pelo:",
+      "alternativas": [
+        { "id": "A", "texto": "Tesouro Nacional, sem efeito imediato" },
+        { "id": "B", "texto": "Banco Central, com efeito imediato" },
+        { "id": "C", "texto": "FMI, com efeito imediato" },
+        { "id": "D", "texto": "Congresso, sem qualquer efeito" },
+        { "id": "E", "texto": "setor privado" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Política fiscal = receitas/despesas/tributação, executada pelo **Tesouro Nacional**. O efeito não é imediato (depende de aprovação orçamentária, calendário tributário e execução). Política monetária é com o BC.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-016",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Gini", "desigualdade", "concentração de renda"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O Índice de Gini mede:",
+      "alternativas": [
+        { "id": "A", "texto": "a inflação acumulada ao longo de um período" },
+        { "id": "B", "texto": "o ritmo de crescimento do PIB de um país" },
+        { "id": "C", "texto": "a taxa de desemprego da população ativa" },
+        { "id": "D", "texto": "o grau de concentração de renda de uma sociedade" },
+        { "id": "E", "texto": "o saldo da balança comercial de um país" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Gini mede a **concentração de renda** (= desigualdade). Varia de 0 (igualdade total) a 1 (concentração total). Os demais índices/medidas mencionados são distintos: IPCA para inflação, PIB para crescimento, PNAD para desemprego.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-017",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["regime militar", "Brasil", "cronologia"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A ordem correta dos presidentes do regime militar (1964–1985) é:",
+      "alternativas": [
+        { "id": "A", "texto": "Médici → Castelo Branco → Geisel → Costa e Silva → Figueiredo" },
+        { "id": "B", "texto": "Geisel → Figueiredo → Médici → Costa e Silva → Castelo Branco" },
+        { "id": "C", "texto": "Castelo Branco → Costa e Silva → Médici → Geisel → Figueiredo" },
+        { "id": "D", "texto": "Costa e Silva → Castelo Branco → Figueiredo → Médici → Geisel" },
+        { "id": "E", "texto": "Figueiredo → Geisel → Médici → Costa e Silva → Castelo Branco" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Sequência correta: **Castelo Branco** (64–67) → **Costa e Silva** (67–69) → **Médici** (69–74) → **Geisel** (74–79) → **Figueiredo** (79–85). Mnemônico: ordem alfabética é também útil pra Castelo, Costa, Médici, mas a ordem real é a dos mandatos.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-018",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "milagre econômico", "Gini"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. Durante o \"milagre econômico\" (1968–1973) o PIB cresceu fortemente. PORQUE II. Nesse período, a desigualdade de renda medida pelo Gini diminuiu no Brasil.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "C", "texto": "I falsa, II verdadeira" },
+        { "id": "D", "texto": "ambas falsas" },
+        { "id": "E", "texto": "I verdadeira, II falsa" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "I verdadeira (PIB cresceu acima de 10% ao ano em alguns períodos), mas II **falsa**: a desigualdade de renda *aumentou* fortemente na ditadura — o Gini subiu, concentrando renda no topo. A frase \"o bolo cresceu, mas não foi distribuído\" é canônica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-019",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["padrão-ouro", "câmbio flutuante", "Bretton Woods"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os marcos monetários do século XX, assinale a correta:",
+      "alternativas": [
+        { "id": "A", "texto": "o câmbio flutuante veio antes do fim do padrão-ouro" },
+        { "id": "B", "texto": "o padrão-ouro acabou em 1971 e o câmbio flutuante se firmou em 1973" },
+        { "id": "C", "texto": "ambos ocorreram em 1929" },
+        { "id": "D", "texto": "o padrão-ouro acabou em 1988" },
+        { "id": "E", "texto": "o câmbio flutuante é anterior à 2ª Guerra Mundial" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Nixon decretou o fim da conversibilidade do dólar em ouro em **1971** (encerrando o padrão-ouro de Bretton Woods), e os principais países adotaram **câmbio flutuante a partir de 1973**. As datas das outras opções estão incorretas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-01-020",
+      "aulaOrigem": 1,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "neoliberalismo", "Slobodian"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. O neoliberalismo elimina por completo o Estado da economia. PORQUE II. Autores como Slobodian demonstram que o neoliberalismo apenas redefine o papel do Estado, sem eliminá-lo.",
+      "alternativas": [
+        { "id": "A", "texto": "I falsa, II verdadeira" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I verdadeira, II falsa" },
+        { "id": "D", "texto": "ambas falsas" },
+        { "id": "E", "texto": "I e II verdadeiras, mas a II não justifica a I" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "I é **falsa** — o neoliberalismo não elimina o Estado; pelo contrário, depende dele para *garantir* mercados, proteger propriedade e regular contratos. II é **verdadeira** — Slobodian em *Globalists* demonstra que o projeto neoliberal *redefine* o papel do Estado em vez de aboli-lo. A II inclusive *desmente* a I.",
+      "transversal": false
+    }
+  ]
+}

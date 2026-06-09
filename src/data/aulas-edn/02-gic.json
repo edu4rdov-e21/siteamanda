@@ -1,0 +1,406 @@
+{
+  "aulaId": 2,
+  "titulo": "Gestão da Informação e do Conhecimento",
+  "questoes": [
+    {
+      "id": "Q-EN-02-001",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["DIKW", "dado", "informação", "conhecimento"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Assinale a correta sobre dado, informação e conhecimento:",
+      "alternativas": [
+        { "id": "A", "texto": "dado é a informação já interpretada e conhecimento é o registro inicial dos fatos" },
+        { "id": "B", "texto": "dado e conhecimento são sinônimos, e a informação é a sua forma resumida" },
+        { "id": "C", "texto": "dado é o registro bruto; informação é o dado contextualizado; conhecimento é a informação aplicada com experiência" },
+        { "id": "D", "texto": "informação é o elemento mais elementar, e o dado resulta de sua interpretação" },
+        { "id": "E", "texto": "conhecimento é o registro bruto dos fatos, anterior ao dado e à informação" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Pirâmide DIKW: **dado** (registro bruto, sem contexto) → **informação** (dado contextualizado, com significado) → **conhecimento** (informação aplicada com experiência e julgamento). As demais alternativas invertem ou misturam os níveis.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-002",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Buckland", "1991", "informação"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Para Buckland (1991), a informação pode ser entendida como:",
+      "alternativas": [
+        { "id": "A", "texto": "apenas como coisa" },
+        { "id": "B", "texto": "somente como processo" },
+        { "id": "C", "texto": "exclusivamente em meio digital" },
+        { "id": "D", "texto": "sinônimo de dado" },
+        { "id": "E", "texto": "processo, conhecimento e coisa" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Buckland (1991) — *Information as Thing* — propõe três acepções da informação: **processo** (ato de informar), **conhecimento** (o que é comunicado) e **coisa** (objetos que carregam informação: documentos, dados, sinais). É um tripé canônico da área.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-003",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ciclo de vida da informação"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A sequência correta do ciclo de vida da informação é:",
+      "alternativas": [
+        { "id": "A", "texto": "uso → criação → descarte → captura → armazenamento → distribuição" },
+        { "id": "B", "texto": "criação → captura → armazenamento → distribuição → uso → descarte" },
+        { "id": "C", "texto": "descarte → uso → distribuição → armazenamento → captura → criação" },
+        { "id": "D", "texto": "captura → criação → uso → descarte → distribuição → armazenamento" },
+        { "id": "E", "texto": "armazenamento → criação → captura → uso → distribuição → descarte" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ordem canônica: **criação** (gera) → **captura** (registra/coleta) → **armazenamento** (conserva) → **distribuição** (disponibiliza) → **uso** (aplica para decisão) → **descarte** (encerra ciclo). As demais opções embaralham a sequência.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-004",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ciclo de vida", "etapas"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre as etapas do ciclo de vida da informação: I. a criação é a geração e a documentação da informação; II. a captura é a etapa em que a informação é eliminada; III. o armazenamento conserva a informação em meios físicos ou digitais; IV. o uso ocorre para diversos fins, inclusive a tomada de decisão.",
+      "alternativas": [
+        { "id": "A", "texto": "I, III e IV" },
+        { "id": "B", "texto": "I, II e III" },
+        { "id": "C", "texto": "II e IV" },
+        { "id": "D", "texto": "apenas I" },
+        { "id": "E", "texto": "todas" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "I, III e IV são verdadeiras. **II é falsa**: captura é o registro/coleta da informação (não a eliminação — a etapa de eliminação é o descarte, no fim do ciclo).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-005",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Polanyi", "tácito", "explícito"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Michael Polanyi, na década de 1960, introduziu os conceitos de:",
+      "alternativas": [
+        { "id": "A", "texto": "dado e informação" },
+        { "id": "B", "texto": "episteme e doxa" },
+        { "id": "C", "texto": "oferta e demanda" },
+        { "id": "D", "texto": "conhecimento tácito e explícito" },
+        { "id": "E", "texto": "hardware e software" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Polanyi cunhou a distinção entre **conhecimento tácito** (pessoal, da experiência, difícil de formalizar) e **conhecimento explícito** (codificado, formal, transmissível). Frase clássica: *we know more than we can tell*.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-006",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["conhecimento tácito"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O conhecimento tácito caracteriza-se por:",
+      "alternativas": [
+        { "id": "A", "texto": "ser facilmente codificado, registrado e transmitido entre pessoas" },
+        { "id": "B", "texto": "estar sempre documentado em manuais, normas e procedimentos" },
+        { "id": "C", "texto": "ser pessoal, baseado na experiência e difícil de formalizar" },
+        { "id": "D", "texto": "ser idêntico em natureza ao conhecimento explícito da organização" },
+        { "id": "E", "texto": "dispensar a experiência prática e a vivência do indivíduo" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Conhecimento tácito = **pessoal, baseado na experiência prática e difícil de formalizar** (intuição, habilidade, know-how interno). As alternativas A, B, D descrevem o conhecimento explícito; E nega justamente a essência do tácito.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-007",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["know-how", "tipos de conhecimento"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O conhecimento do tipo \"know-how\" refere-se a:",
+      "alternativas": [
+        { "id": "A", "texto": "opiniões, crenças e valores pessoais do indivíduo" },
+        { "id": "B", "texto": "dados estatísticos coletados e organizados em tabelas" },
+        { "id": "C", "texto": "à informação contextual disponível em um sistema" },
+        { "id": "D", "texto": "registros documentais armazenados em arquivos" },
+        { "id": "E", "texto": "à habilidade prática e técnica para realizar tarefas" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "**Know-how** = saber como fazer = habilidade prática e técnica. Distingue-se de *know-what* (fatos), *know-why* (princípios) e *know-who* (rede de contatos).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-008",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Platão", "episteme", "doxa"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Para Platão, *episteme* e *doxa* significam, respectivamente:",
+      "alternativas": [
+        { "id": "A", "texto": "conhecimento científico e opinião" },
+        { "id": "B", "texto": "opinião e ciência" },
+        { "id": "C", "texto": "dado e informação" },
+        { "id": "D", "texto": "tácito e explícito" },
+        { "id": "E", "texto": "teoria e prática" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "**Episteme** = conhecimento verdadeiro, científico, fundamentado. **Doxa** = opinião, crença comum, não justificada. A distinção é fundadora da epistemologia clássica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-009",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "Davenport", "Prusak"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. Para Davenport e Prusak (1998), o conhecimento é uma mistura fluida de experiência, valores, informação contextual e insight. PORQUE II. O conhecimento é estático e não se altera diante de novas experiências.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "C", "texto": "I falsa, II verdadeira" },
+        { "id": "D", "texto": "I verdadeira, II falsa" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "I é **verdadeira** (definição literal de Davenport e Prusak em *Working Knowledge*). II é **falsa** — justamente o oposto: o conhecimento é **dinâmico**, atualiza-se continuamente com novas experiências (a palavra-chave é \"fluida\" na própria definição).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-010",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "gestão da informação", "gestão do conhecimento"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A gestão eficaz da informação envolve coleta, organização, armazenamento e disseminação. PORQUE II. A gestão do conhecimento vai além, abrangendo a criação, o compartilhamento e a aplicação do conhecimento tácito e explícito.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I verdadeira, II falsa" },
+        { "id": "D", "texto": "I falsa, II verdadeira" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambas verdadeiras e encadeadas. A gestão da informação cobre o ciclo informacional; a gestão do conhecimento **amplia** isso para criar, compartilhar e aplicar o saber tácito + explícito. A II explica por que a GC é necessária além da GI.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-011",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["LGPD", "legislação"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A LGPD corresponde à:",
+      "alternativas": [
+        { "id": "A", "texto": "Lei nº 8.078/1990" },
+        { "id": "B", "texto": "Lei nº 12.965/2014" },
+        { "id": "C", "texto": "Lei nº 13.709/2018" },
+        { "id": "D", "texto": "Lei nº 9.610/1998" },
+        { "id": "E", "texto": "Lei nº 13.105/2015" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Lei nº 13.709/2018** = Lei Geral de Proteção de Dados Pessoais (LGPD). Distratoras: 8.078 (CDC), 12.965 (Marco Civil da Internet), 9.610 (Direitos Autorais), 13.105 (CPC).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-012",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["LGPD", "vigência", "multas"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a LGPD, é correto afirmar que:",
+      "alternativas": [
+        { "id": "A", "texto": "entrou em vigor em 2014 e, segundo o texto, não prevê multas às empresas" },
+        { "id": "B", "texto": "prevê apenas advertências verbais, sem nenhuma sanção de natureza financeira" },
+        { "id": "C", "texto": "prevê multa de até 50% do faturamento, sem qualquer limite máximo em reais" },
+        { "id": "D", "texto": "aplica-se somente a órgãos públicos, ficando o setor privado de fora" },
+        { "id": "E", "texto": "vigora desde setembro de 2020, com multa de até 2% do faturamento, limitada a R$ 50 mi por infração" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Vigência efetiva em **setembro de 2020** (sanções administrativas a partir de agosto/2021). Multa pode chegar a **2% do faturamento** do grupo no Brasil, **limitada a R$ 50 milhões por infração**.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-013",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["LGPD", "DPO", "PwC"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Segundo a pesquisa da PwC sobre a LGPD, o percentual de empresas que possuem DPO (encarregado de dados) é de cerca de:",
+      "alternativas": [
+        { "id": "A", "texto": "cerca de 25%" },
+        { "id": "B", "texto": "cerca de 40%" },
+        { "id": "C", "texto": "cerca de 55%" },
+        { "id": "D", "texto": "cerca de 18%" },
+        { "id": "E", "texto": "cerca de 65%" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Pesquisa da PwC indica que **~25% das empresas** possuem DPO (Data Protection Officer / encarregado pelo tratamento de dados). É baixo e reflete o atraso na adoção integral da LGPD.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-014",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ANPD", "conformidade", "LGPD"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Segundo a ANPD, até o fim de 2022, em relação à conformidade com a LGPD:",
+      "alternativas": [
+        { "id": "A", "texto": "cerca de 85% das empresas já estavam em conformidade total" },
+        { "id": "B", "texto": "cerca de 70% já haviam concluído toda a sua adequação" },
+        { "id": "C", "texto": "cerca de 30% ainda precisavam revisar pontos da adequação" },
+        { "id": "D", "texto": "cerca de 60% das empresas NÃO estavam em conformidade total" },
+        { "id": "E", "texto": "cerca de 45% sequer haviam iniciado o processo de adequação" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "ANPD apurou que **~60% das empresas ainda NÃO estavam em conformidade total** com a LGPD até o fim de 2022. As alternativas A e B inflam, e a E exagera o atraso na outra direção.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-015",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["cibercrime", "custos", "projeção"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre os custos do cibercrime, assinale a correta:",
+      "alternativas": [
+        { "id": "A", "texto": "devem chegar a cerca de US$ 6 trilhões por ano até 2025" },
+        { "id": "B", "texto": "somaram aproximadamente US$ 8 trilhões por ano em 2022" },
+        { "id": "C", "texto": "são projetados em US$ 10,5 trilhões por ano até 2025" },
+        { "id": "D", "texto": "foram estimados em US$ 4,35 trilhões por ano em 2023" },
+        { "id": "E", "texto": "devem alcançar cerca de US$ 15 trilhões por ano até 2025" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Projeção amplamente citada (Cybersecurity Ventures): **US$ 10,5 trilhões/ano até 2025**. Cuidado com a confusão entre **trilhões** (custo global do cibercrime) e **milhões** (custo médio por violação, IBM).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-016",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["IBM", "violação de dados", "custo médio"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Segundo a IBM, o custo médio de uma violação de dados em 2023 foi de aproximadamente:",
+      "alternativas": [
+        { "id": "A", "texto": "cerca de US$ 2,9 milhões" },
+        { "id": "B", "texto": "cerca de US$ 4,35 milhões" },
+        { "id": "C", "texto": "cerca de US$ 6,1 milhões" },
+        { "id": "D", "texto": "cerca de US$ 4,35 trilhões" },
+        { "id": "E", "texto": "cerca de US$ 3,8 milhões" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "IBM *Cost of a Data Breach 2023*: **~US$ 4,35 milhões** por incidente. Cuidado com a alternativa D que repete o número correto em **trilhões** — pegadinha de magnitude.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-017",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ISC²", "cibersegurança", "déficit de profissionais"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Segundo a ISC², a escassez global de profissionais de cibersegurança é de cerca de:",
+      "alternativas": [
+        { "id": "A", "texto": "cerca de 1,5 milhão de profissionais" },
+        { "id": "B", "texto": "cerca de 2,7 milhões de profissionais" },
+        { "id": "C", "texto": "cerca de 5 milhões de profissionais" },
+        { "id": "D", "texto": "cerca de 4,2 milhões de profissionais" },
+        { "id": "E", "texto": "cerca de 3,4 milhões de profissionais" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "ISC² *Cybersecurity Workforce Study*: déficit global de **~3,4 milhões de profissionais** de cibersegurança. As distratoras estão próximas mas erradas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-018",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["organização da informação", "desafios"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Assinale o que NÃO é um desafio da organização da informação:",
+      "alternativas": [
+        { "id": "A", "texto": "a diminuição da quantidade de dados gerados" },
+        { "id": "B", "texto": "o crescimento acelerado do volume de dados" },
+        { "id": "C", "texto": "a diversidade de formatos de arquivos" },
+        { "id": "D", "texto": "a necessidade de metadados precisos" },
+        { "id": "E", "texto": "a interoperabilidade entre sistemas" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Os desafios reais incluem o **crescimento explosivo** (não diminuição) de dados, diversidade de formatos, metadados precisos e interoperabilidade. A alternativa A inverte o sentido — diminuição de dados não é desafio, é tendência oposta à realidade.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-019",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["organização da informação", "benefícios"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "São benefícios da organização da informação: I. facilita a tomada de decisão e a eficiência operacional; II. é irrelevante para a conformidade regulatória; III. protege informações sensíveis; IV. contribui para a inovação; V. melhora a acessibilidade dos dados.",
+      "alternativas": [
+        { "id": "A", "texto": "todas" },
+        { "id": "B", "texto": "I, III, IV e V" },
+        { "id": "C", "texto": "apenas I e II" },
+        { "id": "D", "texto": "II, III e IV" },
+        { "id": "E", "texto": "apenas V" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "I, III, IV e V são benefícios diretos. **II é falsa**: a organização da informação é *fundamental* para conformidade regulatória (LGPD, GDPR, SOX, etc.), não irrelevante.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-02-020",
+      "aulaOrigem": 2,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "gestão da informação"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A gestão eficaz da informação garante que os dados corretos estejam disponíveis para decisões informadas. PORQUE II. A gestão da informação e do conhecimento é fundamental para o sucesso das organizações modernas.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "B", "texto": "I verdadeira, II falsa" },
+        { "id": "C", "texto": "I falsa, II verdadeira" },
+        { "id": "D", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Ambas verdadeiras e encadeadas. A I afirma a função operacional (dados certos → decisões boas); a II generaliza estrategicamente (GI/GC é vital para o sucesso). A II é a **razão estratégica** que justifica a I.",
+      "transversal": false
+    }
+  ]
+}

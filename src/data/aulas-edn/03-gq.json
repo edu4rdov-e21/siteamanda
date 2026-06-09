@@ -1,0 +1,406 @@
+{
+  "aulaId": 3,
+  "titulo": "Gestão da Qualidade",
+  "questoes": [
+    {
+      "id": "Q-EN-03-001",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Juran", "definição de qualidade"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Para Juran, qualidade é:",
+      "alternativas": [
+        { "id": "A", "texto": "conformidade com os requisitos" },
+        { "id": "B", "texto": "ausência total de defeitos" },
+        { "id": "C", "texto": "a opinião subjetiva do cliente" },
+        { "id": "D", "texto": "adequação ao uso" },
+        { "id": "E", "texto": "o menor preço possível" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Juran: qualidade = **adequação ao uso** (*fitness for use*). Crosby (conformidade com requisitos) e \"zero defeitos\" são outros autores. Cuidado para não confundir as definições dos gurus.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-002",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Crosby", "conformidade", "qualidade"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "Para Crosby, qualidade é:",
+      "alternativas": [
+        { "id": "A", "texto": "conformidade com os requisitos / especificações" },
+        { "id": "B", "texto": "adequação ao uso" },
+        { "id": "C", "texto": "excelência absoluta" },
+        { "id": "D", "texto": "satisfação emocional do cliente" },
+        { "id": "E", "texto": "inovação constante" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Crosby (em *Quality is Free*, 1979): qualidade = **conformidade com os requisitos / especificações**, com a meta de \"zero defeitos\". Adequação ao uso é Juran.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-003",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["eras da qualidade", "evolução"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A sequência correta das eras (eras evolutivas) da qualidade é:",
+      "alternativas": [
+        { "id": "A", "texto": "Garantia → Inspeção → Gestão Estratégica → Controle Estatístico" },
+        { "id": "B", "texto": "Controle Estatístico → Inspeção → Garantia → Gestão Estratégica" },
+        { "id": "C", "texto": "Inspeção → Controle Estatístico → Garantia da Qualidade → Gestão Estratégica" },
+        { "id": "D", "texto": "Gestão Estratégica → Garantia → Controle Estatístico → Inspeção" },
+        { "id": "E", "texto": "Inspeção → Garantia → Controle Estatístico → Gestão Estratégica" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "Eras de Garvin: **Inspeção** (foco no produto final) → **Controle Estatístico** (Shewhart, processo) → **Garantia da Qualidade** (sistemas preventivos) → **Gestão Estratégica da Qualidade** (vantagem competitiva).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-004",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Shewhart", "1931", "cartas de controle"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O controle estatístico da qualidade, com o uso das cartas de controle, é atribuído a:",
+      "alternativas": [
+        { "id": "A", "texto": "Juran, em 1950" },
+        { "id": "B", "texto": "Crosby, em 1979" },
+        { "id": "C", "texto": "Taylor, em 1911" },
+        { "id": "D", "texto": "Deming, em 1990" },
+        { "id": "E", "texto": "Shewhart, em 1931" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "**Walter Shewhart**, em 1931 (*Economic Control of Quality of Manufactured Product*), introduziu as cartas de controle no Bell Labs. Foi mentor de Deming, que levou as ideias ao Japão.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-005",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Ishikawa", "espinha de peixe", "causa e efeito"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O diagrama de Ishikawa (espinha de peixe) serve para:",
+      "alternativas": [
+        { "id": "A", "texto": "priorizar os problemas conforme a sua frequência" },
+        { "id": "B", "texto": "identificar as causas e o efeito de um problema" },
+        { "id": "C", "texto": "medir a dispersão dos dados de um processo" },
+        { "id": "D", "texto": "controlar o comportamento do processo ao longo do tempo" },
+        { "id": "E", "texto": "registrar a frequência das ocorrências de um evento" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ishikawa = **causa e efeito**: organiza causas potenciais de um problema em ramos (6M: método, máquina, material, mão de obra, medida, meio ambiente). Priorização por frequência é Pareto; controle ao longo do tempo é carta de Shewhart.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-006",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Pareto", "80/20"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "O Princípio de Pareto baseia-se na ideia de que:",
+      "alternativas": [
+        { "id": "A", "texto": "todas as causas de um problema têm igual peso sobre os efeitos" },
+        { "id": "B", "texto": "a qualidade é responsabilidade exclusiva do operário de chão de fábrica" },
+        { "id": "C", "texto": "os defeitos de um processo ocorrem de forma totalmente aleatória" },
+        { "id": "D", "texto": "poucas causas (≈20%) respondem pela maioria (≈80%) dos efeitos" },
+        { "id": "E", "texto": "o cliente sempre tem razão na avaliação final do produto" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "Regra **80/20**: ~20% das causas geram ~80% dos efeitos. Permite priorizar ações de melhoria nas causas vitais (em oposição às triviais). Aplicável a defeitos, vendas, reclamações, etc.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-007",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "5W2H"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A ferramenta 5W2H organiza um plano de ação respondendo o quê, por quê, onde, quando, quem, como e quanto. PORQUE II. O elemento \"How much\" (quanto) define o responsável pela ação.",
+      "alternativas": [
+        { "id": "A", "texto": "I verdadeira, II falsa" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I falsa, II verdadeira" },
+        { "id": "D", "texto": "ambas falsas" },
+        { "id": "E", "texto": "I e II verdadeiras, mas a II não justifica a I" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "I é **verdadeira** (definição correta dos 5W2H). II é **falsa**: \"How much\" significa **quanto custa** (custo da ação) — o responsável é definido por \"**Who**\". Pegadinha clássica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-008",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["7 ferramentas da qualidade", "benchmarking"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Assinale o que NÃO é uma das sete ferramentas da qualidade:",
+      "alternativas": [
+        { "id": "A", "texto": "o diagrama de Pareto" },
+        { "id": "B", "texto": "o histograma" },
+        { "id": "C", "texto": "o benchmarking" },
+        { "id": "D", "texto": "a carta de controle" },
+        { "id": "E", "texto": "o diagrama de dispersão" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "As 7 ferramentas: Pareto, Ishikawa, histograma, folha de verificação, carta de controle, diagrama de dispersão e estratificação (ou fluxograma, em algumas versões). **Benchmarking** é uma técnica de gestão estratégica, não está entre as 7 ferramentas clássicas.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-009",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["FMEA", "número de prioridade de risco", "RPN"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "No FMEA, o número de prioridade de risco é calculado por:",
+      "alternativas": [
+        { "id": "A", "texto": "R = S + O + D" },
+        { "id": "B", "texto": "R = S − O − D" },
+        { "id": "C", "texto": "R = S ÷ (O × D)" },
+        { "id": "D", "texto": "R = O × D" },
+        { "id": "E", "texto": "R = S × O × D" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "**RPN = Severidade × Ocorrência × Detecção**. A multiplicação amplifica situações de alta severidade combinada com alta ocorrência e baixa detectabilidade — o pior cenário para priorização.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-010",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["DMAIC", "Seis Sigma"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "As etapas do método DMAIC (Seis Sigma) são:",
+      "alternativas": [
+        { "id": "A", "texto": "Definir, Medir, Analisar, Implementar, Controlar" },
+        { "id": "B", "texto": "Definir, Medir, Analisar, Melhorar (Improve) e Controlar" },
+        { "id": "C", "texto": "Desenhar, Montar, Avaliar, Inspecionar e Corrigir" },
+        { "id": "D", "texto": "Diagnosticar, Medir, Aplicar, Inovar e Concluir" },
+        { "id": "E", "texto": "Definir, Montar, Aplicar, Implementar e Checar" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "**DMAIC**: Define → Measure → Analyze → **Improve** → Control. Cuidado com a alternativa A, que troca \"Improve\" por \"Implementar\" (não é o mesmo: melhorar implica testar/validar a solução).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-011",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["MASP", "método de solução de problemas"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O MASP (Método de Análise e Solução de Problemas) é estruturado em:",
+      "alternativas": [
+        { "id": "A", "texto": "4 etapas" },
+        { "id": "B", "texto": "2 etapas" },
+        { "id": "C", "texto": "5 etapas" },
+        { "id": "D", "texto": "8 etapas" },
+        { "id": "E", "texto": "12 etapas" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "MASP tem **8 etapas** (identificação → observação → análise → plano de ação → ação → verificação → padronização → conclusão). Deriva do QC-Story japonês.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-012",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ISO", "normalização", "fundação"],
+      "dificuldade": "facil",
+      "tipo": "multipla",
+      "enunciado": "A ISO (International Organization for Standardization) foi fundada em:",
+      "alternativas": [
+        { "id": "A", "texto": "1947" },
+        { "id": "B", "texto": "1987" },
+        { "id": "C", "texto": "1991" },
+        { "id": "D", "texto": "1931" },
+        { "id": "E", "texto": "2000" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "ISO foi fundada em **1947**, em Genebra, após o pós-guerra, reunindo 25 países para harmonizar padrões industriais. 1987 é o ano da primeira ISO 9000; 1991 é o PNQ; 1931 é Shewhart.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-013",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["ISO 9000", "ISO 9001", "certificação"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "Sobre a série ISO 9000, assinale a correta:",
+      "alternativas": [
+        { "id": "A", "texto": "toda a série é certificável" },
+        { "id": "B", "texto": "a ISO 9000 trata da gestão ambiental" },
+        { "id": "C", "texto": "a ISO 9001 é a única norma certificável da série" },
+        { "id": "D", "texto": "foi publicada em 1947" },
+        { "id": "E", "texto": "substitui a série ISO 14000" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**Apenas a ISO 9001 é certificável** na família 9000. As outras (9000 — fundamentos e vocabulário; 9004 — diretrizes para sustentar o sucesso) são apoio. ISO 14000 é gestão ambiental (separada).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-014",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["PNQ", "Brasil", "FNQ"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O Prêmio Nacional da Qualidade (PNQ), no Brasil, foi criado em:",
+      "alternativas": [
+        { "id": "A", "texto": "1987, pela ISO" },
+        { "id": "B", "texto": "1947" },
+        { "id": "C", "texto": "2000, pelo governo federal" },
+        { "id": "D", "texto": "1931" },
+        { "id": "E", "texto": "1991, pela Fundação Nacional da Qualidade" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "PNQ criado em **1991** pela **Fundação Nacional da Qualidade (FNQ)**. Inspira-se no Malcolm Baldrige (EUA) e no Prêmio Deming (Japão).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-015",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "Prêmio Deming", "Malcolm Baldrige"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. O Prêmio Deming é o prêmio da qualidade de origem japonesa. PORQUE II. O Prêmio Malcolm Baldrige é o prêmio nacional da qualidade dos Estados Unidos.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "C", "texto": "I verdadeira, II falsa" },
+        { "id": "D", "texto": "I falsa, II verdadeira" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambas verdadeiras (Deming = Japão; Baldrige = EUA), mas tratam de **prêmios distintos em países distintos** — a II é uma informação adicional, não a *razão* pela qual a I é verdadeira. Por isso, não justifica.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-016",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["SIG", "Sistema Integrado de Gestão", "ISO"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "O Sistema Integrado de Gestão (SIG) integra as certificações:",
+      "alternativas": [
+        { "id": "A", "texto": "apenas a ISO 9001" },
+        { "id": "B", "texto": "PNQ, Deming e Baldrige" },
+        { "id": "C", "texto": "ISO 9000 e Seis Sigma" },
+        { "id": "D", "texto": "ISO 9000, ISO 14000 e OHSAS 18000" },
+        { "id": "E", "texto": "MASP, FMEA e FTA" }
+      ],
+      "respostaCorreta": "D",
+      "explicacao": "SIG = **ISO 9000 (qualidade) + ISO 14000 (meio ambiente) + OHSAS 18000 / ISO 45001 (saúde e segurança ocupacional)**. É a integração das três dimensões da gestão organizacional.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-017",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["garantia da qualidade", "prevenção"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A garantia da qualidade caracteriza-se por:",
+      "alternativas": [
+        { "id": "A", "texto": "atuar de forma preventiva, assegurando que os processos atendam aos requisitos" },
+        { "id": "B", "texto": "inspecionar apenas o produto final, ao término da linha de produção" },
+        { "id": "C", "texto": "corrigir os defeitos somente após a entrega do produto ao cliente" },
+        { "id": "D", "texto": "ser apenas outro nome para a etapa de inspeção do produto" },
+        { "id": "E", "texto": "ignorar a padronização e os procedimentos formais da empresa" }
+      ],
+      "respostaCorreta": "A",
+      "explicacao": "Garantia da qualidade = atuação **preventiva** sobre processos (definindo padrões, procedimentos, controles) para que o produto saia conforme. Inspeção (B) é o oposto: corretiva, no fim da linha.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-018",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["FTA", "árvore de falhas", "raciocínio dedutivo"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A Análise de Árvore de Falhas (FTA) caracteriza-se por:",
+      "alternativas": [
+        { "id": "A", "texto": "usar raciocínio indutivo, de baixo para cima (bottom-up), a partir das falhas" },
+        { "id": "B", "texto": "medir o grau de satisfação do cliente com o produto final" },
+        { "id": "C", "texto": "usar raciocínio dedutivo, de cima para baixo (top-down), partindo de um evento de topo" },
+        { "id": "D", "texto": "priorizar as causas de um problema pela sua frequência de ocorrência" },
+        { "id": "E", "texto": "ser uma ferramenta idêntica ao diagrama de Pareto em sua função" }
+      ],
+      "respostaCorreta": "C",
+      "explicacao": "**FTA = top-down, dedutivo**, partindo de um evento de topo (falha sistêmica) e desdobrando suas causas em ramos com portas lógicas (AND/OR). FMEA é o oposto: bottom-up, indutivo, partindo de cada modo de falha individual.",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-019",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["Era da Inspeção", "Taylor", "administração científica"],
+      "dificuldade": "media",
+      "tipo": "multipla",
+      "enunciado": "A Era da Inspeção da qualidade está associada a:",
+      "alternativas": [
+        { "id": "A", "texto": "Shewhart e ao controle estatístico" },
+        { "id": "B", "texto": "Deming e ao Japão" },
+        { "id": "C", "texto": "Crosby e ao conceito de \"zero defeito\"" },
+        { "id": "D", "texto": "à norma ISO 9000" },
+        { "id": "E", "texto": "Taylor e à administração científica" }
+      ],
+      "respostaCorreta": "E",
+      "explicacao": "Era da Inspeção (início do séc. XX) está ligada a **Taylor** e à administração científica, com foco na padronização do trabalho e inspeção do produto final. Shewhart inaugura a era seguinte (controle estatístico).",
+      "transversal": false
+    },
+    {
+      "id": "Q-EN-03-020",
+      "aulaOrigem": 3,
+      "blocos": ["EDP"],
+      "eixos": [],
+      "tags": ["asserção-razão", "estratificação", "ferramentas da qualidade"],
+      "dificuldade": "dificil",
+      "tipo": "multipla",
+      "enunciado": "(Asserção-razão) I. A estratificação consiste em dividir os dados em grupos (estratos) conforme sua origem. PORQUE II. Agrupar os dados por fonte ajuda a identificar padrões e causas de variação.",
+      "alternativas": [
+        { "id": "A", "texto": "I e II verdadeiras, mas a II não justifica a I" },
+        { "id": "B", "texto": "I e II verdadeiras, e a II justifica a I" },
+        { "id": "C", "texto": "I verdadeira, II falsa" },
+        { "id": "D", "texto": "I falsa, II verdadeira" },
+        { "id": "E", "texto": "ambas falsas" }
+      ],
+      "respostaCorreta": "B",
+      "explicacao": "Ambas verdadeiras e encadeadas. A I define a estratificação; a II explica **por que** se faz a estratificação (revelar padrões e causas de variação ocultos quando os dados estão agregados). A II é o propósito da I → justifica.",
+      "transversal": false
+    }
+  ]
+}

@@ -11,6 +11,7 @@ import {
   Star,
   BarChart3,
   Settings as SettingsIcon,
+  Sparkles,
 } from 'lucide-react';
 import { Card } from '../components/shared/Card';
 import { useTemaData } from '../data/temas';
@@ -67,6 +68,31 @@ export function HomePage() {
           <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">{descricao}</p>
         )}
       </header>
+
+      {tema.slug === 'edn' && (
+        <section className="mb-6">
+          <Link
+            to="/edn/revisao-gq"
+            className="group block rounded-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-accent-500"
+          >
+            <Card className="bg-gradient-to-br from-accent-50 to-pink-50 transition-colors group-hover:border-accent-500 dark:from-accent-950/30 dark:to-pink-950/20">
+              <div className="flex items-start gap-3">
+                <div className="rounded-lg bg-white/70 p-2 text-accent-600 dark:bg-slate-900/60 dark:text-accent-400">
+                  <Sparkles size={20} />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-base font-semibold text-slate-900 dark:text-slate-100">
+                    Revisão interativa — Gestão da Qualidade
+                  </h3>
+                  <p className="mt-0.5 text-sm text-slate-600 dark:text-slate-400">
+                    Flashcards, pegadinhas e quiz relâmpago. Foco no que cai na prova 15/06.
+                  </p>
+                </div>
+              </div>
+            </Card>
+          </Link>
+        </section>
+      )}
 
       <section className="mb-6">
         <h2 className="mb-3 text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">

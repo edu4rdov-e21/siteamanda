@@ -15,6 +15,9 @@ const StatsPage = lazy(() =>
 const SettingsPage = lazy(() =>
   import('./pages/SettingsPage').then((m) => ({ default: m.SettingsPage })),
 );
+const RevisaoGQPage = lazy(() =>
+  import('./pages/RevisaoGQPage').then((m) => ({ default: m.RevisaoGQPage })),
+);
 
 function PageLoading() {
   return (
@@ -32,6 +35,9 @@ export const router = createBrowserRouter([
   { path: '/login', element: <LoginPage /> },
   { path: '/', element: guard(<TemaSelectorPage />) },
   { path: '/settings', element: guard(wrap(<SettingsPage />)) },
+
+  // Revisão interativa de Gestão da Qualidade (Eduardo Nota Dez)
+  { path: '/edn/revisao-gq', element: guard(wrap(<RevisaoGQPage />)) },
 
   // Tema dinâmico (cirurgia, otorrino, futuros…)
   { path: '/:tema', element: guard(<HomePage />) },

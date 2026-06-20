@@ -7,6 +7,7 @@ import {
   BarChart3,
   Settings as SettingsIcon,
   Sparkles,
+  BrainCircuit,
 } from 'lucide-react';
 import { Card } from '../components/shared/Card';
 import { TEMAS, type Tema } from '../data/meta/temas';
@@ -106,8 +107,8 @@ export function TemaSelectorPage() {
         </Link>
       </section>
 
-      {/* Easter egg: jogo da Amanda */}
-      <div className="mt-8 text-center">
+      {/* Extras: jogo da Amanda + teste de QI */}
+      <div className="mt-8 flex flex-wrap items-center justify-center gap-2">
         <a
           href="/amanda-medicina/index.html"
           target="_blank"
@@ -116,6 +117,15 @@ export function TemaSelectorPage() {
         >
           <Sparkles size={12} />
           clique para uma surpresa
+        </a>
+        <a
+          href="/teste-qi/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-1.5 rounded-full border border-accent-200 bg-accent-50 px-3 py-1.5 text-xs font-medium text-accent-700 transition-colors hover:border-accent-400 hover:bg-accent-100 dark:border-accent-800 dark:bg-accent-950/30 dark:text-accent-300 dark:hover:bg-accent-950/60"
+        >
+          <BrainCircuit size={12} />
+          teste de QI
         </a>
       </div>
     </div>

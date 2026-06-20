@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Teste de QI — Autoavaliação Cognitiva</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="topbar">
+        <span class="brand">🧠 Perfil Cognitivo</span>
+        <span id="topRight"></span>
+      </div>
+      <div class="barra" id="barraWrap" style="display:none"><i id="barra" style="width:0%"></i></div>
+      <div id="tela"><!-- conteúdo injetado pelo app.js --></div>
+    </div>
+
+    <!-- sem fetch: banco como objeto JS, roda com duplo-clique -->
+    <script src="itens.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

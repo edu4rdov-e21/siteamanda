@@ -241,6 +241,44 @@ h3 { font-size: 15px; margin: 0 0 4px; }
 
 .muted-foot { text-align: center; font-size: 12px; color: var(--muted); margin-top: 26px; }
 
+/* ── revisão questão a questão (gabarito × suas respostas) ── */
+.rev-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+.rev-filtros { display: flex; gap: 6px; }
+.rev-fbtn {
+  padding: 6px 12px; border-radius: 999px; border: 1px solid var(--border);
+  background: transparent; color: var(--muted); font-size: 12px; font-weight: 600; cursor: pointer;
+}
+.rev-fbtn.ativo { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+.rev-sec { margin-bottom: 14px; }
+.rev-sec > h4 { margin: 0 0 8px; font-size: 13px; text-transform: uppercase; letter-spacing: 0.4px; color: var(--muted); }
+
+.rev-item {
+  border: 1px solid var(--border); border-radius: 12px; padding: 12px 14px; margin-bottom: 8px;
+  background: #fafdff;
+}
+.rev-item[data-ok="0"] { border-color: #fecaca; background: #fef2f2; }
+.rev-top { display: flex; align-items: flex-start; gap: 8px; }
+.rev-ic { flex: none; width: 20px; height: 20px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 700; color: #fff; }
+.rev-ic.ok { background: var(--ok); }
+.rev-ic.err { background: var(--err); }
+.rev-enun { font-size: 14px; line-height: 1.4; color: var(--text); }
+
+.rev-cmp { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 10px; }
+.rev-col { border-radius: 10px; padding: 8px 10px; background: var(--card); border: 1px solid var(--border); }
+.rev-col .rev-lbl { display: block; font-size: 10px; text-transform: uppercase; letter-spacing: 0.4px; color: var(--muted); margin-bottom: 3px; }
+.rev-txt { font-size: 14px; font-weight: 600; color: var(--text); }
+.rev-txt.mono { font-family: ui-monospace, Menlo, monospace; letter-spacing: 1px; }
+.rev-svg-mini { display: inline-block; }
+.rev-svg-mini svg { width: 64px; height: auto; border-radius: 6px; }
+.rev-extra { font-size: 12px; color: var(--muted); margin-top: 8px; }
+.rev-extra .mono { font-family: ui-monospace, Menlo, monospace; letter-spacing: 1px; color: var(--text); }
+
+/* filtro: só erradas (esconde itens corretos e seções sem erradas) */
+.revisao[data-filtro="erradas"] .rev-item[data-ok="1"] { display: none; }
+.revisao[data-filtro="erradas"] .rev-sec:not(:has(.rev-item[data-ok="0"])) { display: none; }
+.rev-vazio { text-align: center; font-size: 14px; color: var(--ok); font-weight: 600; padding: 8px 0; }
+
 /* dark mode automático (acompanha sistema) */
 @media (prefers-color-scheme: dark) {
   :root {
@@ -252,6 +290,9 @@ h3 { font-size: 15px; margin: 0 0 4px; }
   .alt:hover, .btn.ghost:hover { background: #334155; }
   .secao-row { background: #18233a; }
   .vel-token { background: #0f172a; }
+  .rev-item { background: #18233a; }
+  .rev-item[data-ok="0"] { border-color: #7f1d1d; background: #2a1416; }
+  .rev-col { background: #0f172a; }
   .aviso { background: #422006; border-color: #854d0e; color: #fde68a; }
   .aviso strong { color: #fef3c7; }
   .fig svg rect[fill="white"], .alt-svg svg rect[fill="white"], .seq-cell { }

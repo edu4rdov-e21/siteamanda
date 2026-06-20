@@ -611,6 +611,85 @@
     return s + '</svg>';
   }
 
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  }
+
+  // resposta correta de um item, em forma exibível
+  function gabaritoItem(it) {
+    if (it.tipo === 'numerica') return escapeHtml(it.aceitas[0]);
+    if (it.tipo === 'memoria') return escapeHtml((st.memData[it.id] || {}).esperado || '?');
+    const visual = typeof it.alternativas[0] === 'object';
+    if (visual) {
+      const i = it.alternativas.findIndex((a) => a.correta);
+      return `opção ${i + 1}`;
+    }
+    return escapeHtml(it.gabarito);
+  }
+
+  // linha de revisão de um item (enunciado + sua resposta × correta)
+  function revisaoItemHTML(it) {
+    const r = st.respostas[it.id];
+    const ok = !!(r && r.correto);
+    const dado = r ? r.dado : null;
+    let suaHtml, corretaHtml, extra = '';
+
+    if (it.tipo === 'numerica') {
+      suaHtml = `<span class="rev-txt">${dado ? escapeHtml(dado) : '(em branco)'}</span>`;
+      corretaHtml = `<span class="rev-txt">${escapeHtml(it.aceitas[0])}</span>`;
+    } else if (it.tipo === 'memoria') {
+      const md = st.memData[it.id] || {};
+      suaHtml = `<span class="rev-txt mono">${dado ? escapeHtml(dado) : '(em branco)'}</span>`;
+      corretaHtml = `<span class="rev-txt mono">${escapeHtml(md.esperado || '?')}</span>`;
+      if (md.mostrar) extra = `<div class="rev-extra">Sequência mostrada: <b class="mono">${escapeHtml(md.mostrar.join(' '))}</b></div>`;
+    } else {
+      const visual = typeof it.alternativas[0] === 'object';
+      if (visual) {
+        const sua = dado != null && it.alternativas[dado] ? `<span class="rev-svg-mini">${it.alternativas[dado].svg}</span>` : '<span class="rev-txt">(não respondida)</span>';
+        const ci = it.alternativas.findIndex((a) => a.correta);
+        suaHtml = sua;
+        corretaHtml = `<span class="rev-svg-mini">${it.alternativas[ci].svg}</span>`;
+      } else {
+        suaHtml = `<span class="rev-txt">${dado != null ? escapeHtml(dado) : '(não respondida)'}</span>`;
+        corretaHtml = `<span class="rev-txt">${escapeHtml(it.gabarito)}</span>`;
+      }
+    }
+
+    const dica = !ok && it.dica ? `<div class="rev-extra">💡 Regra: ${escapeHtml(it.dica)}</div>` : '';
+
+    return `
+      <div class="rev-item" data-ok="${ok ? 1 : 0}">
+        <div class="rev-top">
+          <span class="rev-ic ${ok ? 'ok' : 'err'}">${ok ? '✓' : '✕'}</span>
+          <span class="rev-enun">${escapeHtml(it.enunciado)}</span>
+        </div>
+        ${extra}
+        <div class="rev-cmp">
+          <div class="rev-col"><span class="rev-lbl">Sua resposta</span>${suaHtml}</div>
+          <div class="rev-col"><span class="rev-lbl">Resposta certa</span>${corretaHtml}</div>
+        </div>
+        ${dica}
+      </div>`;
+  }
+
+  // revisão agrupada por seção; retorna html + contagem de erradas
+  function revisaoHTML() {
+    let erradas = 0;
+    const html = SECOES.map((sec) => {
+      if (sec.id === 'velocidade') {
+        const r = st.respostas['S1'] || {};
+        return `<div class="rev-sec"><h4>${sec.nome}</h4><p class="rev-extra">Bloco cronometrado: <b>${r.dado || 0}</b> acertos em <b>${r.total || 0}</b> respostas (sem gabarito por item).</p></div>`;
+      }
+      const itens = sec.itens.map((it) => {
+        const r = st.respostas[it.id];
+        if (!(r && r.correto)) erradas++;
+        return revisaoItemHTML(it);
+      }).join('');
+      return `<div class="rev-sec"><h4>${sec.nome}</h4>${itens}</div>`;
+    }).join('');
+    return { html, erradas };
+  }
+
   function telaResultado() {
     st.fase = 'resultado';
     pararTimer();
@@ -639,6 +718,8 @@
       </div>
     `).join('');
 
+    const rev = revisaoHTML();
+
     render(`
       <div class="card">
         <h2 style="text-align:center">Seu perfil cognitivo</h2>
@@ -663,6 +744,18 @@
       </div>
 
       <div class="card">
+        <div class="rev-head">
+          <h3 style="margin:0">Revisão das respostas</h3>
+          <div class="rev-filtros">
+            <button class="rev-fbtn ativo" data-f="erradas">Só as que errei (${rev.erradas})</button>
+            <button class="rev-fbtn" data-f="todas">Todas</button>
+          </div>
+        </div>
+        <p class="rev-vazio" id="revVazio" style="display:${rev.erradas === 0 ? 'block' : 'none'}">🎉 Você acertou todas! Veja "Todas" para revisar.</p>
+        <div class="revisao" data-filtro="erradas" id="revisao">${rev.html}</div>
+      </div>
+
+      <div class="card">
         <div class="aviso" style="margin:0">
           Este teste é uma ferramenta de <strong>autoavaliação e treino</strong>, para uso pessoal. Não é clínico, não dá diagnóstico, e a pontuação não equivale a um QI medido profissionalmente. Leia o número como estimativa aproximada e dê mais atenção ao seu <strong>perfil entre os domínios</strong> do que ao valor absoluto.
         </div>
@@ -684,7 +777,35 @@
       dominios: doms.map((x) => ({ id: x.d.id, nome: x.d.nome, pct: Math.round(x.pct * 10) / 10 })),
       tempoTotalSeg: Math.round(tempoTotal),
       temposSecao: st.temposSecao,
+      // gabarito × respostas (pra revisar fora do app)
+      respostas: ITENS.filter((it) => it.dominio !== 'velocidade').map((it) => {
+        const r = st.respostas[it.id] || {};
+        const visual = it.alternativas && typeof it.alternativas[0] === 'object';
+        const sua = visual && r.dado != null ? `opção ${r.dado + 1}` : (r.dado ?? null);
+        return {
+          id: it.id,
+          dominio: it.dominio,
+          enunciado: it.enunciado,
+          sua,
+          correta: visual ? `opção ${it.alternativas.findIndex((a) => a.correta) + 1}` :
+            it.tipo === 'numerica' ? it.aceitas[0] :
+            it.tipo === 'memoria' ? (st.memData[it.id] || {}).esperado : it.gabarito,
+          acertou: !!r.correto,
+        };
+      }),
     };
+
+    // filtro da revisão (só erradas × todas)
+    const revisaoEl = document.getElementById('revisao');
+    const revVazioEl = document.getElementById('revVazio');
+    document.querySelectorAll('.rev-fbtn').forEach((b) => {
+      b.onclick = () => {
+        const f = b.getAttribute('data-f');
+        revisaoEl.setAttribute('data-filtro', f);
+        document.querySelectorAll('.rev-fbtn').forEach((x) => x.classList.toggle('ativo', x === b));
+        revVazioEl.style.display = f === 'erradas' && rev.erradas === 0 ? 'block' : 'none';
+      };
+    });
 
     document.getElementById('btnRefazer').onclick = () => { novoEstado(); telaIntro(); };
     document.getElementById('btnSalvar').onclick = () => {
